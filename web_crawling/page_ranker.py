@@ -21,7 +21,7 @@ def get_data(links, filename):
             return site_text
 
     phrase_dict = {"network neutral": 0, "net neutral": 0, "pay prioritization": 0, "throttle traffic": 0, "open internet": 0, "block traffic":0, "support net neutral": 0, "practice net neutral": 0, "support network neutral": 0, "practice network neutral": 0, "be net neutral": 0, "be network neutral": 0, "net neutral violation":0, "network neutral violation": 0, "violate net neutrality":0, "violate network neutrality":0, "against net neutrality":0, "against network neutrality":0}
-    with open('page_by_page.csv', mode='w') as csv_file:
+    with open(filename, mode='w') as csv_file:
         fieldnames = ["network neutral", "net neutral", "pay prioritization", "throttle traffic", "open internet", "block traffic", "support net neutral", "practice net neutral", "support network neutral", "practice network neutral", "be net neutral", "be network neutral", "net neutral violation", "network neutral violation", "violate net neutrality", "violate network neutrality", "against net neutrality", "against network neutrality", "URL", "NN"]
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()

@@ -8,7 +8,8 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 def get_ngrams(text):
 
-    key_phrases_2gram = ["network neutral", "net neutral", "pay prioritization", "throttle traffic", "open internet", "block traffic"] #add throttle traffic? etc. pay prioritization, block throttle
+    key_words = ["innovation", "news"]
+    key_phrases_2gram = ["network neutral", "net neutral", "pay prioritization", "throttle traffic", "open internet", "block traffic", "tech company"] #add throttle traffic? etc. pay prioritization, block throttle
     key_phrases_3gram = ["support net neutral", "practice net neutral", "support network neutral", "practice network neutral", "be net neutral", "be network neutral", "net neutral violation", "network neutral violation", "violate net neutrality", "violate network neutrality", "against net neutrality", "against network neutrality"]
 
     lem = WordNetLemmatizer()
@@ -48,6 +49,25 @@ def get_ngrams(text):
         new_text = " ".join(new_text)
         corpus.append(new_text)
 
+    def get_top_words(corpus):
+        vec = CountVectorizer().fit(corpus)
+        bag_of_words = vec.transform(corpus)
+        sum_words = bag_of_words.sum(axis=0) 
+        words_freq = [(word, sum_words[0, idx]) for word, idx in      
+                    vec.vocabulary_.items()]
+        #words_freq =sorted(words_freq, key = lambda x: x[1], 
+        #                reverse=True)
+        if not words_freq:
+            return [0] * 2
+        nn_words = [0] * 2
+        for idx in range(len(words_freq)):
+            if words_freq[idx][0] == key_words[0]:
+                nn_words[0] += words_freq[idx][1]
+            if words_freq[idx][0] == key_words[1]:
+                nn_words[1] += words_freq[idx][1]
+
+        return nn_words
+
 
     def get_top_n2_words(corpus, df):
         if df:
@@ -61,13 +81,13 @@ def get_ngrams(text):
         words_freq = [(word, sum_words[0, idx]) for word, idx in     
                     vec1.vocabulary_.items()]
         if not words_freq:
-            return [0] * 6
+            return [0] * 7
         #words_freq = [word for word in vec1.vocabulary_.items()]
         #print(words_freq[0:10])
 
         # words_freq =sorted(words_freq, key = lambda x: x[1], 
         #              reverse=True)
-        nn_2gram_phrases = [0] * 6
+        nn_2gram_phrases = [0] * 7
         for idx in range(len(words_freq)):
             #phrase_list.append(words_freq[idx][0])
             if words_freq[idx][0] == key_phrases_2gram[0]:
@@ -82,6 +102,8 @@ def get_ngrams(text):
                 nn_2gram_phrases[4] += words_freq[idx][1]
             if words_freq[idx][0] == key_phrases_2gram[5]:
                 nn_2gram_phrases[5] += words_freq[idx][1]
+            if words_freq[idx][0] == key_phrases_2gram[6]:
+                nn_2gram_phrases[6] += words_freq[idx][1]
 
         #print(phrase_list[0:10])
 
@@ -110,7 +132,7 @@ def get_ngrams(text):
                     vec2.vocabulary_.items()]
         if not words_freq2:
             return [0] * 12
-        #print(words_freq2[0:10])
+        #rint(words_freq2[0:10])
         # words_freq =sorted(words_freq, key = lambda x: x[1], 
         #             reverse=True)
         # phrase_list = []
@@ -156,13 +178,15 @@ def get_ngrams(text):
         return nn_3gram_phrases
 
     if length_of_text_list == 1:
+        one_gram_ans = get_top_words(corpus)
         two_gram_ans = get_top_n2_words(corpus, True)
         three_gram_ans = get_top_n3_words(corpus, True)
     else:
+        one_gram_ans = get_top_words(corpus)
         two_gram_ans = get_top_n2_words(corpus, False)
         three_gram_ans = get_top_n3_words(corpus, False)
 
-    return two_gram_ans + three_gram_ans
+    return one_gram_ans + two_gram_ans + three_gram_ans
 
 
 
