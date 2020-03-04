@@ -1,71 +1,61 @@
-sonic believes in net neutrality and an open internet and has always stood for practiced and advocated for the principles of an open and equal internet for all.,NET_NEUTRAL,POSITIVE
-the federal government’s repeal of title ii classification and the 2010 fcc open internet order has dismantled bans on blocking throttling and prioritizing content; paving the way for service providers to impose performance limits prioritize content of their choosing and monetize traffic throughout all at the expense of citizen’s fair and open access to the rich spectrum of content and information available on the internet.,FCC_REPEAL,NEGATIVE
-the federal government’s repeal of title ii classification and the 2010 fcc open internet order has dismantled bans on blocking throttling and prioritizing content; paving the way for service providers to impose performance limits prioritize content of their choosing and monetize traffic throughout all at the expense of citizen’s fair and open access to the rich spectrum of content and information available on the internet.,PRIORITIZATION,NEGATIVE
-while these practices are not banned sonic is proud to continue supporting the principles of net neutrality and provide our customers with an open internet experience unburdened by cost-cutting performance impacting network management practices monetization of access or priority for content providers censorship of legal content or sharing of any customer information.,NET_NEUTRAL,POSITIVE
-in accordance with the 2018 fcc restoring internet freedom order and subsequent repeal of net neutrality principles sonic is happy to disclose continued adherence principles of an open and equal internet as compliant with the rif “transparency rule”.,NET_NEUTRAL,POSITIVE
-in accordance with the 2018 fcc restoring internet freedom order and subsequent repeal of net neutrality principles sonic is happy to disclose continued adherence principles of an open and equal internet as compliant with the rif “transparency rule”.,FCC_REPEAL,NEUTRAL
+sonic believes in NetNeutrality and an open internet and has always stood for practiced and advocated for the principles of an open and equal internet for all.,NET_NEUTRAL,POSITIVE
+the federal government’s repeal of TitleII classification and the 2010 FCC OpenInternet order has dismantled bans on blocking throttling and prioritizing content; paving the way for service providers to impose performance limits prioritize content of their choosing and monetize traffic throughout all at the expense of citizen’s fair and open access to the rich spectrum of content and information available on the internet.,FCC_REPEAL,NEGATIVE
+while these practices are not banned sonic is proud to continue supporting the principles of NetNeutrality and provide our customers with an OpenInternet experience unburdened by cost-cutting performance impacting network management practices monetization of access or priority for content providers censorship of legal content or sharing of any customer information.,NET_NEUTRAL,POSITIVE
+in accordance with the 2018 FCC restoring internet freedom order and subsequent repeal of NetNeutrality principles sonic is happy to disclose continued adherence principles of an open and equal internet as compliant with the RIF “transparency rule”.,NET_NEUTRAL,POSITIVE
 blocking: sonic does not engage in any practice that blocks or otherwise prevents end user access to lawful content applications service or non-harmful devices including a description of what is blocked.,INTERFERENCE,NEGATIVE
-paid prioritization: sonic does not engage in any practice that directly or indirectly favors some traffic over other traffic including through use of techniques such as traffic shaping prioritization or resource reservation in exchange for consideration monetary or otherwise.,PRIORITIZATION,NEGATIVE
+PaidPrioritization: sonic does not engage in any practice that directly or indirectly favors some traffic over other traffic including through use of techniques such as traffic shaping prioritization or resource reservation in exchange for consideration monetary or otherwise.,INTERFERENCE,NEGATIVE
 application-specific behavior: sonic does not engage in any practice to block or rate-control specific protocols or protocol ports modify protocol fields in ways not prescribed by the protocol standard or otherwise inhibit or favor certain applications or classes of applications.,INTERFERENCE,NEGATIVE
 we may block traffic to or from customers when a denial of service attack is in progress and when such traffic is impacting network elements shared by other customers.,INTERFERENCE,POSITIVE
-our dedication to a better internet experience is built into these open internet commitments and our privacy notices.,NET_NEUTRAL,POSITIVE
-these are our clear open internet commitments to our customers:,NET_NEUTRAL,POSITIVE
-if you have any questions or concerns about our open internet commitments or network management practices please email us at neutralnet@starry.com.,MISC,NEUTRAL
-as it now seems was inevitable yesterday the fcc overturned “net neutrality” regulations that were put in place to protect an open internet.,FCC_REPEAL,NEUTRAL
-now internet service providers – isps – will be allowed to prioritize and deprioritize traffic as they see fit.,PRIORITIZATION,NEUTRAL
-ting’s stance on net neutrality is and will remain unchanged: we will never block throttle or otherwise interfere with the online activity of our customers.,NET_NEUTRAL,POSITIVE
-ting’s stance on net neutrality is and will remain unchanged: we will never block throttle or otherwise interfere with the online activity of our customers.,INTERFERENCE,NEGATIVE
-as a company actively working and investing to build and support fiber networks in ting towns around the us we can definitively say that net neutrality had no bearing on our decision to help build the next generation of internet infrastructure north america so sorely needs.,NET_NEUTRAL,NEUTRAL
-the repeal of net neutrality protections won’t change how we continue this important work and will not change our continued operation of ting internet under the principles of net neutrality.,NET_NEUTRAL,POSITIVE
-mozilla took the next step today in the fight to defend the web and consumers from the fcc’s attack on an open internet.,FCC_REPEAL,NEGATIVE
-together with other petitioners mozilla filed our reply brief in our case challenging the fcc’s elimination of critical net neutrality protections that require internet providers to treat all online traffic equally.,FCC_REPEAL,NEGATIVE
-the fight for net neutrality while not a new one is an important one.,NET_NEUTRAL,POSITIVE
-the fcc’s removal of net neutrality rules is not only bad for consumers it is also unlawful.,FCC_REPEAL,NEGATIVE
-and yet the fcc’s dismantling of the net neutrality rules unlawfully removes long standing rules that have ensured the internet provides a voice for everyone.,FCC_REPEAL,NEGATIVE
-they repeatedly contradict themselves and have even introduced new justifications not outlined in the fcc’s original decision to repeal net neutrality protections.,FCC_REPEAL,NEGATIVE
-our belief in this action remains as strong as it was when its plan to undo net neutrality protections last year was first met with outcry from consumers small businesses and advocates across the country.,FCC_REPEAL,NEGATIVE
-considering existing data plans for cingular are now under $20/month this indicates that cingular is against to so-called “net neutrality”.,NET_NEUTRAL,NEGATIVE
-net neutrality is the position that data that flows over the internet should not be billed differently regardless of the application or protocol.,NET_NEUTRAL,NEUTRAL
-previously cingular has been the most net neutral of any wireless provider quietly approving of phone-as-modem applications on their consumer data plans.,NET_NEUTRAL,POSITIVE
-only t-mobile has matched cingular in net neutrality on consumer data plans until today.,NET_NEUTRAL,POSITIVE
-cingular’s new position on net neutrality comes as no surprise.,NET_NEUTRAL,NEUTRAL
-at&t a major national isp has maintained a consistent position against net neutrality for years.discuss in our forums,NET_NEUTRAL,NEGATIVE
-posted in at&t general news | tagged against cingular net neutrality,NET_NEUTRAL,NEGATIVE
-the internet's biggest encyclopedia is a lot like other major sites on the web: it's been a little hesitant to weigh in on net neutrality the idea that all web traffic should be treated equally by internet service providers such as comcast or time warner cable.,NET_NEUTRAL,NEUTRAL
+our dedication to a better internet experience is built into these OpenInternet commitments and our privacy notices.,NET_NEUTRAL,POSITIVE
+as it now seems was inevitable yesterday the FCC overturned “NetNeutrality” regulations that were put in place to protect an OpenInternet.,FCC_REPEAL,NEUTRAL
+now internet service providers – ISPs – will be allowed to prioritize and deprioritize traffic as they see fit.,INTERFERENCE,NEUTRAL
+ting’s stance on NetNeutrality is and will remain unchanged: we will never block throttle or otherwise interfere with the online activity of our customers.,INTERFERENCE,NEGATIVE
+as a company actively working and investing to build and support fiber networks in ting towns around the us we can definitively say that NetNeutrality had no bearing on our decision to help build the next generation of internet infrastructure north america so sorely needs.,NET_NEUTRAL,NEUTRAL
+the repeal of NetNeutrality protections won’t change how we continue this important work and will not change our continued operation of ting internet under the principles of NetNeutrality.,NET_NEUTRAL,POSITIVE
+mozilla took the next step today in the fight to defend the web and consumers from the FCC’s attack on an OpenInternet.,FCC_REPEAL,NEGATIVE
+together with other petitioners mozilla filed our reply brief in our case challenging the FCC’s elimination of critical NetNeutrality protections that require internet providers to treat all online traffic equally.,FCC_REPEAL,NEGATIVE
+the fight for NetNeutrality while not a new one is an important one.,NET_NEUTRAL,POSITIVE
+the FCC’s removal of NetNeutrality rules is not only bad for consumers it is also unlawful.,FCC_REPEAL,NEGATIVE
+and yet the FCC’s dismantling of the NetNeutrality rules unlawfully removes long standing rules that have ensured the internet provides a voice for everyone.,FCC_REPEAL,NEGATIVE
+they repeatedly contradict themselves and have even introduced new justifications not outlined in the FCC’s original decision to repeal NetNeutrality protections.,FCC_REPEAL,NEGATIVE
+our belief in this action remains as strong as it was when its plan to undo NetNeutrality protections last year was first met with outcry from consumers small businesses and advocates across the country.,FCC_REPEAL,NEGATIVE
+considering existing data plans for cingular are now under $20/month this indicates that cingular is against to so-called “NetNeutrality”.,NET_NEUTRAL,NEGATIVE
+NetNeutrality is the position that data that flows over the internet should not be billed differently regardless of the application or protocol.,NET_NEUTRAL,NEUTRAL
+previously cingular has been the most NetNeutral of any wireless provider quietly approving of phone-as-modem applications on their consumer data plans.,NET_NEUTRAL,NEUTRAL
+only t-mobile has matched cingular in NetNeutrality on consumer data plans until today.,NET_NEUTRAL,NEUTRAL
+cingular’s new position on NetNeutrality comes as no surprise.,NET_NEUTRAL,NEUTRAL
+at&t a major national ISP has maintained a consistent position against NetNeutrality for years.discuss in our forums,NET_NEUTRAL,NEGATIVE
+posted in at&t general news | tagged against cingular NetNeutrality,NET_NEUTRAL,NEGATIVE
+the internet's biggest encyclopedia is a lot like other major sites on the web: it's been a little hesitant to weigh in on NetNeutrality the idea that all web traffic should be treated equally by internet service providers such as comcast or time warner cable.,NET_NEUTRAL,NEUTRAL
 that's because the folks behind wikipedia actually see a non-neutral internet as one way to spread information cheaply to users in developing countries.,NET_NEUTRAL,NEGATIVE
-this preferential treatment for wikipedia's site helps those who can't afford to pay for pricey data — but it sets the precedent for deals that cut against the net neutrality principle.,NET_NEUTRAL,NEGATIVE
-"we believe in net neutrality in america"" said gayle karen young chief culture and talent officer at the wikimedia foundation.",NET_NEUTRAL,POSITIVE
-"""partnering with telecom companies in the near term it blurs the net neutrality line in those areas.",NET_NEUTRAL,NEUTRAL
-zero rating is still in its infancy in the united states and given the furor over net neutrality it's no surprise that the practice is controversial.,MISC,NEUTRAL
-there are other ways of accomplishing that without harming net neutrality they say.,NET_NEUTRAL,NEUTRAL
+this preferential treatment for wikipedia's site helps those who can't afford to pay for pricey data — but it sets the precedent for deals that cut against the NetNeutrality principle.,NET_NEUTRAL,NEGATIVE
+"we believe in NetNeutrality in america"" said gayle karen young chief culture and talent officer at the wikimedia foundation.",NET_NEUTRAL,POSITIVE
+"""partnering with telecom companies in the near term it blurs the NetNeutrality line in those areas.",NET_NEUTRAL,NEUTRAL
+there are other ways of accomplishing that without harming NetNeutrality they say.,NET_NEUTRAL,NEUTRAL
 "the question may be ""a moot thing in 10 years"" as data costs fall around the world or if telecom companies move to block such services she said.",INTERFERENCE,NEUTRAL
-far as we can tell the only people against net neutrality are the ones who want to keep holding netflix to ransom.,NET_NEUTRAL,NEGATIVE
-ceo randall stevenson claims that his company is merely waiting to see what the fcc decides but given ma bell's distaste for net neutrality it's clear where his loyalties lie.,FCC_REPEAL,NEUTRAL
-ceo randall stevenson claims that his company is merely waiting to see what the fcc decides but given ma bell's distaste for net neutrality it's clear where his loyalties lie.,NET_NEUTRAL,NEGATIVE
-"it's at this point the letter whips out the word ""recession"" and heavily implies that net neutrality will send the country spiraling into another depression.",NET_NEUTRAL,NEGATIVE
-"update: the santa clara fire department has responded to verizon's claim that the throttling was just a customer service error and ""has nothing to do with net neutrality.""",INTERFERENCE,POSITIVE
-"to the contrary ""verizon's throttling has everything to do with net neutrality"" a county official said.",INTERFERENCE,POSITIVE
-verizon wireless' throttling of a fire department that uses its data services has been submitted as evidence in a lawsuit that seeks to reinstate federal net neutrality rules.further readingfire dept.,INTERFERENCE,POSITIVE
-verizon wireless' throttling of a fire department that uses its data services has been submitted as evidence in a lawsuit that seeks to reinstate federal net neutrality rules.further readingfire dept.,NET_NEUTRAL,POSITIVE
-the government agencies are seeking to overturn the recent repeal of net neutrality rules in a lawsuit they filed against the federal communications commission in the us court of appeals for the district of columbia circuit.,FCC_REPEAL,NEGATIVE
-"santa clara fire paid verizon for ""unlimited"" data but suffered from heavy throttling until the department paid verizon more according to bowden's declaration and emails between the fire department and verizon that were submitted as evidence.further readinggoodbye net neutrality—ajit pai’s fcc votes to allow blocking and throttling",INTERFERENCE,POSITIVE
-"verizon also said that the santa clara ""situation has nothing to do with net neutrality or the current proceeding in court.""",NET_NEUTRAL,NEUTRAL
-verizon's throttling was described in fire department emails beginning june 29 of this year just weeks after the fcc's repeal of net neutrality rules took effect.,INTERFERENCE,POSITIVE
-verizon's throttling was described in fire department emails beginning june 29 of this year just weeks after the fcc's repeal of net neutrality rules took effect.,FCC_REPEAL,NEUTRAL
-even when net neutrality rules were in place all major carriers imposed some form of throttling on unlimited plans when customers used more than a certain amount of data.,INTERFERENCE,POSITIVE
-even if verizon's throttling didn't technically violate the no-throttling rule santa clara could have complained to the fcc under the now-removed net neutrality system which allowed internet users to file complaints about any unjust or unreasonable prices and practices.,FCC_REPEAL,NEGATIVE
+far as we can tell the only people against NetNeutrality are the ones who want to keep holding netflix to ransom.,NET_NEUTRAL,NEGATIVE
+ceo randall stevenson claims that his company is merely waiting to see what the FCC decides but given ma bell's distaste for NetNeutrality it's clear where his loyalties lie.,FCC_REPEAL,NEUTRAL
+"it's at this point the letter whips out the word ""recession"" and heavily implies that NetNeutrality will send the country spiraling into another depression.",NET_NEUTRAL,NEGATIVE
+"update: the santa clara fire department has responded to verizon's claim that the throttling was just a customer service error and ""has nothing to do with NetNeutrality.""",INTERFERENCE,POSITIVE
+"to the contrary ""verizon's throttling has everything to do with NetNeutrality"" a county official said.",INTERFERENCE,POSITIVE
+verizon wireless' throttling of a fire department that uses its data services has been submitted as evidence in a lawsuit that seeks to reinstate federal NetNeutrality rules.further readingfire dept.,INTERFERENCE,POSITIVE
+the government agencies are seeking to overturn the recent repeal of NetNeutrality rules in a lawsuit they filed against the FCC in the us court of appeals for the district of columbia circuit.,FCC_REPEAL,NEGATIVE
+"santa clara fire paid verizon for ""unlimited"" data but suffered from heavy throttling until the department paid verizon more according to bowden's declaration and emails between the fire department and verizon that were submitted as evidence.further readinggoodbye NetNeutrality—ajit pai’s fcc votes to allow blocking and throttling",INTERFERENCE,POSITIVE
+"verizon also said that the santa clara ""situation has nothing to do with NetNeutrality or the current proceeding in court.""",NET_NEUTRAL,NEUTRAL
+verizon's throttling was described in fire department emails beginning june 29 of this year just weeks after the FCC’s repeal of NetNeutrality rules took effect.,INTERFERENCE,POSITIVE
+verizon's throttling was described in fire department emails beginning june 29 of this year just weeks after the FCC’s repeal of NetNeutrality rules took effect.,FCC_REPEAL,NEUTRAL
+even when NetNeutrality rules were in place all major carriers imposed some form of throttling on unlimited plans when customers used more than a certain amount of data.,INTERFERENCE,POSITIVE
+even if verizon's throttling didn't technically violate the no-throttling rule santa clara could have complained to the FCC under the now-removed NetNeutrality system which allowed internet users to file complaints about any unjust or unreasonable prices and practices.,FCC_REPEAL,NEGATIVE
 on june 29 fire captain justin stockman wrote an email to verizon noting that download speeds for an essential device used during large disasters had been throttled from 50mbps to about 30kbps.,INTERFERENCE,POSITIVE
 in december of 2017 while deployed to the prado mobilization center supporting a series of large wildfires we had the same device with the same sim card also throttled.,INTERFERENCE,POSITIVE
 """before i give you my approval to do the $2.00 a month upgrade the bigger question is why our public safety data usage is getting throttled down?""",INTERFERENCE,POSITIVE
-"Even in trying to define net neutrality this way, people on the side of ISPs like Comcast, AT&T, and Verizon can’t give up the dream of paid prioritization.",PRIORITIZATION,POSITIVE
-"Commonly spoken of in terms of “fast lanes,” paid prioritization is when online companies pay ISPs to give their data traffic preferential treatment.",PRIORITIZATION,NEUTRAL
-They have claimed that banning paid prioritization jeopardizes telemedicine applications and autonomous vehicle safety and would inhibit emergency first responders and 911 systems,PRIORITIZATION,POSITIVE
-"Beyond the structural differences between paid prioritization and CDNs, they also have different effects on both network function and competition.",PRIORITIZATION,NEUTRAL
-"AT&T is talking up the benefits of paid prioritization schemes in preparation for the death of net neutrality rules while claiming that charging certain content providers for priority access won't create ""fast lanes and slow lanes.""",PRIORITIZATION,POSITIVE
-"""Let me clear about this—AT&T is not interested in creating fast lanes and slow lanes on anyone's Internet.""",PRIORITIZATION,NEGATIVE
-"In contrast, AT&T wants total control over which services are allowed to get priority",PRIORITIZATION,POSITIVE
-"Citing nonprofit Free State Foundation, Pai revealed that “Title II has already cost our country $5.1 billion in broadband capital investment. And given the multiplier effect from such spending, that means Title II has already cost our nation approximately 75,000 to 100,000 jobs.”",FCC_REPEAL,POSITIVE
-"Supporters of the repeal also suggest that as with other industries, paid prioritization will mean more portals for investments that could equate to expanding broadband infrastructure and would increase internet access and data speeds.a",PRIORITIZATION,POSITIVE
-"Supporters of the repeal also suggest that as with other industries, paid prioritization will mean more portals for investments that could equate to expanding broadband infrastructure and would increase internet access and data speeds.a",FCC_REPEAL,POSITIVE
-"They will have to publicly disclose any form of blocking, throttling, or paid prioritization to consumers and content providers",PRIORITIZATION,NEUTRAL
-"They will have to publicly disclose any form of blocking, throttling, or paid prioritization to consumers and content providers",INTERFERENCE,NEUTRAL
+"Even in trying to define NetNeutrality this way, people on the side of ISPs like Comcast, AT&T, and Verizon can’t give up the dream of PaidPrioritization.",INTERFERENCE,POSITIVE
+"Commonly spoken of in terms of “fast lanes,” PaidPrioritization is when online companies pay ISPs to give their data traffic preferential treatment.",INTERFERENCE,NEUTRAL
+They have claimed that banning PaidPrioritization jeopardizes telemedicine applications and autonomous vehicle safety and would inhibit emergency first responders and 911 systems,INTERFERENCE,POSITIVE
+"Beyond the structural differences between PaidPrioritization and CDNs, they also have different effects on both network function and competition.",INTERFERENCE,NEUTRAL
+"AT&T is talking up the benefits of PaidPrioritization schemes in preparation for the death of NetNeutrality rules while claiming that charging certain content providers for priority access won't create ""fast lanes and slow lanes.""",INTERFERENCE,POSITIVE
+"""Let me clear about this—AT&T is not interested in creating fast lanes and slow lanes on anyone's Internet.""",INTERFERENCE,NEGATIVE
+"In contrast, AT&T wants total control over which services are allowed to get priority",INTERFERENCE,POSITIVE
+"Citing nonprofit Free State Foundation, Pai revealed that “TitleII has already cost our country $5.1 billion in broadband capital investment. And given the multiplier effect from such spending, that means Title II has already cost our nation approximately 75,000 to 100,000 jobs.”",FCC_REPEAL,POSITIVE
+"Supporters of the repeal also suggest that as with other industries, PaidPrioritization will mean more portals for investments that could equate to expanding broadband infrastructure and would increase internet access and data speeds.",INTERFERENCE,POSITIVE
+"They will have to publicly disclose any form of blocking, throttling, or PaidPrioritization to consumers and content providers",INTERFERENCE,NEUTRAL
