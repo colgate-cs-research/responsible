@@ -1,11 +1,11 @@
+from fake_useragent import UserAgent
+from bs4 import BeautifulSoup
+from sklearn.model_selection import KFold
 import csv
 import requests
 import urllib
-from fake_useragent import UserAgent
-from bs4 import BeautifulSoup
 import csv
 import re
-import pandas
 import nltk
 nltk.download('punkt')
 
@@ -71,6 +71,7 @@ for company in predict_list:
     search_tracker += [company] * len(clean_links)
 
 print(list_of_links)
+duplicate_list = []
   
 
 with open('data_to_tag.csv', mode='w') as csv_file:
@@ -88,10 +89,38 @@ with open('data_to_tag.csv', mode='w') as csv_file:
                 for sent in sentences:
                     if any(word.lower() in sent for word in keep_sentence_if_contains):
                         sent = sent.replace(',', '')
-                        # print('-------------------------------------------')
-                        # print(sent)
-                        # print('-------------------------------------------')
-                        writer.writerow([sent, "", "", ""])
+                        if "net neutral" in sent.lower():
+                            if "net neutrality" in sent.lower():
+                                pattern = re.compile("net neutrality", re.IGNORECASE)
+                                sent = pattern.sub("NetNeutrality", sent)
+                            else:
+                                pattern = re.compile("net neutral", re.IGNORECASE)
+                                sent = pattern.sub("NetNeutral", sent)
+                        if "network neutral" in sent.lower():
+                            if "network neutrality" in sent.lower():
+                                pattern = re.compile("network neutrality", re.IGNORECASE)
+                                sent = pattern.sub("NetNeutrality", sent)
+                            else:
+                                pattern = re.compile("network neutral", re.IGNORECASE)
+                                sent = pattern.sub("NetNeutral", sent)
+                        if "open internet" in sent.lower():
+                            pattern = re.compile("open internet", re.IGNORECASE)
+                            sent = pattern.sub("OpenInternet", sent)
+                        if "paid prioritization" in sent.lower():
+                            pattern = re.compile("paid prioritization", re.IGNORECASE)
+                            sent = pattern.sub("PaidPrioritization", sent)
+                        if "federal communications commission" in sent.lower():
+                            pattern = re.compile("federal communications commission", re.IGNORECASE)
+                            sent = pattern.sub("FCC", sent)
+                        if "title ii" in sent.lower():
+                            pattern = re.compile("title ii", re.IGNORECASE)
+                            sent = pattern.sub("TitleII", sent)
+                        sent = re.sub("[\[].*?[\]]", "", sent)
+                        if sent not in duplicate_list:
+                            writer.writerow([sent.strip(), "", "", ""])
+                            duplicate_list.append(sent.strip())
+
+duplicate_list = []
 
 with open('data_to_tag_soln.csv', mode='w') as csv_file:
     writer = csv.writer(csv_file)
@@ -114,14 +143,14 @@ with open('data_to_tag_soln.csv', mode='w') as csv_file:
                                 sent = pattern.sub("NetNeutrality", sent)
                             else:
                                 pattern = re.compile("net neutral", re.IGNORECASE)
-                                sent = pattern.sub("NetNeutrality", sent)
+                                sent = pattern.sub("NetNeutral", sent)
                         if "network neutral" in sent.lower():
                             if "network neutrality" in sent.lower():
                                 pattern = re.compile("network neutrality", re.IGNORECASE)
                                 sent = pattern.sub("NetNeutrality", sent)
                             else:
                                 pattern = re.compile("network neutral", re.IGNORECASE)
-                                sent = pattern.sub("NetNeutrality", sent)
+                                sent = pattern.sub("NetNeutral", sent)
                         if "open internet" in sent.lower():
                             pattern = re.compile("open internet", re.IGNORECASE)
                             sent = pattern.sub("OpenInternet", sent)
@@ -138,7 +167,10 @@ with open('data_to_tag_soln.csv', mode='w') as csv_file:
                         # print('-------------------------------------------')
                         # print(sent)
                         # print('-------------------------------------------')
-                        writer.writerow([sent, "", "", "", search_tracker[i]])
+                        sent = re.sub("[\[].*?[\]]", "", sent)
+                        if sent not in duplicate_list:
+                            writer.writerow([sent.strip(), "", "", "", search_tracker[i]])
+                            duplicate_list.append(sent.strip())
         i += 1
 
 
