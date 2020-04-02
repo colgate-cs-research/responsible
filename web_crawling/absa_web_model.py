@@ -24,8 +24,8 @@ for sentence in nlp.pipe(dataset.text):
 dataset['aspect_terms'] = aspect_terms
 #print(dataset.head(10))
 
-# for word in nlp("NetNeutrality OpenInternet FCC TitleII blocking throttling paid prioritization PaidPrioritization"):
-#     print(word.pos_)
+for word in nlp("NetNeutrality OpenInternet FCC TitleII blocking throttling paid prioritization PaidPrioritization I'm not happy it is not funny"):
+    print(word.pos_)
 
 ## build aspect categories model
 aspect_categories_model = Sequential()
@@ -62,7 +62,9 @@ new_review_category = label_encoder.inverse_transform(aspect_categories_model.pr
 sentiment_terms = []
 for review in nlp.pipe(dataset['text']):
         if review.is_parsed:
-            sentiment_terms.append(' '.join([token.lemma_ for token in review if (not token.is_stop and not token.is_punct and (token.pos_ == "ADJ" or token.pos_ == "VERB"))]))
+            sentiment_terms.append(' '.join([token.lemma_ for token in review if (not token.is_stop and not token.is_punct and (token.pos_ == "ADJ" or token.pos_ == "VERB" or token.pos_ == "PART"))]))
+            if "not" in sentiment_terms:
+                print("YES")
         else:
             sentiment_terms.append('')  
 dataset['sentiment_terms'] = sentiment_terms
