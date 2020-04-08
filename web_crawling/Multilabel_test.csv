@@ -1,0 +1,20 @@
+Because NetNeutrality regulations prevent a discrimination of traffic networks would have to treat critical traffic equally with non-critical traffic.,NET_NEUTRAL,1,0,0,0
+Tim Wu though a proponent of NetNeutrality claims that the current Internet is not neutral as its implementation of best effort generally favors file transfer and other non-time-sensitive traffic over real-time communications.,NET_NEUTRAL,1,0,0,0
+Generally a network which blocks some nodes or services for the customers of the network would normally be expected to be less useful to the customers than one that did not.,BLOCKING,0,1,0,0
+Therefore for a network to remain significantly non-neutral requires either that the customers not be concerned about the particular non-neutralities or the customers not have any meaningful choice of providers otherwise they would presumably switch to another provider with fewer restrictions.,NET_NEUTRAL,1,0,0,0
+While the NetNeutrality debate continues network providers often enter into peering arrangements among themselves.,NET_NEUTRAL,1,0,0,0
+In addition network providers often implement various policies such as blocking of port 25 to prevent insecure systems from serving as spam relays or other ports commonly used by decentralized music search applications implementing peer-to-peer networking models.,BLOCKING,0,1,0,0
+The MIT Mantid Port Blocking Measurement Project is a measurement effort to characterize Internet port blocking and potentially discriminatory practices.,BLOCKING SHAPING,0,1,1,0
+"Google Chairman Eric Schmidt aligns Google's views on data discrimination with Verizon's: ""I want to be clear what we mean by NetNeutrality: What we mean is if you have one data type like video you don't discriminate against one person's video in favor of another.",NET_NEUTRAL SHAPING,1,0,1,0
+So you could prioritize voice over video.,SHAPING,0,0,1,0
+IPTV networks are isolated from the Internet and are therefore not covered by NetNeutrality agreements.,NET_NEUTRAL,1,0,0,0
+Advocates of NetNeutrality have proposed several methods to implement a net neutral Internet that includes a notion of quality-of-service:,NET_NEUTRAL,1,0,0,0
+Founder of Epic Privacy Browser Alok Bhardwaj has argued that NetNeutrality preservation through legislation is consistent with implementing quality of service protocols.,NET_NEUTRAL,1,0,0,0
+He argues legislation should ban the charging of fees for any quality of service which would both allow networks to implement quality of service as well as remove any incentive to abuse NetNeutrality ideas.,NET_NEUTRAL,1,0,0,0
+There are also some discrepancies in how wireless networks affect the implementation of NetNeutrality policy some of which are noted in the studies of Christopher Yoo.,NET_NEUTRAL,1,0,0,0
+But while NetNeutrality is primarily focused on protocol based provisioning most of the pricing models are based on bandwidth restrictions.,NET_NEUTRAL,1,0,0,0
+On July 12 2017 an event called the Day of Action was held to advocate NetNeutrality in the United States in response to Ajit Pai's plans to remove government policies that upheld NetNeutrality.,FCC_REPEAL,0,0,0,1
+Reddit made a pop-up message that loads slowly to illustrate the effect of removing NetNeutrality.,NET_NEUTRAL FCC_REPEAL,1,0,0,1
+A poll conducted by Mozilla showed strong support for NetNeutrality across US political parties.,NET_NEUTRAL,1,0,0,0
+Out of the approximately 1000 responses received by the poll 76% of Americans 81% of Democrats and 73% of Republicans support NetNeutrality.,NET_NEUTRAL,1,0,0,0
+NetNeutrality supporters had also made several comments on the FCC website opposing plans to remove NetNeutrality especially after a segment by John Oliver regarding this topic was aired on his show Last Week Tonight.,FCC_REPEAL,0,0,0,1
