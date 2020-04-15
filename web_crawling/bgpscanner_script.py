@@ -7,6 +7,7 @@ domains = ['netflix.com','google.com', 'microsoft.com','facebook.com', 'doublecl
 resolver = dns.resolver.Resolver()
 
 asn_list = []
+string = '-p'
 
 for domain in domains:
     answer = resolver.query(domain , "A")
@@ -15,8 +16,11 @@ for domain in domains:
         res= obj.lookup_whois()
         if res['asn'] not in asn_list:
             asn_list.append(res['asn'])
+            string += ' \"' + str(res['asn']) + '$\" -p'
 
+string = string[:-2]
 print(asn_list)
+print(string)
 
 
 
