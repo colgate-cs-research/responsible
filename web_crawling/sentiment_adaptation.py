@@ -7,11 +7,14 @@ from keras.models import Sequential
 from keras.layers import Dense, Activation
 from keras.preprocessing.text import Tokenizer
 from sklearn.preprocessing import LabelEncoder
+from sklearn.metrics import confusion_matrix
 from keras.utils import to_categorical
 from collections import Counter
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import KFold
 from keras.models import model_from_json
+
+# UNCOMMENT CODE TO SAVE TOKENIZER, LABEL ENCODER, AND MODEL TO UPDATE IN USE_MODEL.PY
 
 nlp = spacy.load('en')
 
@@ -30,13 +33,15 @@ indeces_neutral = df[df['sentiment'] == 'NEUTRAL'].index
 df.drop(indeces_neutral, inplace=True)
 
 
-print(Counter(df["sentiment"]).keys())
+print(len(df['sentiment']))
 
 #X_train, X_test = train_test_split(df, test_size=0.10)
 kf = KFold(n_splits = 10) # break into tenths
 accuracy_list = []
+initial_conf_matrix = [[0,0],[0,0]]
 
 ### attempt using SENTIMENT PORTION
+# based on https://remicnrd.github.io/Aspect-based-sentiment-analysis/
 for train_index, test_index in kf.split(df):
     X_train = df.iloc[train_index]
     X_test = df.iloc[test_index]
@@ -48,7 +53,6 @@ for train_index, test_index in kf.split(df):
             else:
                 sentiment_terms.append('')  
     X_train['sentiment_terms'] = sentiment_terms
-    # print(sentiment_terms)
 
     vocab_size = 6000 # We set a maximum size for the vocabulary
     sentiment_model = Sequential()
@@ -61,16 +65,18 @@ for train_index, test_index in kf.split(df):
 
     tokenizer = Tokenizer(num_words=vocab_size)
     tokenizer.fit_on_texts(X_train.text)
-    tok_file= open('tokenizer.pkl', 'wb')
-    pickle.dump(tokenizer, tok_file)
-    tok_file.close()
+    # save for future use: based on https://stackoverflow.com/questions/28656736/using-scikits-labelencoder-correctly-across-multiple-programs
+    # tok_file= open('tokenizer.pkl', 'wb')
+    # pickle.dump(tokenizer, tok_file)
+    # tok_file.close()
     sentiment_tokenized = pd.DataFrame(tokenizer.texts_to_matrix(X_train.sentiment_terms))
 
     label_encoder_2 = LabelEncoder()
     integer_sentiment = label_encoder_2.fit_transform(X_train.sentiment)
-    le_file= open('label_encoder.pkl', 'wb')
-    pickle.dump(label_encoder_2, le_file)
-    le_file.close()
+    # save for future use: based on https://stackoverflow.com/questions/28656736/using-scikits-labelencoder-correctly-across-multiple-programs
+    # le_file= open('label_encoder.pkl', 'wb')
+    # pickle.dump(label_encoder_2, le_file)
+    # le_file.close()
     dummy_sentiment = to_categorical(integer_sentiment)
 
     sentiment_model.fit(sentiment_tokenized, dummy_sentiment, epochs=5, verbose=1)
@@ -92,18 +98,15 @@ for train_index, test_index in kf.split(df):
 
     sentiment_model_accuracy = 0
 
-    # pos_but_neg = 0
-    # neutral_but_neg = 0
-
-    # pos_but_neutral = 0
-    # neg_but_neutral = 0
-
-    # neg_but_pos = 0
-    # neutral_but_pos = 0
-
-    # num_errors = 0
+    y_true = X_test.sentiment
+    y_pred = test_sentiment 
+    # add to eventually average confusion matrix
+    mat = confusion_matrix(y_true, y_pred, labels=["POSITIVE", "NEGATIVE"])
+    print(mat)
+    initial_conf_matrix += mat
 
     while j < len(X_test.sentiment):
+        # uncomment below to see output
         # print()
         # print(test_reviews[j])
         # print("Sentiment model answer: Review " + str(j+1) + " is expressing a  " + test_sentiment[j] + " opinion about net neutrality")
@@ -111,23 +114,7 @@ for train_index, test_index in kf.split(df):
         # print()
         if test_sentiment[j] == X_test.iloc[j, 1]:
             sentiment_model_accuracy += 1
-        # else:
-        #     num_errors += 1
-        #     if test_sentiment[j] == 'NEUTRAL':
-        #         if X_test.iloc[j, 1] == 'POSITIVE':
-        #             pos_but_neutral += 1
-        #         else: # guessed negative
-        #             neg_but_neutral += 1
-        #     elif test_sentiment[j] == 'NEGATIVE':
-        #         if X_test.iloc[j, 1] == 'POSITIVE':
-        #             pos_but_neg += 1
-        #         else: # guessed neutral
-        #             neutral_but_neg += 1
-        #     else: # correst sentiment is positive
-        #         if X_test.iloc[j, 1] == 'NEGATIVE':
-        #             neg_but_pos += 1
-        #         else: # guessed neutral
-        #             neutral_but_pos += 1
+
         j += 1
 
 
@@ -135,24 +122,15 @@ for train_index, test_index in kf.split(df):
     accuracy_list.append(sentiment_model_accuracy/j)
 
 print("avg accuracy: {}".format(sum(accuracy_list)/10))
-# print("Breakdown of errors:")
-# print("######################")
-# print("Guessed negative when positive: {}".format(neg_but_pos/j))
-# print("######################")
-# print("Guessed negative when neutral: {}".format(neg_but_neutral/j))
-# print("Guessed neutral when positive: {}".format(neutral_but_pos/j))
-# print("Guessed neutral when negative: {}".format(neutral_but_neg/j))
-# print("######################")
-# print("Guessed positive when negative: {}".format(pos_but_neg/j))
-# print("######################")
-# print("Guessed positive when neutral: {}".format(pos_but_neutral/j))
+print(initial_conf_matrix)
 
-model_json = sentiment_model.to_json()
-with open("model.json", "w") as json_file:
-    json_file.write(model_json)
-# serialize weights to HDF5
-sentiment_model.save_weights("model.h5")
-print("Saved model to disk")
+
+# save output as JSON: based on https://machinelearningmastery.com/save-load-keras-deep-learning-models/
+# model_json = sentiment_model.to_json()
+# with open("model.json", "w") as json_file:
+#     json_file.write(model_json)
+# sentiment_model.save_weights("model.h5")
+# print("Saved model to disk")
 
 
 

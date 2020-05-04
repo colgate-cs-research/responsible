@@ -9,10 +9,18 @@ from sklearn.preprocessing import LabelEncoder
 from keras.utils import to_categorical
 from sklearn.model_selection import KFold
 
+# based on https://remicnrd.github.io/Aspect-based-sentiment-analysis/
+
 nlp = spacy.load('en')
 
 whole_dataset = pd.read_csv('more_data.csv', header= None)
 whole_dataset = whole_dataset.rename(index=str, columns={ 0: "text", 1: "aspect_category", 2: "sentiment"})
+sentiments = whole_dataset['sentiment']
+neutral = np.count_nonzero(sentiments == 'NEUTRAL')
+print(neutral/len(sentiments))
+aspects = whole_dataset['aspect_category']
+nn = np.count_nonzero(aspects == 'NET_NEUTRAL')
+print(nn/len(aspects))
 kf = KFold(n_splits = 5) # break into tenths
 avg_aspect_accuracy = []
 corrected_avg_sent = []
@@ -27,14 +35,9 @@ for train_index, test_index in kf.split(whole_dataset):
 
     aspect_terms = []
     for sentence in nlp.pipe(dataset.text):
-        # chunks = [(chunk.root.text) for chunk in sentence.noun_chunks if (chunk.root.pos_ == 'NOUN' or chunk.root.pos_ == 'PROPN')]
-        chunks = [(chunk.root.text) for chunk in sentence.noun_chunks if (chunk.root.pos_ == 'NOUN')]
+        chunks = [(chunk.root.text) for chunk in sentence.noun_chunks if (chunk.root.pos_ == 'NOUN' or chunk.root.pos_ == 'PROPN')]
         aspect_terms.append(' '.join(chunks))
     dataset['aspect_terms'] = aspect_terms
-    # print(aspect_terms)
-    # print()
-    # print()
-    # print()
 
 
     ## build aspect categories model
@@ -64,7 +67,6 @@ for train_index, test_index in kf.split(whole_dataset):
             else:
                 sentiment_terms.append('')  
     dataset['sentiment_terms'] = sentiment_terms
-    # print(sentiment_terms)
 
 
     sentiment_model = Sequential()
@@ -86,8 +88,7 @@ for train_index, test_index in kf.split(whole_dataset):
     test_reviews = dataset_test.text
     test_aspect_terms = []
     for review in nlp.pipe(test_reviews):
-        # chunks = [(chunk.root.text) for chunk in review.noun_chunks if (chunk.root.pos_ == 'NOUN' or chunk.root.pos_ == 'PROPN')]
-        chunks = [(chunk.root.text) for chunk in review.noun_chunks if (chunk.root.pos_ == 'NOUN')]
+        chunks = [(chunk.root.text) for chunk in review.noun_chunks if (chunk.root.pos_ == 'NOUN' or chunk.root.pos_ == 'PROPN')]
         test_aspect_terms.append(' '.join(chunks))
     test_aspect_terms = pd.DataFrame(tokenizer.texts_to_matrix(test_aspect_terms))
 
@@ -109,12 +110,7 @@ for train_index, test_index in kf.split(whole_dataset):
     correct_aspect = 0
     corrected_sentiment = 0
     while j < len(test_index):
-        # print()
-        # print(test_reviews[j])
-        # print("Model answer: Review " + str(j+1) + " is expressing a  " + test_sentiment[j] + " opinion about " + test_aspect_categories[j])
-        # #print(dataset_test.iloc[j, 0])
-        # print("True answer: Review " + str(j+1) + " is expressing a  " + dataset_test.iloc[j, 2] + " opinion about " + dataset_test.iloc[j, 1])
-        # print()
+
         if test_sentiment[j] is dataset_test.iloc[j, 2]:
             correct_sentiment += 1
         if test_aspect_categories[j] is dataset_test.iloc[j, 1]:
@@ -134,7 +130,9 @@ for train_index, test_index in kf.split(whole_dataset):
     corrected_avg_sent.append(corrected_sentiment/correct_aspect)
 
 
+print('average aspect accuracy:')
 print(sum(avg_aspect_accuracy)/5)
+print('average sentiment accuracy:')
 print(sum(corrected_avg_sent)/5)
     
 

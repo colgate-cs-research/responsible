@@ -9,7 +9,7 @@ import re
 import nltk
 nltk.download('punkt')
 
-
+# based on https://www.pingshiuanchua.com/blog/post/scraping-search-results-from-google-search
 def scrape(link):
     ua = UserAgent()
     try:
@@ -79,6 +79,7 @@ def get_AS_text(to_scrape, output_file_name):
         writer = csv.writer(csv_file)
         writer.writerow(['sentence', 'search term'])
 
+        # keep only relevant sentences based on these terms
         keep_sentence_if_contains = ['neutral', 'neutrality' 'throttling', 'throttle', 'open internet', 'paid prioritization', 'prioritize', 'block']
         i = 0
         for link in list_of_links:
@@ -86,7 +87,7 @@ def get_AS_text(to_scrape, output_file_name):
             if full_text_list:
                 for paragraph in full_text_list:
                     sentences = nltk.tokenize.sent_tokenize(paragraph)
-                    #print(sentences)
+                    # format key terms to be identified as proper noun in pos tagging
                     for sent in sentences:
                         if any(word.lower() in sent for word in keep_sentence_if_contains):
                             sent = sent.replace(',', '')
@@ -117,10 +118,8 @@ def get_AS_text(to_scrape, output_file_name):
                                 pattern = re.compile("title ii", re.IGNORECASE)
                                 sent = pattern.sub("TitleII", sent)
 
-                            # print('-------------------------------------------')
-                            # print(sent)
-                            # print('-------------------------------------------')
                             sent = re.sub("[\[].*?[\]]", "", sent)
+                            # add to output file if not duplicate
                             if sent not in duplicate_list:
                                 writer.writerow([sent.strip(), search_tracker[i]])
                                 duplicate_list.append(sent.strip())

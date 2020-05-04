@@ -52,6 +52,7 @@ paths_file.close()
 # get AS names to query from ASNs
 AS_to_ASN_dict = {}
 
+# to parse JSON: https://stackoverflow.com/questions/55553768/parsing-out-specific-values-from-json-object-in-beautifulsoup/55554203
 for AS in ASNs:
     url = 'https://api.bgpview.io/asn/'  + str(AS)
     page = request.urlopen(url)
@@ -63,6 +64,8 @@ for AS in ASNs:
     AS_to_ASN_dict[description] = AS #AS is ASN, description is name
 
 output_file = 'AS_scraped_text.csv'
+
+## UNCOMMENT BELOW IF SCRAPED FILE CHANGES
 
 # get data (csv file) to run through model
 # get_AS_text(AS_names_to_query, output_file)
@@ -81,13 +84,13 @@ for review in nlp.pipe(df.sentence):
         test_sentiment_terms.append('') 
 
 tok_file = open('tokenizer.pkl', 'rb')
-tokenizer = pickle.load(tok_file) 
+tokenizer = pickle.load(tok_file) # get same tokenizer from model script
 tok_file.close()
 test_sentiment_terms = pd.DataFrame(tokenizer.texts_to_matrix(test_sentiment_terms))
 
 # Model output
 pkl_file = open('label_encoder.pkl', 'rb')
-label_encoder_2 = pickle.load(pkl_file) 
+label_encoder_2 = pickle.load(pkl_file) # get same label encoder from model script
 pkl_file.close()
 test_sentiment = label_encoder_2.inverse_transform(loaded_model.predict_classes(test_sentiment_terms))
 
@@ -100,13 +103,14 @@ for AS in AS_names_to_query:
     indices = df[df['search term'] == AS].index
     sentiments = test_sentiment[indices]
     positives = np.count_nonzero(sentiments == 'POSITIVE')
-    if positives > (1/2)*len(sentiments):
+    if positives > (3/4)*len(sentiments): # if over 75% of output is positive, call AS net neutral
         NN_dict[ASN] = "POSITIVE"
     else:
         NN_dict[ASN] = "NEGATIVE"
 print(NN_dict)
 
 # label paths as socially responsble if all ASes are NN along it, else not socially responsible
+print(paths_to_evaluate)
 for path in paths_to_evaluate:
     NN = True
     for AS in path:

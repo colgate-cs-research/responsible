@@ -22,7 +22,7 @@ whole_dataset.drop(indeces_none, inplace=True)
 indeces_BS = whole_dataset[whole_dataset['aspect_category'] == 'BLOCKING SHAPING'].index
 whole_dataset['aspect_category'][indeces_BS] = 'SHAPING'
 print(Counter(whole_dataset["aspect_category"]).keys())
-kf = KFold(n_splits = 5) # break into tenths
+kf = KFold(n_splits = 10) # break into tenths
 avg_aspect_accuracy = []
 corrected_avg_sent = []
 
@@ -36,14 +36,10 @@ for train_index, test_index in kf.split(whole_dataset):
 
     aspect_terms = []
     for sentence in nlp.pipe(dataset.text):
-        # chunks = [(chunk.root.text) for chunk in sentence.noun_chunks if (chunk.root.pos_ == 'NOUN' or chunk.root.pos_ == 'PROPN')]
-        chunks = [(chunk.root.text) for chunk in sentence.noun_chunks if (chunk.root.pos_ == 'NOUN')]
+        chunks = [(chunk.root.text) for chunk in sentence.noun_chunks if (chunk.root.pos_ == 'NOUN' or chunk.root.pos_ == 'PROPN')]
         aspect_terms.append(' '.join(chunks))
     dataset['aspect_terms'] = aspect_terms
-    # print(aspect_terms)
-    # print()
-    # print()
-    # print()
+ 
 
 
     ## build aspect categories model
@@ -95,8 +91,7 @@ for train_index, test_index in kf.split(whole_dataset):
     test_reviews = dataset_test.text
     test_aspect_terms = []
     for review in nlp.pipe(test_reviews):
-        # chunks = [(chunk.root.text) for chunk in review.noun_chunks if (chunk.root.pos_ == 'NOUN' or chunk.root.pos_ == 'PROPN')]
-        chunks = [(chunk.root.text) for chunk in review.noun_chunks if (chunk.root.pos_ == 'NOUN')]
+        chunks = [(chunk.root.text) for chunk in review.noun_chunks if (chunk.root.pos_ == 'NOUN' or chunk.root.pos_ == 'PROPN')]
         test_aspect_terms.append(' '.join(chunks))
     test_aspect_terms = pd.DataFrame(tokenizer.texts_to_matrix(test_aspect_terms))
 
@@ -105,7 +100,7 @@ for train_index, test_index in kf.split(whole_dataset):
     test_sentiment_terms = []
     for review in nlp.pipe(test_reviews):
             if review.is_parsed:
-                test_sentiment_terms.append(' '.join([token.lemma_ for token in review if (not token.is_stop and not token.is_punct and (token.pos_ == "ADJ" or token.pos_ == "VERB"))]))
+                test_sentiment_terms.append(' '.join([token.lemma_ for token in review if (not token.is_stop and not token.is_punct and (token.pos_ == "ADJ" or token.pos_ == "VERB" or token.pos_ == "PART"))]))
             else:
                 test_sentiment_terms.append('') 
     test_sentiment_terms = pd.DataFrame(tokenizer.texts_to_matrix(test_sentiment_terms))
@@ -142,8 +137,9 @@ for train_index, test_index in kf.split(whole_dataset):
     avg_aspect_accuracy.append(correct_aspect/j)
     corrected_avg_sent.append(corrected_sentiment/correct_aspect)
 
-
-print(sum(avg_aspect_accuracy)/5)
-print(sum(corrected_avg_sent)/5)
+print('average aspect accuracy:')
+print(sum(avg_aspect_accuracy)/10)
+print('average sentiment accuracy:')
+print(sum(corrected_avg_sent)/10)
     
 

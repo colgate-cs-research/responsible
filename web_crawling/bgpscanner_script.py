@@ -2,6 +2,8 @@ import dns.resolver
 import ipaddress
 from ipwhois import IPWhois
 
+
+# these are the destinations of interest
 domains = ['netflix.com','google.com', 'microsoft.com','facebook.com', 'doubleclick.net']
 
 resolver = dns.resolver.Resolver()
@@ -9,6 +11,7 @@ resolver = dns.resolver.Resolver()
 asn_dict = dict()
 string = '-p'
 
+# get paths; format string to pass into bgpscanner as specific in man page
 for domain in domains:
     answer = resolver.query(domain , "A")
     for ans in answer:
@@ -21,7 +24,7 @@ for domain in domains:
 
 string = string[:-2]
 print(asn_dict)
-print(string)
+print(string) # this gets copied and pasted into terminal with bgpscanner command and filename
 
 
 
