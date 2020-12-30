@@ -21,7 +21,6 @@ def scrape(link):
                 text = r.get_text()
                 if text:
                     site_text = site_text + text
-            print(site_text)
             return site_text
     except:
         return []
@@ -32,10 +31,10 @@ search_tracker = [] #keep track of what links correspond to what search
 
 for company in predict_list:
 
-    query = company + "net neutrality"
+    query = '"' + company + '"' + ' "net neutrality"'
     query = urllib.parse.quote_plus(query) # Format into URL encoding
     number_result = 20
-
+    print(query)
     ua = UserAgent()
 
     google_url = "https://www.google.com/search?q=" + query + "&num=" + str(number_result)
@@ -73,33 +72,25 @@ for company in predict_list:
 
 print(list_of_links)
 duplicate_list = []
-  
 
-with open('data_to_tag_full_text.csv', mode='w') as csv_file:
-    writer = csv.writer(csv_file)
-    writer.writerow(['text', 'category', 'sentiment', 'predicted AS'])
+data_file = open('data_to_tag_full_text.csv', mode='w')
+data_writer = csv.writer(data_file)
+data_writer.writerow(['text', 'category', 'sentiment', 'predicted AS'])
 
-    keep_sentence_if_contains = ['neutral', 'neutrality' 'throttling', 'throttle', 'open internet', 'paid prioritization', 'prioritize', 'block']
+soln_file = open('data_to_tag_soln_full_text.csv', mode='w')
+soln_writer = csv.writer(soln_file)
+soln_writer.writerow(['text', 'category', 'sentiment', 'predicted AS', 'search term'])
 
-    for link in list_of_links:
-        full_text = scrape(link)
-        if full_text:
-            writer.writerow(['"'+full_text.strip()+'"', "", "", ""])
+i = 0
+for link in list_of_links:
+    full_text = scrape(link)
+    if full_text:
+        data_writer.writerow(['"'+full_text.strip()+'"', "", "", ""])
+        soln_writer.writerow(['"'+full_text.strip()+'"', "", "", "",search_tracker[i]])
+    i += 1
 
-duplicate_list = []
-
-with open('data_to_tag_soln_full_text.csv', mode='w') as csv_file:
-    writer = csv.writer(csv_file)
-    writer.writerow(['text', 'category', 'sentiment', 'predicted AS', 'search term'])
-    keep_sentence_if_contains = ['neutral', 'neutrality' 'throttling', 'throttle', 'open internet', 'paid prioritization', 'prioritize', 'block']
-    i = 0
-    for link in list_of_links:
-        full_text = scrape(link)
-        if full_text:
-            writer.writerow(['"'+full_text.strip()+'"', "", "", "",search_tracker[i]])
-        i += 1
-
-
+data_file.close()
+soln_file.close()
 
 # make sure you handle NetNeutrality, FCC, PaidPrioritization, OpenInternet...
 # fix pattern match
