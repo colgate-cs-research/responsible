@@ -4,10 +4,13 @@ from sklearn.model_selection import KFold
 import csv
 import requests
 import urllib
+import urllib3
 import csv
 import re
 import nltk
 nltk.download('punkt')
+
+urllib3.disable_warnings()
 
 def scrape(link):
     ua = UserAgent()
@@ -25,7 +28,7 @@ def scrape(link):
     except:
         return []
 
-predict_list = ["cogent communications", "firstlight fiber", "hurricane electric", "internet2", "zayo", "NYSERNET"]
+predict_list = ["cogent communications", "firstlight fiber", "hurricane electric", "internet2", "zayo", "NYSERNET", "Orange", "Telia Carrier", "Sprint", "AT&T", "Deutsche Telekom", "Telefonica", "British Telecom", "KDDI"]
 list_of_links = []
 search_tracker = [] #keep track of what links correspond to what search
 
@@ -73,6 +76,8 @@ for company in predict_list:
 print(list_of_links)
 duplicate_list = []
 
+#write texts to file
+
 data_file = open('data_to_tag_full_text.csv', mode='w')
 data_writer = csv.writer(data_file)
 data_writer.writerow(['text', 'category', 'sentiment', 'predicted AS'])
@@ -81,16 +86,27 @@ soln_file = open('data_to_tag_soln_full_text.csv', mode='w')
 soln_writer = csv.writer(soln_file)
 soln_writer.writerow(['text', 'category', 'sentiment', 'predicted AS', 'search term'])
 
+sentences_file = open('sentences.csv', mode='w')
+sentences_writer = csv.writer(sentences_file)
+sentences_writer.writerow(['sentence', 'search term', 'sentiment'])
+
 i = 0
 for link in list_of_links:
     full_text = scrape(link)
     if full_text:
         data_writer.writerow(['"'+full_text.strip()+'"', "", "", ""])
         soln_writer.writerow(['"'+full_text.strip()+'"', "", "", "",search_tracker[i]])
+        term = search_tracker[i]
+        sentences = nltk.tokenize.sent_tokenize(full_text)
+        for sentence in sentences:
+            if term in sentence:
+                sentences_writer.writerow(['"'+sentence+'"', search_tracker[i], ""])
+                print(sentence)
     i += 1
 
 data_file.close()
 soln_file.close()
+sentences_file.close()
 
 # make sure you handle NetNeutrality, FCC, PaidPrioritization, OpenInternet...
 # fix pattern match
