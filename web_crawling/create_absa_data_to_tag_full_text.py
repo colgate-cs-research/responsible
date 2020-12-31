@@ -29,6 +29,22 @@ def scrape(link):
         return []
 
 predict_list = ["cogent communications", "firstlight fiber", "hurricane electric", "internet2", "zayo", "NYSERNET", "Orange", "Telia Carrier", "Sprint", "AT&T", "Deutsche Telekom", "Telefonica", "British Telecom", "KDDI"]
+search_terms_list = {
+    "cogent communications": ["cogent communications", "cogent"], 
+    "firstlight fiber": ["firstlight fiber", "firstlight"],
+    "hurricane electric" : ["hurricane electric", "hurricane"], 
+    "internet2": ["internet2"], 
+    "zayo": ["zayo"], 
+    "NYSERNET": ["NYSERNET"],
+    "Orange": ["Orange"], 
+    "Telia Carrier": ["Telia Carrier", "Telia"], 
+    "Sprint": ["Sprint"], 
+    "AT&T": ["AT&T"], 
+    "Deutsche Telekom": ["Deutsche Telekom", "Telekom"], 
+    "Telefonica": ["Telefonica"], 
+    "British Telecom": ["British Telecom", "BT", "Telecom"], 
+    "KDDI": ["KDDI"]
+}
 list_of_links = []
 search_tracker = [] #keep track of what links correspond to what search
 
@@ -96,12 +112,13 @@ for link in list_of_links:
     if full_text:
         data_writer.writerow(['"'+full_text.strip()+'"', "", "", ""])
         soln_writer.writerow(['"'+full_text.strip()+'"', "", "", "",search_tracker[i]])
-        term = search_tracker[i]
-        sentences = nltk.tokenize.sent_tokenize(full_text)
+        terms = search_terms_list[search_tracker[i]]
+        sentences = full_text.split('.')
         for sentence in sentences:
-            if term in sentence:
-                sentences_writer.writerow(['"'+sentence+'"', search_tracker[i], ""])
+            if any(word.lower() in sentence.lower() for word in terms):
+                sentences_writer.writerow(['"'+sentence+'."', search_tracker[i], ""])
                 print(sentence)
+                print()
     i += 1
 
 data_file.close()
