@@ -26,65 +26,74 @@ def scrape(link):
         pass
     return None, None
 
-predict_list = ["cogent communications", "firstlight fiber", "hurricane electric", "internet2", "zayo", "NYSERNET", "Orange", "Telia Carrier", "Sprint", "AT&T", "Deutsche Telekom", "Telefonica", "British Telecom", "KDDI"]
+keywords = ["net neutrality", "open Internet", "zero-rating", "paid prioritization"]
+
+companies = ["Cogent Communications", "FirstLight Fiber", "Hurricane Electric", "Internet2", "Zayo", "NYSERNET", "Orange", "Telia Carrier", "Sprint", "AT&T", "Deutsche Telekom", "Telefonica", "British Telecom", "KDDI"]
+
+num_results_per_keyword = 50
+
 dict_of_links = {}
 
-for company in predict_list:
+# Issue Google query to obtain URLS
+for company in companies:
+    dict_of_links[company] = {}
+    for keyword in keywords:
+        query = '"%s" "%s"' % (company, keyword)
+        query = urllib.parse.quote_plus(query) # Format into URL encoding
+        number_result = 50
+        print(query)
+        ua = UserAgent()
 
-    query = '"' + company + '"' + ' "net neutrality"'
-    query = urllib.parse.quote_plus(query) # Format into URL encoding
-    number_result = 20
-    print(query)
-    ua = UserAgent()
+        google_url = "https://www.google.com/search?q=%s&num=%d" % (query, num_results_per_keyword)
+        response = requests.get(google_url, {"User-Agent": ua.random})
+        soup = BeautifulSoup(response.text, "html.parser")
 
-    google_url = "https://www.google.com/search?q=" + query + "&num=" + str(number_result)
-    response = requests.get(google_url, {"User-Agent": ua.random})
-    soup = BeautifulSoup(response.text, "html.parser")
+        result_div = soup.find_all('div', attrs = {'class': 'ZINbbc'})
 
-    result_div = soup.find_all('div', attrs = {'class': 'ZINbbc'})
+        links = []
+        for r in result_div:
+            # Checks if each element is present, else, raise exception
+            try:
+                link = r.find('a', href = True)
 
-    links = []
-    for r in result_div:
-        # Checks if each element is present, else, raise exception
-        try:
-            link = r.find('a', href = True)
+                # Check to make sure everything is present before appending
+                if link != '':
+                    links.append(link['href'])
 
-            # Check to make sure everything is present before appending
-            if link != '':
-                links.append(link['href'])
+            # Next loop if one element is not present
+            except:
+                continue
 
-        # Next loop if one element is not present
-        except:
-            continue
+        for link in links:
+            # Anything that doesn't fit a specific pattern is ignored
+            clean = re.search('\/url\?q\=(.*)\&sa', link)
+            if clean is None:
+                continue
+            url = clean.group(1)
+            if url in dict_of_links[company]:
+                dict_of_links[company][url].append(keyword)
+            else:
+                dict_of_links[company][url] = [keyword]
 
-    to_remove = []
-    clean_links = []
-    for i, l in enumerate(links):
-        clean = re.search('\/url\?q\=(.*)\&sa',l)
+# Fetch pages and store in files
 
-        # Anything that doesn't fit the above pattern will be removed
-        if clean is None:
-            to_remove.append(i)
-            continue
-        clean_links.append(clean.group(1))
-    dict_of_links[company] = clean_links
-
-#write texts to file
-
-base_outdir = "output"
+base_outdir = "output/pages/"
 i = 0
 for company in dict_of_links:
     print(company)
     company_outdir = os.path.join(base_outdir, company)
     os.makedirs(company_outdir, exist_ok=True)
     company_links = dict_of_links[company]
-    for i in range(len(company_links)):
-        link = company_links[i]
+    i = 0
+    for link, keywords in company_links.items():
         print(link)
         title, full_text = scrape(link)
+        title = title.strip()
         print(title)
         if full_text:
-            with open(os.path.join(company_outdir, '%02d.txt' % (i+1)), 'w') as f:
-                f.write("##LINK: %s\n\n" % link)
+            i += 1
+            with open(os.path.join(company_outdir, '%03d.txt' % (i)), 'w') as f:
+                f.write("##LINK: %s\n" % link)
+                f.write("##KEYWORDS: %s\n" % ",".join(keywords))
                 f.write("##TITLE: %s\n\n" % title)
                 f.write(full_text)
