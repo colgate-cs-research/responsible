@@ -2,6 +2,25 @@ import os
 import spacy
 #import neuralcoref
 
+keywords = ["net neutrality", "open internet", "zero-rating", "paid prioritization"]
+
+companies = {
+    "Cogent Communications": ["Cogent"], 
+    "FirstLight Fiber": ["FirstLight"], 
+    "Hurricane Electric": [],
+    "Internet2": [],
+    "Zayo": [],
+    "NYSERNet": [],
+    "Orange": [], 
+    "Telia Carrier": ["Telia"], 
+    "Sprint": [], 
+    "AT&T": [], 
+    "Deutsche Telekom": ["Telekom", "DT"],
+    "Telefonica": [], 
+    "British Telecom": ["BT"], 
+    "KDDI": []
+    }
+
 nlp = spacy.load("en_core_web_md")
 nlp.add_pipe("merge_entities")
 nlp.add_pipe("merge_noun_chunks")
@@ -14,7 +33,7 @@ def main():
     #process_file("AT&T", "02.txt")
     process_outdir()
 
-def process_outdir(outdir="output"):
+def process_outdir(outdir="output/pages_net-neutrality"):
     for company in sorted(os.listdir(outdir)):
         companydir = os.path.join(outdir, company)
         if os.path.isfile(companydir) or companydir == "svgs":
@@ -66,14 +85,16 @@ def process_paragraph(company, paragraph, num, merge_compound=False):
     #    print(doc._.coref_clusters)
     process_sentences(company, sentences)
 
-def process_sentences(company, sentences, keywords=["net neutrality", "open internet", "zero-rating"]):
+def process_sentences(company, sentences):
     for sentence in sentences:
         for keyword in keywords:
             if keyword in sentence.text.lower():
-                #extract_raw(sentence)
                 #extract_adjectives(sentence)
                 #extract_aspects(sentence)
-                extract_phrases(company, sentence, keywords)
+                phrases = extract_phrases(company, sentence)
+                if phrases is not None:
+                    extract_raw(sentence)
+                    print(phrases)
                 break
 
 def extract_raw(sentence):
@@ -107,9 +128,7 @@ def extract_aspects(sentence):
     'description': descriptive_term})
     print(aspects)
 
-def extract_phrases(company, sentence, keywords):
-    company = company.lower()
-
+def extract_phrases(company, sentence):
     phrases  = {"company" : []}
     for keyword in keywords:
         phrases[keyword] = []
@@ -131,35 +150,55 @@ def extract_phrases(company, sentence, keywords):
                     for child in parent.children:
                         if child.dep_ == 'nsubj':
                             who = child.text
-                    phrases[keyword].append(" ".join([who, verb, token_text]))
+                    phrases[keyword].append(" ".join([who, verb, token.text]))
                 elif token.dep_ == 'pobj': # Object of preposition
                     parent = token.head
                     correlation = parent.text
                     grandparent = parent.head
                     what = grandparent.text
-                    phrases[keyword].append(" ".join([what, correlation, token_text]))
-        if company in token_text:
-            if token.dep_ == 'nsubj': # Nominal subject
-                parent = token.head
-                verb = parent.text
-                if parent.pos_ == "AUX":
-                    token = parent
-                    parent = parent.head
-                    verb = parent.text
-                seen_token = False
-                for child in parent.children:
-                    if child == token:
-                        seen_token = True
-                    if child.dep_ in ["ccomp", "xcomp", "dobj"]:
-                        phrases["company"].append(" ".join([token_text, verb, collate_prep(child)]))
-                    if seen_token and child.dep_ in ["prep"]:
-                        phrases["company"].append(" ".join([token_text, verb, collate_prep(child)]))
-    print(phrases)
+                    #phrases[keyword].append(" ".join([what, correlation, token.text]))
+        for name in [company] + companies[company]:
+            if name.lower() in token_text:
+                if token.dep_ == 'nsubj': # Nominal subject
+                    subject = token
+                    verbs = [token.head]
+                    if verbs[-1].pos_ == "AUX":
+                        verbs += [verbs[-1].head]
+                    for child in verbs[-1].rights:
+                        if child.dep_ in ["ccomp", "xcomp", "dobj"]:
+                            phrases["company"].append(" ".join([subject.text, collate_verbs(verbs), collate_prep(child)]))
+                        if child.dep_ in ["prep"]:
+                            phrases["company"].append(" ".join([subject.text, collate_verbs(verbs), collate_prep(child)]))
+
+    # Only print keywords with phrases
+    phrases = {key:value for (key,value) in phrases.items() if len(value) > 0}
+    if len(phrases) > 0:
+        return phrases
+    return None
+
+def collate_verbs(verbs):
+    verbs = [] + verbs
+    i = -1
+    last_verb = verbs[-1]
+    while len(list(last_verb.lefts)) > 0:
+        pre_verb = list(last_verb.lefts)[-1]
+        if pre_verb.dep_ in ["advmod", "neg", "aux"]:
+            i = i - 1
+            verbs.insert(i, pre_verb)
+            last_verb = pre_verb
+        else:
+            break
+    if len(list(last_verb.rights)) > 0:
+        post_verb = list(last_verb.rights)[0]
+        if post_verb.dep_ in ["attr"]:
+            verbs.insert(-1, post_verb)
+    return " ".join([v.text for v in verbs])
 
 def collate_prep(start):
     current = start
     more = True
     result = [start.text]
+    print("\t\t", result)
     while more:
         more = False
         for child in current.children:
@@ -168,7 +207,7 @@ def collate_prep(start):
                 more = True
                 current = child
                 break
-            elif child.dep_ in ["nsubj"]:
+            elif child.dep_ in ["nsubj", "advmod"]:
                 result.insert(0, child.text)
             elif child.dep_ in ["neg"]:
                 result.insert(-1, child.text)
