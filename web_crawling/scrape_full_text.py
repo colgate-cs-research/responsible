@@ -5,13 +5,15 @@ import urllib
 import urllib3
 import os
 import re
+import random
+import time
 
 urllib3.disable_warnings()
 
 def scrape(link):
     ua = UserAgent()
     try:
-        response = requests.get(link, {"User-Agent": ua.random}, verify = False)
+        response = requests.get(link, {"User-Agent": ua.random}, verify=False, timeout=5)
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, "html.parser")
             result_div = soup.find_all('p')
@@ -28,7 +30,9 @@ def scrape(link):
 
 keywords = ["net neutrality", "open Internet", "zero-rating", "paid prioritization"]
 
-companies = ["Cogent Communications", "FirstLight Fiber", "Hurricane Electric", "Internet2", "Zayo", "NYSERNET", "Orange", "Telia Carrier", "Sprint", "AT&T", "Deutsche Telekom", "Telefonica", "British Telecom", "KDDI"]
+companies = []
+companies += ["Cogent Communications", "FirstLight Fiber", "Hurricane Electric", "Internet2", "Zayo", "NYSERNet", "Orange"]
+#companies += ["Telia Carrier", "Sprint", "AT&T", "Deutsche Telekom", "Telefonica", "British Telecom", "KDDI"]
 
 num_results_per_keyword = 50
 
@@ -39,13 +43,13 @@ for company in companies:
     dict_of_links[company] = {}
     for keyword in keywords:
         query = '"%s" "%s"' % (company, keyword)
-        query = urllib.parse.quote_plus(query) # Format into URL encoding
-        number_result = 50
         print(query)
+        query = urllib.parse.quote_plus(query) # Format into URL encoding
         ua = UserAgent()
 
         google_url = "https://www.google.com/search?q=%s&num=%d" % (query, num_results_per_keyword)
         response = requests.get(google_url, {"User-Agent": ua.random})
+        response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
 
         result_div = soup.find_all('div', attrs = {'class': 'ZINbbc'})
@@ -75,12 +79,16 @@ for company in companies:
             else:
                 dict_of_links[company][url] = [keyword]
 
+        delay = random.randint(10,60)
+        print("Delaying for %d seconds..." % (delay))
+        time.sleep(delay)
+
 # Fetch pages and store in files
 
 base_outdir = "output/pages/"
 i = 0
 for company in dict_of_links:
-    print(company)
+    print('\n'+company)
     company_outdir = os.path.join(base_outdir, company)
     os.makedirs(company_outdir, exist_ok=True)
     company_links = dict_of_links[company]
