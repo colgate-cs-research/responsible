@@ -1,13 +1,14 @@
 import os
 import spacy
 #import neuralcoref
+import json
 
 keywords = ["net neutrality", "open internet", "zero-rating", "paid prioritization"]
 
 companies = {
     "Cogent Communications": ["Cogent"], 
     "FirstLight Fiber": ["FirstLight"], 
-    "Hurricane Electric": [],
+    "Hurricane Electric": ["Hurricane"],
     "Internet2": [],
     "Zayo": [],
     "NYSERNet": [],
@@ -16,7 +17,7 @@ companies = {
     "Sprint": [], 
     "AT&T": [], 
     "Deutsche Telekom": ["Telekom", "DT"],
-    "Telefonica": [], 
+    "Telefonica": ["Telefónica"], 
     "British Telecom": ["BT"], 
     "KDDI": []
     }
@@ -31,36 +32,60 @@ def main():
     #process_file("cogent communications", "01.txt")
     #process_file("cogent communications", "03.txt")
     #process_file("AT&T", "02.txt")
-    process_outdir()
+    result = process_outdir("output/taurin_submit/pages")
+    #result = {"FirstLight Fiber" : process_company("FirstLight Fiber", "output/taurin_submit/pages")}
+    #result = {"Deutsche Telekom" : process_company("Deutsche Telekom", "output/taurin_submit/pages")}
+    with open("output/extract.json", 'w') as out:
+        json.dump(result, out, indent=4)
 
-def process_outdir(outdir="output/pages_net-neutrality"):
+def process_outdir(outdir="output/pages"):
+    result = {}
     for company in sorted(os.listdir(outdir)):
-        companydir = os.path.join(outdir, company)
-        if os.path.isfile(companydir) or companydir == "svgs":
-            continue
-        for filename in sorted(os.listdir(companydir)):
-            process_file(company, filename, outdir)
+        result[company] = process_company(company, outdir)
+    return result
+    
+def process_company(company, outdir):
+    result = {}
+    companydir = os.path.join(outdir, company)
+    for filename in sorted(os.listdir(companydir)):
+        try:
+            result[filename] = process_file(company, filename, outdir)
+        except Exception as ex:
+            print(ex)
+    return result
             
 def process_file(company, filename, outdir="output"):
-    print(company, filename)
+    print("Processing %s %s..." % (company, filename))#, file=sys.stderr)
     filepath = os.path.join(outdir, company, filename)
     with open(filepath, 'r') as f:
         paragraphs = f.readlines()
-    process_article(company, paragraphs, limit=-1)
+    result = process_article(company, paragraphs, limit=-1)
+    #print("*****%s,%s,%d" %( company, filename, phrases))#, file=sys.stderr)
+    return result
 
 def process_article(company, paragraphs, limit=-1):
     count = 0
+    result = {"paragraphs" : []}
     for paragraph in paragraphs:
         if paragraph.startswith("##"):
+            index = paragraph.find(': ')
+            key = paragraph[2:index].lower()
+            value = paragraph[index+2:].strip()
+            if key == "keywords":
+                value = value.split(',')
+            result[key] = value
             continue
         paragraph = paragraph.strip()
         if len(paragraph.split()) < 25:
             continue
         count += 1
-        process_paragraph(company, paragraph, count, merge_compound=True)
+        paragraph_result = process_paragraph(company, paragraph, count, merge_compound=True)
+        if len(paragraph_result) > 0:
+            result["paragraphs"].append(paragraph_result)
  
         if limit > 0 and count >= limit:
             break
+    return result
 
 def process_paragraph(company, paragraph, num, merge_compound=False):
     #print(paragraph)
@@ -83,9 +108,11 @@ def process_paragraph(company, paragraph, num, merge_compound=False):
     sentences = doc.sents
     #if doc._.has_coref:
     #    print(doc._.coref_clusters)
-    process_sentences(company, sentences)
+    result = process_sentences(company, sentences)
+    return result
 
 def process_sentences(company, sentences):
+    result = []
     for sentence in sentences:
         for keyword in keywords:
             if keyword in sentence.text.lower():
@@ -93,14 +120,24 @@ def process_sentences(company, sentences):
                 #extract_aspects(sentence)
                 phrases = extract_phrases(company, sentence)
                 if phrases is not None:
-                    extract_raw(sentence)
-                    print(phrases)
+                    tokens = extract_token_details(sentence)
+                    result.append(
+                        {"sentence" : sentence.text,
+                        "tokens" : tokens,
+                        "phrases" : phrases})
                 break
+    return result
 
-def extract_raw(sentence):
-    print(sentence.text)
+def extract_token_details(sentence):
+    tokens = []
     for token in sentence:
-        print('\t"'+token.text+'"', token.pos_, token.dep_, '"'+token.head.text+'"', token.head.pos_, [child for child in token.children])
+        tokens.append({"text": token.text, 
+        "pos" : token.pos_,
+        "dep" : token.dep_,
+        "head_text" : token.head.text,
+        "head_pos" : token.head.pos_,
+        "children" : [child.text for child in token.children]})
+    return tokens
 
 def extract_adjectives(sentence):
     print(sentence.text)
@@ -108,7 +145,7 @@ def extract_adjectives(sentence):
     for token in sentence:
         if token.pos_ == 'ADJ':
             descriptive_terms.append(token)
-    print(descriptive_terms)
+    #print(descriptive_terms)
 
 def extract_aspects(sentence):
     aspects = []
@@ -126,7 +163,7 @@ def extract_aspects(sentence):
             descriptive_term = prepend + token.text
     aspects.append({'aspect': target,
     'description': descriptive_term})
-    print(aspects)
+    #print(aspects)
 
 def extract_phrases(company, sentence):
     phrases  = {"company" : []}
@@ -166,9 +203,13 @@ def extract_phrases(company, sentence):
                         verbs += [verbs[-1].head]
                     for child in verbs[-1].rights:
                         if child.dep_ in ["ccomp", "xcomp", "dobj"]:
-                            phrases["company"].append(" ".join([subject.text, collate_verbs(verbs), collate_prep(child)]))
+                            phrase = " ".join([subject.text, collate_verbs(verbs), collate_prep(child)])
+                            if phrase not in phrases["company"]:
+                                phrases["company"].append(phrase)
                         if child.dep_ in ["prep"]:
-                            phrases["company"].append(" ".join([subject.text, collate_verbs(verbs), collate_prep(child)]))
+                            phrase = " ".join([subject.text, collate_verbs(verbs), collate_prep(child)])
+                            if phrase not in phrases["company"]:
+                                phrases["company"].append(phrase)
 
     # Only print keywords with phrases
     phrases = {key:value for (key,value) in phrases.items() if len(value) > 0}
@@ -198,7 +239,7 @@ def collate_prep(start):
     current = start
     more = True
     result = [start.text]
-    print("\t\t", result)
+    #print("\t\t", result)
     while more:
         more = False
         for child in current.children:

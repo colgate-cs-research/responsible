@@ -3,11 +3,12 @@
 import numpy
 import spacy
 from sklearn.svm import SVC
+from sklearn.metrics import precision_score, recall_score, average_precision_score
 
 nlp = spacy.load("en_core_web_md")
-label_map = {"AGAINST": 0, "FAVOR": 1, "NONE": 2, "UNKNOWN": 2}
+label_map = {"AGAINST": 0, "FAVOR": 1, "NONE": 2, "UNKNOWN": 2, "MIXED" : 2}
 
-def main(csvfile="output/company_net-neutrality.csv"):
+def main(csvfile="output/company.csv"):
     vectors, labels = get_data(csvfile)
     learn(vectors, labels)
 
@@ -51,6 +52,8 @@ def learn(vectors, labels):
         accuracy = classifier.score(test_vectors, test_labels)
         print("Accuracy for fold ", int(i/fold+1), ": ", round(accuracy*100,2), "%", sep="")
         total += accuracy
+        test_predict = classifier.predict(test_vectors)
+        print(precision_score(test_predict, test_labels))
     print("Total accuracy: ", round(total/10*100,2), "%", sep="")
 
 
