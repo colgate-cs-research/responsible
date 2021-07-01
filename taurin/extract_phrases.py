@@ -32,7 +32,7 @@ def main():
     #process_file("cogent communications", "01.txt")
     #process_file("cogent communications", "03.txt")
     #process_file("AT&T", "02.txt")
-    result = process_outdir("output/taurin_submit/pages")
+    result = process_outdir("output/pages")
     #result = {"FirstLight Fiber" : process_company("FirstLight Fiber", "output/taurin_submit/pages")}
     #result = {"Deutsche Telekom" : process_company("Deutsche Telekom", "output/taurin_submit/pages")}
     with open("output/extract.json", 'w') as out:

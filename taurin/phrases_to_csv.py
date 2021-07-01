@@ -12,8 +12,9 @@ def main(inpath="output/extract.json", outpath="output/company.csv"):
                 for paragraph in article["paragraphs"]:
                     for sentence in paragraph:
                         if "company" in sentence["phrases"]:
-                            for phrase in sentence["phrases"]["company"]:
-                                outfile.write("%s\5%s\t%s\t%s\n" % (company_name, article_name, phrase.strip(), "TODO"))
+                            outfile.write("%s\5%s\t%s\t%s\n" % (company_name, article_name, sentence["sentence"], "TODO"))
+                            #for phrase in sentence["phrases"]["company"]:
+                            #    outfile.write("%s\5%s\t%s\t%s\n" % (company_name, article_name, phrase.strip(), "TODO"))
 
 if __name__ == "__main__":
     main()
