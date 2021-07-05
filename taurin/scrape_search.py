@@ -10,14 +10,14 @@ import json
 
 urllib3.disable_warnings()
 
-def main(outpath="output/search.json"):
+def main(outpath="output/search_no-around.json"):
     keywords = ["net neutrality", "open Internet", "zero-rating", "paid prioritization"]
+    #keywords = ["MANRS"]
 
     companies = []
-    companies += ["Cogent Communications", "FirstLight Fiber", "Hurricane Electric", "Internet2", "Zayo", "NYSERNet", "Orange"]
+    companies += ["Cogent Communications", "FirstLight Fiber", "Hurricane Electric", "Internet2", "Zayo", "NYSERNet"]
     companies += ["Telia Carrier", "Sprint", "AT&T", "Deutsche Telekom", "Telefonica", "British Telecom", "KDDI"]
     #companies += ["Tata Communications", "PCCW GLobal", "Lumen Technologies", "Liberty Global", "GTT Communications", "Verizon", "Comcast"]
-    #companies += ["FirstLight Fiber"]
 
     num_results_per_keyword = 50
 
@@ -27,7 +27,8 @@ def main(outpath="output/search.json"):
     for company in companies:
         dict_of_links[company] = {}
         for keyword in keywords:
-            query = '"%s" AROUND(50) "%s"' % (company, keyword)
+            #query = '"%s" AROUND(50) "%s"' % (company, keyword)
+            query = '"%s" "%s"' % (company, keyword)
             print(query)
             query = urllib.parse.quote_plus(query) # Format into URL encoding
             ua = UserAgent()

@@ -2,7 +2,10 @@
 
 import json
 
-def main(inpath="output/extract_around.json", outpath="output/phrases_arounnd.csv"):
+def main(inpath="output/phrases_around_sentences.csv", outpath="output/stats-labeled_around_sentences.json"):
+    with open(inpath, 'r') as infile:
+        
+
     with open(inpath, 'r') as infile:
         data = json.load(infile)
     

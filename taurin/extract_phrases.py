@@ -32,10 +32,10 @@ def main():
     #process_file("cogent communications", "01.txt")
     #process_file("cogent communications", "03.txt")
     #process_file("AT&T", "02.txt")
-    result = process_outdir("output/pages")
+    result = process_outdir("output/pages_around")
     #result = {"FirstLight Fiber" : process_company("FirstLight Fiber", "output/taurin_submit/pages")}
-    #result = {"Deutsche Telekom" : process_company("Deutsche Telekom", "output/taurin_submit/pages")}
-    with open("output/extract.json", 'w') as out:
+    #result = {"Deutsche Telekom" : process_company("Deutsche Telekom", "output/pages")}
+    with open("output/extract_around.json", 'w') as out:
         json.dump(result, out, indent=4)
 
 def process_outdir(outdir="output/pages"):
@@ -172,6 +172,7 @@ def extract_phrases(company, sentence):
 
     for token in sentence:
         token_text = token.text.lower()
+        """
         for keyword in keywords:
             if keyword in token_text:
                 if token.dep_ == 'dobj': # Direct object
@@ -194,6 +195,7 @@ def extract_phrases(company, sentence):
                     grandparent = parent.head
                     what = grandparent.text
                     #phrases[keyword].append(" ".join([what, correlation, token.text]))
+        """
         for name in [company] + companies[company]:
             if name.lower() in token_text:
                 if token.dep_ == 'nsubj': # Nominal subject
