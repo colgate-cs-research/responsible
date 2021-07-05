@@ -1,0 +1,19 @@
+##LINK: https://www.benton.org/headlines/public-knowledge-initiates-open-internet-complaints-against-att-sprint-t-mobile-and
+##KEYWORDS: open Internet
+##TITLE: Public Knowledge Initiates Open Internet Complaints Against AT&T, Sprint, T-Mobile and Verizon | Benton Institute for Broadband & Society
+##METHOD: paragraphs
+
+Subscribe
+Subscribe
+Public Knowledge filed letters with AT&T, Sprint, T-Mobile, and Verizon as the first step in the formal open Internet complaint process with the Federal Communications Commission. 
+The complaint is in relation to AT&T, Sprint, and Verizon’s practice of throttling wireless data subscribers with “unlimited” data plans, as well as T-Mobile’s practice of exempting speed test applications from throttling. 
+Sprint and Verizon violate the transparency rule by failing to meaningfully disclose which subscribers will be eligible for throttling. AT&T, Sprint, and Verizon violate the transparency rule by failing to disclose which areas of the network are congested, thus subject to throttling. T-Mobile violates the transparency rule by preventing throttled subscribers from determining the actual network speed available to them.
+ 
+CONTACT
+Benton Institute
+for Broadband & Society
+1041 Ridge Rd, Unit 214
+Wilmette, IL 60091
+847-328-3040
+Contact Us
+© 1994-2021 Benton Institute for Broadband & Society. All Rights Reserved.

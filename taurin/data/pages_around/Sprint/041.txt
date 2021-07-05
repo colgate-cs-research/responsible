@@ -1,0 +1,52 @@
+##LINK: https://wiki.mozilla.org/Bookoftheweb
+##KEYWORDS: open Internet
+##TITLE: Bookoftheweb - MozillaWiki
+##METHOD: paragraphs
+
+The Open Internet Toolkit
+Campaign Resources for Building Internet Literacy
+
+A Book Sprint is planned for May 9 - 11 2011 in Toronto.
+
+Please have a look at the Topics and Inspiration for more on our thinking about the content and approach.
+
+Archived Version of the Earlier Project Vision
+
+Thank you for being part of this experiment in envisioning a better future for the web. You will be working together to blow each other's minds with your crazy, amazing ideas about how to promote digital literacy. We're so grateful that each of you have taken the time to be part of the conversation, and so excited to have this chance to be in a room with all of you and see what we cook up together.
+
+So what are we cooking, exactly? That's up to you. We're asking you to help create a toolkit or playbook that can support educators in their work communicating information, skills and values for an open web. And while we're writing for educators, part of what we're writing is copy that they can remix and use with a general audience. 
+
+Our three days will involve some brainstorming, some conversation and a lot of rolling up our sleeves to just write. By the end of those three days we want to have three resource guides -- you can think of them as chapters -- that cover three different topics. Those might grow into a book, or we might build each one to stand on its own: that vision will evolve through our conversation and work together.
+
+Here are some more details on what we hope to tackle.
+
+How do we help a large, general audience understand:
+
+
+
+The purpose of The Book of the Web project is to ensure that every single Internet user has the conceptual building blocks needed to be a smart, creative web citizen. 
+
+By creating this kind of universal awareness and understanding, we hope to:
+
+The book is intended to serve two types of readers:
+1.        People who will use it as a playbook, like folks involved in consumer education programs, tech and media literacy, or tech book authors and bloggers.
+2.        People who want to understand the web better, including people who are already heavy tech users (like gamers and social media users) as well as tech-positive people who make more moderate use of the web.
+
+This week we begin the work of writing an open source marketing playbook for Internet literacy. This book will provide organizations and educators with messaging and resources they can remix to deliver digital literacy campaigns and education.  The purpose of the sprint is to create an initial set of demonstration chapters that will provide useful content and help a larger audience understand how The Book of the Web can support their work.
+
+In the course of this week we will:
+
+Please have a look at the Topics and Inspiration for more on our thinking about the content and approach.
+
+We hope you will take the chapters we write this week (and later, the book as a whole) back home to your own work or organization. Turn it into campaigns, newsletters or courses: whatever serves your goals and needs. Then tell us how you're using it so we can keep developing the messaging and materials that are useful to leaders like you.
+
+
+
+
+
+Ryan Merkley
+Eric Squair
+Phil Haid
+
+
+Book Sprint Organizers 

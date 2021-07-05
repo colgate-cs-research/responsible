@@ -1,0 +1,23 @@
+##LINK: https://en.wikipedia.org/wiki/NYC_Mesh
+##KEYWORDS: net neutrality
+##TITLE: NYC Mesh - Wikipedia
+##METHOD: paragraphs
+
+NYC Mesh is a physical network of interconnected routers and a group of enthusiasts working to support the expansion of the project as a freely accessible, open, wireless community network. NYC Mesh is not an  internet service provider (ISP), although it does connect to the internet and offer internet access as a service to members. The network includes over 600 active member nodes throughout the five boroughs of New York City, with concentrations of users in lower Manhattan and Brooklyn.[1]
+
+The goal of NYC Mesh is to build a large scale, decentralized digital network, owned by those who run it, that will eventually cover all of New York City and neighboring urban areas.[1]
+
+Participation in the project is governed by its Network Commons License.[2]
+This agreement, partially modeled on a similar license in use by Guifi.net, lists four key tenets:
+
+Other similar projects include Freifunk in Germany, Ninux in Italy, Sarantaporo.gr in Greece, the People's Open Network in Oakland, CA, and Red Hook Wi-Fi in Brooklyn, NY.[3]
+
+Like many other free community-driven networks, NYC Mesh uses mesh technology to facilitate robustness and resiliency. Additionally, between larger nodes, the project uses the Border Gateway Protocol (BGP). Nodes are connected via WiFi links similar to those used by wireless routers in homes, but with more powerful routers that are able to function as a backbone, making connections at distances up to a mile.[4]
+
+NYC Mesh was founded in 2012 and was originally based on the Cjdns protocol.[5][6]
+
+In 2015 the project received a grant from ISOC-NY, the New York chapter of the Internet Society.[7]
+
+NYC Mesh connects to the internet via the DE-CIX internet exchange point (IXP) at its first super node, Sabey Data Center at 375 Pearl Street,[8] peering with companies such as Akamai, Apple, Google, and Hurricane Electric.[9] Later, another supernode was opened up on the roof of Cologuard Brooklyn, another data center.
+
+The project received a membership boost due to the U.S. Federal Communications Commission vote in December 2017 to repeal its 2015 net neutrality rules. Coinciding with this decision, the average number of member sign-ups requests per month jumped from about 20 to over 400.[1][10]

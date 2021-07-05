@@ -1,0 +1,52 @@
+##LINK: https://bangordailynews.com/2015/02/26/news/fcc-declares-broadband-a-public-utility-in-net-neutrality-ruling/
+##KEYWORDS: open Internet
+##TITLE: FCC adopts net-neutrality rule backed by Obama for Internet
+##METHOD: article 1
+
+
+
+ 
+ WASHINGTON — U.S. regulators invoked broad powers to ensure that Web traffic for all users is treated equally, adopting net-neutrality rules that supporters say will preserve a wide-open Internet and that opponents vow to fight in court. 
+ The measure approved Thursday by the Federal Communications Commission prohibits companies such as AT&T and Comcast from blocking or slowing online traffic and from offering faster service in return for payment. It also brings wireless Internet service fully under the rules for the first time. 
+ The 3-2 vote on party lines by FCC commissioners enshrines a regulation backed by the Obama administration and opposed by cable and telephone companies, which say the rules risk stifling a fast-growing Internet and will lead to rate regulation. 
+ 
+ 
+ 
+ “The Internet is too important to allow broadband providers to make the rules,” said FCC Chairman Tom Wheeler, a Democrat appointed by President Barack Obama, in comments as the commission prepared to vote in its crowded meeting room in Washington. 
+ With the vote, the FCC is seeking to settle more than a decade of debate about whether the Internet should be a highway offered to all users on equal terms, or whether broadband providers can levy fees and restrict access. The previous set of net-neutrality rules passed by the FCC in 2010 was voided by a federal appeals court, sending Wheeler’s agency back to the drawing board. 
+ The proposal approved Thursday drew comments to the agency from more than 4 million people, including Obama. 
+ 
+ U.S. Sen. Angus King, I-Maine, hailed the Federal Communications Commission’s vote to regulate the Internet as a utility. 
+ In a video posted to YouTube, King characterized the vote as “ one of the most important decisions made in Washington in years.” 
+ But the vote was not without its critics. 
+ 
+ 
+ 
+ 
+ 
+ Republicans in Congress and at the commission opposed Wheeler’s plan, saying the chairman had improperly yielded to Obama’s call for strong rules. They didn’t let up with the vote. 
+ The vote “imposes intrusive government regulations that won’t work to solve a problem that doesn’t exist using legal authority the FCC doesn’t have,” said Ajit Pai, a Republican commissioner who campaigned in TV and radio appearances and on social media against the rules. 
+ Republican Rep. Bruce Poliquin of Maine criticized the move and said the FCC “should not be regulating the Internet with rules designed for the 1930s,” adding he feared net neutrality would discourage investment in new technology that could  increase speeds in Internet backwaters , such as rural Maine. 
+ U.S. Sen. Susan Collins, R-Maine, was noncommittal on her position on net neutrality. Earlier today, a spokesman only said that Collins “does support common-sense regulations to prohibit Internet providers from discriminating against customers based on who they are or what they say.” 
+ The agency debated the rules behind closed doors prior to the public meeting, and didn’t say when it would release the text. The rules take effect after being published in the Federal Register. 
+ The vote is a “radical” step that imposes “badly antiquated regulations,” Michael Glover, senior vice president at Verizon Communications Inc., said in an emailed statement. Verizon, the second-largest U.S. telephone company, brought the lawsuit that upended the FCC’s last net neutrality rules. 
+ 
+ The agency’s action sets the stage for Internet service providers to mount a legal challenge. Wheeler’s rules use extensive utility-style powers crafted to govern phone companies. That’s a change from a lighter approach adopted a decade ago when the agency had a Republican majority. Whether the FCC properly switched to the stronger basis for authority will be among issues in expected court challenges. 
+ Internet traffic increasingly is running over mobile networks, so it makes sense to include those connections, Wheeler said in public appearances before the vote. Wireless providers said Congress had exempted their service from strong rules. 
+ Companies and business lobby groups said the commission went too far. 
+ AT&T wants a consensus solution and “hopefully bipartisan legislation,” Senior Executive Vice President-External and Legislative Affairs Jim Cicconi said. A future FCC, Congress, or courts could undo the FCC’s decision, Cicconi said in an emailed statement. He said there is “a very real potential of having to start over — again — in the future.” 
+ The FCC has “pried open the door to heavy-handed government regulation in a space celebrated for its free enterprise,” Michael Powell, president of the National Cable & Telecommunications Association trade group that has Comcast among its members, said in an e-mailed statement. “The commission has breathed new life into the decayed telephone regulatory model and applied it to the most dynamic, free-wheeling and innovative platform in history.” 
+ Wheeler disagreed with characterizations that government is imposing utility-style regulation. 
+ ”The action that we take today is an irrefutable reflection of the principle that no one, whether government or corporate, should control free and open access to the Internet,” Wheeler said. 
+ Using that same language, Rep. Chellie Pingree, D-Maine, said that “regulating the Internet as a public utility will keep giant broadband providers from stifling innovation and fair competition for their own ends. This is a huge victory for the millions of people who rose up in the last year to speak up for net neutrality and a free and open Internet.” 
+ In another expansion of its authority, the agency claimed power to judge whether Internet service providers offer fair terms for accepting Web traffic from the likes of video streamer Netflix Inc. and data shippers such as Cogent Communications Holdings Inc. and Level 3 Communications Inc. 
+ BDN writer Mario Moretto contributed to this report 
+ 
+ 
+ More articles from the BDN 
+ 
+ 
+ 
+   
+ 
+ Tagged:  Barack Obama ,  net neutrality   

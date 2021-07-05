@@ -1,0 +1,80 @@
+##LINK: https://dl.acm.org/doi/10.1007/s11235-011-9517-1
+##KEYWORDS: net neutrality
+##TITLE: QoS differentiation and Internet neutrality | Telecommunications Systems
+##METHOD: article 1
+
+
+article  QoS differentiation and Internet neutrality 
+ Share on 
+       Authors:      Brikena Statovci-Halimi   Institute of Broadband Communications, Vienna University of Technology, Vienna, Austria 1040       Institute of Broadband Communications, Vienna University of Technology, Vienna, Austria 1040 View Profile   ,      Gerald Franzl   Institute of Broadband Communications, Vienna University of Technology, Vienna, Austria 1040       Institute of Broadband Communications, Vienna University of Technology, Vienna, Austria 1040 View Profile       Authors Info & Affiliations          Telecommunications Systems Volume 52 Issue 3 March     2013   pp   1605–1614 https://doi.org/10.1007/s11235-011-9517-1 Published: 01 March 2013 
+ 4 citation 0 Downloads Metrics Total Citations 4 Total Downloads 0 Last 12 Months 0 Last 6 weeks 0 
+ Get Citation Alerts New Citation Alert added! This alert has been successfully added and will be sent to: You will be notified whenever a record that you have chosen has been cited. To manage your alert preferences, click on the button below. Manage my Alerts New Citation Alert! Please  log in to your account 
+ Save to Binder Save to Binder Create a New Binder Name Cancel Create Export Citation Publisher Site Telecommunications Systems Volume 52, Issue 3 
+ Previous Article Next Article 
+ Abstract Internet neutrality is a debate controversial to a tiered, application-aware Internet. Bandwidth and end-to-end delay of connections across the Internet may vary by several orders of magnitude, therefore unequal data handling per node is commonly applied to achieve differentiated QoS. This practice contradicts Internet neutrality if it is not restricted to pure application awareness. A strict separation of network operation from service provisioning would perfectly fit to achieve Internet neutrality. But this may lack economic business models for network operators, especially in a flat-rate world. This paper provides a review on differentiated quality requirements, discusses the different viewpoints of network and content providers, and closes with a discussion on potential differentiated charging intended to achieve a fair, autonomous, and cost-related revenue distribution among stakeholders. 
+                    References
+                 Federal Communications Comission (FCC) (2010). US national broadband plan. March 2010. Google Scholar Callejo-Rodriguez, M. A., & Enriquez-Gabeiras, J. (2008). Bridging the standardization gap to provide QoS in current NGN architectures. IEEE Communications Magazine, 46, 132---137.   Google Scholar Digital Library Little, A. D. (2005). The Arthur D. Little global broadband report update 2005. Google Scholar Meddeb, A., (2010). Internet, QoS pieces of the puzzle. IEEE Communications Magazine, 48, 86---94.   Google Scholar Digital Library ITU Y.1541 (2002). Network performance objectives for IP-based services. May 2002. Google Scholar ITU E.802 (2007). Framework and methodologies for the determination and application of QoS parameters. Google Scholar ITU G.1020 (2006). Performance parameter definitions for quality of speech and other voiceband applications utilizing IP networks. Google Scholar Xiao, X. (2008). Technical, commercial and regulatory challenges of QoS. An Internet service model perspective. Los Altos: Morgan Kaufmann.  Google Scholar Braun, T. et al.(2008). End-to-end quality of service over heterogeneous networks. Berlin: Springer.  Google Scholar Ghandour, M. et al. (2010). Ultra high performance media multicasting scheme over wavelength-routed networks. In: Optical fiber communication conference (OFC 2010). Google Scholar ITU H222.0---ISO/IEC 13818-1 (2006). Information technology generic coding of moving pictures and associated audio information systems. May 2006. Google Scholar ITU P.800 (1996). Methods for subjective determination of transmission quality. August 1996. Google Scholar Reed, B. (2007). Net neutrality vs. tiered services, network world. Google Scholar Domzal, J., & Jajszczyk, A. (2009). Approximate flow-aware networking. In: IEEE ICC 2009 (June 2009). ISSN 1938-1883.  Google Scholar Briscoe, B. (2009). Internet--fairer is faster. British Telecom white paper. Google Scholar Floyd, S., & Jacobson, V. (1993). Random Early detection gateways for congestion avoidance. IEEE/ACM Transactions on Networking1(4), 397---413.   Google Scholar Tran-Gia, P., Hossfeld, T., & Menth, M. (2009). Emerging issues in current future internet desing. E&I. Elektrotechnik und Informationstechnik, 126(7/8), 241---249. Google Scholar Cross Ref Fiedler, M., Hossfeld, T., & Tran-Gia, Ph. (2010). A generic quantitative relationship between quality of experience and quality of service. IEEE Network24(2), 36---41.   Google Scholar 
+ 
+ 
+ Index Terms  (auto-classified) 
+ 
+ QoS differentiation and Internet neutrality Networks Network protocols Network services Network management 
+ 
+ 
+ 
+ 
+ 
+ 
+   Comments   
+ Please enable JavaScript to view the comments powered by Disqus. 
+ 
+ 
+ Login options Check if you have access through your login credentials or your institution to get full access on this article. Sign in Full Access Get this Article 
+ Information Contributors Published in 
+ 
+ Telecommunications Systems    Volume 52, Issue 3 March     2013 291  pages ISSN: 1018-4864 Issue’s Table of Contents 
+ 
+ Copyright © Copyright © 2013 Springer Science+Business Media New York Sponsors In-Cooperation Publisher Kluwer Academic Publishers United States 
+ Publication History Published: 1 March 2013 
+ Author Tags Differentiated charging Internet neutrality Quality of service Application aware networks Qualifiers article Conference Funding Sources 
+ 
+ 
+ 
+ Contributor Metrics Expand All  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brikena  Statovci-Halimi 
+ 
+ 
+             Vienna University of Technology 
+         
+ 
+ Publication Years 2002 - 2013 Publication counts 2 Available for Download 0 Citation count 4 Downloads (cumulative) 0 Downloads (6 weeks) 0 Downloads (12 months) 0 Average Citation per Article 2 Average Downloads per Article 0 View Full Profile 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gerald  Franzl 
+ 
+ 
+             Vienna University of Technology 
+         
+ 
+ Publication Years 2001 - 2013 Publication counts 5 Available for Download 3 Citation count 24 Downloads (cumulative) 2,046 Downloads (6 weeks) 1 Downloads (12 months) 8 Average Citation per Article 5 Average Downloads per Article 682 View Full Profile 
+ 
+ 
+       Authors:      Brikena Statovci-Halimi   Institute of Broadband Communications, Vienna University of Technology, Vienna, Austria 1040       Institute of Broadband Communications, Vienna University of Technology, Vienna, Austria 1040 View Profile   ,      Gerald Franzl   Institute of Broadband Communications, Vienna University of Technology, Vienna, Austria 1040       Institute of Broadband Communications, Vienna University of Technology, Vienna, Austria 1040 View Profile       Authors Info & Affiliations          Other Metrics View Article Metrics Bibliometrics Citations 4 Article Metrics 4 Total Citations View Citations 0 Total Downloads Downloads (Last 12 months) 0 Downloads (Last 6 weeks) 0 Other Metrics View Author Metrics Cited By Digital Edition View this article in digital edition. View Digital Edition Figures Other Share this Publication link https://dl.acm.org/doi/10.1007/s11235-011-9517-1?User-Agent=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F91.0.4472.114+Safari%2F537.36 Copy Link Share on Social Media 
+ Share on 
+ 0 References

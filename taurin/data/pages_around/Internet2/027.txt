@@ -1,0 +1,42 @@
+##LINK: https://wiki.p2pfoundation.net/Internet_for_Everyone
+##KEYWORDS: open Internet
+##TITLE: Internet for Everyone - P2P Foundation
+##METHOD: paragraphs
+
+= Getting everyone in the US connected to an open Internet should be a national priority.
+
+URL = http://internetforeveryone.org/
+
+
+
+Policy coalition including as members: the ACLU, Google, Consumer's Union, Internet2, OpenDNS, Free Press, the Writers Guild of America:
+
+"InternetforEveryone.org is a national initiative of public interest, civic and industry groups that are working to bring the benefits of a fast, affordable and open Internet connection to everyone in America.
+
+As the Internet has become a critical part of our daily lives, it is clear that everyone in America must have access to play a part in our economy and democracy. High-speed Internet, or “broadband,” is no longer a luxury; it’s a lifeline to contemporary society. Our broad alliance is working together with citizens across the country and national leaders to create a plan to bring a high-speed Internet connection into every home and business, at a price all of us can afford.
+
+To make sure everyone can benefit from the new economy and guarantee that all citizens play an active role in our democracy, our nation must embark on a national campaign to connect every person to a fast, affordable and open Internet."
+(http://www.internetforeveryone.org/principles)
+
+
+
+the organization has four primary principles:
+
+
+
+
+
+Karl:
+
+"groups can help institute change, but I think this particular group's mission statement is in dire need of clarity. With George Carlin's passing -- and his streamlining of the Ten Commandments fresh in my mind -- I'd like to replace the group's fairly mundane four principles with just one. I think my singular principle would be immensely more beneficial to this industry:
+
+Tackle corruption: The FCC should be stocked with technologists and visionaries, not bleating political partisans whose primary loyalties lie with the nation's largest corporations. Every effort should be made to purge the incumbent lobbyist stranglehold on this nation's policy makers. Until you do this, you will fix nothing.
+
+We have no competition without leadership. What leadership we do have acts primarily as an extension of the nation's broadband duopoly. With the FCC and FTC all but under the direct control of telecom operators, this duopoly has ensured that competition remains stagnant. They're spending billions to ensure that pro-consumer national broadband plans never come to pass -- while you're crying in your strudel. 
+
+Tackle corruption if you truly want to create competition. Create competition and you organically solve this industry's biggest problems (network neutrality, anti-competitive monopoly behavior, ISP marketing department use of the term "eXtreme"). If you're not placing the elimination of incumbent control over lawmakers as the primary cornerstone of your broadband improvement plan, you might as well be holding a Tupperware party."
+(http://www.dslreports.com/shownews/US-Broadband-Cannot-Be-Fixed-Until-You-Tackle-Corruption-95609)
+
+
+
+For context:

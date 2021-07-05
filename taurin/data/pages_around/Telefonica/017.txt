@@ -1,0 +1,8 @@
+##LINK: https://www.ee.columbia.edu/~tbma/cv.html
+##KEYWORDS: net neutrality
+##TITLE: Curriculum Vitae
+##METHOD: paragraphs
+
+Richard T.B. Ma, Dah Ming Chiu, John C.S. Lui, Vishal Misra and Dan Rubenstein. 
+ The Shapley Value: Its Use and Implications on Internet Economics.   
+ Proceedings of Allerton Conference on Communication, Control and Computing, September, 2008. 

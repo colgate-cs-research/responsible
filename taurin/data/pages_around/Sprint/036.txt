@@ -1,0 +1,208 @@
+##LINK: https://www.computerworld.com/article/2533293/xohm-wimax-usage-policy-says-sprint-can-enforce-bandwidth-limits.html
+##KEYWORDS: open Internet
+##TITLE: Xohm WiMax usage policy says Sprint can enforce bandwidth limits | Computerworld
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Networking 
+ Broadband 
+ 
+ 
+ News 
+ Xohm WiMax usage policy says Sprint can enforce bandwidth limits 
+ 
+ 
+ Sprint touts 'open Internet' model on Xohm but says it may limit some bandwidth-intensive apps 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By  Grant Gross 
+ 
+ 
+						
+							Senior Editor, 
+								
+									
+								
+
+
+
+
+
+
+
+
+
+
+
+
+ IDG News Service   | 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sprint Nextel Corp. has promised an "open Internet business model" without restrictions on services and customer choice for its new Xohm WiMax service, which the company  rolled out  in Baltimore yesterday. But its policy on acceptable use and network management says that the company may limit bandwidth for some applications, including file sharing.
+
+ Sprint plans to expand the new WiMax service to Washington and Chicago by year's end and then launch it  in other cities  early next year. In its Xohm  announcement  yesterday, the company boasted that its "open Internet business model transcends other carriers' wireless walled gardens that restrict services, choice and innovation." However, the acceptable use and network management  policy  for the Xohm service states: "To ensure a high-quality experience for its entire subscriber base, Xohm may use various tools and techniques designed to limit the bandwidth available for certain bandwidth-intensive applications or protocols, such as file sharing." 
+ When asked about the potential conflict between the press release and the policy, Sprint spokesman John Polivka said that the company doesn't plan to "police the Internet or the content" that Xohm users access. "We are not targeting specific applications or services," Polivka said. But he added that Sprint will engage in network management to fight traffic congestion as needed. "We want to make sure," he said, "that  no one uses a disproportionate share of the network to the disadvantage of other customers." Nonetheless, the terms of service laid out in the acceptable use policy do suggest that there will be some restrictions on use of the Xohm service, contended Free Press, an advocacy group that supports  Net neutrality rules  for broadband services providers.   Free Press officials said the differences between Sprint's public statements and the acceptable use policy are curious. "Our view is that consumers should take notice when a provider promises unfettered access to an open Internet on the one hand, while simultaneously reserving the right to limit access to certain content and applications on the other," said Ben Scott, the group's policy director. 
+ In 2005, the Federal Communications Commission approved a set of open Internet principles, saying that broadband users are "entitled to run applications and services of their choice."   
+ 
+ 
+ 
+ Related:  
+ 
+ Broadband 
+ Mobile 
+ Networking 
+ Regulation 
+ Wi-Fi 
+ Small and Medium Business 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 
+ 
+		    	Page 1
+		     
+ Next  
+ 
+ 
+ Page 1 of 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Learn how IT leaders are building cyberdefenses. Attend CSO's Future of Cybersecurity & Trust Summit-7/20-7/22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		 
+		 
+ 
+ 
+ 
+ Shop Tech Products at Amazon 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

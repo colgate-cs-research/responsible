@@ -1,0 +1,49 @@
+##LINK: https://tidbits.com/2017/11/28/fcc-to-end-net-neutrality/
+##KEYWORDS: paid prioritization
+##TITLE: FCC to End Net Neutrality - TidBITS
+##METHOD: article 1
+
+
+
+ 
+ Geoff Duncan 
+ 
+28 November 2017
+ 
+ 
+16
+comments
+ 
+ FCC to End Net Neutrality 
+ 
+ 
+ 
+ Share Facebook Twitter Reddit 
+ 
+ Earlier this year we noted that the U.S. Federal Communications Commission (FCC), under Trump-appointed chairman Ajit Pai, was preparing to roll back Obama-era regulations that classified Internet service providers as common carriers and mandated “net neutrality.” (See “ FCC and Congress Work to Roll Back Net Neutrality ,” 05 May 2017.) Well, now is the time the hammer meets the nail: the FCC is expected to vote on the proposal to undo net neutrality on 14 December 2017. 
+ The  full 210-page proposal  (PDF) is available to the public, but it boils down to: 
+ 
+ The FCC will reclassify Internet service providers as “information services” rather than more-regulated common carriers like utilities and telephone companies. 
+ 
+ 
+ Mobile Internet service will be reclassified as a “private” service subject to little regulation rather than “commercial” service, on the basis of some hairsplitting about connecting to the public switched telephone network. 
+ 
+ 
+ In the spirit of transparency, network operators will have to publish (or disclose to the FCC) some information about their network operations and commercial offerings that is “sufficient to enable consumers to make informed choices.” This would include information about blocking, throttling, or prioritizing of some services or apps at the expense of others. However, providers would essentially be able to take any action they like under the aegis of “network management” without disclosure. 
+ 
+ 
+ States and localities will be prevented from drawing up their own broadband consumer protections. 
+ 
+ 
+ Under this new framework, the FCC is essentially forfeiting its authority to regulate the broadband Internet market. This means responsibility for keeping network operators on the up-and-up falls to the Federal Trade Commission. The FTC has never had anything to do with net neutrality and cannot impose regulations on network operators, but it can investigate anti-competitive behavior. 
+ Commissioner Pai has consistently characterized net neutrality as a solution looking for a problem. Generally, Pai sees net neutrality regulations as an unneeded burden because the Internet did not devolve into a dystopia of slow lanes, fast lanes, and paid prioritization before 2015. Pai also feels the FCC is unnecessary to keep network providers in line: in the handful of instances where anticompetitive behavior did crop up, most were handled by the industry without the FCC’s intervention. Further, Pai claims that eliminating net neutrality regulations — or, rather, “restoring Internet freedom” — is essential to spur investment in America’s broadband infrastructure. Pai cites studies claiming  broadband investment fell  in the two years since the Obama-era FCC enacted net neutrality regulations. 
+ All these claims are dubious. Where the FCC says broadband investment has fallen since 2015, ISPs have consistently told their investors (via legally-binding financial disclosures) that  net neutrality regulations were not impeding them . Almost every major network operator — from Comcast and Verizon to Time-Warner, Sprint, and T-Mobile — has engaged in or is actively engaging in some form of blocking, paid prioritization, or (particularly) throttling with little or no disclosure to customers. And network operators didn’t set up fast lanes in the “light-touch” regulatory era before 2015 
+because they were waiting to see how a number of court challenges to FCC authority were going to turn out. 
+ Public opinion also does not agree with Commissioner Pai. Surveys sponsored by both  the cable industry  and  Mozilla  — arguably on opposite sides of the issue — find the American public remains overwhelmingly in favor of net neutrality. 
+ In this light, Commissioner Pai’s view on the value of public opinion is interesting. When proposing to undo net neutrality, Pai promised a “ far more transparent ” process than that used by the FCC in 2015. Yet the process the FCC implemented this time around apparently gave no thought to filtering out automated spam and trolling of the comment process, leading to the FCC claiming that it was just too burdensome on them to, you know, actually process the comments. Also too burdensome? Publishing the comments, or responding to inquiries about the comment process.  In the words of Commissioner Mignon Clyburn , the process completely ignored “thousands of consumer complaints and millions of individual comments that ask the FCC to save net neutrality and uphold the principles that all traffic should be created equal.” 
+ The FCC’s proposal states that the “disinfectant of public scrutiny and market pressure” is far more effective at controlling the broadband industry than any government regulation. Yet, under Pai’s leadership, the FCC has found a way to disregard public comment and craft a regulatory framework that relies on network providers voluntarily disclosing whether they’re violating any rules. And market pressure works only if there is a market: according to the FCC’s own proposal, at the end of 2016 some 48.9 percent of Americans had access just a single broadband provider capable of meeting the FCC’s definition of “modern broadband” (25 Mbps downstream and 3 Mbps upstream) or no access at all. If you don’t like your ISP, 
+it’s hard to take your business elsewhere when there is no other ISP. So much for market pressure. 
+ Although many consumer rights groups continue to protest the FCC’s proposal (and the EFF has created a service enabling citizens to  directly lobby their congressional representatives on the issue ), the fix is in: it’s very unlikely any public action will delay or fend off the FCC’s action. 
+ It’s difficult to say how all this will play out for network operators, Internet companies, and consumers. Network operators all give lip service to wanting a free and open Internet, and they claim they have no interest in blocking services or restricting access. But these are the same companies that feel Internet heavy-hitters like Apple, Amazon, Facebook, Google, and Netflix have made billions off the “ free lunch ” of network neutrality requirements, and the only leverage network providers have is limiting access to consumers. So, there is absolutely no question network operators will want more money from Internet companies — as fast as they 
+can get it. Similarly, Internet companies will pay up if there’s no alternative, and they’ll almost certainly pass those costs on to consumers. So, consumers can expect charges and fees to increase, along with having virtually no recourse if their ISP blocks or degrades Internet services they want or need. 
+ 

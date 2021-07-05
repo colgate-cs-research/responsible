@@ -1,0 +1,51 @@
+##LINK: http://www.afternines.com/news/2015/1/20/5-tech-observations-20-january-2015
+##KEYWORDS: open Internet
+##TITLE: 5 Tech Observations: 20 January 2015 — After Nines Inc.
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ Joe Panettieri 
+ 
+ 
+ January 20, 2015 
+ 
+ 
+ 
+ 5 Things ,  Reader Comments 
+ 
+ 
+ 
+ 5 Tech Observations: 20 January 2015 
+ 
+ 
+ 
+ Joe Panettieri 
+ 
+ 
+ January 20, 2015 
+ 
+ 
+ 
+ 5 Things ,  Reader Comments 
+ 
+ 
+ 
+ 
+ Good morning, I.T. entrepreneurs. Here are five technology news insights, updates, rumors, chatter, and observations to start your day for Tuesday, January 20, 2015. Actually, today's update involves 14 items. 14. Fuzzy Forecast:  SAP this morning dropped its profit margin guidance because of an accelerating worldwide shift to cloud computing -- and the need to invest in more cloud R&D. Still, SAP's latest quarterly profits were slightly ahead of Wall Street's expectations. 13. Crying Foul:  Deutsche Telekom's CEO says Silicon Valley has an  unfair advantage  over European telecommunications firms. He noted that Facebook offers calls and messaging but doesn't face telecom-type regulatory reviews. My spin: Isn't this more of a rant against IT and software startups in general that ride the open Internet? 12. Small Business Tax Cut:  That's what New York Governor Andrew Cuomo is  calling for . My reply? Yes please. 11. Apple Pay Rival:  Google apparently is in talks to buy Softcard , a mobile payments company. The potential dial could help Google -- which has struggled somewhat with its own Wallet software -- to compete more effectively against Apple Pay. For I.T. entrepreneurs, the mobile payment industry provides new opportunities to link a range of applications together into Big Data systems -- including beacons, databases, and point of sale systems. 10. Bad Headline, Good Data Analysis : Forbes contributor Howard Baldwin asks, " Is Big Data Finally Getting Traction? " Um, of course. Despite the headline the actual article is worth a read, because it tracks big data project plans and other stats that are eye-opening. 9. Windows 10 Preview:  Microsoft CEO Satya Nadella will offer a deeper dive preview of the forthcoming operating system on Wednesday. Early Windows 10 chatter in 2014 was all about enterprise and business computing. This time around, it sounds like Microsoft will describe  Windows 10's benefits for mobile consumers . It's a safe bet both  Mary Jo Foley  and  Paul Thurrott  will be blogging live covering the event. Windows 10 is expected to ship later this year. 8. Social Media's Next Stop:  Looking for a career in social media? Perhaps you should rethink that strategy. It looks like most Facebook job openings actually involve drones, data centers, Atlas advertising and Oculus Rift virtual reality,  Reuters reported . 7. Automated Disaster Recovery:  Want to automatically recover a failed Amazon EC2 (elastic compute cloud) instance? Now you can, thanks to Amazon's new  Auto Recovery for Amazon EC2 . The offering is the latest step by public cloud providers to further mitigate IT downtime. 6. Pain or Gain?:  IBM is set to announce quarterly results this evening. Heading into today's announcement, Big Blue's quarterly revenues have been flat or declined for the past 10 quarters. I'm hoping that IBM has bottomed out -- and I even purchased a few IBM shares back in December thinking that 2015 would be the year of IBM's rebound. But now that earnings day has arrived, I'm starting to think I jumped into the IBM pool a bit too early. I'm wondering if IBM revenues will contract some more through the end of 2015 or early 2016, as the company strives to offset hardware, software and IT services challenges with more big data, mobile and cloud offerings. 5. So Much for Retirement : And you thought Florida was the land of senior citizens. In reality, the Sunshine state also is the land of startups.  Roughly 45 companies got funded for $863 million last year , according to MoneyTree. The biggest deal involved Google pumping $532 million into Magic Leap -- but neither side has really discussed how Magic Leap will potentially benefit Google and its customers...  Nationwide, Florida ranked No. 7 in total investments for 2014 -- trailing California, Massachusetts, New York, Texas, Washington and Illinois. 4. Imagine That:  What if you kicked off your "job" every morning doing the exact same task -- but you rather enjoy that task? Such is my life here at After Nines Inc., pulling together this daily "five things" blog. Thanks for taking the time to stop by. I'd say I write this just for you -- because I sort of do -- but ultimately, I also write it so I can keep on top of all things IT... Just in case After Nines Inc. ever decides to... .... 3. Done Deal:   Congrats to Troy Augustine and Mark Sancrant on the  company sale . You're both pros in our book. 2. Lenovo's Parent Going Public?:  Legend Holdings, which is Lenovo's largest shareholder, is  planning to launch a $2 billion to $3 billion IPO  on Hong Kong's stock exchange, The Wall Street Journal reported. Lenovo itself is publicly held and has been one of the better performing hardware companies while pushing beyond PCs into tables, smartphones and servers. 1. Obvious But Worth Repeating:  Small businesses need to shift to  responsive web design , according to StreetFightWeb. The reason, which just about everyone knows: Mobile Internet usage jumped 73 percent last year. With responsive design, your website layout automatically optimizes itself based on screen size (smartphone, tablet, full-blown PC, etc.). The trend is hardly new, but plenty of SMB sites -- and heck, many media companies -- have yet to embrace that reality.  Subscribe : Want to receive our blog headlines in your inbox each business day? Then  subscribe to our enewsletter . Thanks to those who already have .   
+ 
+ 
+ 
+        Tagged:  Big Data ,  SAP ,  Windows 10 ,  Lenovo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

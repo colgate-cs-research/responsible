@@ -1,0 +1,24 @@
+##LINK: https://en.wikipedia.org/wiki/Internet_rush_hour
+##KEYWORDS: net neutrality
+##TITLE: Internet rush hour - Wikipedia
+##METHOD: paragraphs
+
+Internet rush hour is the time period when the majority of Internet users are online at the same time. Typically, in the UK the peak hours are between 7 and 11 pm.[1] During this time frame, users commonly experience slowness while browsing or downloading content.  The congestion experienced during the rush hour is similar to transportation rush hour, where demand for resources outweighs capacity.
+
+In contrast to the hours cited above from a source dated 2011, a Google Analytics report[2] dated 2017 indicates very strongly that daily web use peaks between 9am and midday, falling off steadily throughout the day with a modest levelling off between 7pm and 10pm, and then collapses to a base at 4am.
+
+Global Internet usage has increased significantly across the world from 12,881,000 hosts in 1998 to 908,585,739 hosts in 2012.[3]  Internet use has surged with the introduction of mobile devices and tablet computing.  Internet access has also changed during this time frame from 56kbit/s dial-up to high-speed bandwidth access at 100Mbit/s or higher.  The increase in Internet users and increase in access bandwidth is a contributing factor[citation needed] to the Internet Rush Hour.
+
+The table below shows the big picture of world internet usage versus the population.
+
+End users connect to the Internet through Internet service providers (ISPs). The Tier 1 ISPs own the infrastructure, which includes routers, switches and fiber optic footprints.  The back bone of the Internet is connected through Tier 1 ISPs that peer with other Tier 1 ISPs in a transit-free network.  These peering agreements between Tier 1 ISPs have no overt settlements, meaning there is no money exchanged for the right to pass traffic between Tier 1 peers.  Tier 2 and Tier 3 ISPs are customers of the Tier 1 ISPs and rely on the Tier 1 ISPs to route their traffic across the Internet.  This is a disadvantage for the lower tier ISPs due to the amount of traffic hops and shared common gateways to Tier 1 ISPs.[5] The shared common gateways are choke points that contribute to the Internet Rush Hour.  Each Tier 1 ISP has a peering policy that defines how IP Traffic exchanges are created and guidelines for managing peer traffic.
+
+Some ISPs have been criticized for implementing bandwidth throttling to intentionally slow down a user's internet service at various points on the network. The key problem at peak hour is however the peering capacity: it represents the size of the doors between two networks. If everyone wants to go through the door at the same time, it gets jammed. The constant increase in Internet traffic requires regular increases in the size of the peering points and there is a dispute as to who is going to cover the cost of these increases. For instance, Netflix and Google are reported to represent more than 50% of peak hour downstream traffic in the US in a study by Sandvine (figures for October 2013). There is a commercial and legal battle in progress to determine who will pay for the costs induced by peak hour traffic. Three positions exist:
+
+As an example of these fights, Comcast went up against the Federal Communications Commission (FCC) in regard to net neutrality, or keeping their networks open regardless of the content.[6] The federal appeals court ruled that the FCC had no authority to stop Comcast from slowing internet traffic.
+
+A study with British telecom regulators, Ofcom and SamKnows Broadband determined that the average British broadband connection actually achieves less than half its advertised speed.[7]  That study determined that the average broadband speed was 3.6Mbit/s versus an advertised speed of 7.2Mbit/s with speed declining 30% during Internet Rush hour.
+
+Netflix rated various ISPs in 2011 on their ability to stream content to consumers and determine what type of bandwidth the ISPs provide.  Netflix tested HD streams which use about 4800 kilobits per second and averaged what ISPs were able to provide. [8]
+
+The United States Federal Communications Commission (FCC) measuring broadband program from August 2011, is a study of performance in the United States covering 80% of the residential market.  The report measures ISPs promise of performance to advertised bandwidth rates.  In 2011, the average ISP delivered 87 percent of advertised rates, increasing to 96 percent performance in 2012.[9]  Average broadband speeds increased from 11.1Mbit/s in 2011 to 14.3Mbit/s in 2012.  Further increases may be inhibited by outdated modems which prevent ISPs from controlling broadband performance.

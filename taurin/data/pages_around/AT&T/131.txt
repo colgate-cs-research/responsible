@@ -1,0 +1,299 @@
+##LINK: https://www.infoworld.com/article/2685642/att-proposal.html
+##KEYWORDS: paid prioritization
+##TITLE: AT&T’s Net neutrality proposal is a slick sidestep  | InfoWorld
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Internet 
+ 
+ 
+ 
+ 
+ 
+ 
+ InfoWorld Tech Watch 
+ 
+								
+								
+								By  Caroline Craig , 
+								
+								 
+ 
+								
+							  	 East Coast Site Editor, 
+								
+									
+								
+
+
+
+
+
+
+
+
+
+
+
+
+ InfoWorld 
+ | 
+ 
+ 
+ 
+ 
+ 
+ 
+ About  |   
+ Informed news analysis every weekday 
+ 
+ 
+ 
+ AT&T’s Net neutrality proposal is a slick sidestep  
+ 
+ AT&T plan for 'user-driven paid prioritization' as an alternative to fast lanes is meant to quiet demands for tighter regulation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+					    					
+							    				
+							    				iStockphoto
+						    				
+				
+							    			
+							    				
+							    				
+							    				
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+							    				
+							    				
+												
+											
+									
+										 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AT&T and Comcast have been whirling dervishes this summer,  redefining Net neutrality , battling  competition from local providers , and arguing how consumers will benefit once the two behemoths gobble up DirecTV and Time Warner. In fact, the time could be ripe for a new reality TV show: "Dancing With the (Cable) Stars." Viewers will vote on which cable company demonstrated the slickest moves while shafting consumers.
+ 
+Comcast was an early crowd favorite with its  "Protect Net Neutrality" commercial/Time Warner plug . But AT&T shouldn't be counted out.
+ 
+In a 99-page  filing to the FCC , AT&T shimmies around the issue of "fast lanes" by proposing instead "user-driven paid prioritization." For this particular two-step, it partnered with the  Washington Post , which published a report this week trumpeting "AT&T's fascinating third-way proposal on Net neutrality." "Fascinating" as in a cobra mesmerizing a mongoose, perhaps?
+ 
+In one nifty move, AT&T disarms Net neutrality advocates by ostensibly putting consumers in the driver's seat -- without actually saying how it would be implemented. The Post speculates, "Would Internet companies pay broadband providers on a per-subscriber basis depending on who asked for priority access? Or would companies such as Netflix pay one single rate for all users on a company's network?"
+ 
+Worried that your cable company might deliberately throttle your streaming to extort -- er,  encourage  requests for paid prioritization? Don't be. AT&T takes great pains to make clear in its filing that it considers the FCC has sufficient authority under Section 706 of the 1996 Telecom Act to monitor for that.
+ 
+No doubt advertising agencies are already salivating at the idea of commercials ad nauseam where ISPs encourage customers to ask for paid prioritization of their favorite games and services. But any way you look at it, ISPs would get paid twice to deliver content over their pipes: once by customers, ponying up for  expensive Internet access , and again by edge providers wanting to deliver their content at optimal speeds. Any users out there feeling empowered yet? If by "user-driven" AT&T means getting  us  to do the work of compiling the list of edge providers that ISPs can hit up for fast lane fees, then this model works great.
+   
+AT&T labors hard in its filing to make the case for user-driven prioritization and for the FCC's powers under Section 706. It wants the FCC to leave things as they are and resist the clamor to subject broadband to tighter regulation as a utility under Title II -- a possibility that FCC chair Tom Wheeler on Thursday  told the House Small Business Committee  was still "very much a topic of conversation and very much on the table."
+ 
+ 
+The cable company's filing emphasizes "AT&T has no intention of creating fast lanes and slow lanes or otherwise using prioritization for discriminatory or anticompetitive ends, and AT&T does not oppose rules that are designed to prevent such behavior."
+   
+But before falling under the trance of such reassurances, take a look at  AT&T's long history of unkept promises . According to InfoWorld's Bill Snyder:
+ 
+ 
+Ten years ago, the FCC sheltered AT&T's and Verizon's fiber optic-based networks from direct competition through unbundling, in which other providers could use the AT&T or Verizon backbones to deliver their own service. The reason: AT&T said it would soon deploy 100Mbps, fiber-to-the-home or fiber-to-the-curb if permitted to buy SBC, creating the result the unbundlers were promising. But after it got the OK to buy SBC, AT&T essentially halted the promised 100Mbps fiber deployments.
+ 
+ 
+Three years later, AT&T pulled the same trick when it sought approval to buy BellSouth. Again, it got the permission but didn't build the network.
+ 
+ 
+If the weight of AT&T's prior actions juxtaposed against its words isn't enough to convince the FCC, on Thursday more than 90 former business partners of AT&T  petitioned the agency  to block the company's DirecTV deal, accusing AT&T of squelching competition and knowingly harming its business partners.
+ 
+But don't fret: Even if AT&T loses the battles on Net neutrality and DirecTV, it might still wind up a winner on DWTCS.
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Related:  
+ 
+ Internet 
+ Regulation 
+ Mergers and Acquisitions 
+ Government 
+ 
+ 
+ 
+ 
+ Caroline Craig is East Coast site editor for InfoWorld. 
+ 
+ 
+ Follow 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2014  IDG Communications, Inc. 
+ 
+ 
+ 
+ 
+ 
+   Learn how IT leaders are building cyberdefenses. Attend CSO's Future of Cybersecurity & Trust Summit-7/20-7/22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		 
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

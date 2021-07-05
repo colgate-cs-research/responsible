@@ -1,0 +1,1339 @@
+##LINK: https://community.spiceworks.com/topic/2141484-snap-big-isps-say-they-re-still-net-neutral-beware-kim-jong-un-s-fans
+##KEYWORDS: paid prioritization
+##TITLE: Snap! Big ISPs say they're still net-neutral; beware Kim Jong-Un's fans - Spiceworks
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spiceworks Help Desk 
+ 
+ The help desk software for IT. Free. 
+ Track users' IT needs, easily, and with only the features you need. 
+ 
+ 
+        Learn More »
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get answers from your peers 
+        along with millions of IT pros who visit Spiceworks.
+       
+ Join Now 
+ 
+ 
+ 
+ 
+ Photo credit: BBC 
+ 
+ A daily dose of today's top tech news, in brief. 
+ 
+ After net neutrality, Comcast, AT&T, and Verizon say they won't prioritize premium users 
+ The FCC may have knocked down net neutrality in the United States, but three of the country's biggest ISPs deny any plans for paid prioritization of internet service. Comcast's, Verizon's, and AT&T's websites all say they aren't doing any blocking, throttling, or paid prioritization, Ars Technica reports.
+
+ One of the Big Four is not quite so categorical, Ars reports. "By contrast, Charter's network management disclosure only promises that it won't block or throttle, while making no promises about paid prioritization. That doesn't mean Charter has immediate plans to charge websites and online services for priority access to consumers. ISPs are required to disclose paid prioritization publicly, so we'll find out if it happens as long as the companies follow the disclosure requirements." 
+ Read more at Ars Technica  and  join the Spiceworks discussion. 
+ IBM rolls out new regional cloud services 
+ IBM, which hardly wants to see AWS continue to control 35 percent of the cloud services market and fast-growing Microsoft Azure surpass the 10 percent mark, has announced a major expansion of its own cloud capabilities. 
+ IBM, which has invested north of $3 billion in its cloud business, is planning to launch 18 new availability zones for the IBM Cloud across North America, Europe and Asia-Pacific. 
+ The new availability zones are located in high demand centers in Europe (Germany and UK), Asia-Pacific (Tokyo and Sydney), and North America (Washington, DC and Dallas, Texas). They will come online in either IBM owned-and-operated data centers or in colocated centers throughout the summer and into the fall. 
+ IBM currently owns about 7 percent of the world cloud services market, ranking behind Azure at about 10 percent and ahead of Google (about 5 percent), depending upon which analyst you prefer. 
+ Educate yourself on eWEEK.com. 
+ Tesla cuts staff by 9 percent 
+ Tesla CEO Elon Musk on June 12 announced it is cutting 9 percent of its workforce, totaling more than 3,000 full-time employees. 
+ "We are a small company in one of the toughest and most competitive industries on Earth," Musk wrote in a memo. The layoffs are "almost entirely" in salaried positions, Musk said, and won't impact Tesla's efforts to increase production of Model 3, the latest model of its electric car.  
+ According to Ars Technica, "Tesla's announcement comes a month after Musk announced a restructuring of Tesla's organizational chart. Musk wants to flatten the management structure at the company to make it less bureaucratic." 
+ Steer over to Ars Technica for more details. 
+ 
+ But there's more going on in the world than that. 
+ 'Don't touch that USB fan,' reporters warned after Trump-Kim summit 
+ The weather is hot in Singapore, but security experts are warning journalists who attended the summit here between Donald Trump and Kim Jong-Un to stay away from the USB-powered mini-fans they received compliments of Singapore's Communications Ministry.  Cybersecurity mavens noted that the fans could carry malware and urged reporters not to plug them into their laptops. "There's an adage in cyber-security: if you give someone physical access to your computer, it's no longer your computer," Alan Woodward of Surrey University admonished the BBC. "Use an unknown USB stick and you are doing just that." Experts offered no guidance on the souvenir water bottle and Singapore city guidebook.   
+ Fan your curiosity at BBC.com. 
+ 
+ And you can't not know this. 
+ Researchers: Honeybees understand zero 
+ According to a new study, honeybees are the first invertebrates to pass a test of recognizing where zero goes in numerical order. 
+ Researchers at the Royal Melbourne Institute of Technology in Australia trained bees to fly to images of greater or fewer objects; they report the insects tended to rank a blank image as less than one. 
+ "Researchers recognize several levels of complexity in grasping zero," Science News reports. "Most animals, or maybe all, can understand the simplest level — just recognizing that the absence of something differs from its presence," according to researcher Scarlett Howard. "Grasping the notion that absence could fit into a sequence of quantities, though, seems harder. Previously, only some primates such as chimps and vervet monkeys, plus an African gray parrot named Alex, have demonstrated this level of understanding of the concept of zero."  For these tests, "Some bees were trained to fly to the image with the lower numbers of objects, while other bees were taught to go to the higher-number image. The researchers offered the bees a sweet treat for the correct image, and a bitter quinine solution for a wrong answer.   "The trained bees then performed a series of tests with no rewards. In one test that offered the bees a choice between a single shape image versus a blank image, bees trained to pick the lower number of objects flew to the blank image — the zero — 63 percent of time. Overall, the test results showed the bees treating zero as being less than one, Howard says." 
+ Buzz by Science News for more details. 
+ 
+ 
+ Follow Snap!  to always be in the know. In  our last Snap! , we reported on the FCC's farewell to net neutrality as well as a Chinese traffic for smartphone-obsessed pedestrians. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ prev 
+ 
+ 
+ 1 
+ 
+ 
+ 2 
+ 
+ 
+ 3 
+ 
+ 
+ next 
+ 
+ 
+ 
+ 69 Replies 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Poblano 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tracy1971 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 12, 2018 at 21:46 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How long will they maintain their net neutrality stance? I imagine it will last as long as the shareholders let them. Eventually, I believe the demand for an increase in profits will drive them away from net neutrality, especially in areas where they are the sole provider for Internet.  
+ 
+ 
+ 
+ 21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Cayenne 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ken7071 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 12, 2018 at 21:59 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tesla cuts staff by 9 percent   Sometimes it occurs to me to wonder things like: what is the annual savings from laying off 3,000 workers?  And, what does it cost to launch a car into space? 
+ Researchers: Honeybees understand zero  
+For these tests, "Some bees were trained to fly to the image with the 
+lower numbers of objects, while other bees were taught to go to the 
+higher-number image. The researchers offered the bees a sweet treat for 
+the correct image, and a bitter quinine solution for a wrong answer.  It is interesting, sometimes, how much we can (we hope) learn by torturing insects. 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Thai Pepper 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ lloganBMG 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 12, 2018 at 22:00 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IT Person: Hey, what do you do for a living? Researcher: I train honeybees. 
+
+IT Person: To do what? 
+
+Researcher: To fly towards different pictures to get a reward...or punishment. 
+
+IT Person: And you get paid for that? 
+
+Researcher: Sure. What do you do? 
+
+IT Person: I train users. 
+ Researcher: To do what? 
+ IT Person: To move an image of a pointer on a screen to where it should be and then click or enter something on the keyboard to accomplish a specific task to get a reward. 
+
+Researcher: And you get paid for that? 
+ 
+ 
+ 
+ 111 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Thai Pepper 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ lloganBMG 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 12, 2018 at 22:03 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ken7071 wrote: 
+ 
+ Tesla cuts staff by 9 percent   
+ Sometimes it occurs to me to wonder things like: what is the annual savings from laying off 3,000 workers?  And, what does it cost to launch a car into space? 
+ OUCH! So true. Do you suppose some of those people being laid off are the "self driving" programmers and safety people? The next-gen Tesla's should be very interesting (for pedestrians and other drivers)! 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Serrano 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ Leecifer 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 12, 2018 at 22:32 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ So laughable about the bee's. 63% is hardly above 50/50, and considering there were only two options is it not also possible the bees are just randomly getting lucky? Or after the month's of feeding them sour things vs good things they're just learning to go for the blank paper which is just blank to them, not a numerical value... And even if bee's are smart enough to distinguish one and zero, are they smart enough to solve colony collapse disorder? PRIORITIES SCIENCE, gah! And as for Tesla, that sucks for those 3,000 families who will now be searching for new jobs, I wish them the best of luck. 
+ 
+ 
+ 
+ 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Datil 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ IceBair Does IT 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 12, 2018 at 22:35 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ lloganBMG wrote: 
+ 
+ Ken7071 wrote: 
+ 
+ Tesla cuts staff by 9 percent   
+ Sometimes it occurs to me to wonder things like: what is the annual savings from laying off 3,000 workers?  And, what does it cost to launch a car into space? 
+ 
+ OUCH! So true. 
+ Do you suppose some of those people being laid off are the "self driving" programmers and safety people? The next-gen Tesla's should be very interesting (for pedestrians and other drivers)! 
+ based off the comment about them changing the management in tesla i think it may have been mostly management that got layed off. but again this is only based on that one comment.   
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Mace 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ csand 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 12, 2018 at 23:03 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tracy1971 wrote: 
+ How long will they maintain their net neutrality stance? 
+ Privately?   Until about... yesterday. Publicly?  Forever 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Poblano 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mike7545 
+   
+ 
+ Jun 12, 2018 at 23:48 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Comcast will stay 'neutral' at least until after the elections in November... They don't want to hack off the hand that got rid of NN for them.  After that they will slowly start going after Netflix (and others) again.  In a few years, unless we get a Congress that will put people before party (Not a chance!), Comcast (and their pals) will have destroyed the Internet and be charging for package deals...  Want Netflix?  That's only in the $100 'Streaming' package.  Want to connect to your office VPN?  That will cost you a $125 'Business' package?  Want access to Web sites hosted outside the US?  You'll need the 'International' package for an extra $50.  Want access like you've had since the Internet was created?  You'll need the 'All Access' package for $350 a month. Don't like all this?  Just switch to another ISP.  Oh, wait, Comcast has the monopoly in your area?  Too bad - pay up and thank the FCC and Congress for allowing it to happen. BTW - I'm in the 'Comcast' only world here.  I have several wireless options that all are horrible, slow and unreliable.  I could also use CenturyLink which maxes out at 7meg down and 800k up.  Basically I use Comcast or I don't have high-speed Internet.  How is that for free market? Let me be the first to thank the FCC and Congress for allowing Comcast, Verizon and AT&T to screw us all. 
+ 
+ 
+ 
+ 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Thai Pepper 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ Andre the Giant 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 12, 2018 at 23:51 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Datil 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shunt00213 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 12, 2018 at 23:53 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tracy1971 wrote: 
+ How long will they maintain their net neutrality stance? I imagine it will last as long as the shareholders let them. Eventually, I believe the demand for an increase in profits will drive them away from net neutrality, especially in areas where they are the sole provider for Internet.  
+ The trick will be that whatever prioritization/throttling scheme will be called something different and presented in such a way as to not carry the connotations of such. Something like, you're not being throttled, you just don't have the youtube "HD Super Quality" package or some garbage. They may or may not give it a little time for people to forget what the term net neutrality is before implementing such, I give it to 2020 at the latest. There may be concern among their C-levels that in the midterms a significant congressional change could occur, or in 2020 when there  might  be a new president or in 2024 where there  will  be a new president that they might get slammed by a reverse in policy and may be playing the long con to see what happens in that regard. Also bearing in mind the state reactions of passing their own such laws. Better for them to wait for the dust to settle before testing the "fast lane" waters so to speak. If there's profit to be made in it though, no doubt they'll try something. It's how capitalism works (and why government regulation to protect the common interest against that natural course is necessary). 
+ 
+ 
+ 
+ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Chipotle 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ Daniel7635 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 13, 2018 at 01:37 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Regarding Comcast and others not prioritizing or throttling traffic, how then is it that those who pay more money than I do get faster upload and download speeds?  Not trying to troll here, I don't understand... 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Poblano 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ QuimaxW 
+   
+ 
+ Jun 13, 2018 at 05:07 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ It's not about the amount of speed you purchased it's about the company throttling, or worse blocking entirely, services or servers that havn't paid them on the back end or that you haven't paid a premium to receive. Right now, say you have a 20Mb connection. Whatever services you use can utilize all 20Mb of that link if their servers can keep up. With throttling/prioritizing/blocking, your ISP says "you didn't pay for" or "Netflix didn't pay us" so we will only allow 1Mb of bandwidth (or none at all) from Netflix to each customer. You're now paying for 20Mb, but only able to use 1Mb of that for Netflix.  Worse now, when it gets anti-competitive. Comcast builds their own streaming service, ala Comflix. So long as you're with Comcast it's only a $3/month add-on to your current connection. Netflix at 1Mb is well, not pretty and frustrating. Comflix on the other hand offers 4k for $3/month (for the first year of course, then it's like $50trillion/month). What are you as the consumer to do? Most will simply say (after we've all forgotten about this net neutrality debate), Netflix sucks so I'll get the Comflix thing. Since ISPs are virtually monopolies, there really isn't any way to stop them short of government regulation/interference. 
+ 
+ 
+ 
+ Daniel7635 Chipotle 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Habanero 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dataless 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 13, 2018 at 07:50 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Funny how other companies are expanding and doing well but Tesla isn't.  I guess without a steady increase in tax dollars their overpriced junk doesn't seem so profitable any longer huh. 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Cayenne 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nigel M 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 13, 2018 at 08:30 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Why not just take one of the fans and inspect it properly then go to the media with the conclusions instead of creating a clickbait 'reds under the beds' story? 
+ 
+ 
+ 
+ 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Tabasco 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ jimmyjamjojo 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 13, 2018 at 08:52 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Andre the Giant wrote: Classic. 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Anaheim 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ ptererdlyi 
+   
+ 
+ Jun 13, 2018 at 09:02 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ken7071 wrote: 
+ 
+ Tesla cuts staff by 9 percent   
+ Sometimes it occurs to me to wonder things like: what is the annual savings from laying off 3,000 workers?  And, what does it cost to launch a car into space? 
+ Savings: some millions?, Car launch: practically zero. It was used as a simple block of mass to test the new rocket. Something had to go up with the rocket, so instead using a concrete block, they made a
+
+ridiculously
+
+ good advertisement with the car. 
+ 
+ 
+ 
+ 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Cayenne 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ ChrisN315 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 13, 2018 at 12:07 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ I wish I could train my bees.  :) 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Jalapeno 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tyler Harbolt 
+   
+ 
+ Jun 13, 2018 at 12:14 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Netflix DOES suck though... 
+ 
+ 
+ 
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Mace 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ BiscuitKing 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 13, 2018 at 12:15 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Let's just hope that the bees do not try to divide by zero. 
+ 
+ 
+ 
+ 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Serrano 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ Treinosaurus 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 13, 2018 at 13:08 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ lloganBMG wrote: 
+ IT Person: Hey, what do you do for a living? 
+ Researcher: I train honeybees. 
+ 
+
+IT Person: To do what? 
+ 
+
+Researcher: To fly towards different pictures to get a reward...or punishment. 
+ 
+
+IT Person: And you get paid for that? 
+ 
+
+Researcher: Sure. What do you do? 
+ 
+
+IT Person: I train users. 
+ 
+ 
+ Researcher: To do what? 
+ IT Person: To move an image of a pointer on a screen to where it should be and then click or enter something on the keyboard to accomplish a specific task to get a reward. 
+ 
+
+Researcher: And you get paid for that? 
+ I feel like this profession is made for a House Hunters meme! "He trains honey bees to fly towards pictures, and she is a part time squirrel artist, and their budget is 6.5 billion dollars..." 
+ 
+ 
+ 
+ 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Jalapeno 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ jameser1 
+   
+ 
+ Jun 13, 2018 at 13:26 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tracy1971 wrote: 
+ How long will they maintain their net neutrality stance? I imagine it will last as long as the shareholders let them. Eventually, I believe the demand for an increase in profits will drive them away from net neutrality, especially in areas where they are the sole provider for Internet.  
+ Let's face it, content providers have a fiduciary responsibility to there shareholders. You are absolutely correct.  It will last as long as the shareholders let them.   
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Cayenne 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ themacguy 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 13, 2018 at 13:31 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ It was the ISPs who were pushing for this change because they wanted great profits before they invested in new capital. It will happen as soon as they are sure the courts won't over rule this or congress doesn't change its mind. 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ · · · 
+ 
+ 
+ 
+ 
+ Thai Pepper 
+ OP 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spartan117458 
+ 
+ 
+ 
+ 
+          This person is a verified professional.
+       
+ 
+ Verify your account 
+          to enable IT peers to see that you are a professional.
+         
+ 
+ 
+   
+ 
+ Jun 13, 2018 at 13:44 UTC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Considering the net neutrality rules were never actually in effect and they're not throttling/prioritizing right now, what they're saying is "nothing is changing". I'm not sure why there's so much confusion about this. 
+ 
+ 
+ 
+ 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ prev 
+ 
+ 
+ 1 
+ 
+ 
+ 2 
+ 
+ 
+ 3 
+ 
+ 
+ next 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        This topic has been locked by an administrator and is no longer open for commenting.
+       
+ 
+        To continue this discussion, please
+         ask a new question .
+       
+   
+ 
+ 
+ 

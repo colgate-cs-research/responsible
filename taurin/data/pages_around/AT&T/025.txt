@@ -1,0 +1,661 @@
+##LINK: https://www.phonearena.com/news/did-att-lie-about-californias-net-neutrality-law_id130889
+##KEYWORDS: net neutrality
+##TITLE: AT&T gave out misleading information last week about its handling of California's net neutrality law - PhoneArena
+##METHOD: article 2
+
+
+
+ 
+ 
+ Home 
+ News 
+ You are here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AT&T 
+ 
+ 
+ Wireless service 
+ 
+ 
+ AT&T gave out misleading information last week about its handling of California's net neutrality law 
+ 
+ 
+ 
+            By
+                             Alan Friedman 
+ 
+ @wolfcallsputs 
+ 
+ 
+ 
+ Mar 20, 2021,  6:54 PM 
+ 
+ 
+ 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net neutrality is the Obama-era rule that forces ISPs and wireless providers to treat all streams of content the same. In other words, a company that streams video to subscribers can not pay a carrier extra money to have their streams sent over a faster network. When Ajit Pai was named Chairman of the FCC by Donald Trump in 2017, the regulatory agency voted to remove net neutrality from the books (Republicans voted for removal while Democrats voted to keep the rules on the books. The public, which wanted to keep net neutrality, was upset and certain states passed legislation that makes net neutrality the law in those states. 
+ 
+ 
+ One of those states that passed its own net neutrality law is California. And  AT&T apparently did not tell the truth  last Wednesday (via  ArsTechnica ) when it said that California's law prevents it from offering "zero-rated" content to mobile customers. Content that is "zero-rated" doesn't count against a subscriber's monthly data cap. The truth is that under the state law of California, the carrier can continue to offer its own video streamer, HBO Max, on a "zero-rated" basis as long as it does the same for all competing video streamers. But it seems that  AT&T  wasn't interested in offering more streaming services to customers without it counting against their data caps. So instead of allowing HBO Max rivals to stream to AT&T subscribers without dipping into their data buckets, AT&T decided to drop all "zero-rated" content.  AT&T spins California's net neutrality law the wrong way 
+ 
+ 
+ In a statement last Wednesday, the nation's third largest wireless provider said, "California has enacted a net neutrality law banning "sponsored data" services that allowed companies to pay for, or "sponsor," the data usage of their customers who are also AT&T wireless customers. Unfortunately, under the California law we are now prohibited from providing certain data features to consumers free of charge." The carrier went on to say that since the internet doesn't recognize state borders, the new law prevents AT&T users in all states from receiving "zero-rated" streams.  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ FCC circa 2017 when net neutrality was taken off the books. Current acting Chairwoman Jessica Rosenworcel is at left 
+ 
+ AT&T also said that "Prior to California’s law, sponsored data customers were able to browse, stream and enjoy applications from sponsors without using their monthly data allowance. AT&T video providers utilized sponsored data to offer Data Free TV, allowing customers to stream their favorite movies and shows over their AT&T wireless service without it counting against their wireless data plan.  AT&T Mobility has for years openly invited any entity to become a wireless data sponsor on the same terms and conditions. Since it began, our sponsored data service, and competing offers from other wireless providers, have delivered significant benefits and saved consumers money. Consumers also have enjoyed an explosion of video streaming services."  
+ 
+ 
+ Stanford law professor Barbara van Schewick, who worked on California's defense of its "net neutrality" law, told ArsTechnica that "California's net neutrality law doesn't ban all zero-rating; it bans anti-competitive forms of zero-rating. The law does ban AT&T's anti-competitive scheme where it counts almost everything people do on the Internet, including watching Twitch, Netflix, and their home security cameras, against users' data caps, but doesn't count the data from AT&T's own video services." The bottom line is that AT&T "zero-rated" its own streaming services and did the same for online service providers that paid AT&T in exchange for giving specific apps a "zero-rating." Interestingly, when ArsTechnia asked AT&T why it doesn't just zero-rate all streaming content as permitted under California's net neutrality law, the carrier refused to answer. AT&T might have misspoke when it said that California's law forces it to shut down sponsored data in other states besides California. In a court brief back in 2020, California Attorney General Xavier Becerra said. "AT&T's zero-rating plan currently permits users to turn their zero-rating on and off. Thus, contrary to AT&T's assertions, it already has the capability to switch off zero-rating for users who opt out and can simply use that functionality to disable zero-rating for California users." This isn't the first time that AT&T has been caught violating net neutrality rules. In 2016, when the FCC was controlled by the Democrats, the FCC said, "the Sponsored Data program strongly favors AT&T's own video offerings while unreasonably discriminating against unaffiliated  edge  providers and limiting their ability to offer competing video services to AT&T's broadband subscribers on a level playing field." The ruling was rescinded when Pai took over leadership of the agency the next year. 
+ 
+ 
+ 
+ 
+ Become an insider 
+ 
+            Indulge yourself in the wonderful world of mobile technology with our weekly newsletter!
+         
+ 
+ 
+ 
+ sign up 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FEATURED  VIDEO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Latest News 
+ 
+ 
+ 
+ 
+        The Witcher: Monster Slayer finally has a release date
+     
+ 
+ 
+ 5 min ago , 
+ 
+ 
+        by Cosmin Vasile,      
+ 
+ 
+ 
+            0
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Qualcomm confident former Apple engineers will help it make a chip better than M1
+     
+ 
+ 
+ 1 hour ago , 
+ 
+ 
+        by Anam Hamid,      
+ 
+ 
+ 
+            0
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Incredible new deal brings the Samsung Galaxy Z Fold 2 5G down to an irresistible price
+     
+ 
+ 
+ 2 hours ago , 
+ 
+ 
+        by Adrian Diaconescu,      
+ 
+ 
+ 
+            2
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -$800 
+ 
+ 
+ 
+ 
+ 
+        Buy one of Samsung’s Galaxy S21 series and you will get a $500 credit
+     
+ 
+ 
+ 2 hours ago , 
+ 
+ 
+        by Aleksandar Anastasov,      
+ 
+ 
+ 
+            0
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        ZTE exec hints at a 20GB RAM smartphone
+     
+ 
+ 
+ 3 hours ago , 
+ 
+ 
+        by Anam Hamid,      
+ 
+ 
+ 
+            1
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Why I might ditch my iPhone for a Galaxy Z Flip 3
+     
+ 
+ 
+ 3 hours ago , 
+ 
+ 
+        by Martin Filipov,      
+ 
+ 
+ 
+            4
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Featured stories  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Why I might ditch my iPhone for a Galaxy Z Flip 3
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                OnePlus commits to 3 years of Android OS upgrades for flagship devices
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Sony WF-1000XM4 vs Apple AirPods Pro
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Samsung's Galaxy Watch 4 and Watch 4 Classic won't be cheap, price leak suggests
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 2 
+ 
+ 
+ 3 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Popular stories  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                T-Mobile adds a firm Sprint LTE network shutdown date to its bold 5G supremacy plan
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Take a look at the Samsung Galaxy Buds 2
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Google Assistant is listening to you, but it's okay
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                New round of leaks reveal Galaxy Z Fold 3's screen specs, Flip 3's nearly 2x bigger outer display
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Samsung's premium Galaxy Watch 4 Classic has leaked and it looks fantastic
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Focus is the iOS 15 feature that many just can't wait to use
+             
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 2 
+ 
+ 
+ 3 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hot phones 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ OnePlus 9 
+ 
+ 9.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Samsung Galaxy S21 Ultra 
+ 
+ 9.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Samsung Galaxy S21+ 
+ 
+ 8.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ OnePlus 9 Pro 
+ 
+ 9.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Apple iPhone 12 Pro 
+ 
+ 9.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Samsung Galaxy S21 
+ 
+ 8.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Apple iPhone 12 mini 
+ 
+ 9.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Google Pixel 5 
+ 
+ 8.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Samsung Galaxy Note 20 Ultra 
+ 
+ 9.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Apple iPhone 12 Pro Max 
+ 
+ 9.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Samsung Galaxy Z Fold 2 
+ 
+ 8.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Samsung Galaxy Note 20 
+ 
+ 8.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

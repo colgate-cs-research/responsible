@@ -1,0 +1,52 @@
+##LINK: https://www.jdsupra.com/legalnews/fcc-fines-at-t-100-000-000-for-83404/
+##KEYWORDS: open Internet
+##TITLE: FCC Fines AT&T $100,000,000 for Violation of Transparency Rule | Womble Bond Dickinson - JDSupra
+##METHOD: paragraphs
+
+
+
+
+	In a recent enforcement action, the FCC fined AT&T $100,000,000 for violations of the Open Internet Transparency Rule (“Transparency Rule”).  The Notice of Apparent Liability (“NAL”) for Forfeiture and Order stated that AT&T willfully and repeatedly violated the Transparency Rule contained in the 2010 Open Internet Order by: (1) misleading consumers by offering an “unlimited” data plan that was subject to speed reductions enforced when a consumer used a set amount of data; and (2) failing to expressly inform customers of the exact speed reductions imposed once the customer reached a threshold level of data use.  The NAL marks the first time since the rule’s adoption in 2010 that the Commission has fined a provider for violation of the Transparency Rule. 
+
+Background on the Open Internet Transparency Rule
+
+	The Transparency Rule applies to all broadband Internet access service (“BIAS”) providers, including providers of mobile broadband Internet access (“MBIAS”).   The Commission originally adopted the rule in the 2010 Open Internet Order, with an effective date of November 20, 2011.  The Commission recently adopted enhancements to the rule in the 2015 Open Internet Order.  The rule provides that BIAS and MBIAS providers must disclose accurate information regarding their network management practices, performance, and commercial terms of service in order to ensure that customers can make informed decisions about their choice in service.  Disclosures should generally include:
+
+AT&T’s Violation and Commission Findings
+
+	The Commission issued the NAL pursuant to the Transparency Rule as adopted in the 2010 Open Internet Order.  Accordingly, the NAL did not address the 2015 enhancements to the Transparency Rule nor the 2010 anti-throttling rules, which were vacated four years after adoption in Verizon v. FCC.
+
+AT&T Misled Customers by Describing Its Data Plan as “Unlimited”
+
+	The Commission found that AT&T advertised and sold “unlimited” data plans to existing subscribers of its “unlimited” service.  Despite advertising the plans as “unlimited,” AT&T would reduce a customer’s data speed after a customer reached a threshold level of data usage in a given month.  According to the Commission, AT&T did not properly disclose its policy regarding threshold data usage limits, accordingly AT&T violated the portion of the Transparency Rule requiring MBIAS providers to make accurate statements regarding their practices.  Moreover, the Commission found that AT&T misled customers with its “unlimited” data plan and thus prevented customers from making informed decisions regarding their choice in service.
+
+AT&T Did Not Disclose Information about Its Speed Reduction Policy to Customers
+
+	AT&T implemented a specific policy with regard to “unlimited” data plan customers.  Once an “unlimited” customer reached a set data threshold, the customer’s speed was reduced by a specific amount, e.g. 3G and 4G UMTS (UMTS was the standard prior to LTE) customers were reduced to a maximum speed of 256 kbps.  AT&T’s disclosure to customers that they would experience “reduced speeds” was not sufficient, since AT&T had a set policy regarding the speed reductions and could have been more precise and accurate in its disclosures.
+
+Additional Customer Disclosures Provided by AT&T Were Not Sufficient to Overcome Transparency Rule Violations
+
+	The Commission found that disclosures were not made with sufficient frequency to allow customers to make informed choices about their service.  For example, only an initial text message was sent to a customer when they neared the data threshold; customers nearing the threshold in later months would not receive the same message. 
+
+	Disclosures made at the point of sale were insufficient to properly inform customers.  AT&T provided customers with a summary of services that included a link to a website page that talked about the data thresholds and speed reductions.  The Commission found that this was not sufficient, because the summary itself did not discuss the data threshold speed policy nor did it indicate why customers should read the information on AT&T’s website.
+
+	A provision included in each customer’s service contract upon renewal also included the statement: “AT&T may reduce your data throughput speeds at any time or place if your data usage exceeds an applicable, identified usage threshold during any billing cycle.”  The Commission found this statement to be insufficient, because it did not include details regarding the exact speed reduction policy or data thresholds.
+
+Compliance and Forfeiture Requirements
+
+	The Commission ordered the following compliance measures:
+
+	Section 503(b)(2)(D) of the Communications Act provides that the Commission may assess a forfeiture of up to $16,000 for each willful and repeated violation of the Transparency Rule, up to a statutory maximum of $122,500 for a single act or failure to act.  The Act does not provide a minimum forfeiture amount.  Based on the Commission’s findings, the Commission imposed a forfeiture amount of $100,000,000.
+
+Dissenting Opinions
+
+	Commissioners Pai and O’Reilly issued dissenting statements regarding the NAL, arguing that the Commission’s findings went beyond the requirements found in the 2010 Open Internet Order.  According to Commission Pai, the NAL ignored many of the disclosures actually made by AT&T and imposed specific requirements that were not part of the original Transparency Rule.  In addition, Commissioner Pai criticized the penalty assessed by the Commission, stating that it had come “out of thin air.”
+
+	Commissioner O’Reilly similarly argued that the 2010 Open Internet Order created a flexible approach to transparency and did not impose the specific disclosure requirements noted by the Commission in the NAL.  Commissioner O’Reilly further noted that AT&T’s policy had been in place since 2011, yet the Enforcement Bureau waited nearly four years to issue its NAL and provided no warning prior to that time that AT&T could be in violation of the rule.  The Commissioner further raised concerns that the $100,000,000 forfeiture amount was unprecedented in severity.
+DISCLAIMER: Because of the generality of this update, the information provided herein may not be applicable in all situations and should not be acted upon without specific legal advice based on particular situations.
+© Womble Bond Dickinson  |  Attorney Advertising
+Refine your interests »
+This website uses cookies to improve user experience, track anonymous site usage, store authorization tokens and permit sharing on social media networks.  By continuing to browse this website you accept the use of cookies. Click here to read more about how we use cookies.
+Back to Top
+Explore 2021 Readers' Choice Awards
+Copyright ©  JD Supra, LLC

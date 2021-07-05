@@ -1,0 +1,17 @@
+##LINK: https://datacenternews.asia/story/telia-carrier-launches-new-pop-in-supernap-italia-data-centre
+##KEYWORDS: open Internet
+##TITLE: Telia Carrier launches new PoP in SUPERNAP Italia data centre
+##METHOD: paragraphs
+
+Today Telia Carrier announced a new Cloud Connect PoP in the SUPERNAP Italia data centre near Milan, Italy.
+SUPERNAP Italia is a Tier 4, modular, carrier-neutral colocation data centre in Siziano, 20 kilometres from central Milan.
+It opened its first sector in 2016 and continues to grow, providing colocation and connectivity to small-medium Italian enterprises, large international corporations, OTTs, and cloud and managed service providers, all cooperating within what’s known as the SUPERNAP Ecosystem.
+According to Telia Carrier Italy managing director Davide Binaghi, Cloud Connect enables businesses to connect directly to the Telia Carrier fibre backbone, and accelerate cloud services connectivity, wherever they may be in the world.
+Effectively, customers can connect directly to cloud service providers such as Amazon Web Services, Google Cloud, Microsoft Azure and IBM Cloud, with high performance, low latency, reliability and security across Telia Carrier’s global network.
+Binaghi says with so many companies choosing to use the cloud to hold business critical data, host applications, or deploy their own enterprise apps, reliable, scalable and low-latency connectivity has become a mission-critical issue.
+“The SUPERNAP data centre is an ideal location for our Milan PoP,” says Binaghi.
+“The facility’s unparalleled resiliency, reliability and security matches the commitment we have to our own infrastructure. We believe its customer base will greatly benefit from Telia Carrier’s Cloud Connect service and we are excited to work with them.”
+SUPERNAP Italia CEO Philip Tohme is confident about Telia’s future.
+“Telia has been a carrier at our data center since it opened and is a valued member of our Ecosystem, which enables our customers to innovate and grow their businesses,” says Tohme.
+“We are pleased to collaborate with Telia to enhance our multi-cloud connect offering and provide our clients a secure, reliable and affordable solution for direct cloud connection in our hyper-scalable environment.”
+According to Dyn Research’s global backbone rankings, Telia Carrier’s global IP backbone, AS1299, is currently ranked number one. The company enables worldwide connectivity by connecting more than 280 Points of Presence (PoPs) across Europe, North America, Asia, and the Middle East.

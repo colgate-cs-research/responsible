@@ -1,0 +1,189 @@
+##LINK: https://arstechnica.com/information-technology/2018/11/did-sprint-throttle-skype-researcher-explains-evidence-behind-allegation/
+##KEYWORDS: paid prioritization
+##TITLE: How a phone app detected Sprint’s alleged throttling of Skype | Ars Technica
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+      Net neutrality testing    —
+ 
+ How a phone app detected Sprint’s alleged throttling of Skype 
+ User tests indicate throttling, but there's some room for doubt. 
+ 
+ 
+ Jon Brodkin 
+    -   Nov 29, 2018 8:50 pm UTC 
+ 
+   
+ 
+ 
+ Enlarge Getty Images | SOPA Images  
+ reader comments 
+ 37 
+  with 25 posters participating 
+ 
+ 
+ Share this story 
+ Share on Facebook 
+ Share on Twitter 
+ Share on Reddit 
+ 
+ The US government killed off its net neutrality rules  in June  of this year, but that doesn't mean no one is monitoring whether carriers are blocking or throttling online services. 
+ Northeastern University researchers led by computer science professor  David Choffnes  recently determined that Sprint was throttling Skype. Their finding was based on an analysis of user-initiated tests conducted with Wehe, an app for  Android  and  iPhone  that the researchers developed to detect throttling. About one-third of the tests detected Sprint's throttling of Skype, Choffnes said. 
+ If the findings are correct, Sprint would be violating a Federal Communications Commission rule requiring Internet providers to disclose throttling. Even though the FCC no longer bans throttling itself, the agency  requires  ISPs to publicly disclose any blocking, throttling, or paid prioritization. Further Reading Wireless throttling: Senators ask four major carriers about video slowdowns 
+ But was Sprint really throttling Skype? Sprint denies it and points out that researchers haven't released the data underlying their conclusions. Choffnes acknowledges that his research has limitations and that he couldn't detect the throttling in the lab. But he's still confident that Skype was getting a raw deal on Sprint's network, and he explained why in an interview with Ars. 
+ "We're certain that our users' tests were throttled," Choffnes told Ars. 
+ Choffnes published a summary of the findings at  this page . His research triggered an  inquiry by Senate Democrats , who sent letters to AT&T, Verizon, Sprint, and T-Mobile asking for detailed information on their throttling practices. The senators asked for responses by December 6. 
+ How the app detects throttling 
+ When a smartphone user opens the Wehe app and initiates a test, Wehe analyzes whether the carrier is throttling services such as YouTube, Netflix, Spotify, Amazon video, Vimeo, and Skype. 
+ "We send network traffic exactly the same way that Skype does with the only difference being that it's coming from our app and going to our servers instead of Skype's service," Choffnes said. 
+ In order to simulate Skype traffic, the researchers made a Skype video call "and recorded all the network traffic that our Skype client exchanged over the Internet with the other [client]," Choffnes said. 
+ Skype's  recommended download speeds  range from 100kbps to 8Mbps depending on the call type and number of people on the call. 
+ The data stream for the researchers' recorded Skype call is about 2Mbps. If there's no throttling, the Wehe app should be able to send the Skype traffic at that same rate. Instead, Wehe found clusters of Skype tests that only received 1.4Mbps and some tests that only received 0.5Mbps. 
+ Of course, wireless network quality can fluctuate unpredictably due to congestion or poor signal strength, but Choffnes' team has a method of isolating random noise from deliberate throttling. Immediately after tests that send un-altered traffic from popular Web services, Wehe performs another set of tests in which the content is replaced with randomized bytes, "which prevents the ISPs from classifying the traffic as belonging to the app," the Wehe mobile app's "How it works" section explains. 
+ If two Skype tests—one with randomized traffic and another with un-altered traffic—result in different speeds, there may be throttling or "differentiation." But again, random noise may also be leading to that result, so Wehe performs a second pair of tests any time throttling is detected in the first pair. 
+ "Any time the app detects differentiation from one of these pairs of tests, we run another one," Choffnes said. "The idea is, if there is some kind of random noise, the likelihood that it would lead to the exact same result would be pretty small. It's not zero, but it's small."   
+ Advertisement  
+ 
+ 
+ The likelihood of deliberate throttling is increased further when many users see the exact same results. When lots of users get the exact same speed from a test in cases of throttling, it's likely that the carrier has set a specific Mbps rate for a particular app. Further Reading The net neutrality testing app that Apple rejected is available now 
+ "We look at all the data we've collected from users to see how often users see the same two pairs of tests that get the exact same result," Choffnes said. In the case of Sprint, there were "hundreds" of tests that found throttling, and these were "spread out throughout the country," Choffnes said. 
+ Despite all that, Choffnes described several limitations to the research. 
+ "As a researcher, I have a lot of self-doubt," Choffnes said. "I'm trying to be as big of a skeptic of my own work as possible and trying to explain what our assumptions are and how might they be violated." 
+ Choffnes' team was unable to reproduce the Sprint/Skype throttling using Wehe on an Android phone in their lab. Choffnes speculates that the throttling applied only to certain data plans. "We bought a prepaid plan with unlimited data," Choffnes said. "We do not have any data about our users' subscription plans, which is why we can't say for certain whether this is the explanation." 
+ Wehe research has been going on for a few years and is not limited to the US; more details about the methodology was published in this  2015 paper . The research is supported by a National Science Foundation grant, a Google Faculty Research Award, and Arcep (Autorité de Régulation des Communications Électroniques et des Postes), the French telecommunications regulator. 
+ Sprint denial 
+ Sprint told Ars that "We do not impose any restrictions on VoIP traffic or VoIP services. Sprint is not throttling Skype, and Sprint does not single out Skype or any individual content provider in this way." 
+ Sprint went on to criticize the researchers for not providing their data. 
+ "Since the researchers did not provide the data they used, it is not clear how they reached their conclusions," Sprint said. "There are many factors that can impact the performance of third-party apps. And even the researchers noted they were unable to reproduce the results of the users' data themselves. In our own network tests, we found no degradation in Skype user experience." 
+ The consent form in early versions of Wehe said that no data would be shared, even anonymously. Choffnes acknowledged that his team "screwed up" by not updating the consent form at the same time that it changed the way it collects data. 
+ "We should have changed the informed consent to allow us to share the data, because we were no longer collecting information that would be potentially sensitive," he said. That's been changed, so Choffnes' team will be able to share underlying data when they release future research. Choffnes hopes that change will allow carriers to make more detailed responses to future Wehe findings. 
+ "The goal is absolutely to share as much data as possible," he said. 
+ Skype owner Microsoft hasn't responded to our messages about Choffnes' research. 
+ Throttling may have been unintentional 
+ Sprint's apparent throttling of Skype doesn't seem to make sense on the face of it, since it was detected on only about 34 percent of Wehe user devices, Choffnes said. Since not even half of the Skype streams were throttled, it doesn't seem like Sprint is trying to "kill off Skype," he said. 
+ Choffnes' team found throttling of YouTube and Netflix by Sprint, T-Mobile, Verizon, and AT&T. But that was expected because wireless carriers disclose throttling of video services and, in some cases, charge customers extra for higher-definition streaming.   
+ Advertisement  
+ 
+ 
+ Since Sprint  discloses throttling  of video services but not VoIP and denies throttling Skype, Choffnes speculated that there might be "a misconfiguration somewhere" in Sprint's network that caused a subset of Skype calls to be throttled. 
+ The apparent Skype throttling mostly affected Android and not  iOS . "I can think of absolutely no reason why it should be different" between Android and iOS, Choffnes said. 
+ We asked Choffnes whether Sprint might be throttling Wehe tests specifically and not real Skype calls, but he thinks that is unlikely. For one thing, not all Wehe tests were throttled on Sprint—Vimeo was unaffected, for example. Theoretically, carriers could identify Wehe tests based on the IP address and impose throttling, but there's no obvious reason for Sprint to do that. 
+ Using IP addresses to determine which services to throttle wouldn't make sense in general because IP addresses can change so easily, Choffnes noted. He thinks carriers are identifying which streams to throttle based on the domain or host names, which are transmitted in the Wehe tests the same way they're transmitted by the actual services like Skype and YouTube. Even in encrypted traffic, carriers can generally see the domain name specified in the TLS handshake, Choffnes said.  TLS version 1.3  can encrypt domain names, but it isn't widely deployed yet, he said. 
+ The domain name isn't the only information carriers can use to identify content. "For UDP traffic (e.g., Skype), we've seen cases where they identify traffic using specific byte values that correspond to standard VoIP protocol fields," Choffnes said. 
+ If Sprint used IP addresses to identify which streams to throttle, instead of examining the actual content being exchanged, "we would never see throttling [on Wehe tests], assuming that they weren't throttling our IP addresses," Choffnes said. 
+ "We're just running random servers" hosted on cloud services such as Amazon's, Choffnes continued. "The fact that we do see throttling is an indication that they're doing something based on content, because that's really what we're testing for." 
+ Wireless industry defends slowdowns 
+ One reason to think that Choffnes' research has correctly identified throttling comes in a statement last month from CTIA, the wireless industry lobby group for Sprint, AT&T, Verizon, and T-Mobile. 
+ CTIA disparaged the research in a  blog post , saying, "The Wehe app is not measuring performance between users and content providers like Netflix or YouTube but instead uses simulated data traffic to their own servers." CTIA claimed the results thus have "nothing to do with actual network performance between mobile customers and actual content providers." 
+ But the same blog post acknowledges that the Wehe app does exactly what its creators say it does. CTIA wrote: 
+ In order to manage networks, providers optimize the bandwidth available for a video so that your smartphone gets DVD quality without downloading excess data. The Wehe app compares the data speeds that consumers experience with and without that content provider metadata. If the Wehe app detects a difference in speed, it registers this as "differentiation" and implies this is a violation of "net neutrality." What the Wehe app is really detecting is basic wireless network management and operators delivering the service consumers choose. 
+ In that statement, CTIA acknowledged that carriers "optimize the bandwidth available for a video," meaning they reduce the bandwidth available to video. CTIA's statement that the Wehe app is "really detecting... basic wireless network management" confirms that Wehe detected the carriers' intentional reduction in bandwidth. 
+ CTIA defended the throttling, noting that it reduces consumers' data consumption and that consumers can pay more to get video streams that aren't "optimized." Carriers put consumers "in the driver's seat" by providing "the ability to alter video resolution settings or sign up for data plans that do or don't use those features," CTIA wrote. 
+ Throttling some video apps, but not all 
+ But even if consumers retain some control over data speeds, they still have to rely on carriers to selectively throttle certain services without impacting the overall user experience. 
+ In Wehe tests, Vimeo appears to have mostly escaped the throttling applied to more popular video services. Choffnes thinks this may be because Vimeo isn't as widely known. 
+ While that's good for Vimeo users, Choffnes wrote in his report that it demonstrates the potential danger of carriers applying their throttling policies on some services and not others. 
+ "Such behavior highlights the risks of content-based filtering: there is fundamentally no way to treat all video services the same (because not all video services can be identified), and any additional content-specific policies... can lead to unfair advantages for some providers and poor network performance for others," Choffnes' report said. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ reader comments 
+ 37 
+  with 25 posters participating 
+ 
+ 
+ Share this story 
+ 
+ Share on Facebook 
+ Share on Twitter 
+ Share on Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jon Brodkin 
+      Jon is Ars Technica's senior IT reporter, covering the FCC and broadband, telecommunications, tech policy, and more.     
+ 
+ Email   jon.brodkin@arstechnica.com 
+ // 
+ Twitter   @JBrodkin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertisement  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ You must  login or create an account  to comment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Channel  Ars Technica 
+ 
+ 
+ 
+ 
+ ←  Previous story   Next story  → 
+ 
+ 
+ 
+ 
+ Related Stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Today on Ars 
+ 
+ 
+ 
+ 
+ 
+ 

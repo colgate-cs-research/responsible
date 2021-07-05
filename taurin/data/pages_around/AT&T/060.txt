@@ -1,0 +1,59 @@
+##LINK: https://www.fiercevideo.com/cable/comcast-at-t-can-t-stop-california-senate-committee-from-passing-nation-s-strongest-state-net
+##KEYWORDS: open Internet
+##TITLE: Comcast, AT&T can’t stop California from moving forward on nation’s strongest net neutrality bill | FierceVideo
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+                                        by                       Daniel Frankel                           | 
+             Apr 20, 2018 12:35pm 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+        California's net neutrality bill will now move forward to the state senate's Judiciary Committee. (Makaristos/Wikipedia)
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ Against the objections of AT&T and a cable lobbyist representing Comcast and Charter, a California state senate committee approved a bill to go forward that supports net neutrality laws that are even more stringent than the FCC’s since-revoked 2015 Open Internet regime.  
+ 
+ 
+ 
+ 
+ Quoted by  Ars Technica , the bill’s author, Scott Wiener, D-San Francisco, called it “a great first step in our effort to protect net neutrality in California so that everyone has equal access to the internet.” 
+ The vote was on party lines, with eight Democratic state senators voting yes and three Republicans voting no. 
+ 
+ 
+ 
+ 
+ The bill must now go through the Senate Judiciary Committee before being voted on by the full state senate. It will also need approval by the state assembly, which has a Democratic majority, as well as the governor’s office, which is controlled by Democrat Jerry Brown.  
+ Wiener added, "Under President Obama, our country was moving in the right direction on guaranteeing an open Internet, but the Trump-led FCC pulled the rug out from under the American people by repealing net neutrality protections. In California, we can lead the effort to clean up this mess and implement comprehensive, thorough Internet protections that put California Internet users and consumers first.”  
+ RELATED:  Comcast, Charter, AT&T push back against California net neutrality rules 
+ In addition to supporting most of the FCC’s 2015 Open Internet order, California’s bill prohibits zero rating schemes.  
+ The California Cable & Telecommunications Association (CCTA), a group representing Comcast, Charter and Cox, is teaming with AT&T to lobby against new net neutrality rules. 
+ In a  filing  (PDF) sent to state senate members, the CCTA called Bill 822 an “overreach of the 2015 Open Internet Order.”  
+ The group called the bill’s language on interconnection agreements, for example, “very problematic,” noting that “most edge providers today pay an ISP to be connected to the internet. Some of the biggest edge providers, like Google, Amazon and Netflix, have negotiated special arrangements. This provision, read literally, seems to completely up-end the market for interconnection and seems to mandate ‘free’ interconnection or prohibit negotiated arrangements.”  
+ In December, the FCC rolled back its 2015 Title II regimen following strident lobbying efforts by the cable industry.  
+ Since that time, operators have watched new net neutrality legislation emerge on the state level. They’re complaining that they shouldn’t have to negotiate a “patchwork” of new rules.  
+ "You can't go and get federal net neutrality protections repealed and then be surprised and indignant and complain that states are stepping in to protect consumers and the economy," Sen. Weiner told Ars Technica. 
+ 
+ 
+ Read more on 
+ 
+ Net Neutrality   government regulation   Comcast   Charter Communications   AT&T   
+ 
+ 
+ 

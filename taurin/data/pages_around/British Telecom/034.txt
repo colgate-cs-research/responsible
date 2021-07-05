@@ -1,0 +1,31 @@
+##LINK: https://advanced-television.com/2014/06/18/oregan-reports-record-revenue-for-2013/
+##KEYWORDS: open Internet
+##TITLE: Oregan Reports Record Revenue for 2013  |
+##METHOD: paragraphs
+
+Oregan Networks, a leading supplier of next-generation Pay TV solutions for Multiple Service Operators (MSOs), has delivered a record 2013 revenue, as it continued to invest into future growth through the evolution of its product, methodology and market presence.
+By the end of 2013, subscriptions to British Telecom’s internet television service powered by Oregan’s software, surpassed 0.5 Million subscribers, marking Oregan’s largest telecoms operator deployment in Europe to date.
+
+
+
+
+Mark Perry, Chief Executive Officer of Oregan Networks said, ‘The company’s Digital TV solutions are well proven in complex hybrid broadcast and IPTV deployments within the tier-1 Pay TV operator market, making Oregan a trusted provider for global operators seeking mature, flexible and economical solutions.
+The ramp-up in revenues in year 2013, despite slower than expected economic growth in Oregan’s core markets, was driven by revenues from Pay TV subscription licences and recurring platform evolution services to MSO customers, demonstrating the high value of the company’s core engineering competences.
+Based on the strength of our software portfolio, increased velocity of new product roll-out methods, and the global context of growing investment of telecom and satellite operators in the build-out of next generation video delivery networks and systems, we expect to continue delivering high performance in the year 2014.’
+The company’s substantial investment in the evolution of its hybrid middleware platform that combines secure internet streaming capabilities with cable, satellite and terrestrial television has led to a successful launch of its products in key markets. A full end-to-end product launch service package encompassing a pre-integrated 3D user experience, an enabling media delivery software framework and STB firmware diagnostics and remote management system – is now offered to multi-regional operators who wish to increase the speed of their innovation cycle whilst minimising operational costs.
+About Oregan Networks
+Oregan Networks provides a lightweight embedded middleware platform for delivery of Digital TV services to hybrid broadcast receivers.
+Oregan’s platform encapsulates a blueprint combination of open Internet standards with carrier-grade networking, security and quality of service monitoring modules.
+Oregan powers millions of devices deployed by leading telecoms and retail brands, including British Telecom, Telefonica, CAT Telecom, NTT, Batelco, Sony, Philips and Sharp.
+Oregan’s headquarters and primary R&D centre are located in London UK, with branch offices in Singapore, Mexico, Argentina and Taiwan. More information is available at www.oregan.net.
+ 
+Related posts:
+
+			You must be logged in to post a comment 
+			
+				Login			
+
+	
+			        Copyright Advanced Television Ltd © 2001–2021					
+
+						Maintained by Elrond Limited

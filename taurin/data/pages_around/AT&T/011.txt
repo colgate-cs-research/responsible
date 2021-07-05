@@ -1,0 +1,31 @@
+##LINK: https://www.tellusventure.com/att-blows-off-net-neutrality-as-it-zero-rates-hbo-max/
+##KEYWORDS: net neutrality
+##TITLE: AT&T blows off net neutrality as it zero rates HBO Max – Steve Blum's Blog
+##METHOD: article 1
+
+
+
+ 
+ 
+ AT&T blows off net neutrality as it zero rates HBO Max   
+		12 June 2020		by		Steve Blum	
+		    att ,  fcc ,  netneutrality ,  public policy ,  sb822   
+ 
+ 
+ 
+ AT&T is giving its HBO Max streaming service a free ride on its mobile broadband network. The bandwidth consumed by AT&T mobile customers while watching HBO Max programming won’t be counted against their monthly data caps. According to  a story in  The Verge  by Nilay Patel , AT&T’s streaming competition won’t get the same  zero rating  treatment… 
+ 
+HBO Max, AT&T’s big bet on the future of streaming, will be excused from AT&T’s mobile data caps, while competing services like Netflix and Disney Plus will use up your data… 
+ AT&T…confirmed to The Verge that HBO Max will be excused from the company’s traditional data caps and the soft data caps on unlimited plans.
+ 
+ The story goes on to say that AT&T offers other streaming platforms the opportunity to pay for the bandwidth their subscribers consume, but none have found the deal compelling enough to take it. It works for AT&T because it’s just taking money out of its HBO Now pocket and putting it into its AT&T mobile pocket. 
+ Whether it’s a privilege it reserves for itself or one it sells to others, AT&T’s zero rating tactic is the kind of conduct that network neutrality rules are intended to stop. If there were network neutrality rules. The current Federal Communications Commission thinks zero rating and pretty much anything else AT&T does is just fine – that’s why the republican majority  voted in 2017 to repeal the net neutrality rules  established during the Obama administration. 
+ It’s different in California, sorta.  A law passed in 2018  bans “zero-rating some Internet content, applications, services, or devices in a category of Internet content, applications, services, or devices, but not the entire category”, or accepting payment to do so. Unfortunately that law –  senate bill 822  – is  on ice right now . California attorney general Xavier Becerra agreed not to enforce it while appeals of the FCC’s 2017 decision work their way through the federal courts. 
+ A federal appeals court in Washington, D.C. refused in February to reconsider its  earlier decision (mostly) upholding the FCC’s net neutrality rollback . The nominal 90-day deadline for taking it to the federal supreme court passed without action last month. The net neutrality battle could be back in California soon. 
+ Share this: Twitter Facebook LinkedIn Reddit Pinterest Pocket WhatsApp   
+ 
+ 
+ Post navigation 
+ CPUC knows how to end taxpayer-funded middle mile fiber grabs. As it should Tight limits on local review of cell site expansions just got tighter, as FCC widens preemptions   
+ 
+ 

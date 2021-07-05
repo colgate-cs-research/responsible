@@ -1,0 +1,202 @@
+##LINK: https://www.lteforum.at/mobilfunk/hat-jemand-einen-6in4-tunnel-am-laufen.4110/
+##KEYWORDS: open Internet
+##TITLE: Hat jemand einen 6in4-Tunnel am Laufen? | LTE-Forum Österreich
+##METHOD: article 20
+
+
+
+
+ Hallo Comunity, 
+ 
+ich habe hinter einem HuiTube im Bridge-Modus einen Draytek 2925 installiert. Nun möchte ich IPV6 nutzen und habe versucht, einen 6in4-Tunnel von Hurricane-Electric ( https://tunnelbroker.net/ ) zu aktivieren. 
+Von meinem Draytek gibt eine genaue Anleitung für die Konfiguration - ich denke, da habe ich Nichts falsch gemacht. Der Router versucht einen Tunnel aufzubauen, zeigt auch TX-Bytes/Pakete an, hat aber 0 RX-Bytes/Pakete. Ich kann die jeweiligen Endpunkte des Tunnels von der jeweiligen Seite aus anpingen, durch den Tunnel hindurch geht es jedoch nicht. 
+Was ich in den FAQs lesen konnte, ist eine mögliche Ursache, dass das Protokoll 41 von aussen nicht durchgeroutet wird. Ich habe nun den Verdacht, dass entweder das 3-Netz überhaupt oder der HuiTube im Bridge-Modus dieses Protokoll nicht weiterleitet. 
+Mir fehlt momentan der Plan, wie ich diese beiden Möglichkeiten überprüfen kann, darum die Frage: 
+Hat jemand einen IPV6-Tunnel im 3-Netz am laufen und welches Equipment wird eingesetzt? 
+ 
+LG cle 
+   
+
+
+ Hallo Comunity, 
+ 
+ich habe hinter einem HuiTube im Bridge-Modus einen Draytek 2925 installiert. Nun möchte ich IPV6 nutzen und habe versucht, einen 6in4-Tunnel von Hurricane-Electric ( https://tunnelbroker.net/ ) zu aktivieren. 
+Von meinem Draytek gibt eine genaue Anleitung für die Konfiguration - ich denke, da habe ich Nichts falsch gemacht. Der Router versucht einen Tunnel aufzubauen, zeigt auch TX-Bytes/Pakete an, hat aber 0 RX-Bytes/Pakete. Ich kann die jeweiligen Endpunkte des Tunnels von der jeweiligen Seite aus anpingen, durch den Tunnel hindurch geht es jedoch nicht. 
+Was ich in den FAQs lesen konnte, ist eine mögliche Ursache, dass das Protokoll 41 von aussen nicht durchgeroutet wird. Ich habe nun den Verdacht, dass entweder das 3-Netz überhaupt oder der HuiTube im Bridge-Modus dieses Protokoll nicht weiterleitet. 
+Mir fehlt momentan der Plan, wie ich diese beiden Möglichkeiten überprüfen kann, darum die Frage: 
+Hat jemand einen IPV6-Tunnel im 3-Netz am laufen und welches Equipment wird eingesetzt? 
+ 
+LG cle 
+   
+
+
+
+ Ich habe das auch versucht, scheint aber nicht zu funktionieren. Eventuell wird der Port für den GRE Tunnel gefiltert. Außerdem, hast Du eine statische IP Adresse? Ansonsten musst Du immer überprüfen, dass die IP Adresse unter tunnelbroker.net stimmt. 
+ 
+Ich umgehe das ganze generell, ich habe meinen eigenen IPv6 Space den ich mit meinem ASN announce, dazu habe ich einen OVPN Tunnel vom Core in Frankfurt nach Hause - klappt super. 
+ 
+LG, 
+Florian 
+   
+
+
+ Ich habe das auch versucht, scheint aber nicht zu funktionieren. Eventuell wird der Port für den GRE Tunnel gefiltert. Außerdem, hast Du eine statische IP Adresse? Ansonsten musst Du immer überprüfen, dass die IP Adresse unter tunnelbroker.net stimmt. 
+ 
+Ich umgehe das ganze generell, ich habe meinen eigenen IPv6 Space den ich mit meinem ASN announce, dazu habe ich einen OVPN Tunnel vom Core in Frankfurt nach Hause - klappt super. 
+ 
+LG, 
+Florian 
+   
+
+
+
+ Hallo Florian, 
+ 
+es müsste möglich sein, die IP über D-DNS zu aktualisieren, aber damit spiele ich mich erst, wenn der Tunnel steht. 
+ 
+Deine Version ist halt eine ziemliche Kanone für meine Spatzenanforderungen ;-). Ich möchte nur einzelne IPV6-only-Seiten und evtl meine NAS ohne VPN erreichen. 
+ 
+Ich bin der Ursache auch schon ein bisschen näher gekommen (und habe ein Mail an den Drei-Support geschickt - Bin gespannt wann sie sich melden): 
+Ich habe noch das TSP (over IP, over UDP kann mein Router nicht) mit einem australischen Provider probiert, hat auch nicht funktioniert. 
+Dann habe ich testweise von Bridge auf DMZ mit allen Portweiterleitungen umgestellt und der TSP-Tunnel ist einwandfrei gelaufen. 
+ 
+Ich gehe jetzt davon aus, dass das 41er-Protokoll zwar im 3-Netz unterwegs ist, der HUI-Tube leitet es aber im Bridge-Mode nicht weiter. Vielleicht kann hier mit einem FW-Update nachgeholfen werden. 
+   
+
+
+ Hallo Florian, 
+ 
+es müsste möglich sein, die IP über D-DNS zu aktualisieren, aber damit spiele ich mich erst, wenn der Tunnel steht. 
+ 
+Deine Version ist halt eine ziemliche Kanone für meine Spatzenanforderungen ;-). Ich möchte nur einzelne IPV6-only-Seiten und evtl meine NAS ohne VPN erreichen. 
+ 
+Ich bin der Ursache auch schon ein bisschen näher gekommen (und habe ein Mail an den Drei-Support geschickt - Bin gespannt wann sie sich melden): 
+Ich habe noch das TSP (over IP, over UDP kann mein Router nicht) mit einem australischen Provider probiert, hat auch nicht funktioniert. 
+Dann habe ich testweise von Bridge auf DMZ mit allen Portweiterleitungen umgestellt und der TSP-Tunnel ist einwandfrei gelaufen. 
+ 
+Ich gehe jetzt davon aus, dass das 41er-Protokoll zwar im 3-Netz unterwegs ist, der HUI-Tube leitet es aber im Bridge-Mode nicht weiter. Vielleicht kann hier mit einem FW-Update nachgeholfen werden. 
+   
+
+
+
+ Hallo, 
+ 
+Würde gerne dieses Thema nochmal hoch holen. 
+Ich probiere jetzt auch schon seit Tagen rum und bekomme den GIF Tunnel zu Hurricane Electric nicht zum laufen. 
+ 
+Habe ne pfSense hinter eine 3 Webgate 3. 
+ 
+An der gleichen pfSense hängt auch noch ein A1 ADSL Modem. Wenn ich den GIF Tunnel über ADSL aufbaue läuft er sofort. 
+ 
+Open Internet ist aktiv... Andere Services connecten normal nach Hause 
+ 
+Hat mittlerweile schon wer eine Lösung gefunden? 
+ 
+Thx, 
+Maxx 
+   
+
+
+ Hallo, 
+ 
+Würde gerne dieses Thema nochmal hoch holen. 
+Ich probiere jetzt auch schon seit Tagen rum und bekomme den GIF Tunnel zu Hurricane Electric nicht zum laufen. 
+ 
+Habe ne pfSense hinter eine 3 Webgate 3. 
+ 
+An der gleichen pfSense hängt auch noch ein A1 ADSL Modem. Wenn ich den GIF Tunnel über ADSL aufbaue läuft er sofort. 
+ 
+Open Internet ist aktiv... Andere Services connecten normal nach Hause 
+ 
+Hat mittlerweile schon wer eine Lösung gefunden? 
+ 
+Thx, 
+Maxx 
+   
+
+
+
+ Danke für Dein Angebot! 
+Ich hab den Tunnel aber eh via A1 ADSL laufen. Dann muß der halt vorerst dort bleiben. Es wäre einfach schön gewesen diesen auf LTE zu legen, weil das wäre viiiiiiiieeel schneller bei mir hier  
+ 
+Weiß man irgendwie einen Grund warum Drei das sperrt? 
+ 
+Ich hab angefangen zu überlegen ob ich eben meinen A1 Anschluss aufgebe und alles über LTE mache. Aber scheinbar gehen gewisse Sachen halt doch nicht so prickelnd. 
+   
+
+
+ Danke für Dein Angebot! 
+Ich hab den Tunnel aber eh via A1 ADSL laufen. Dann muß der halt vorerst dort bleiben. Es wäre einfach schön gewesen diesen auf LTE zu legen, weil das wäre viiiiiiiieeel schneller bei mir hier  
+ 
+Weiß man irgendwie einen Grund warum Drei das sperrt? 
+ 
+Ich hab angefangen zu überlegen ob ich eben meinen A1 Anschluss aufgebe und alles über LTE mache. Aber scheinbar gehen gewisse Sachen halt doch nicht so prickelnd. 
+   
+
+
+
+ 
+ 
+ maxx8888 schrieb: 
+ 
+ 
+ 
+			Weiß man irgendwie einen Grund warum Drei das sperrt?
+		 
+ Zum Vergrößern anklicken.... 
+ 
+ 
+Vermutlich um Traffic zu sparen, aufrufe von Websiten -> dort kann man gewissen Daten cachen. Alleine YouTube / Google zählt bei Drei nicht als wirklicher Traffic, da sie einen eigenen Google Cache betreiben. 
+ 
+Aber was auch immer, einen wirklichen Grund gibt es nicht, immerhin gehen auch GRE Tunnels. 
+ 
+Wie gesagt, wenn du Interesse hast, kann ich dir auch einen IPv6 Block per OpenVPN / GRE routen, das sollte per LTE gehen.  
+   
+
+
+ 
+ 
+ maxx8888 schrieb: 
+ 
+ 
+ 
+			Weiß man irgendwie einen Grund warum Drei das sperrt?
+		 
+ Zum Vergrößern anklicken.... 
+ 
+ 
+Vermutlich um Traffic zu sparen, aufrufe von Websiten -> dort kann man gewissen Daten cachen. Alleine YouTube / Google zählt bei Drei nicht als wirklicher Traffic, da sie einen eigenen Google Cache betreiben. 
+ 
+Aber was auch immer, einen wirklichen Grund gibt es nicht, immerhin gehen auch GRE Tunnels. 
+ 
+Wie gesagt, wenn du Interesse hast, kann ich dir auch einen IPv6 Block per OpenVPN / GRE routen, das sollte per LTE gehen.  
+   
+
+
+
+ Hallo, 
+ 
+Habe gestern auch ein E-Mail an das Drei-Service Team geschreiben da sie nach meiner Analyse ja 41-Protokoll-IPv4-Paket sperren. Meine Router sperrt das nicht! 
+ 
+Wenn ich mir die vorherigen Beiträge so durchlese dann schwinden meine Hoffnungen, das ich über Hurricane Electric einen IPv6-Tunnel zum laufen bring. 
+ 
+Weiß jemand ob man noch irgentwie einen SiXXS-Account bekommt die bieten nämlich einen  AYIYA-Tunnel  über UDP-IPv4 an: 
+ https://www.sixxs.net/signup/ 
+Btw: Ja ich frage jedes Mal wenn ich mit einen ISP kommuniziere der noch kein natives IPv6 announced. 
+ 
+Tja, ich bin mal auf die Drei-Serivice-Team antwort gespannt. 
+   
+
+
+ Hallo, 
+ 
+Habe gestern auch ein E-Mail an das Drei-Service Team geschreiben da sie nach meiner Analyse ja 41-Protokoll-IPv4-Paket sperren. Meine Router sperrt das nicht! 
+ 
+Wenn ich mir die vorherigen Beiträge so durchlese dann schwinden meine Hoffnungen, das ich über Hurricane Electric einen IPv6-Tunnel zum laufen bring. 
+ 
+Weiß jemand ob man noch irgentwie einen SiXXS-Account bekommt die bieten nämlich einen  AYIYA-Tunnel  über UDP-IPv4 an: 
+ https://www.sixxs.net/signup/ 
+Btw: Ja ich frage jedes Mal wenn ich mit einen ISP kommuniziere der noch kein natives IPv6 announced. 
+ 
+Tja, ich bin mal auf die Drei-Serivice-Team antwort gespannt. 
+   

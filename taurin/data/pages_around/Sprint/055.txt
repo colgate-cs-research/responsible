@@ -1,0 +1,142 @@
+##LINK: https://arstechnica.com/information-technology/2016/05/sprint-now-zero-rating-some-video-joining-att-verizon-and-t-mobile/
+##KEYWORDS: zero-rating
+##TITLE: Sprint now zero-rating some video, joining AT&T, Verizon, and T-Mobile | Ars Technica
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+      When free is controversial    —
+ 
+ Sprint now zero-rating some video, joining AT&T, Verizon, and T-Mobile 
+ Zero-rating expands to Sprint as FCC continues net neutrality review. 
+ 
+ 
+ Jon Brodkin 
+    -   May 23, 2016 3:57 pm UTC 
+ 
+   
+ 
+ 
+ FuboTV temporarily won't count against Sprint data caps under a new promotion. FuboTV 
+ reader comments 
+ 62 
+  with 22 posters participating 
+ 
+ 
+ Share this story 
+ Share on Facebook 
+ Share on Twitter 
+ Share on Reddit 
+ 
+ Sprint is now allowing some online video to be streamed without counting against customers' data caps, making it the fourth major wireless carrier in the US to implement data cap exemptions (or "zero-rating"). 
+ Sprint's first foray into zero-rating,  announced last week , is for the Copa America Centenario soccer tournament being held in the US beginning June 3. Sprint has partnered with FuboTV, a soccer streaming service, to give customers access to every match if they sign up for a 60-day trial. (FuboTV costs $9.99 per month if customers keep it after the trial expires.) Data streamed from FuboTV will not count against data caps during the tournament, but the zero-rating will end on June 27 right after the Copa America is over. Further Reading FCC had “productive” net neutrality talks with Comcast and T-Mobile 
+ Zero-rating plans are being scrutinized by the Federal Communications Commission. While wireless carriers argue that zero-rating benefits consumers, net neutrality advocates say zero-rating gives an unfair advantage to services that don't count against data caps, allowing carriers to favor some content over others.   
+ Advertisement  
+ 
+ 
+ While data cap exemptions are not specifically outlawed by the FCC's net neutrality rules, the FCC is examining these arrangements to determine whether they should be stopped under the commission's so-called "general conduct standard." Under that standard, the FCC judges on a case-by-case basis whether a practice "unreasonably interferes" with the ability of consumers to reach content or the ability of content providers to reach consumers. 
+ AT&T was the first major US mobile carrier to make a big move into zero-rating.  Since January 2014 , AT&T has been charging content providers for the right to serve data without counting against customers' monthly data limits. 
+ Verizon Wireless started charging companies for data cap exemptions  this year  and has zero-rated its own  Go90 streaming video service . T-Mobile USA has been exempting dozens of music and video services from data caps, but it does not charge for the exemptions. 
+ Besides mobile carriers, the FCC is also examining a zero-rating implementation  from Comcast . FCC officials have not said when they will finish their review. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ reader comments 
+ 62 
+  with 22 posters participating 
+ 
+ 
+ Share this story 
+ 
+ Share on Facebook 
+ Share on Twitter 
+ Share on Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jon Brodkin 
+      Jon is Ars Technica's senior IT reporter, covering the FCC and broadband, telecommunications, tech policy, and more.     
+ 
+ Email   jon.brodkin@arstechnica.com 
+ // 
+ Twitter   @JBrodkin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertisement  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ You must  login or create an account  to comment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Channel  Ars Technica 
+ 
+ 
+ 
+ 
+ ←  Previous story   Next story  → 
+ 
+ 
+ 
+ 
+ Related Stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Today on Ars 
+ 
+ 
+ 
+ 
+ 
+ 

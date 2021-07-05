@@ -1,0 +1,226 @@
+##LINK: http://walter-unger.com/fighting-google-europe-eyes-digital-agenda-to-better-compete-with-the-us/
+##KEYWORDS: open Internet
+##TITLE: Fighting Google: Europe Eyes Digital Agenda to Better Compete with the US – Walter-Unger.com
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ Fighting Google: Europe Eyes Digital Agenda to Better Compete with the US Blog  / By    
+ admin 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+ “Nearly all men can stand adversity, but if you want to test a man’s character, give him power” 
+ Abraham Lincoln 
+   
+ DER SPIEGEL    By Frank Dohmen and Christoph Pauly 
+ Jean-Claude Juncker, the next head of the European Commission, plans to implement a new digital strategy for the Continent. Europe, he believes, needs to become better equipped to defend itself from the US and Asia. 
+   
+ To the competition regulators in Brussels, Google has something akin to frequent flier status. Hardly a week goes by that an injured company doesn’t deliver incriminating information about the Internet giant to the European Union capital. 
+ The flood of complaints is coming from a growing number of markets where the company wasn’t previously active. On June 11, Competition Commissioner Joaquín Almunia wrote a letter to his colleagues on the European Commission, the EU’s executive, outlining some of these markets. The letter states that they include “social networks, video catalogue, streaming, mobile phone operating systems and apps.” Among the latest complainants, the letter notes, is an advertising platform, the alliance of European photo agencies known as CEPIC, the Open Internet Project, which unites European publishers, and Deutsche Telekom. It can be safely predicted that Google’s compliance with EU competition law will be closely monitored for a long time to come. 
+ The competition commissioner claims the allegations are always in the same vein — that Google is using its dominant position to force competitors out of an increasing number of markets. It’s likely that Almunia will also have to tighten the conditions it is imposing on Google as part of current market abuse proceedings being conducted against the company. Almunia had wanted to end the proceedings by requiring the company to make relatively harmless concessions. Now, however, he writes to his fellow commissioners: “Once the comments from complainants are received during the summer, we will need to evaluate whether their arguments and evidence may justify a potential rethink of some aspects of the remedy.” 
+ It’s not only the Spanish commissioner who appears to be waking up to the seemingly unstoppable advance of massive American Internet firms. In an  essay  recently published in the respected  Frankfurter Allgemeine Zeitung  newspaper, German Economics Minister Sigmar Gabriel, who is head of the center-left Social Democratic Party (SPD), wrote that people needed to stand up against the “brutal information capitalism.” He argued “only the European Union has the power required to change the political course and rewrite the rules.” 
+ Jean-Claude Juncker, who was nominated as the next president of the European Commission at a turbulent summit in Brussels on Friday, shares this view. He wants to make the digital economy the focal point of his presidency. It is one issue on which he can count on support from David Cameron, despite the British prime minister’s opposition to Juncker. 
+ Part of Juncker’s agenda will be to ensure that Europe challenges market abuse by American Internet giants with greater self-confidence. More important, however, will be for the EU to start cleaning up its own backyard. 
+ Juncker wants to take advantage of a broad consensus among European politicians to put enough muscle in the EU’s digital market that European companies can stand up to competition from the United States and Asia in the longer term. “We could create additional growth of €500 billion ($684 billion) and several hundred thousand jobs in Europe,” the former Luxembourg prime minster says. 
+ A European Industry in Decline 
+ Juncker’s team is currently hard at work drafting a new industrial policy in Brussels. “We will need to have the courage to break down national silos in telecommunications regulations, in copyright and data protection legislation, in the management of radio waves and in competition law,” Juncker stated in his election campaign  platform , setting the strategic direction. 
+ EU diplomats report that Juncker is currently searching for an assertive commissioner for digital issues whom he can equip with far-reaching responsibilities. 
+ Still, it remains unclear if the European Council, made up of the 28 leaders of EU member states, will be prepared to go along with Juncker. And previous experiences haven’t been positive. The European Commission and national politicians across Europe have combined in recent years to steer European Internet, software and telecommunications industries into insignificance. Ten to 15 years ago, European companies like Siemens, Alcatel, Nokia and Deutsche Telekom were still leaders in key 21st century technologies. But today, most of those companies are lagging far behind or no longer even have their own product lines. 
+ An internal paper produced by Deutsche Telekom recently claimed that the situation in the entire European information and telecommunications industry is a disaster. Almost all of the key areas of this crucial market are now dominated by American or Asian companies. 
+ The Internet is dominated by Google, Facebook and Amazon, and Europe offers few alternatives. In the software industry, US giants like Microsoft, Oracle and IBM determine the direction of the market. The mobile phone industry is controlled by companies like South Korean consumer electronics giant Samsung and American computer-maker Apple. And even when it comes to the traditionally strong telecommunications sector, European companies are no longer able to keep up. In a global ranking, Spain’s Telefónica is doing the best of any European company, ranking fourth behind Japan’s NTT and AT&T in the United States. 
+ Misguided Policies and Overregulation 
+ Deutsche Telekom CEO Timotheus Höttges and a number of his European counterparts believe the reason behind the fast and dramatic decline are misguided EU policies and overregulation. Instead of “strengthening strengths” as the Americans do and providing important companies with reasonable operating conditions, the reverse is happening in Europe, they argue. 
+ For years, the Commission and EU member states have been flooding telecommunications and mobile phone companies with new constraints and regulations. These included regulations forcing the dramatic reduction of roaming fees and prices for phone calls and Internet access. At the same time, they also forced companies to purchase mobile spectrum licenses at a cost of billions of euros in sophisticated auctions and to make their networks available to small firms at cost. 
+ The regulations were intended to spur competition and lower prices for consumers. The problem is that, to a large degree, the necessary investments in infrastructure never happened. 
+ That’s now coming back to haunt Europe. The very fast networks that would need to be in place to facilitate a reemergence of the European digital market haven’t been built. The EU has estimated that around €270 billion would have to be invested in faster mobile phone connections and fiber optic cables just to establish a halfway comprehensive high-speed network. 
+ Unified rules and regulations are also lacking. Just to connect a network running from Slovenia to Portugal, Höttges claims, companies like Telekom are forced to engage in negotiations lasting months “with five to six different regulators in order to grapple with the technical regulations and data protection rules.” The executive says it’s a complicated process that desperately needs to be simplified. 
+ An Overly Fragmented Market 
+ Industry officials have frequently raised these issues with regulators in Brussels in the past, but for a long time they were unsuccessful. The fact that the European market, with around 200 providers, is now too deeply fragmented has also failed to sway officials on the European Commission, who have long stuck with their restrictive competitive policies. Mergers and alliances between European telecommunications firms were either rejected in the past or permitted only with the imposition of stringent conditions. 
+ The result is that companies that were once European stock market stars have lost their competitiveness and are now having to take great care to ensure they aren’t acquired by overseas rivals. Last year, for example, Mexican billionaire Carlos Slim nearly succeeded in buying up Dutch national telecommunications provider KPN. 
+ Last year, in the highly competitive mobile phone market in Germany, providers E-Plus and O2 waged a tough price war with Deutsche Telekom and Vodafone. But it will be extremely difficult for them to absorb the sinking margins and the high costs of LTE mobile phone networks on their own. 
+ E-Plus and Telefónica subsidiary O2 now plan to merge, and on Wednesday the EU competition authority moved to approve the €8.6 billion deal, which will create Germany’s largest mobile service provider. The EU also imposed restrictions on the deal, including one stipulating that it has to lease network capacity to smaller operators. 
+ National Hallmarks 
+ “We need improved competition, especially in Germany, because the market still bears national hallmarks,” says Andreas Mundt, the head of the German Federal Cartel Office. Otherwise he fears a situation may arise like the one in Austria, where a similar merger led to a 10 percent increase in prices for mobile phone calls. 
+ Juncker now wants to eliminate these national provisos with a pan-European strategy for the digital market. At an April campaign speech ahead of elections to the European Parliament, Juncker said that the single market remains incomplete when it comes to digital products and services. “Have you ever tried to download a song on your iPhone in another EU country?” he asked his audience. “Have you ever tried to follow a football match on your tablet while abroad?” 
+ Juncker wants the next European commissioner for digital agenda to define and implement transnational telecommunications markets. Possible candidates for the post include Finnish Prime Minister Jyrki Katainen. But it won’t be enough to just further reduce roaming fees in Europe, one EU diplomat says. 
+ Juncker has pleaded openly for a new European competition policy. “If we ask companies to offer their networks and services not only nationally any longer but now on a Continental scale, we should, in my view, also apply EU competition law with a Continental spirit,” he recently said. As president of the European Commission, Juncker also said that large mergers in the telecommunications sector would be made possible. He has pointed to the US as the model for his new industrial policy, where five major providers are in stiff competition with each other. 
+ A New Battle for the EU Commission 
+ In order to implement the radical changes, the Commission also wants to have a say in the allocation of frequencies now used by broadcasters, which in the past has been awarded by national governments. The frequencies are highly sought-after because they provide much greater bandwidth. A single, well-defined, Europe-wide spectrum, according to the plans in Brussels, could significantly advance the Continent’s digitalization. 
+ Germany provides a good example of just how sensitive the issue is. The German Federal Network Agency currently wants to auction frequencies that had previously been used by broadcasters, but the federal and state governments have become entangled in a dispute over how the expected billions in auction revenues are to be divvied up. 
+ Juncker is also likely to face resistance from member states on the necessary Europeanization of the regulatory framework for Internet businesses. For example, there are currently 28 different copyright laws in Europe and, as a result, 28 different markets in which digital content is sold. 
+ At the same time, there are “still no unified warranty obligations,” says Andreas Schwab, a German member of the European Parliament with the conservative Christian Democratic Union party. He says that represents another serious hindrance for the European internal market. Anyone who wants to obtain an Internet product from another EU country or to sell something there is forced to cope with general conditions that vary from country to country. In this area, too, he says, people were in broad agreement on principle that joint common standards for consumer directives should be defined for all of Europe. But as often happens, efforts failed as a result of the fine print and national egotism. 
+ An Easier Playing Field for the Americans 
+ This makes the playing field for American Internet providers a much easier one. They have immediate access to a market with 310 million consumers and can quickly become big enough to start snapping up companies in Europe, one country at a time, whereas their European competitors are stuck in their own limited national markets. US firms are often highly adept at playing national authorities against each other in Europe in order to offer the least amount of data privacy possible or to pay the lowest possible taxes. 
+ German Economics Minister Gabriel also supports Juncker’s digital agenda. Still, the government in Berlin isn’t going to rely entirely on Brussels to get the job done. Gabriel recently received a paper produced by the Federal Cartel Office describing how, in an emergency, Google’s power could be limited through national laws without the need to even regulate its search algorithm. 
+ For example, the 30-page paper states that, Google could be treated as an infrastructure provider in Germany in the same way that Deutsche Telekom or an electricity supplier is. Then, a government agency would have the right to determine how Google must treat its competitors. It could also establish the condition that those competitors have to appear on the first page of a search-result next to Google’s own offerings. 
+ “We’re not completely defenseless,” says Federal Cartel Office President Mundt, who argues that stronger national regulations are indeed possible. But he also says that the better solution would be to provide a strong European alternative to Google. 
+ READ MORE: 
+   
+ http://www.spiegel.de/international/business/eu-wants-to-challenge-google-with-new-digital-strategy-a-978521.html#spLeserKommentare   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ A little about me and my expertise – video 
+                       
+ commercial / investment real estate / Arizona land specialist 
+ https://www.youtube.com/watch?v=PPs3kpKR4nY 
+   
+ I go to great heights to sell or purchase your land 
+ http://walter-unger.com/?p=10118 
+   
+   
+ 
+ 1 
+ Timeline of Phoenix, Arizona history 
+   
+ 
+ http://en.wikipedia.org/wiki/Timeline_of_Phoenix,_Arizona_history 
+ 
+ 2 
+ Phoenix, Arizona 
+   
+ http://en.wikipedia.org/wiki/Phoenix,_Arizona 
+ 
+ 3 
+ Facts of Arizona – year 1848 to 2013 
+ http://walter-unger.com/?p=9507 
+   
+ 4. 
+ Feel free to contact Walter regarding any of these stories, the current market, distressed commercial real estate opportunities and needs, your property or your Investment Needs for Comercial Investment Properties in Phoenix.  
+   
+   
+ View my listings and my profile at: 
+ http://www.loopnet.com/profile/14101172900/Walter-Unger-CCIM/Listings/ 
+   
+ www.Walter-Unger.com 
+   
+ What is a CCIM? 
+   
+ Join My Mailing List 
+   
+   
+ Please go to my web-site and get all the newsflashes and updates in Commercial Investment Real Estate in Phoenix and Commercial Investment Properties in Phoenix daily 
+   
+ www.walter-unger.com 
+   
+   
+ Check out my professional profile and connect with me on LinkedIn.  
+ http://lnkd.in/bezpJ8t 
+   
+ Follow me on Facebook: 
+ http://www.facebook.com/ungerccim 
+   
+ Follow me on Twitter: 
+ https://twitter.com/Walterunger 
+   
+   
+ Follow Me on Google+ 
+ https://plus.google.com/u/0/b/114560883588623379451/ 
+   
+ Walter Unger CCIM, CCSS, CCLS  
+ I am a successful Commercial Investment Real Estate Broker in Arizona now for 20 years and I worked with banks and their commercial REO properties for 3 years. I am also a commercial landspecialist in Phoenix and a Landspecialist in Arizona.  
+   
+ WHETHER YOU LEASE OR OWN  
+ NOW IS THE TIME FOR YOU TO EXPAND, UPGRADE OR INVEST.  
+   
+ we are at on the a rise of the cycle in Commercial Real Estate.  so there is only one way and it’s called we are going up and now is the time for you to expand, upgrade or invest in Commercial Properties in Phoenix.  The prices on deals I may get you will not be around forever.  
+   
+ If you have any questions about Commercial Investment Properties in Phoenix or Commercial Investment Properties in Arizona,  I will gladly sit down with you and share my expertise and my professional opinion in Commercial Properties in Phoenix or Commercial Properties in Arizona with you.Obviously I am also in this to make money, but it could be a win-win situation for all of us.   
+   
+ Please reply by e-mail  walterunger@ccim.net  or call me on my cell 520-975-5207 or Office:480-948-5554 
+   
+ www.Walter-Unger.com 
+   
+ Thank You 
+ Walter 
+ Walter Unger CCIM 
+ Associate Broker,  West USA Commercial Real Estate Advisers 
+ 7077 E. Marilyn Road, Bldg 4, Suite 130 
+ Scottsdale, AZ 85254 
+ Cell:      520-975-5207    
+ Office :  480-948-5554 
+ Fax: (480-658-1172   
+ walterunger@ccim.net 
+   
+ View my listings and my profile at: 
+ http://www.loopnet.com/Profile/14101172900/Walter-Unger-CCIM/ 
+   
+ www.Walter-Unger.com               
+   
+ a little about me and my expertise – video 
+   
+ commercial-investment real estate adviser-land specialist 
+   
+ https://www.youtube.com/watch?v=PPs3kpKR4nY 
+   
+ What is a CCIM? 
+   
+   
+ Delivering the New Standard of Excellence in Commercial Real Estate  
+   
+ 
+ Commercial Real Estate Scottsdale 
+ 
+ 
+ Commercial Real Estate Phoenix 
+ Commercial Real Estate Arizona 
+ Commercial Investment Properties Phoenix 
+ Commercial Investment Properties Scottsdale 
+ Commercial Investment Properties Arizona 
+ Land Specialist Arizona 
+ Arizona Land Specialist 
+ Land Specialist Phoenix 
+ Phoenix Land Specialist 
+ Land For Sale Phoenix 
+ Land for sale Arizona 
+ Commercial Properties For Sale Phoenix 
+ Commercial Real Estate Sales Phoenix 
+ Commercial Properties Phoenix 
+ Commercial Properties Arizona 
+ Commercial Land Specialist Phoenix 
+ Commercial Land Phoenix 
+ Multifamily land Phoenix 
+ Retail Land Phoenix 
+ Industrial Land Phoenix 
+ Land Commercial Phoenix 
+ Land Retail Phoenix 
+ Land Industrial Phoenix 
+ Land Multifamily Phoenix 
+ Industrial Land for sale Phoenix 
+ Land Industrial 
+ P 
+ Investment Real Estate 
+ 
+   
+ Disclaimer of Liability 
+ The information in this blog-newsletter is for general guidance only, and does not constitute the provision of legal advice, tax advice, accounting services, investment advice, or professional consulting of any kind. The information provided herein should not be used as a substitute for consultation with professional tax, accounting, legal, or other competent advisers. Before making any decision or taking any action, you should consult a professional adviser who has been provided with all pertinent facts relevant to your particular situation. Tax articles in this e-newsletter are not intended to be used, and cannot be used by any taxpayer, for the purpose of avoiding accuracy-related penalties that may be imposed on the taxpayer. The information is provided “as is,” with no assurance or guarantee of completeness, accuracy, or timeliness of the information, and without warranty of any kind, express or implied, including but not limited to warranties of performance, merchantability, and fitness for a particular purpose. 
+   
+   
+   
+   
+   
+   
+ 
+ 

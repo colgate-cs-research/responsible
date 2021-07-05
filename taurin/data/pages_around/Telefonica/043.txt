@@ -1,0 +1,141 @@
+##LINK: https://www.irishtimes.com/business/technology/strict-take-on-net-neutrality-by-eu-telecom-regulators-1.2773507
+##KEYWORDS: zero-rating
+##TITLE: Strict take on ‘net neutrality’  by EU telecom regulators
+##METHOD: article 7
+
+
+
+ 
+ 
+ 
+ 
+ 
+ Strict take on ‘net neutrality’  by EU telecom regulators 
+  Principle that all web traffic is equal designed to keep internet an open platform   
+             
+ 
+ 
+ 
+ Tue, Aug 30, 2016, 20:34 
+ 
+ 
+ 
+   
+     
+ 
+     
+ 
+ Lise Fuhr: Important that the implementation of net neutrality rules does not hamper new applications and services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ EU regulators have adopted a strict interpretation of rules limiting how telecoms firms can prioritise some types of internet traffic. The aim is to protect the principle that all web traffic be treated equally. 
+ The guidelines on net neutrality were welcomed by internet activists as ensuring the web remains an open platform and not a two-speed highway benefiting only companies with deep pockets that can pay for prioritised delivery. 
+ The  European Union  adopted its first-ever net neutrality law last year. The latest guidelines, adopted on Tuesday,will help determine how regulators enforce those rules. 
+ Companies had pushed for leeway that allowed them to prioritise some types of data over others.  
+ Under the latest guidelines, however, they will only be able to offer so-called specialised services – such as connectivity for driverless cars and internet-connected devices – over dedicated network capacity if it is “objectively necessary” and only if it does not negatively affect the Internet. 
+ Specialised services Services such as high-quality voice calling on mobile networks, live television delivered over the internet, and remote surgery, or telesurgery, are likely to be allowed as specialised services, according to the guidelines. 
+ The telecoms industry said it was essential to avoid “restrictive interpretations” of the net neutrality law. 
+ “Let’s make sure the implementation of net neutrality rules does not hamper new applications and services,” said  Lise Fuhr , director general of Brussels-based  Etno , a telecoms lobbying group representing operators, including  Deutsche Telekom ,  Telefonica  and  Telecom Italia .  
+ Regulators have also limited the extent to which telecoms operators may exempt some applications, such as  Facebook , from a customer’s data usage, a practice known as zero-rating. 
+ Customers cannot continue using Facebook or, say, Spotify, for free once they have used up all the data in their subscription.  
+ – (Reuters) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Topics: 
+ 
+ Lise Fuhr 
+ 
+ 
+ Eu 
+ 
+ 
+ European Union 
+ 
+ 
+ Deutsche Telekom 
+ 
+ 
+ Etno 
+ 
+ 
+ Facebook 
+ 
+ 
+ Telecom Italia 
+ 
+ 
+ Telefonica 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

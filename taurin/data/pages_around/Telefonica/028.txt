@@ -1,0 +1,33 @@
+##LINK: https://www.itpro.co.uk/networking/26899/telcos-offer-europe-5g-networks-if-eu-weakens-net-neutrality
+##KEYWORDS: open Internet
+##TITLE: Telcos offer Europe 5G networks if EU weakens net neutrality | IT PRO
+##METHOD: paragraphs
+
+View all Business
+View all Cloud
+View all Hardware
+View all Infrastructure
+View all Security
+View all Software
+View all Technology
+A coalition of almost 20 major telecoms providers, including BT, Ericsson, Nokia, Orange, Telefonica, Deutsche Telekom and Vodafone, have offered to roll out 5G networks across Europe, if the EU weakens its open internet rules.
+The group has drawn up a 5G manifesto', in which they promise to start extensive tests of 5G technology across Europe by 2018, and launch 5G on a commercial scale in at least one city in every EU member state by 2020.
+However, the telecoms companies argued net neutrality regulation will involve "dangers" harming returns on investment, and want to see the rules softened.
+Net neutrality is the principle that internet service providers (ISPs) should treat all data equally, and not discriminate or apply different charges, regardless of the content or user.
+In their 5G manifesto, the telcos argue: "The EU must reconcile the need for open internet [net neutrality] with pragmatic rules that foster innovation. The telecom industry warns that current net neutrality guidelines create significant uncertainties around 5G return on investment.
+"Investments are therefore likely to be delayed unless regulators take a positive stance on innovation and stick to it."
+The European Commission rejected amendments aimed at strengthening net neutrality when the legislation was passed last year, and the Commission's digital economy chief, Gunther Oettinger, has expressed his support of the new manifesto.
+"I very much welcome the 5G Manifesto and discussions today with the high-level industry group," he said. "These will help us focus on the key levers to ensure European digital leadership in 5G. I will come forward with a 5G Action Plan in the autumn."
+While 5G networks are not yet a reality, the technology is expected to have a major role to play in the development of autonomous cars, personal healthcare, transport, smart cities, and other areas, such as media.
+Spotlight: The state of the UK & Ireland mid-sized business and IT today 2021
+The UK and Ireland’s mid market firms faced a difficult 2020 but have a strong platform for recovery
+The secure cloud configuration imperative
+The central role of cloud security posture management
+Empowering the dynamic worker
+How CIOs and IT teams can support a distributed workforce
+A new trust model for the 5G era
+Data-in-motion security through a 5G infrastructure
+How to find RAM speed, size and type
+Secure Boot flaws could enable hackers to take control of Dell devices
+What is HTTP error 400 and how do you fix it?
+Copyright © Dennis Publishing Limited 2021. All rights reserved.IT Pro™ is a registered trademark.

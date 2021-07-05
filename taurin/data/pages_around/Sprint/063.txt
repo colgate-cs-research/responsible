@@ -1,0 +1,264 @@
+##LINK: https://www.theverge.com/2013/10/30/5048398/sprint-ceo-calls-net-neutrality-a-hard-concept-to-get-my-head-around
+##KEYWORDS: zero-rating
+##TITLE: Sprint CEO calls net neutrality 'a hard concept to get my head around' - The Verge
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ Filed under: 
+ 
+ 
+ 
+ Policy 
+ 
+ 
+ 
+ 
+ Mobile 
+ 
+ 
+ 
+ 
+ Sprint 
+ 
+ 
+ 
+ 
+ 
+ Sprint CEO calls net neutrality 'a hard concept to get my head around' 
+ 
+ 
+ 
+ 
+    New,
+   
+ 
+ 
+        206
+       
+ comments 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+      By
+       
+ Dieter Bohn @backlon 
+ 
+ 
+ 
+          Oct 30, 2013,  7:18pm EDT
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this story 
+ 
+ 
+ 
+ 
+ Share this on Facebook 
+ 
+ 
+ 
+ 
+ 
+ Share this on Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options for: 
+ Sprint CEO calls net neutrality 'a hard concept to get my head around' 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Linkedin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pocket 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flipboard 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dan hesse 
+ 
+ 
+ 
+ Today, Sprint held a series of events to tout the capabilities of its  just-announced "Spark" network , which enables cellular data speeds of up to 60Mbps — and by the end of 2015 CEO Dan Hesse says he hopes consumer devices could achieve speeds as high at 150Mbps. If Sprint can pull it off it would be, without question, a different kind of wireless service than what we've seen before. Different enough, in fact, that it's worth asking whether Sprint has plans to alter its famously unlimited data plans to accommodate it. 
+ Hesse tells us that the answer to that question is "no," that Sprint is sticking with its clear and unambiguous unlimited plans. Cable broadband providers charge different rates for different bandwidth offerings, but that's not on the table for Sprint — yet. "Right now the answer is we're not planning to segment based upon speed," says Hesse. That's not to say that Sprint might not increase the price for the unlimited plan or change those plans in the future. Hesse told us that "we may and there are regulatory issues in doing that as well, but it's possible we could." 
+ 
+ 
+ "It's like telling the airlines you can't sell first class seats." 
+ "Regulatory issues" are apparently a vexing problem for Hesse right now, which makes sense as he's the CEO of a major wireless company with ambitions to launch a service that competes with wireline broadband providers. When asked if Sprint would consider offering data plans that looked more like those available abroad, Hesse said he was interested. Specifically, the topic on the table was "Zero Rating," which is industry parlance for an app or service that doesn't count against a customer's data cap. Could Sprint start making deals with the likes of Netflix, Facebook, or others for Zero Rating service? Here's Hesse: 
+ 
+ My belief is yes, that there are a number of business models. Whether it's ... service providers [who pay] for better throughput through your network [or something else]. There's gotta be a business model for it. Things like Zero Rating, which is nothing but a benefit, actually, what's not to like if you have a special relationship with a particular application developer? 
+ 
+ Hesse may see it that way, but whether regulators at the FCC would too is an entirely different matter. Wireless carriers have long resisted being made to adhere to net neutrality rules on their networks, and it's obvious that trend will continue even as those networks begin to match the speeds of traditional broadband. Recently, there was a small uproar over  Comcast's practices with its unlimited Xbox 360 video service running counter to the principles of net neutrality , the sort of issue that's sure to come up on wireless networks soon. Hesse, as you might expect, isn't a fan of net neutrality at all — at least as it applies to wireless services. He went to far as to put the phrase in scare quotes as he spoke on the subject: 
+ 
+ [Wireless spectrum] it is a finite resource ... but again I'm a carrier guy so it's hard for me to even understand, it truly is and I've been looking at "Net Neutrality" for a long time. It's actually a hard concept for me to get my head around. It's like telling the airlines you can't sell first class seats. 
+ 
+ Metaphorical inaccuracy aside, it's obvious that Hesse is looking at ways for Sprint to begin acting less like the friendly, unlimited-everything-for-everybody network that it currently tries to be. That could one day apply to customer service plans, but more importantly, it could apply on the backend — with certain apps or service providers getting preferential treatment or access to Sprint's customers. 
+ Of course, Sprint isn't ready to announce any changes and it shouldn't surprise anybody that the company is looking into these business models — or into ensuring the FCC allows them. AT&T  recently suggested  that application developers could one day start paying for the bandwidth they use to reach customers. 
+ 
+ 
+ 
+ 
+ 
+ 
+    Next Up In
+    
+         Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Sign up for the
+        
+          newsletter
+        
+       
+      Verge Deals
+     
+ Subscribe to get the best Verge-approved tech deals of the week. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thanks for signing up! 
+ Check your inbox for a welcome email. 
+ 
+ 
+ 
+ 
+ Email  (required) 
+ 
+ 
+ 
+ 
+ 
+ 
+        By signing up, you agree to our  Privacy Notice  and European users agree to the data transfer policy.
+        
+       
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loading comments... 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,55 @@
+##LINK: https://money.cnn.com/2010/11/30/technology/netflix_level3_comcast_traffic/index.htm
+##KEYWORDS: open Internet
+##TITLE: Netflix cost sparks fight between Level 3, Comcast - Nov. 30, 2010
+##METHOD: paragraphs
+
+
+												Follow us:
+											
+NEW YORK (CNNMoney.com) -- Netflix is clogging up the Internet. There's a debate raging about who should pay for it -- but ultimately, it's going to be you.
+The latest skirmish is a fracas between Comcast, which connects users to the Internet, and Level 3, which signed a deal three weeks ago to host and deliver Netflix's streaming videos to networks like Comcast's. Comcast ultimately delivers those videos to its paying broadband customers.
+Here's the quick blow-by-blow:
+After Level 3 (LVLT) inked the deal, it went to Comcast and asked permission to send twice the amount of traffic to the cable and Internet provider's network as it had done before. The data spike isn't surprising: Netflix represents more than 20% of download traffic during peak hours, according to a new study by Sandvine.
+Comcast (CMCSA, Fortune 500) scoffed. That's a whole lot of bandwidth that Level 3 is asking for, and it's expensive for Comcast to constantly beef up its network to support additional traffic. 
+Typically, content delivery networks (CDNs) like Level 3 have what's called "peering" agreements with Internet service providers (ISPs) like Comcast. The two sides figure that a roughly equal amount of traffic will be driven to each of their networks, so neither charges the other a fee for use. 
+But Comcast says that with the new Netflix load, Level 3's traffic to Comcast's network would be five times more than the cable company is driving to Level 3's network. So Comcast demanded that Level 3 pay for that traffic increase.
+"Level 3 wants to compete with other CDNs, but pass all the costs of that business onto Comcast and Comcast's customers, instead of Level 3 and its customers," Comcast said in a blog post.
+In response, Level 3 lashed out at Comcast. It called the new fee unfair and accused Comcast of abusing its "dominant" position as the nation's largest cable provider.
+"By taking this action, Comcast is effectively putting up a toll booth at the borders of its broadband Internet access network," Level 3 said in a press release.   Still, it says it grudgingly agreed last week to pay up. "After being informed by Comcast that its demand for payment was 'take it or leave it,' Level 3 agreed to the terms, under protest, in order to ensure customers did not experience any disruptions," the company said. 
+The explosion of online video -- especially the movie-length content Netflix (NFLX) spotlights -- isn't an easy problem to fix. The amount of video watched online has nearly doubled in a year, to 15.1 hours per user per month, according to comScore. It is costs increasingly more to host and serve that content, and to build the infrastructure for the bandwidth that allows users to download it.
+Someone has to pay for that. But who should it be?
+That's where it gets sticky: Both Comcast and Level 3 are playing on both sides of the fence. 
+In addition to being one of the world's largest CDNs, Level 3 is also a so-called "tier 1" Internet backbone. It's one of around a dozen companies that provides major routes for data to flow between networks like Comcast and content networks (including its own) that host websites and videos. 
+Level 3 squawked loudly about Comcast's fee demand, calling it a "clear abuse" of Comcast's market position and an act that "threatens the open Internet."
+Yet Level 3 found itself in Comcast's shoes back in 2005. Feeling its peering agreement with fellow Internet backbone Cogent Communications (CCOI) unfairly taxed its network, Level 3 made the exact same argument that Comcast is making today, and even temporarily pulled the plug on its connection to Cogent, cutting off some parts of the Internet for millions of Cogent customers. 
+Comcast is also playing on both sides of the argument, since it is a competitor to Netflix. It owns several cable channels and is in the process of buying NBC Universal. 
+Level 3 played up that conflict-of-interest. "With this action, Comcast is preventing competing content from ever being delivered to Comcast's subscribers at all, unless Comcast's unilaterally determined toll is paid," the company said.
+Comcast denied that its role as a content provider has anything to do with its decision to charge Level 3 a fee.
+To make some sense of this, we can pay tribute to the late Sen. Ted Stevens, who famously called the Internet "a series of tubes." It's not, but it's actually a pretty good analogy. 
+Picture the Internet as a city. Level 3 operates the massive plumbing pipes under the roadways, but it also runs the mechanism that collects and pushes the water through. Comcast is the company that connects your home plumbing system to those massive water pipes -- but it also makes some of the water. 
+Kind of complicated, right? So the debate isn't as clean-cut as it would appear. 
+Even Net neutrality advocates are backing away from the strong language they had initially used in shunning Comcast.
+"The Net neutrality argument isn't saying that everything should be free  -- someone needs to pay for all the infrastructure that provides that traffic," said Matt Wood, associate director of Media Access Project, an advocacy group that wants regulators to mandate "open Internet" policies.   "Netflix will have to raise its costs, because Level 3 has to raise costs to carry Netflix, and Comcast has to raise its costs to increase its bandwidth," he said. "But ultimately, that means the customers will pay for it."
+It's possible that Comcast is singling out Level 3 because it serves content from one of its chief competitors. It's also possible that Level 3 is being duplicitous by changing its argument when it's on the other side of the fence. 
+But cutting through all the bickering, one harsh reality is becoming clear: Everyone's going to have to pay. Comcast will have to raise its fees and Level 3 will have to pay more for its traffic demands. Those fees will be borne by Netflix and Comcast -- and ultimately, they'll be passed onto you. 
+Bankrupt toy retailer tells bankruptcy court it is looking at possibly reviving the Toys 'R' Us and Babies 'R' Us brands. More
+
+Land O'Lakes CEO Beth Ford charts her career path, from her first job to becoming the first openly gay CEO at a Fortune 500 company in an interview with CNN's Boss Files.  More
+
+Honda and General Motors are creating a new generation of fully autonomous vehicles. More
+
+In 1998, Ntsiki Biyela won a scholarship to study wine making. Now she's about to launch her own brand.  More
+
+Whether you hedge inflation or look for a return that outpaces inflation, here's how to prepare. More
+
+
+				Most stock quote data provided by BATS. Market indices are shown in real time, except for the DJIA, which is delayed by two minutes. All times are ET. Disclaimer. Morningstar: Â© 2018
+				Morningstar, Inc. All Rights Reserved. Factset: FactSet Research Systems Inc. 2018. All rights reserved. Chicago Mercantile Association: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor's and S&P are registered trademarks of Standard & Poor's Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Â© S&P Dow Jones Indices LLC 2018
+				and/or its affiliates.
+			
+
+				© 
+				Cable News Network. A WarnerMedia Company. All Rights Reserved.Terms
+				under which this service is provided to you. Privacy Policy.
+Do Not Sell
+

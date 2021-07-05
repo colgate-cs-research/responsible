@@ -1,0 +1,23 @@
+##LINK: https://www.bluefieldstrategies.com/2009/12/
+##KEYWORDS: net neutrality
+##TITLE: December 2009 – Blue Field Strategies
+##METHOD: article 2
+
+
+
+ 
+ Comcast P2P settlement   
+ 
+ Speaking of network neutrality, multichannel, Ars Technica and others reported that Comcast settled the class action suit against it (Hart vs Comcast) for $16M. In its current Network Neutrality Notice of Proposed Rulemaking, as well as its presentation at the October FCC Open Meeting, the FCC cited the Comcast case (throttling of P2P use) and […] 
+ 
+ 
+ Posted by admin December 22, 2009 Posted in FCC ,  policy ,  telecom Leave a comment  on Comcast P2P settlement   
+
+
+ 
+ New report on net neutrality for KDDI Research   
+ 
+ KDDI Research Institute published a report (Japanese-language) I provided on the recent Net Neutrality Notice of Proposed Rulemaking (FCC 09-121, In the Matter of Preserving the Open Internet). 
+ 
+ 
+ Posted by admin December 18, 2009 December 18, 2009 Posted in FCC ,  policy ,  telecom ,  wireless Leave a comment  on New report on net neutrality for KDDI Research   

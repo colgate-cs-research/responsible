@@ -1,0 +1,34 @@
+##LINK: https://consumerist.com/consumermediallc.wordpress.com/2015/06/18/sprint-stops-throttling-data-speeds-as-net-neutrality-goes-into-effect/index.html
+##KEYWORDS: net neutrality
+##TITLE: Sprint Stops Throttling Data Speeds As Net Neutrality Goes Into Effect – Consumerist
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+								stop while you're ahead							 
+ 
+ Sprint Stops Throttling Data Speeds As Net Neutrality Goes Into Effect 
+ 
+ 
+ 
+ 
+ 6.18.15   1:05 PM EDT   By  Mary Beth Quirk @marybethquirk stop while you're ahead   sprint   data throttling   unlimited plans   data   fcc   federal communications commission   net neutrality   
+ ( JeepersMedia ) Net neutrality only became well and truly legal on June 12, and yet already the new rules are prompting change: Sprint stopped intermittently throttling data speeds for its heaviest wireless Internet users during busy times as of Friday, the same day the Federal Communications Commission’s net-neutrality rules went into effect. 
+ The third-largest U.S. wireless carrier is now a common carrier under Title II and as such, is not allowed to muck around with customers’ connections — no slowing down, blocking or otherwise choking. 
+ Sprint says its policy would’ve been in line with the new rules but decided to go the route of better safe than sorry. 
+ “Sprint doesn’t expect users to notice any significant difference in their services now that we no longer engage in the process,” a Sprint spokesman told the  Wall Street Journal . 
+ Another policy that may have run afoul of the rules has also been nixed, one that had given Sprint the right to prioritize data traffic depending on a subscriber’s plan. It hadn’t done that yet, but now it’s a non-issue so might as well chuck that one, too. 
+ Not all carriers are having such an easy time with the FCC and its view of unlimited data plans this week: Yesterday the agency said  it’s planning to fine AT&T $100 million  for allegedly misleading customers about how its unlimited data plans work.  
+ Both AT&T and Verizon Wireless stopped offering unlimited plans to new subscribers years ago, leaving only T-Mobile and Sprint to peddle those plans. A spokeswoman for T-Mobile told the WSJ the company doesn’t have a policy of throttling customers other than in extreme circumstances for network management. 
+ Verizon tried to throttle its unlimited LTE users in 2014 , but  walked that one back  after ticking off customers and  getting a stern eye from the FCC . 
+ The first company to be accused of violating the new neutrality rules isn’t a wireless provider, however.  That honor goes to Time Warner Cable , which has been accused of trying to make a webcam company pay more to stream its various livestreams in the San Diego area. 
+ An Early Net-Neutrality Win: Rules Prompt Sprint to Stop Throttling  [Wall Street Journal] 
+ 
+ 
+ 6.18.15 By  Mary Beth Quirk @marybethquirk stop while you're ahead   sprint   data throttling   unlimited plans   data   fcc   federal communications commission   net neutrality   
+ 
+ 

@@ -1,0 +1,44 @@
+##LINK: https://www.dw.com/en/deutsche-telekom-moves-against-apple-google-and-net-neutrality/a-5439525
+##KEYWORDS: net neutrality
+##TITLE: Deutsche Telekom moves against Apple, Google and net neutrality | Science| In-depth reporting on science and technology | DW | 07.04.2010
+##METHOD: paragraphs
+
+We use cookies to improve our service for you. You can find more information in our data protection declaration.
+Deutsche Telekom is Europe's largest telecommunications provider, and also one of Germany's most profitable companies. Its CEO, Rene Obermann, recently took a surprising stance on the concept of net neutrality.
+Deutsche Telekom aims for "co-opetition" as a business model
+The Deutsche Telekom has been one of Europe's original three exclusive carriers of the iconic iPhone since 2007. But now the company is planning to launch its own service to compete directly with Apple's iTunes store. Telekom CEO Rene Obermann calls this combination of cooperation and competition "co-opetition," and recently said it will play a vital role in the emerging model of online business.
+Not only does Obermann hope for a payout through "co-opetition" with Apple, he has also said he would like to charge companies offering data-intensive online services more for use of the Telekom's networks. Google, for instance, may be asked to pay Telekom extra for priority rights to stream its YouTube videos over the company's networks.
+Telekom CEO Rene Obermann says traditional customers still matter
+"Without our telecommunications networks and modern primary products there wouldn't be any online services coming from Google or Apple," Obermann told the Deutsche Presse Agentur.
+Net neutrality contested
+This flies in the face of net neutrality, proponents of which believe a strict separation between internet providers and companies providing content is the path to an innovative online marketplace. Based on Obermann's logic, internet providers are entitled to some of what online services earn by distributing content over their networks.
+But according to Joe McNamee of European Digital Rights in Brussels, Telekom stands to profit through new subscribers if it embraces net neutrality.
+"The reason that people want to use the Internet is because there is innovation and there are companies like Google and Microsoft and others providing compelling reasons to be on the Internet in the first place," he told Deutsche Welle.
+Countries around the world are grappling with the concept of net neutrality, and in the United States a court ruled Tuesday the nations' Federal Communications Commission does not have the authority to enforce equal treatment of data by broadband internet provider Comcast.
+While the European Commission and its Vice President of Digital Agenda Neelie Kroes have affirmed their commitment to net neutrality within the European Union, corresponding policies must in part be implemented on a national level.
+"The two problems are that on a European level the legislation isn't particularly strong, and a certain proportion of it is required to be implemented on a national level," McNamee said. "And that would mean that the national regulatory authority of Germany would need to take swift and effective action against Deutsche Telekom in a situation like this, and let's just say that the German national telecoms regulator is not the most pro-active of organizations."
+Data traffic rising rapidly
+While Telekom declined to provide an interview for this story, spokeswoman Marion Kessing wrote in a statement the company supports net neutrality and that "existing standards must be maintained." However, she added that data traffic is rising rapidly and that much of this type of traffic, including gaming and television over Internet, can not tolerate delays in the way that traditional web and email traffic could.
+The demand for bandwidth capacity is rising rapidly
+As ever-more data flows over the Internet and taxes bandwidth capacity, companies like Telekom must find ways to provide up-to-date services and stay profitable at the same time. Some say efforts such as Telekom's planned challenge to Apple's iTunes store are merely copycat attempts to replicate success. Telekom also recently bought a controlling stake in European online payment provider ClickandBuy.
+However, CEO Obermann said while the Telekom should innovate, it shouldn't alienate its base of regular customers. After all, the company is still providing plain-and-simple telephone lines throughout Germany.
+"It's true that efficiency and market shares are important in the traditional online business model so that enough money can be earned," he said. "But the border between that traditional model and the rapidly growing modern transmission technology is fluid. These are the areas in which smart internet providers are now investing more than before. We recognized this trend and invested early accordingly, and we have very ambitious plans for the future."
+Author: Gerhard Schneibel, Cyrus FarivarEditor: Kristin Zeier
+Representatives of Europe’s internet industry demand high-speed internet to be expanded by EU governments. At a conference in Lisbon they have called for a clear regulatory framework within Europe. (25.02.2010)
+  
+A new cable connecting the East African coast with high-speed internet networks has finally made it to Uganda, but what could have been a windfall for an entire nation has been stalled by a lack of basic infrastructure. (04.02.2010)
+  
+After Apple banned thousands of iPhone applications containing sexually suggestive material, German publishers fear the computer giant will begin limiting their editorial freedoms. (26.02.2010)
+  
+Google has unveiled its own smartphone. But do we really need what many say is essentially more of the same? (05.01.2010)
+  
+American computer giant Apple has launched its newest product to much fanfare. Though not all that glitters is gold. It seems some parts of the iPad, including the European technology, could cause trouble. (28.01.2010)
+  
+Germany's newspaper and magazine publisher associations, the VDZ and BDZV, have filed a complaint with the country's Federal Cartel Office against US internet giant Google. (17.01.2010)
+  
+
+© 2021 Deutsche Welle |
+Privacy Policy |
+Legal notice |
+Contact
+| Mobile version

@@ -1,0 +1,50 @@
+##LINK: https://www.fiercetelecom.com/installer/news-note-net-neutrality-deutsche-telekom-alphabet-and-more
+##KEYWORDS: net neutrality
+##TITLE: News of Note—Net Neutrality, Deutsche Telekom, Alphabet and more | FierceTelecom
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+by  Sean Buckley  |
+ Jan 26, 2018 11:17am 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Here are some other stories we’re following today: 
+ 
+ 
+ 
+ 
+ > New York Gov. Andrew Cuomo signed an executive order Wednesday requiring broadband providers doing business with the state to adhere to net neutrality principles, after the FCC recently moved to overturn the 2015 net neutrality rules.  The Hill article 
+ > Telekom Deutschland has begun deploying FTTH networks in business parks in 33 towns and cities, enabling bandwidth of up to 1 Gbps speeds.  TeleGeography article 
+ 
+ 
+ 
+ 
+ > Broadband provider NCTC increased its average revenue per user by 15% with the help of customer data analytics in its rural Tennessee and Kentucky properties.  Telecompetitor article 
+ > Alphabet on Wednesday announced the launch of Chronicle, which will use Alphabet's technology to create cybersecurity products that help other companies make better use of their data.  The Verge article  
+ > Pure Storage announced it has extended its partnership with VMware to enable mutual customers with the performance, simplicity and resiliency needed for their cloud environments.  Release 
+ > Fast food giant Burger King released a new, surprisingly good ad supporting net neutrality.  YouTube video  |  Recode article   
+ 
+ 
+ Read more on 
+ 
+ broadband   net neutrality   fiber to the home (FTTH)   new york state   Deutsche Telekom   Alphabet   
+ 
+ 
+ 

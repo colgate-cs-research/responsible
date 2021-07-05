@@ -1,0 +1,36 @@
+##LINK: https://www.thecarletonian.com/2018/01/27/how-will-net-neutrality-affect-you/
+##KEYWORDS: paid prioritization
+##TITLE: How will net neutrality affect you? - The Carletonian
+##METHOD: article 1
+
+
+
+ 
+ How will net neutrality affect you? 
+ By  Maddie Bryant  on January 27, 2018   
+ 
+ There is an entire section for it in the New York Times and you cannot escape it from your Facebook newsfeed. Controversy over the effects of ending net neutrality is everywhere. But, how will it affect you? 
+ 
+On December 14, 2017, the U.S. Federal Communications Commission (FCC) voted to repeal the net neutrality rules enacted in 2015. Net neutrality rules were implemented for the purposes of exactly that—net neutrality. These rules required all internet service providers to make all web content accessible without charging consumers a fee to access certain websites at a higher quality or providing higher or lower quality to certain websites. 
+ 
+Blocking, throttling, and paid prioritization were unlawful under the net neutrality rules. 
+ 
+These three practices are imperative to your experience as an internet consumer. Here’s why: 
+ 
+Imagine you are shopping for a textbook and your internet service provider is AT&T. You check the usual sources: Amazon, Chegg, textbooks.com. Under the 2015 net neutrality rules, it was unlawful for AT&T to slow down a website, like Chegg (throttling). It was also unlawful for AT&T to establish categories for service speed, which provide varying speeds of service for companies who pay a premium and those who do not (paid prioritization). It was also unlawful for AT&T to block companies whom they lacked fondness for, like another phone service provider (blocking). The repeal of net neutrality has opened the gate for any of these hypothetical circumstances to become an unfortunate reality. 
+ 
+A vital potential consequence of the repeal of net neutrality—which stands as a current reality to the citizens of Portugal—is “internet packaging.” Under this model, an internet service provider offers packages such as “messaging,” “social,” “video,” “music,” and “email and cloud.” This format requires consumers to purchase these individual packages, in which an app like “facebook messenger” is classified within the messaging package, and if a consumer chooses not to purchase the “music” package, an app like Spotify is inaccessible. Can’t pay for all of these individual services? You are unfortunately not privileged enough for internet equality anymore. 
+According to an article published in the New York Times, three days after the official repeal of net neutrality, the repeal reflected “the view of the Trump administration and the new F.C.C. chairman that unregulated business will eventually yield innovation and help the economy.” When the potential devastation that small businesses could face is considered, the Trump administration’s logic seems hollow. How will start-ups be able to contend with large companies who can afford the hefty premiums for paid prioritization? How will these start-ups thrive if internet service providers introduce internet packaging and only big-name apps and websites are included in these packages, while the access to lesser-known services requires additional fees? 
+ 
+Fast forward two years. The 2020 election is in its heat. News outlets are as partisan than ever before. Will Trump gain re-election? Will Joe Biden or Elizabeth Warren take a shot at the Oval Office? If you are interested in browsing webpages that prefer certain candidates, it may be in your best interest to research where your internet service provider falls on the political spectrum. If your internet service provider is not a proponent of CNN, for example, it will be perfectly legal for them to block their website from their consumers. 
+A consumer’s relationship with her internet service provider may perhaps become more intimate than ever before. The repeal of net neutrality has opened the door for an entirely different internet in the United States, and although the consequences are to be determined, this is not a door most of us would wish to open. 
+ 
+ 
+ Published in   Viewpoint     
+     
+ Maddie Bryant 
+ 
+ 
+   
+ 
+ More from  Viewpoint More posts in Viewpoint » From Professor Fred Hagstrom: a message to seniors On pre-med culture No nuance between life and death Honorable dishonesty: cultural differences in cheating from the U.S. to Thailand  

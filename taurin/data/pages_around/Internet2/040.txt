@@ -1,0 +1,167 @@
+##LINK: https://www.neoseeker.com/Articles/Hardware/Guides/windowscustomization1/8.html
+##KEYWORDS: open Internet
+##TITLE: Removing Components - Making and Customizing an Unattended Windows Install CD - Page 8
+##METHOD: paragraphs
+
+This step will allow you to completely remove many of Windows' components directly from the installation sources, so that they never even touch your hard drive. While this is a very handy feature, and definitely can shrink down a Windows installation, it can also lead to a non-working or problematic system if not used properly.  The general rule of thumb is keep it if you do not know what it does.
+The design of the Remove Components panel is very simple: On the left side is a tree listing of the various components you can remove, and on the right side is a place for any notes the author wishes to put about a specific component. Hovering your mouse over most of the options will give you some information.
+The top of the window has some menu options. Under File you have the option of saving, loading, importing, and exporting your presets. This is handy if you want to send your presets to a friend, or another computer. The Compatibility option, which I highly recommend, allows you to check off a few things that you want to be able to do (like access Windows Update, or use DHCP over Ethernet), which will cause nLite to hide the components required for that function so you don't accidently remove them. Use this feature. :-)
+Here is a listing of all of the components you can remove (accurate as of version 0.99.8 beta 4), with a short explanation of what it is and why I would or wouldn't remove it:
+Applications
+Accessibility Options - Enhancements for vision, hearing, or mobility-impaired users. I'm not impaired in any way, so I always remove this.
+Briefcase - Allows you to keep files in synchronization between a desktop and laptop computer. Personally, I've never, ever used this, and I've owned a laptop for 2 years.
+Calculator - You should definitely keep this. There is absolutely no reason to remove it, unless you always have a desk calculator handy.
+Charmap - A utility for inserting special characters and other symbols into documents. This is handy for inserting those copyright signs, European characters, and other stuff you can't easily type on a keyboard. I always keep this.
+ClipBook Viewer - Lets you view whatever is in your Clipboard. The Clipboard is the temporary memory space where something is placed when you "Copy" or "Cut" it. It's almost completely useless, unless you find yourself wondering what you've copied/cut recently, but even then you can just fire up Notepad and paste it into there.
+Defragmenter - The built-in Windows disk defragmenting utility. Unless you use a 3rd-party defragmenter, you should keep this. I've been an avid Diskeeper fan for a few years now, so I always remove the built-in defragmenter.
+Games - The well-known Windows games: Freecell, Hearts, Minesweeper, Solitaire, and the new-comer, Spider Solitaire. If you never play these, you might as well remove them. I do.
+Internet Games - New in Windows XP, these are multiplayer versions of Spades, Backgammon, Hearts, Checkers, and Reversi. As above, if you never play them, you might as well remove them.
+NT Backup - A drive/file backup and restoration utility. It is handy for scheduling periodic backups of things, but if you've never used it, chances are you never will. It's your choice whether you want to remove it.
+Pinball - Everyone knows what Pinball is. Personally, I don't like it, so I remove it.
+Screensavers - The default Windows screensavers. This doesn't remove support for screensavers. I have my monitors power themselves off after 15 minutes, so I've never used screensavers and always remove these, but it's your choice.
+Wordpad - A rich-text oriented text editor. Useful for opening text files using UNIX line breaksworking or working with DOC/RTF files if you don't have Microsoft Office. I always keep this, it comes in handy.
+Drivers
+Asynchronous Transfer Mode (ATM) - Drivers for ATM network devices. If you don't know what this is, you don't need it. You've probably got an Ethernet network wherever you are.
+Battery - ACPI Battery driver. Do not remove this if you're ever going to be using this installation on a laptop computer. Otherwise, it is safe to remove.
+Bluetooth Support - This is self-explanatory, and safe to remove if you don't have or don't intend to use any Bluetooth devices.
+Brother Devices - See the description provided by nLite, and if you don't own any of the hardware mentioned, remove this.
+Cameras and Camcorders - If you don't own any webcams, digital still cameras, or camcorders, or do but install custom drivers, this is safe to remove.
+Display Drivers - These are the default Windows drivers for a variety of graphics cards. This is completely safe to remove if you always install your own drivers. If you're an ATI or NVIDIA user, remove this for sure, as you never want to be using the default Windows drivers with such graphics cards.
+Display Drivers (old) - These are the default Windows drivers for many old graphics cards, such as the ones made by S3, Cirrus Logic, Diamond, etc. Chances are you aren't using such a graphics card anymore if you are installing Windows 2000/XP. If this is a Windows installation being customized for an old server machine, you might have one of these older cards, in which case keep this.
+Ethernet (LAN) - Ethernet drivers for common Ethernet chipsets, such as the Realtek 8139 and SiS 900. If you install custom drivers for your Ethernet controller (nForce chipsets, for example), this is safe to remove.
+Firewire (1394) - If you don't own, or don't have the intention of ever owning Firewire hardware, this is safe to remove. If you do have Firewire, regardless of whether or not you install custom drivers, keep this.
+IBM ThinkPad - If you don't own an IBM ThinkPad, or do but install custom drivers, this is safe to remove.
+Infrared - If you don't own any Infrared devices, or do but install custom drivers, this is safe to remove.
+ISDN - If you don't own any ISDN devices, or do but install custom drivers, this is safe to remove. I think most people will want to remove this. If you use ISDN you'll probably know it.
+Modems - If you don't own any dial-up modems, or do but install custom drivers, this is safe to remove.
+Multi Processor Support - Support for SMP (dual+ processors). If you never plan on using this customized Windows on a dual-processor machine, you can remove this.
+Multifunctional - If you don't own any multifunctional devices, such as Ethernet/Modem combo cards, or do but install custom drivers, this is safe to remove.
+Multi-port serial adapters - Almost definitely safe to remove, unless you know you have a multi-port serial adapter.
+PCMCIA - Support for the PCMCIA bus. If you're a laptop user, you'll want to keep this. Most desktop users can remove this, unless you have a PCMCIA adapter card.
+Portable Audio - If you don't own any portable audio players, or do but install custom drivers, this is safe to remove.
+Ports (COM & LPT) - If you don't use *any* kind of serial/parallel ports (native or USB/PCMCIA adapted), you can remove this.
+Printers - If you don't own any printers, or do but install custom drivers, this is safe to remove. If you have never had to install a driver in order to be able to use your printer, then you are using the Windows drivers. Do not remove this if that is the case.
+Scanners - If you don't own any scanners, or do but install custom drivers, this is safe to remove.
+SCSI/RAID - If you don't own any SCSI/RAID controllers, or do but install custom drivers (this is almost always the case), then remove this. If you use CD-ROM emulation software (Daemon Tools, for example), then you should keep this.
+Smartcards - If you don't own any Smartcard devices, or do but install custom drivers, this is safe to remove.
+Song Jog Dial - I have no idea why this driver is in even built into Windows. You can most definitely remove this junk.
+Sony Memory Stick - See the description provided by nLite, and if you don't own any of the hardware mentioned, remove this.
+Sound Controllers - If you don't own any sound controllers (sound cards), or do but install custom drivers, this is safe to remove.
+Toshiba DVD decoder card - You be the judge of this. ;-) Chances are that you don't own one, in which case remove it.
+TV Tuner - Support for any kind of video capture devices, such as TV tuners or cameras. It's probably wise to keep this, unless you know for sure that you you'll never be doing video capture.
+USB Audio support - If you don't own any USB audio devices, this is safe to remove. Please note that this is support for USB audio, not drivers for USB audio, so if you do own a USB audio device, do not remove this.
+Windows Image Acquisition (WIA) - This is required for cameras, camcorders, and scanners. If you don't ever use such hardware with your computer, it is safe to remove, but be absolutely sure that you don't need it.
+Wireless Ethernet (WLAN) - If don't have any wireless network hardware, or do but install custom drivers, this is safe to remove.
+Internet Utilities
+ATM Support - Support for ATM networks and devices. Again, if you're not on an ATM network (and you probably know if you are), you can remove this.
+Client for Netware Networks - If you will never be connecting to a Novell Netware network, this can be removed. If you are a home user, then you most positively will not be using Novell. I always remove this.
+Communication Tools - Microsoft Chat, Phone Dialer, and Hyperterminal -- remove if you don't use these. I haven't used Hyperterminal since my dial-up days.
+FrontPage Extensions - For the authoring and administration of websites with FrontPage or Visual InterDev. If you don't use FrontPage/Visual InterDev, this is obviously safe to remove.
+Internet Connection Wizard - The annoying wizard that shows up when you first try to access an Internet resource. If you're using a standard Ethernet LAN setup with a broadband router, or know how to configure your dial-up, or just plain never use the wizard, remove it.
+Internet Explorer - While a lot of people are switching away from Internet Explorer, don't be so eager to remove this. By removing this you will still be able to use alternative browsers that use the Internet Explorer core, but you will not be able to access Windows Update. I recommend that you keep this, no matter how much you might hate Internet Explorer.
+Internet Explorer Core - This is the main core of Internet Explorer, and an integral part of Windows' ability to render HTML content. Many Windows services and features depend on this, including Windows Activation. Under no circumstances should you remove this.
+Internet Information Services (IIS) - Only available in Windows 2000 Professional and Windows XP Professional, IIS allows you to use your computer as an HTTP (web) or FTP (file) server. Personally, I don't like IIS too much for FTP purposes, and I prefer Apache for HTTP, but if you have a need for it, keep it. This component has nothing to do with Internet access -- only serving.
+MAC Bridge - Do not remove this if you ever bridge or plan to bridge two or more network connections.
+MSN Explorer - That bloated browser for the MSN network. I've never touched this in my life. Remove it, unless you use it.
+Netmeeting - An application for communicating with people using voice, video, text, and drawing. Also allows you to share applications. I haven't used Netmeeting in years, as services like MSN Messenger have taken over. Your call.
+NetShell Cmd-Tool - A useful command-line scripting utility that allows you to view or modify a huge variety of network configuration information. If you never use this utility, remove it. Some worms/viruses make use of this utility, so if you are prone to getting those, you'd be better off without it around.
+Network Monitor Driver and Tools - Provides network performance counters for the System Monitor utility. If you've never used this, chances are that you never will, in which case remove it.
+NWLink IPX/SPX/NetBIOS Protocol - This is Microsoft's implementation of Novell's IPX/SPX protocols. If you don't have a specific need for IPX/SPX compatibility, then remove it. If you all you ever do is use the Internet and perhaps share files/printers between some computers, you are not using IPX/SPX.
+Outlook Express - The notorious default e-mail/news client. Selecting this will also remove the Windows Address Book component. If you use Outlook (as in Microsoft Office's Outlook), do not remove this, as it depends on this! I've made this mistake once, and then spent a whole day in frustration trying to figure out why Outlook 2003 didn't work.
+Peer-to-Peer - This is something new that has shown up in XP's Service Pack 2, and I'm still not too sure what it's used for. Apparently it is for Microsoft Peer-to-Peer applications, but don't know of any such applications as of yet. This is not needed for normal P2P applications, like Kazaa, Limewire, Gnutella, and so on.
+Synchronization Manager - A utility for controlling when your offline files are synchronized with files on the network. Chances are that you don't need this. You will know if you do.
+TCP/IP Version 6 - This is the new protocol designed to replace TCP/IP Version 4, which is the core protocol for Internet communication. If you don't plan on participating in any IPv6 networks, such as Internet2, then this is safe to remove. Chances are you will have re-installed Windows many times before Internet2 becomes big.
+Vector Graphics Rendering (VML) - Rendering of SVG (Scalable Vector Graphics) on web pages. You should probably keep it, unless SVG graphics aren't important to you.
+Web Folders - Web Folders is Microsoft's name for WebDAV, which is an open Internet standard that allows clients to access files/folders on an HTTP server in a similar way to how they would access files/folders on a local hard drive. If you've never used this, once again, the chances are that you never will. It's your call.
+Windows Messenger - The default Windows Instant Messenger for the MSN service. If you always end up installing the latest MSN client, you might as well remove this.
+Multimedia
+Images and Backgrounds - Default Windows images/backgrounds (includes game controller images).
+Luna Theme - The default Windows XP user interface theme. If you never plan on using it, you might as well remove it.
+Media Center - This removes the optional components in your CD root's cmpnents/mediactr directory. If your distribution of Windows isn't a Media Center distribution, it doesn't matter whether you select this or not. You should not remove this if you use your PC as a Media Center PC.
+MIDI Audio Support - Support for playback of MIDI audio. If you listen to MIDI files or use audio mixing software, don't remove this.
+Mouse Cursors - Additional mouse cursors and themes (3D, black, bronze, etc.). Not the default white ones.
+Movie Maker - This is self-explanatory; remove if you don't use it.
+Music Samples - Useless music samples; there's no reason to keep them.
+Old CD Player and Sound Recorder - These are the classic Windows utilities for playing audio CDs and recording sound. They're safe to remove.
+Paint - The infamous MSPaint. I don't suggest that you remove this, as you never know when you have to draw some quick horns on your inlaws or a moustache onto your ex.
+Speech Support - Provides support for speech-aware applications. Apparently you can download it from Microsoft again if it turns out that you need it. I always take this out.
+Tablet PC - Software for Tablet PC hardware that makes usage of non-Tablet PC-oriented applications easier. If you're not going to be using this Windows installation with a Tablet PC, remove this.
+Windows Media Player - The Windows Media Player that comes bundled with Windows XP. Since Windows Media Player 10 is the latest one, which XP's Service Pack 2 doesn't have, you might as well remove this and then install Windows Media Player 10 through Windows Update later.
+Windows Media Player 6.4 - The classic Media Player ("mplayer2.exe") that some people prefer. If all you ever use is the new WMP8/9/10, you can remove this, but only if you're careful to leave a certain checkbox checked later on in the nLite wizard (I'll get to that).
+Windows Sounds - The default XP sound theme. I always leave this, because I love the paper-crumpling sound when emptying the Recycle Bin. :-)
+Operating System Options
+16-bit Support - Support for running 16-bit executables. Definitely leave this in, as some installation routines still use 16-bit executables.
+Administrator VB Scripts - Some simple scripts for system administration. If you've never used them, you never will, in which case removal is obvious.
+Application compatibility patch - Patches for older applications so that they work correctly with Windows XP. Do not remove this unless you want trouble.
+Command-Line Tools - A huge collection of command-line tools. Don't even think about removing these, as they come in extremely handy at the most unexpected of times.
+Desktop Cleanup Wizard - The wizard which shows up every 60 days that tries to force you to clean up your messy desktop of unused shortcuts. I tend to keep my desktop fairly organized, and always remove this, but some of you might want to keep it.
+Disk Cleanup - Small utility for cleaning out unused/unnecessary files, as well as compressing ones that haven't been accessed in a while. I tend to keep my computer organized and regularly clean out useless junk, but I can't speak for everyone.
+Dr. Watson - An integral part of the Windows debugging engine. If you don't want your computer creating memory dumps and logs every time something goes wrong, or you have no need for the information that is created, remove this.
+Extra Fonts - Apparently these are some rarely-used fonts, but I would recommend you keep them anyway.
+File and Settings Wizard - A tool for transferring your personal files and settings from one Windows installation to another. If you don't plan to switch computers at any point, remove this.
+Floppy Support - Drivers and support for IDE/SCSI/PCMCIA floppy drives. If you don't have a floppy drive in your computer, or never plan on using one, removal is safe.
+Framework - Removes the .NET Framework installation packages from the cmpnents/netfx and dotnetfx directories in the CD root. You might as well remove this, since there is an updated version of the .NET Framework on the Windows Update website (SP1).
+Help - Windows help database, MSInfo utility, and PCHealth. This is also a dependency of System Restore. If you don't ever plan on using these features, then remove this.
+Input Method Editor - Utility to allow input of complex characters (such as those from various Asian languages) on a standard keyboard. If you don't plan to type anything but English characters, you can remove this.
+Jet Database Engine - Provides a workstation-based storage system. Many programs depend on this, so don't remove it.
+Manual Install and Upgrade - Tools/files for upgrading to Windows 2000/XP from a running copy of Windows, as well as upgrading an older copy of Windows. If all you ever do is a clean install (upgrades are evil!), then this is safe to remove.
+MDAC - A system-level component that provides database-like functionality. This is basically ODBC, and you should keep it, as removing could break a number of programs.
+MS Agent - The perpetuator of those infuriating on-screen characters, such as the blue wizard and Microsoft Office helpers. Specifically, this is the underlying framework that allows programs to use these characters. I always remove this.
+Out of Box Experience (OOBE) - The first-boot Windows Setup wizard that allows you to activate Windows, register Windows, and create user accounts. If you're not running a Volume License Key edition of Windows XP, do not remove this, as you will not be able to activate Windows without it. Windows XP VLK users can safely remove this.
+Printer Support - Support for even installing/using printers in Windows. If you never plan to use a physical printer or PDF "printing" software (PDF creators), then it is safe to remove.
+Search Assistant - That stupid, annoying dog in the Search window. Need I say more?
+Security Center - The useless, resource-hogging utility that informs you of whether you have a firewall enabled, anti-virus software installed, and Automatic Updates enabled. I always remove this, but if you're a novice who doesn't know where to go to regularly check on these things, you might want to keep it.
+Service Pack Messages - Localized Windows Control Dialogs. If you're using the English version of Windows, this is safe to remove. If not, you should keep this.
+Shell Media Handler - Enables Windows Explorer to show thumbnails of videos when in Thumbnail mode, as well as reading various meta tag information from other media files. An example of this is the listing of artist/track names when using a Detailed view of your MP3 folders. Removing this will make file browsing faster, and you will no longer experience problems deleting some AVI files (I'm sure we've all experienced this annoying bug), but you will lose the ability to view information about that media in Windows Explorer.
+Task Scheduler - Tool for configuring and scheduling automated tasks. This is also an integral part of the memory prefetching feature new to Windows XP. I always leave this in, and recommend that you do the same.
+Tour - In Windows XP, this is the set of videos/Flash animations that give you a tour of Windows XP. In Windows 2000, it is the Welcome screen you get on first boot. I always remove this.
+Web View - HTML'ized view of folders (icon at the top left, information panel on the left, etc.). I always remove this as I hate Web View, because it has quite a detrimental effect on performance.
+Windows Scripting Host - The Windows scripting engine. This is needed for quite a few things, such as Visual Studio. I recommend leaving this in.
+Zip Folders - Windows XP's built-in ability to view, extract, and create Zip files. If you're a WinRAR/WinZip guy like me, you probably never use this apart from the first few driver installations after a fresh install. If you're going to be using a 3rd-party file archiving utility, you can remove this.
+Services
+Alerter - Notifies users/computers of administrative alerts. If this means nothing to you, remove it.
+Application Layer Gateway - This is required if you use the Windows Firewall or Internet Connection Sharing. It might also be required for 3rd-party firewall software (can anyone confirm this and possibly drop me a note?). If you never use firewall/connection sharing software (most likely if you're on a broadband router), then this is safe to remove.
+Autoupdate - Automatic Updates. Do not remove this if you ever plan on visiting the Windows Update website.
+Background Intelligent Transfer - Used for transferring of data between clients and servers in the background. This is also required for Windows Update. Do not remove it.
+COM+ - Component Object Model support and components. Don't remove it if you don't want future trouble.
+CTF Loader - Provides support for alternative text input methods (speech recognition, handwriting recognition, translation, etc.). If you just use a keyboard and nothing fancy, this is safe to remove. This is probably required for Tablet PCs.
+DHCP Client - Do not even think about removing this, unless you never want to get on most networks again. This is required for automatically requesting IP configuration information and using it.
+Distributed Link Tracking Client - Keeps track of linked files that are moved within an NTFS volume, to another NTFS volume on the same computer, or to an NTFS volume on another computer. If this means nothing to you, remove it. I've never had a use for it.
+Distributed Transaction Coordinator (DTC) - The description provided in nLite is already excellent. Don't remove this, it is needed for a variety of applications.
+DNS Client - While this isn't required for resolving of DNS names to IP addresses, it provides DNS caching, so it's recommended that you keep it, or else your computer will be sending out DNS queries every time you want to connect to something, regardless of whether it was done earlier.
+Error Reporting - Generates error reports to send to Microsoft when a program crashes. If you're like me, you never send these, and rather just prefer to be informed when something happens. This is safe to remove.
+Event Log - Logs messages generated by Windows programs and system services, and enables viewing of these messages later. I recommend that you leave this in, as it is a very handy troubleshooting tool.
+Fax Services - Removes fax services and support. If you don't ever plan to use a fax machine, this is safe to remove.
+Imapi - Windows XP's native CD/DVD burning engine. You can remove this if you use a 3rd-party CD/DVD burning program, such as Nero or Roxio.
+Indexing Service - Creates an index of the contents of files in specified directories so that they can be searched faster. This is known to have a detrimental effect on performance, so it's recommended to remove it.
+IPSEC Policy Agent - Manages IP security policies, as well as starting the ISAKMP/Oakley (IKE) and IP security drivers. If this means nothing to you, chances are you've never used IPSec, and you can remove it.
+Logical Disk Manager - Detects, monitors, and configures hard disk drives, partitions, and Dynamic Volumes. I recommend that you keep this, as it is the only way I know of currently to re-assign drive letters and create Dynamic Volumes.
+Windows Management Instrumentation (WMI) - Common interface and object model for accessing management information about operating system, devices, applications and services. Do not even think about removing this, as it will render most applications useless.
+Message Queuing - Provides queuing of incoming COM messages. Don't remove it.
+Messenger - Provides the ability to send and receive "net send" messages. This has nothing to do with Windows Messenger/MSN Messenger. Nowadays it is mostly used for spamming purposes. You may have seen a dialog box show up advertising something before, with only an OK button. This is the Messenger service working its magic. Remove it.
+Network DDE - Provides the ability to exchange information over a network through the use of a DDE share. DDE stands for Dynamic Data Exchange. If this means nothing to you, remove it.
+Performance Logs and Alerts - The description provided in nLite is already excellent. Remove this if you don't have a use for it. If you use system monitoring applications such as Speedfan or Motherboard Monitor, you should keep this.
+QoS RSVP and Quality of Service - Provides network traffic control, including rate-of-flow and prioritization services. Once again, if this means nothing to you, you can remove it.
+Remote Registry - Enables remote clients to modify the registry on the local computer, as well as enabling the local computer to do the same to remote clients. Without this service, only local modifications are possible. Personally, I treat my registry as being mine -- no one should have to be touching it. I always remove this, and you should too, unless you do registry maintenance of remote machines.
+Removable Storage - Provides support for ZIP and tape drives, and is not needed for USB flash drives. NT Backup depends on this, so if you use ZIP or tape drives, or NT Backup, don't remove this. It should be safe to remove otherwise.
+Secondary Logon - Enables programs to be started under an alternate set of credentials (running something as a different user). This is required for the "Run As" right-click-menu option, as well as Fast User Switching (logging in as someone else in XP while keeping your stuff running). If you don't use either of these features, this is safe to remove.
+Service Advertising Protocol - Remove this, it's useless.
+Shell Services - Various services, such as Themes, Fast User Switching, and Shell Hardware Detection. If you plan on using themes or user switching, or want your optical drives to be correctly labelled in My Computer, don't remove this. Otherwise, this is probably safe.
+SNMP - Enables a Windows computer to be administered remotely with a Simple Network Management Protocol (SNMP) tool. If you have no need for this, remove it. Please note that this is required for network printing support!
+System Event Notification (SENS) - Tracks a variety of system events. I always leave it in because my Event Log gets cluttered with heaps of errors if this service is missing.
+System Monitor - Monitors various system performance counters. If you use system monitoring applications like Speedfan or Motherboard Monitor, do not remove this. You can remove it otherwise. This is dependant on Performance Logs and Alerts (above).
+System Restore - This is a drain on resources if you know what you're doing, and as such, I always remove it. If you have had to use System Restore more than once, you should probably keep it around.
+TCP/IP NetBIOS Helper - Apparently this enables support for NetBIOS over TCP/IP, but I can access file and printer shares just fine at home with this disabled. Keep it around just in case, but if anyone could drop me a line about what this service specifically does, it'd be appreciated. I haven't been able to find a straight answer anywhere.
+Telnet Server - If you are unsure as to what Telnet is, or you know that you don't need it, you can remove this.
+Terminal Services - This is required for Fast User Switching, Remote Desktop serving, and Remote Assistance. If you are the only user of your computer, only ever log in with one account at a time, and do not connect to your computer with Remote Desktop, then you can remove this. Otherwise, you should definitely keep it around, as it is a core component of the above-mentioned services.
+Uninterruptible Power Supply - Manages a UPS connected to the computer. If you don't own a UPS and never plan on owning one, this is safe to remove.
+Universal Plug and Play - If you don't make use of any UPnP devices, this is safe to remove. Most people who use UPnP probably use it on their broadband router. You'll know if you're using a UPnP router if you see an "Internet Gateway" icon in My Network Places.
+Volume Shadow Copy - This is something most Windows system administrators will be familiar with, but it is pretty useless for the average user. Remove it if you've never used it.
+WebClient - Lets Windows programs create, access, and modify Internet-based files. If you've never used such features (like directly editing a document on the Internet in Office), this is safe to remove.
+Windows Firewall/Internet Connection Sharing - If you don't use the Windows Firewall or Internet Connection Sharing, this is safe to remove.
+Windows Time - Automatically keeps the system date and time in synchronization with a time server. It is enabled by default in Windows XP, but I find that it only works about half the time. If you want your computer to automatically keep its time in synchronization, keep it. If you don't mind updating your time manually, remove it -- always one less service running.
+Wireless Zero Configuration - Provides automatic configuration for wireless (802.11x) adapters. If you don't use a wireless network connection, or any form of LAN authentication, this is safe to remove.
+Languages - Support for languages other than English (United States). If you use an English edition of Windows 2000/XP and don't have a need for extra language support, you can remove the entire category. If you need some languages, expand the tree and customize to your liking.
+Directories - Extra directories on the Windows CD that can be removed. If you don't have a need for any of the extras provided in these directories, you can remove them and save space on your CD for other stuff that we'll add later.
+Wow, that was lengthy.
+After you have made all of your removal decisions, click Next. I've been customizing the options for a general-purpose Windows XP installation for use in Microsoft Virtual PC, so keep that in mind in case the next few screenshots differ slightly from what you see.

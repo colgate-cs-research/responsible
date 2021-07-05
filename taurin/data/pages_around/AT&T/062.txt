@@ -1,0 +1,21 @@
+##LINK: https://www.esquire.com/news-politics/news/a33364/fcc-net-neutrality/
+##KEYWORDS: open Internet
+##TITLE: How Verizon, Sprint, and AT&T Responded to Today's Net Neutrality Ruling
+##METHOD: paragraphs
+
+
+		Every product was carefully curated by an Esquire editor. We may earn a commission from these links.
+
+			
+The FCC ruled in favor of net neutrality this morning, effectively preventing Internet service providers from charging individuals and companies different prices for different types of access. "Today is a red-letter day," cheered FCC chairman Tom Wheeler, adding that no government or corporation "should control free open access to the Internet." As first reported by NPR, today's decision asserts that the FCC will lump Internet providers under Title II of the Telecommunications Act and regulate Internet service as a public utility.
+Verizon responded to the ruling with a blog post encrypted in what appears to be Morse code. The statement's introduction argues that the applicable rules "were written in the era of the steam locomotive and the telegraph."
+When "translated," the statement, from Verizon SVP of public policy and government affairs Michael E. Glover, calls the FCC's ruling a "net loss" for both innovation and consumers. 
+Today's decision by the FCC to encumber broadband Internet services with badly antiquated regulations is a radical step that presages a time of uncertainty for consumers, innovators and investors. Over the past two decades a bipartisan, light- touch policy approach unleashed unprecedented investment and enabled the broadband Internet age consumers now enjoy.
+The FCC's move is especially regrettable because it is wholly unnecessary. The FCC had targeted tools available to preserve an open Internet, but instead chose to use this order as an excuse to adopt 300-plus pages of broad and open- ended regulatory arcana that will have unintended negative consequences for consumers and various parts of the Internet ecosystem for years to come.
+A blog post by AT&T's Senior EVP of external and legislative affairs, Jim Cicconi, accuses the FCC of engaging in a partisan fight.
+Instead of a clear set of rules moving forward, with a broad set of agreement behind them, we once again face the uncertainty of litigation, and the very real potential of having to start over – again – in the future.  Partisan decisions taken on 3-2 votes can be undone on similarly partisan 3-2 votes only two years hence.  And FCC decisions made without clear authorization by Congress (and who can honestly argue Congress intended this?) can be undone quickly by Congress or the courts.  This may suit partisans who lust for issues of political division, but it isn't healthy for the Internet ecosystem, for the economy, or for our political system.  And, followed to its logical conclusion, this will do long-term damage to the FCC as well. 
+Sprint took a different tone entirely:
+Sprint has been a leader in supporting an open Internet and commends the FCC for its hard work in arriving at a thoughtful, measured approach on this important issue.  We believe balanced net neutrality rules with a light regulatory touch will benefit consumers, while fostering mobile broadband competition, investment and innovation in the United States.  We look forward to reviewing the FCC order and continuing to work with policymakers to ensure consumers benefit from an open Internet.
+Republican Senator Ted Cruz, who last November referred to net neutrality as "Obamacare for the Internet," has yet to weigh in this morning, though he took up the fight on his Facebook page last night:
+Tomorrow the FCC votes on 332-pages of regulations no one has read because they've been kept secret from the public.They literally have to pass it so we can find out what's in it. But don't worry because when President Obama says "if you like your plan, you can keep it," you can trust him on that, right?
+We will update this post with more responses as they become available.

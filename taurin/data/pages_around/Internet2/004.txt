@@ -1,0 +1,144 @@
+##LINK: https://search.proquest.com/openview/c9ca6abf022ec694f23b000a76170b1f/1%3Fpq-origsite%3Dgscholar%26cbl%3D29704
+##KEYWORDS: net neutrality
+##TITLE: The Tangled Web(s) We Weave: Internet2 and the Net Neutrality Debate - ProQuest
+##METHOD: article 1
+
+
+
+ Full text Full text - PDF Abstract/Details References  2 Abstract Translate Undo Translation  From Select language... Arabic Chinese (Simplified) Chinese (Traditional) Czech Danish English Finnish French German  Hebrew Indonesian Italian Japanese Korean Polish Portuguese Russian Spanish Swedish Turkish To English Translate Translation in progress...  [[missing key: loadingAnimation]] The full text may take 40-120 seconds to translate; larger documents may take longer. Cancel 
+OverlayEnd 
+ 
+Communications companies have charged different prices for different Internet access speeds for years. Since it is bandwidth that is being bought and sold, rather than a generic sort of access to the network, and since some customers have the ability to pay more than others, then there is also the potential that those companies might begin to favor clients who have the ability to pay a premium for their Internet service. [...] Bachula said, Our mission is to advance the state of the Internet, and we do that primarily by operating for our members a very advanced, private, ultra-high-speed research and education network called Abilene that enables millions of researchers, faculty, students and staff to 'live in the future' of advanced broadband (Internet2, 2008).
+ 
+ You have requested "on-the-fly" machine translation of selected content from our databases. This functionality is provided solely for your convenience and is in no way intended to replace human translation.  Show full disclaimer Neither ProQuest nor its licensors make any representations or warranties with respect to the translations. The translations are automatically generated "AS IS" and "AS AVAILABLE" and are not retained in our systems. PROQUEST AND ITS LICENSORS SPECIFICALLY DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES FOR AVAILABILITY, ACCURACY, TIMELINESS, COMPLETENESS, NON-INFRINGMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Your use of the translations is subject to all use restrictions contained in your Electronic Products License Agreement and by using the translation functionality you agree to forgo any and all claims against ProQuest or its licensors for your use of the translation functionality and any output derived there from.  Hide full disclaimer
+ 
+Longer documents can take a while to translate. Rather than keep you waiting, we have only translated the first few paragraphs. Click the button below if you want to translate the rest of the document.
+ Translate All Full Text Translate Undo Translation  From Select language... Arabic Chinese (Simplified) Chinese (Traditional) Czech Danish English Finnish French German  Hebrew Indonesian Italian Japanese Korean Polish Portuguese Russian Spanish Swedish Turkish To English Translate Translation in progress...  [[missing key: loadingAnimation]] The full text may take 40-120 seconds to translate; larger documents may take longer. Cancel 
+OverlayEnd Turn on search term navigation Turn on search term navigation 
+|  Jump to first hit 0:00  /
+ 0:00 
+ 
+   
+ 
+INTRODUCTION
+ 
+ 
+In the winter of 2006, Gary Bachula, vice present of Internet2, made the following statement before the U.S. Senate Committee on Commerce, Science, and Transportation: "With respect to the issue of net neutrality, some have said that the future of the Internet is at stake. We in Internet2 would agree, but might go further. The future of American innovation and competitiveness is also at stake. To compete in the world, we need a simple, inexpensive, and open network, not a costly, complex, and balkanized one" (Internet2, 2008). In response to Bachula's address and his organization's position, this article will provide an overview of Intern et2, especially as it relates to the socalled "net neutrality" debate currently raging in the United States. It will reveal several flaws in Bachula' s well-intentioned address. And it will suggest a way forward in this conversation that honors the unique networking needs of the educational community, the financial considerations of the telecom companies that control the vast majority of the wired "pipes" that connect what is known as the "Commodity Internet" (or, simply, the Internet), and the public good.
+ 
+ 
+WHAT IS INTERNET2?
+ 
+ 
+In 1996, 34 researchers representing a similar number of universities gathered together to "reinvent" the Internet. Going back to the 1960s and 1970s, what has now become known as the Internet began as a group of networked schools and scholars who had found an electronic medium with which to exchange ideas and information. Eventually, that network expanded to everyday telephone lines through the telecommunications industry, and the Internet as we know it today was born. These 34 researchers were hoping, in part, to recapture the spirit of those early days with a newer, faster, and, perhaps most importantly, more private network that would be committed to education and research, out of the reach of most of the commercial interests that many believe now dominate the Internet.
+ 
+ 
+Over the past 12 years, that early gathering has grown into a major nonprofit organization, now known as Internet2, that manages a nationwide fiber-optics network with over 200 university members and many corporate and affiliate members (Internet2, 2008). Internet2 represents a significant network backbone that provides high-speed data access to a group of scholars and students numbering in the millions, and in many ways it is attempting to keep an educational dream alive, the dream that scholars and students should have unfettered and open access to one another's knowledge.
+ 
+ 
+WHAT IS "NET NEUTRALITY?"
+ 
+ 
+All of that, however, does not serve to explain Bachula's address before the Senate committee. The concept of "net neutrality" is relatively new, as are many developments having to do with the Internet. Unlike telephone networks, which are directly controlled by centralized switches, the Internet was designed to be "controlled" from the edges of the network, by the users and their servers at the endpoints. This provides a great degree of flexibility for end users, and it is easy to make the assumption that the telecom and cable companies controlling the connecting wires and switches will simply allow traffic to proceed along the network in a Darwinian manner, with data packets simply going wherever they need to as speedily as possible. It seems simple.
+ 
+ 
+But it isn't simple. That's because those companies charge fees for their services and because their wires are limited with regard to the amount of data they can carry at one time. And whenever supply is limited in a relatively free market, there is a potential (some might say an obligation) for prices to go up. Communications companies have charged different prices for different Internet access speeds for years. Since it is bandwidth that is being bought and sold, rather than a generic sort of access to the network, and since some customers have the ability to pay more than others, then there is also the potential that those companies might begin to favor clients who have the ability to pay a premium for their Internet service. To freemarket economists, it sounds like good business. To those who are more doctrinaire with regard to keeping information as free as possible and avoiding a tiered approach to charging entities for packets they send out over the Internet, however, it sounds like a distant, creaking door about to latch shut.
+ 
+ 
+Net neutrality is the term given to the notion that companies that provide Internet services should not be allowed to give preferential treatment to any type of information on their networks. Bachula represents an organization that agrees with this position. He made his statement to the Senate committee in order to show support for an early version of net neutrality legislation, and while this article takes no position on net neutrality itself, it does call much of his stated reasoning into question.
+ 
+ 
+FLAW: YOU COULD BE JUST LIKE US IF YOU REALLY WANTED TO
+ 
+ 
+Bachula's line of reasoning in arguing for net neutrality has three basic flaws. First, Bachula said, Our mission is to advance the state of the Internet, and we do that primarily by operating for our members a very advanced, private, ultra-high-speed research and education network called Abilene that enables millions of researchers, faculty, students and staff to 'live in the future' of advanced broadband" (Internet2, 2008). This statement sounds innocuous enough on its face, but it is an example of a fallacy that permeates Bachula's entire presentation. In essence, what is being said is that Internet2 has the potential to be a sort of model for the "Internet of the future" from a networking standpoint. This could be called the "you could be just like us if you really wanted to" argument, and it simply isn't true. There are two related words in this statement that throttle this claim: "members" and "private." Internet2 does not replicate a real, public Internet environment; contextually, it is simply not the same as the Internet. Internet2 is a specialized, closed, highly controlled system; in this sense, it is the opposite of the Internet. Comparing Internet2 to "the Internet of the future" is like comparing the space shuttle to the "airliner of the future." Extending the philosophy of networking services Internet2 provides to the general public (which is the sort of thing Bachula is advocating) would destroy the environment within which much of the Internet2 advantages are nurtured. Internet2 is not (and never will be) "open" in the sense that openness is being advocated for the Commodity Internet.
+ 
+ 
+Bachula also said, "If a network operator starts to give preference to packets from one source (possibly a premium subscriber that is paying for that preference), what happens to all of the other, ordinary packets?" Later, he said, "Today our Abilene network does not give preferential treatment to anyone's bits, but our users routinely experiment with streaming HDTV, hold thousands of high quality two-way video conferences simultaneously, and transfer huge files of scientific data around the globe without loss of packets" (Internet2, 2008). This is all true in a limited sense. It would be more accurate, however, to say that Internet2 does not discriminate for or against certain types of packets based on content or source once those packets are allowed on the network in the first place. Bachula is criticizing a potential move by major communications companies to discriminate for or against certain sorts of Internet traffic based on content or source, but it is important to remember that Internet2 discriminates in exactly this same way by allowing only members to use its network. So packets are discriminated for and against through the vetting of members. It's undeniable that companies like Google and Microsoft would love to have the same access to the Abilene network that they do to the Commodity Internet, but they don't and they won't. In effect, their packets are being discriminated against, and this is one of the reasons Internet2 is able to maintain a certain level of quality.
+ 
+ 
+The hard truth is that at some point, quality demands that network operators either have to police who gets on the network or what gets on the network. (Bachula takes a somewhat different position, opting for a "bigger pipe" strategy, which will be discussed later.) Internet2 opts generally for "who," assuming that the majority of the traffic the correct "who" creates will be legitimate. So Internet2 filters packets in a broad sense by vetting users. The Commodity Internet (with its plans for tiered pricing) opts for "what," validly understanding that it simply does not pay from a financial standpoint to police "who." Communications companies want as many customers as possible, and they might filter packets directly. So both the manner in which Internet2 operates and the manner in which some communication companies would like to operate (a tiered system) involve placing limits on the system in order to favor some packets over others. The bottom line is that Internet2 is simply not comparable to the Commodity Internet with reference to "openness," and is therefore not as good a model for the Internet as may be imagined.
+ 
+ 
+FLAW: WE ARE NOTHING LIKE YOU
+ 
+ 
+The second flaw in Bachula's statement could be called the "we are nothing like you" argument. Bachula said, "if economic toll booths are allowed for content and applications to access the Internet, then soon only the richest content providers will be able to make their material available. What happens to the little guy, the start-up, the entrepreneur?" (Internet2, 2008). It's interesting that Internet2, a private network, is calling for open access to someone else's network "for the public good," when it is demonstrable that Internet2 is not providing its own service to "the least of these," even when it might also serve the public good. In doing so, Interent2 is being painted as something very different from "big business," concerned about "the little guy" and altruistic notions of access to information and such. This is an interesting tactic, because by making the argument this way, Internet2 can lay claim to these high-minded visions of an open Internet on the one hand, and at the same time have the privilege of operating a highly priced members-only high-speed network that even most schools in the US do not have direct access to. (Most schools must use the Commodity Internet to access Internet2.)
+ 
+ 
+Internet2 could rightly be labeled as the higher-education-equivalent of big business. Its members are generally large universities with large budgets taking in a large amount of money for their research projects, and they are able to charge high tuition rates at least partly because of the advantages that come from having this sort of "network access." It would probably be less disingenuous to state that everyone in this argument is simply following their own interests. In fact, Internet2 has a vested interest in keeping the Internet as free from tiered pricing as possible, since many of the "little guys" in the educational world use standard Internet connections to gain access to the Internet2 system. Without relatively unfettered access of this sort, the Internet2 "superhighway" (which runs between a very few, very well-funded schools) would be even more isolated than it currently is (see Figure 1).
+ 
+ 
+Internet2 does not represent "the little guy" any more than Qwest does. If it did, Linton High School in southern North Dakota would have direct, fiber-optic access to Internet2, or at least be part of the strategic plan. The argument that Internet2 makes to "big business" here ("we are nothing like you guys") isn't really true. When it comes to the desire to control network traffic for the purposes of maintaining corporate values, Internet2 is very similar to many North American communications companies in that both have reasons to want to deeply control their networks, and both have significant financial reasons for doing so.
+ 
+ 
+FLAW: BANDWIDTH IS THE BEST SOLUTION
+ 
+ 
+Finally, in arguing against a tiered approach to providing Internet service, Bachula said,
+ 
+ 
+For a number of years, we seriously explored various equality of service" schemes, including having our engineers convene a Quality of Service [QOS] Working Group. All of our research and practical experience supported the conclusion that it was far more cost effective to simply provide more bandwidth.... We would argue that rather than introduce additional complexity into the network fabric, and additional costs to implement these prioritizing techniques, the telecom providers should focus on providing Americans with an abundance of bandwidth-and the quality problems will take care of themselves. (Internet2, 2008).
+ 
+ 
+This statement can be summarized as follows: the only way to maintain a costeffective QOS is to have so much surplus bandwidth that it just doesn't matter what is being transmitted on the network. This is difficult to argue with. The real question, however, is whether or not it is workable on a large scale. That is not to say that the members of Internet2 shouldn't be allowed to do this with their own network, a network that is private and highly restricted. But that logic doesn't necessarily make sense in the "public Internet" world. Bandwidth continues to fill up whenever people are allowed to freely use it, and it would be difficult to demonstrate how this would not continue to happen as people find new ways to use the available bandwidth. This argument is naïve, not just because it ignores the fact that there has never been "too much bandwidth" in the history of the modern, public Internet (and therefore no reliable test case), but because it ignores the fact that the primary reason Internet2 has more bandwidth than it really needs at the moment is not because it runs such a speedy network, but because so few people (relatively speaking) are actually using it. Available bandwidth is a relative idea based on the needs foisted upon the current network.
+ 
+ 
+In summary, Internet2 is saying they're just like the Internet when it comes to networking potential ("you should design your network like we did") and they're saying that they're nothing like big business when it comes to their own interests ("you should serve the common people"). In reality, the opposite is true in both cases. Internet2 is the opposite of the Internet with regard to networking for many reasons, and the Internet2 members are predominantly the big business of higher education. Add to that a questionable technical philosophy (the "with enough bandwidth there are no reliability issues" notion), and we have an argument that just doesn't work.
+ 
+ 
+NET NEUTRALITY SANITY
+ 
+ 
+Does this mean that net neutrality is a bad idea, that Internet2 is the devil in disguise, or that communications companies are looking for opportunities to give their profits away? Of course not. It simply means that this discussion needs to be approached from the perspective of a multiplicity of interests. Here is a way to think about net neutrality that doesn't imagine demons behind every rock.
+ 
+ 
+First, Communications companies need to be able to stay in business for the good of the Internet. Staying in business means making money. This helps the Internet in at least three ways. First, it keeps the Internet itself "in business." Second, it incentivizes companies to invest in the pipelines that increase the capacity and reliability of the Internet. Finally, it gives companies more room to flex when it comes to the potential of some government oversight. When companies are making money, it makes it possible for them to endure some regulation and still thrive. When they're not, then they can't, and people know it, which makes it less likely that positive regulation will be passed in the first place (and it seems fair to say that some is always going to be needed to protect consumers), and therefore that there will actually be less appropriate protection for consumers. So it is also to the public's advantage for communications companies to be at least somewhat profitable, if only for this reason.
+ 
+ 
+The educational community has both altruistic and practical concerns with regard to the Internet. From an altruistic standpoint, it is important to many educators that information be as available as possible, so that as many people as possible can benefit from it. It's the sort of "good thing" that can't really be measured by a study. Also, the Internet actually provides a significant amount of the connectivity between scholars, institutions, and students today, and so the loss or degradation of this "pipe" for information would be a difficult thing for educational institutions to endure. Internet2 also depends on this connectivity to bridge out to the majority of the educational institutions it serves.
+ 
+ 
+The public (the third group) seems to be at the mercy of the first two. Both of the above groups seem to assume that they know what "the public" wants, but at times those "wants" can be stated in mutually exclusive terms. Ultimately, the Internet is about ordinary people receiving access to information they didn't have access to before. In order to permit this access, some measure of control is required. After all, a common language (in this case, made up of common Web browser standards, IP standards, etc.) assumes a certain level of control, even if it is a mutually agreed-upon sort of control.
+ 
+ 
+The question is, "Who gets to decide how control and access are balanced?" Will it eventually be up to the government? Up to this point, net neutrality laws have failed to gain adequate acceptance in Congress, often because of these competing priorities. Will net neutrality eventually become law? It might, but don't bet on Internet2's arguments to push it "over the top."
+ 
+ 
+ Sidebar 
+ 
+'WILL NET NEUTRALITY EVENTUALLY BECOME LAW?'
+ 
+ 
+ 
+ 
+ References 
+ 
+REFERENCES
+ 
+Internet2 (2008a). Network neutrality. Retrieved April 1, 2008, from http://www.internet2.edu/presentations/2006/20060207-GaryBachula-Testimony.pdf
+ 
+Internet2 (2008b). Retrieved April 1, 2008, from http://www.internet2.edu/network/participants/listParticipants.cfm
+ 
+ 
+ 
+ 
+ AuthorAffiliation 
+ 
+Matthew Putz, Faculty Instructional Technology
+ 
+Consultant, Bethel University,
+ 
+3900 Bethel Drive, St. Paul,
+ 
+MN 55112-6999.
+ 
+Telephone: (651) 635-8002.
+ 
+E-mail:  [email protected] 
+ 
+ 
+ 
+ Word count:  2954 Show less You have requested "on-the-fly" machine translation of selected content from our databases. This functionality is provided solely for your convenience and is in no way intended to replace human translation.  Show full disclaimer Neither ProQuest nor its licensors make any representations or warranties with respect to the translations. The translations are automatically generated "AS IS" and "AS AVAILABLE" and are not retained in our systems. PROQUEST AND ITS LICENSORS SPECIFICALLY DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES FOR AVAILABILITY, ACCURACY, TIMELINESS, COMPLETENESS, NON-INFRINGMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Your use of the translations is subject to all use restrictions contained in your Electronic Products License Agreement and by using the translation functionality you agree to forgo any and all claims against ProQuest or its licensors for your use of the translation functionality and any output derived there from.  Hide full disclaimer
+ 
+Longer documents can take a while to translate. Rather than keep you waiting, we have only translated the first few paragraphs. Click the button below if you want to translate the rest of the document.
+ Translate All Copyright Information Age Publishing, Inc. 2008 

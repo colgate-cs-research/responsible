@@ -1,0 +1,328 @@
+##LINK: https://www.cio.com/article/2379737/at-t-data-plan-is--a-wolf-in-sheep-s-clothing-.html
+##KEYWORDS: open Internet
+##TITLE: AT&T Data Plan Is 'a Wolf in Sheep's Clothing' | CIO
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Industry 
+ Government 
+ 
+ 
+ News 
+ AT&T Data Plan Is 'a Wolf in Sheep's Clothing' 
+ 
+ Open Internet advocates are warning that AT&T's 'sponsored data' program could create pay-to-play mobile Web. It has also been described as a new form of double-dipping, where both customers and businesses are charged for the same data usage. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By  Kenneth Corbin 
+ 
+ 
+						
+							Freelance Writer, 
+								
+									
+								
+
+
+
+
+
+
+
+
+
+
+
+
+ CIO   | 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ One of AT&T's big announcements at the annual Consumer Electronics Show 
+
+in Las Vegas has open Internet advocates crying foul.
+
+ [  Videos From CES 2014  ] [  Best of CES 2014: In Pictures  ] 
+ On Monday, the telecom giant unveiled the sponsored data program for its wireless network, a program that will allow businesses to foot the 
+
+bill for the bandwidth of their videos, applications or other content, rather than counting it against subscribers' monthly data caps. For digital rights groups like Public Knowledge and Free Press, the plan of the nation's second-largest wireless provider appears another step 
+
+toward a pay-for-play Internet where carriers and well-heeled companies can reach agreements that amount to giving preferential treatment to 
+
+certain types of content over others. Businesses that could not afford to pay -- garage startups are a favorite example -- might find themselves at an 
+
+even steeper competitive disadvantage against their larger and more established rivals. AT&T bills the plan as a boon for consumers, promising no-cost delivery of popular content from companies that choose to participate. The 
+
+company says sponsored and non-sponsored data will be delivered at the same speed, but that content from a participating company will be 
+
+marked as such so consumers will know that it won't count against their data plan.   "[C]ustomers just look for the sponsored data icon and they know the data related to that particular application or video is provided as a part of 
+
+their monthly service," AT&T Mobility President and CEO Ralph de la Vega said in a statement, calling the service a "win-win for customers and 
+
+businesses." 
+ But proponents of  net neutrality  -- 
+
+the notion that carriers should treat all information travelling over their networks equally -- the plan raises fresh questions about potential harms 
+
+from data caps as a business practice. Public Knowledge, for instance, reiterated its longstanding call for the Federal Communications Commission 
+
+to open a formal investigation into usage caps, which spokesman Bartees Cox described as "anticompetitive."   Josh Levy, Internet campaign director at Free Press, called AT&T's plan a "wolf in sheep's clothing," describing it as "a new form of double 
+
+dipping" -- charging customers and businesses alike for data usage -- and warning that it will translate into higher prices as the costs of sponsoring 
+
+content are shifted back to mobile subscribers. Public Knowledge raised concerns last year when rumors surfaced that ESPN was in negotiations with a carrier to pay for an exemption to 
+
+consumers' data caps. The group has said that such an exemption would be "an obvious violation of net neutrality." Whether AT&T's new program will rise to that level remains to be seen, according to Cox. "I do think that if AT&T concretely set up deals to carry out their sponsored data service, Public Knowledge would treat it as a net neutrality 
+
+violation," he told CIO.com. "However, we are trying to highlight that we need to address data caps at the regulatory level before they: a) become 
+
+so common that they are accepted; b) because they are becoming a hot spot for net neutrality/open internet violations."   Spokespeople for AT&T did not respond to requests for comment on the criticism of its sponsored data plan. Net neutrality has a long and winding history in Washington policy 
+
+circles. At present, the FCC has a standing order that places limited restrictions on ISPs regarding how they transport data over their networks. 
+
+Wireline ISPs are barred from blocking lawful content, and generally prohibited from slowing or discriminating against legitimate transmissions. 
+
+Wireless providers are exempt from the nondiscrimination requirement, but cannot block content.
+
+ How data caps, and the associated business agreements such as those that AT&T's sponsored data plan envisions, fit into those rules is 
+
+unclear, as the FCC has yet to stake out a position on the caps. "This situation raises questions under the rules, but in any case the FCC has authority to look into anticompetitive acts like data caps," Cox said, 
+
+"which is why we want to FCC to investigate the caps."   Whether the FCC's rules, limited as they are, will stand is another open question. Verizon sued to overturn the commission's open Internet order, 
+
+and a panel of federal appellate judges  appeared skeptical about the legal 
+
+basis  for the rules at an oral argument hearing last September. The legal uncertainty surrounding the rules -- the court could strike all or part of the FCC's 2010 order -- casts doubt on how public-interest 
+
+groups might respond to AT&T's sponsored data program. Just announced on Monday, the plan has yet to take shape and its effects on consumers 
+
+remain to be seen. But Public Knowledge isn't ruling out the prospect of taking a formal complaint to the FCC, though it will continue to press for a 
+
+thoroughgoing study of the impact on the broader wireless practice of data caps. "That's hard to tell," Cox said. "Right now I think it's a little too early to say and I don't want to jump the gun there. Same thing goes for if the 
+
+courts strike down the net neutrality rules." Kenneth Corbin is a Washington, D.C.-based writer who covers government and regulatory issues for  CIO.com . Follow everything from CIO.com on Twitter  @CIOonline , on  Facebook, and on  Google + . 
+ 
+ 
+ Next read this: 
+ 
+ 
+ 
+8 reasons data science projects fail
+ 
+ 
+ 
+ 
+Digital transformation success stories
+ 
+ 
+ 
+ 
+13 most difficult-to-fill IT jobs
+ 
+ 
+ 
+ 
+7 IT cost-cutting mistakes you must avoid
+ 
+ 
+ 
+ 
+10 technologies that will disrupt business in 2021
+ 
+ 
+ 
+ 
+What a successful AI team really looks like
+ 
+ 
+ 
+ 
+7 management books every CIO must read
+ 
+ 
+ 
+ 
+7 IT hiring trends for 2021
+ 
+ 
+ 
+ 
+Top 5 strategic priorities for IT leaders in 2021
+ 
+ 
+ 
+ 
+5 unpopular decisions every IT leader must make
+ 
+ 
+   
+ 
+ 
+ 
+ Related:  
+ 
+ Government 
+ Carriers 
+ Regulation 
+ Mobile 
+ Small and Medium Business 
+ 
+ 
+ 
+ 
+ Kenneth Corbin is a contributing writer based in Washington and Boston who covers government and regulatory issues for CIO.com. 
+ 
+ 
+ Follow 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2014  IDG Communications, Inc. 
+ 
+ 
+ 
+ 
+ 
+   Learn how IT leaders are building cyberdefenses. Attend CSO's Future of Cybersecurity & Trust Summit-7/20-7/22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		 
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

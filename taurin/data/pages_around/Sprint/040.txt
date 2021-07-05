@@ -1,0 +1,49 @@
+##LINK: https://safetynetwireless.com/safetynet-california-broadband/
+##KEYWORDS: open Internet
+##TITLE: Broadband Information | SafetyNet Wireless
+##METHOD: paragraphs
+
+Safetynet Wireless Open Internet Transparency Statement
+SafetyNet Wireless LLC (“SafetyNet Wireless” “we,” or “us”) is committed to a free and open Internet. At the same time, we are committed to an excellent user experience, and we may engage in reasonable network management practices on our SafetyNet Wireless broadband Internet access services and devices (the “Services”). Below, we describe our network management practices. Our description of these network management practices—and those of our underlying carriers, Sprint and T-Mobile—are for informational purposes only and are subject to change at any time. Please check back regularly for updates.
+Congestion Management
+SafetyNet Wireless is a reseller of the Sprint and T-Mobile (the “Underlying Carriers”) mobile broadband Internet access networks. That means that once your data leaves an SafetyNet Wireless’s device, it travels over our Underlying Carriers networks to the public Internet. As a reseller, we do not manage network congestion across our Underlying Carrier’s networks. Your data may be subject to our Underlying Carriers’ network management and open Internet practices.
+Sprint    T-Mobile
+Management of your Safetynet Wireless Service
+While we do not manage the transmission of your data across our Underlying Carriers’ networks, we may otherwise manage a user’s experience of our Services. We do not block or throttle the use of any legal content, applications, or services that you choose to access through an SafetyNet Wireless device without your consent, as long as your use of our Services does not violate our Terms and Conditions.
+Application-Specific Behavior
+SafetyNet Wireless does not block or throttle non-harmful, legal applications or websites you may visit when using our Services, or engage in “paid prioritization”.
+Device Attachment
+SafetyNet Wireless users may access the Internet via SafetyNet Wireless Services through any Internet-enabled device of their choice (including bringing your own device), provided that the device is compatible with our network, approved by our Underlying Carrier (if required), does not violate our Terms and Conditions, and does not harm our network, other users, or Services.
+Privacy and Security
+Your privacy and security are very important to us. We employ reasonable physical, electronic, and procedural safeguards to protect your personal information when you access the Internet using our Services. In addition, we take reasonable steps to protect your personal information from unauthorized use, access, or disclosure. For more information about our privacy and security practices, you can view our Privacy Policy.
+Performance Characteristics
+SafetyNet Wireless offers mobile broadband Internet access service using its Underlying Carriers’ 3G or better networks. These networks are designed to be suitable for real-time applications, including voice and video applications. However, actual user experience may vary depending on a variety of technical, geographic, environmental, and other factors
+Speed
+Speed, as used here, means the average rate at which data packets are successfully delivered to their destination on the communications network. The expected speeds—expressed in megabits per second (“Mbps”) of our Underlying Carriers’ networks are as follows:
+nbsp;
+Latency
+Latency, as used here, is the time that a data packet takes to travel from one point to another on the Internet, expressed in terms of round-trip time. The expected and actual round-trip latency—expressed in milliseconds (“ms”) of our Underlying Carriers’ networks are as follows:
+These speeds and latency estimates are derived from our Underlying Carriers, and are available here and here. (Note: our Underlying Carriers may update their speed and latency estimates at any time. If they do, their posted estimates control.) SafetyNet Wireless may advertise speeds and latency up to maximum speeds expected to be achieved through the device over our Underlying Carriers’ networks. Several factors—including capacity constraints, network availability, environmental conditions, your device, whether you are tethering from a separate device, or the network management practices of our Underlying Carriers—may impact the actual speed and latency that you experience at any given time.
+Traffic Information
+We may monitor traffic for our own internal purposes, including, but not limited to, billing, internal metrics, and first-party marketing purposes as permitted by law. We do not monitor traffic information through deep-packet inspection. We do not share any traffic information with unaffiliated third parties for non-network management purposes without your consent
+Commerical Terms
+SafetyNet Wireless offers a number of attractive broadband Internet access service plans and top-ups to its consumers. Terms and Conditions, including service plans, activation procedures, data usage and dispute resolution can be viewed here.
+Redress
+For general customer inquiries and complaints, please Contact Us.
+Customer Service:
+Tel.1-888-224-3213
+Fax.1-800-700-4736
+Hours:
+Monday to Friday 8am – 7pm CST
+Closed Saturday and Sunday
+Address:
+SafetyNet Wireless
+100 Main Street
+Suite 304
+Safety Harbor, FL 34695 USA
+
+Renew My LifeLine
+
+   
+My Account
+

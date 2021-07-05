@@ -1,0 +1,46 @@
+##LINK: https://www.dw.com/en/uk-online-service-creates-two-tiered-internet-critics-allege/a-14752628
+##KEYWORDS: net neutrality
+##TITLE: UK online service creates ′two-tiered′ Internet, critics allege | Science| In-depth reporting on science and technology | DW | 05.01.2011
+##METHOD: paragraphs
+
+We use cookies to improve our service for you. You can find more information in our data protection declaration.
+Content Connect lets ISPs that buy bandwidth from BT to charge for faster access to some content. Company claims to support net neutrality, while Internet advocates call the move 'disturbing.'
+BT's Content Connect service began this week
+This week, the British telecom giant BT launched a new service which some say will create a two-tier Internet, threatening the notion of "net neutrality."
+The UK-based telecommunications firm's "Content Connect" service will allow broadband providers to charge customers extra for high speed delivery of some video services like YouTube.
+Today, the Internet is based on the principle of "net neutrality", where all traffic is treated equally, regardless of what data is moving across the network at a given time - YouTube, Skype, a computer game, a web page, or an e-mail are all treated equally.However, BT's new model would allow Internet service providers (ISPs) that use BT's network to charge extra to allow for a faster delivery of content which needs more bandwidth, like HD video. This could mean a model similar to TV channel subscriptions where customers pay a premium for certain channels, or to get certain channels in HD.Critics say this represents a fundamental shift away from the neutrality principle which the Internet is based upon."This is a disturbing phenomenon that could change the nature of our open and democratic Internet into something much more controlled and much less useful," said Jim Killock of Open Rights Group, a UK Internet advocacy group, in an interview with Deutsche Welle.
+BT wants websites like YouTube to load faster
+"It provides a model where Internet service providers can start being more like television or cable companies," he said."So instead of us choosing between Netflix or Amazon or Lovefilm or any of the other people who might distribute content to us, we start choosing between fixed services between one Internet service provider or another." 
+BT claims to support net neutralityOther net neutrality advocates warn a two-tier internet model would have a negative impact on UK businesses. 
+If online companies must pay to ensure their site loads quickly, it would be the end of the level playing field where a small company can reach their customers as easily as multinationals with massive budgets. 
+But BT officials say its Content Connect model in no way challenges net neutrality, nor would it create a two-tier internet. 
+"I think the critics who are making these comments simply don't understand what's been going on in the Internet for the last ten years," said Simon Orme, BT's Wholesale’s strategy director of content services, in an interview with Deutsche Welle. 
+He argued BT is not introducing anything new when it comes to charging content providers for securing them a speedy delivery of their content to customers over the Internet.
+Some companies have argued that better mobile video requires tiered service
+"There's a rich diversity of organisations called CDNs - content delivery networks," he said. 
+"If I'm a content provider I have a wealth of choice of organisations that I can pitch for my business, to help me better optimize the delivery of my content over the internet. I can pay a lot or a little. That is how it's been working for years. We are entrants into an already mature marketplace offering exactly the same thing." 
+Yet critics argue BT's Content Connect service takes things a big step further because it is based on a new network system which stores bandwidth-intensive content like video closer to the user. 
+This service is currently provided in some cases by third-party companies, like Akamai, which maintain caching servers all over the world. However, in this case, it would be the ISP, rather than the third-party who would be storing that video content.
+BT says Content Connect speeds up load times, while easing congestion on other parts of the network. The new service will be used to stream the BBC's iPlayer content on BT's own TV service, BT Vision, this spring. The new service will be used to stream the BBC's iPlayer content on BT's own TV service BT vision this spring, and will be offered to all UK ISPs at the same time. It will then be up to these service providers to decide what to charge their own customers for an improved service.US, EU commitment to net neutrality remains unclear
+The UK communications minister, Ed Vaizey, late last year backed the idea of allowing ISPs charge extra in order to deliver better quality content. He warned the quality of Internet services in the UK was under threat because of the rapid expansion of mobile and wireless networks.Meanwhile, the Federal Communications Commission, which regulates the American telecommunications industry, also voted late last year to maintain net neutrality in the case of wired access - for ISPs like BT - but not in the case of wireless and mobile Internet access.
+European Commissioner for the Digital Agenda Neelie Kroes gave a speech on net neutrality in November
+President Barack Obama said early on in his presidency that he would back network neutrality."Once providers start to privilege some applications or websites over others, then the smaller voices get squeezed out and we all lose," he said, addressing an audience at Google headquarters in California in 2007.
+The EU also has backed the principle of network neutrality, but allows ISPs to pursue models where certain content can be offered at an extra charge, as long as consumers are made aware when this happens.
+European Digital Rights, an international advocacy group defending civil rights in the information society, calls this a "wait and see" approach which gives a green light for companies to interfere with Internet traffic.
+"It took years to solve the mobile roaming problem after a 'wait and see' policy," said Joe McNamee, the group's EU advocacy coordinator, in an interview with Deutsche Welle. 
+"There is already a problem with net neutrality, particularly in the mobile environment," he said. "Once the disease spreads more widely, it will be inoperable because the very heart of the Internet's value - its openness - will be fatally damaged."
+Jim Killock from the Open Rights Group is also worried about developments in Europe.
+"European legislation allows all these changes to take place, so we'll see these telecoms providers start to become more like television companies," he said. "Any European state might try to move down this model now."
+Author: Lars Bevanger, ManchesterEditor: Cyrus Farivar
+Neelie Kroes, the EU's telecom commissioner, warns the industry of increased pressure in 2011. National telecom regulators, as in Italy, have not kept up the pressure on former state monopolies. (01.12.2010)
+  
+Some European Parliament members want to end or limit mobile roaming fees within Europe and open up the telecom market. In an interview with DW, MEP Gunnar Hoekmark speaks about industry consolidation and why it matters. (08.10.2010)
+  
+Deutsche Telekom is Europe's largest telecommunications provider, and also one of Germany's most profitable companies. Its CEO, Rene Obermann, recently took a surprising stance on the concept of net neutrality. (07.04.2010)
+  
+
+© 2021 Deutsche Welle |
+Privacy Policy |
+Legal notice |
+Contact
+| Mobile version

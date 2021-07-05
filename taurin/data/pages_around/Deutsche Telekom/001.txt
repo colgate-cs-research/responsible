@@ -1,0 +1,41 @@
+##LINK: https://stopthecap.com/2019/07/17/deutsche-telekom-loses-all-you-can-watch-streamon-dispute-in-germany-over-net-neutrality-violation/
+##KEYWORDS: net neutrality
+##TITLE: Stop the Cap!  » Deutsche Telekom Loses All-You-Can-Watch StreamOn Dispute in Germany Over Net Neutrality Violation
+##METHOD: paragraphs
+
+While net neutrality in the United States has been neutered by the Republican-controlled FCC, the concept of an online level playing field is alive and well in Germany, and T-Mobile’s parent company Deutsche Telekom (DT) just got called out for a foul ball.
+The German telecom giant has lost its legal battle with Germany’s telecom regulator, the Federal Network Agency (Regulator Bundesnetzagentur) over StreamOn, its all-you-can-stream mobile video product that does not count against customer usage allowances. The company introduced the unlimited video streaming service in Germany in 2017, emulating a similar service available in the United States that offers zero rated mobile video content at a reduced video resolution. An appeals court in Münster this week ruled that the German regulator was correct to forbid DT from continuing to offer StreamOn to customers in its present form for two reasons:
+“StreamOn must conform to the ‘roam like at home’ principle and customers must have video streaming available in an unthrottled bandwidth,” said Federal Network Agency president Jochen Homann. “The rule of equal treatment is a cornerstone of European net neutrality regulations. The principle of equal treatment has made the internet a driver of innovation, and the diversity of applications and services benefits all consumers.”
+Hohmann
+DT immediately contested the regulator’s decision and sued. The case has been drifting through German courts since December 2017, with the most recent ruling in favor of the regulator issued by an appeals court, which declared its ruling to be final.
+DT has claimed it finds the regulator’s objections “very puzzling indeed,” claiming StreamOn has been wildly popular in the United States and Germany. Two years ago, it warned that if the courts upheld the regulator’s ruling, it would force the company to stop offering it.
+“The Bonn-based regulatory authority is ordering us to also offer StreamOn in other EU countries. It bases this order on the EU Roaming Regulation,” DT said in a statement in 2017. “Fulfilling the order would mean the end of our free service, because we would not be able to offer it cost-effectively in other countries.”
+Despite its threat to shutter StreamOn in Germany, the company claimed this week it would continue offering the service for the time being, without increasing prices.
+“We are delighted that the court has confirmed our interpretation of the law,” a Federal Network Agency spokesman said after the decision was announced. “We will take quick action to ensure that Telekom adjusts its product accordingly.”
+“We expect the [Federal Network Agency] to allow an appropriate amount of time to make the necessary adjustments,” a DT spokesman said. “We are convinced that StreamOn is a legal product and will explore all our legal options.”
+October 2, 2009
+Be Sure to Read Part One: Astroturf Overload — Broadband for America = One Giant Industry Front Group for an important introduction to what this super-sized industry front group is all about. Members of Broadband for America Red: A company or group actively engaging in anti-consumer lobbying, opposes Net Neutrality, supports Internet Overcharging, belongs to […]
+October 2, 2009
+Astroturf: One of the underhanded tactics increasingly being used by telecom companies is “Astroturf lobbying” – creating front groups that try to mimic true grassroots, but that are all about corporate money, not citizen power. Astroturf lobbying is hardly a new approach. Senator Lloyd Bentsen is credited with coining the term in the 1980s to […]
+September 27, 2009
+Hong Kong remains bullish on broadband.  Despite the economic downturn, City Telecom continues to invest millions in constructing one of Hong Kong’s largest fiber optic broadband networks, providing fiber to the home connections to residents. City Telecom’s HK Broadband service relies on an all-fiber optic network, and has been dubbed “the Verizon FiOS of Hong […]
+September 23, 2009
+BendBroadband, a small provider serving central Oregon, breathlessly announced the imminent launch of new higher speed broadband service for its customers after completing an upgrade to DOCSIS 3.  Along with the launch announcement came a new logo of a sprinting dog the company attaches its new tagline to: “We’re the local dog. We better be […]
+September 23, 2009
+Stop the Cap! reader Rick has been educating me about some of the new-found aggression by Shaw Communications, one of western Canada’s largest telecommunications companies, in expanding its business reach across Canada.  Woe to those who get in the way. Novus Entertainment is already familiar with this story.  As Stop the Cap! reported previously, Shaw […]
+September 22, 2009
+The Canadian Radio-television Telecommunications Commission, the Canadian equivalent of the Federal Communications Commission in Washington, may be forced to consider American broadband policy before defining Net Neutrality and its role in Canadian broadband, according to an article published today in The Globe & Mail. [FCC Chairman Julius Genachowski’s] proposal – to codify and enforce some […]
+September 21, 2009
+In March 2000, two cable magnates sat down for the cable industry equivalent of My Dinner With Andre.  Fine wine, beautiful table linens, an exquisite meal, and a Monopoly board with pieces swapped back and forth representing hundreds of thousands of Canadian consumers.  Ted Rogers and Jim Shaw drew a line on the western Ontario […]
+September 11, 2009
+Just like FairPoint Communications, the Towering Inferno of phone companies haunting New England, Frontier Communications is making a whole lot of promises to state regulators and consumers, if they’ll only support the deal to transfer ownership of phone service from Verizon to them. This time, Frontier is issuing a self-serving press release touting their investment […]
+September 7, 2009
+I see it took all of five minutes for George Ou and his friends at Digital Society to be swayed by the tunnel vision myopia of last week’s latest effort to justify Internet Overcharging schemes. Until recently, I’ve always rationalized my distain for smaller usage caps by ignoring the fact that I’m being subsidized by […]
+September 1, 2009
+In 2007, we took our first major trip away from western New York in 20 years and spent two weeks an hour away from Calgary, Alberta. After two weeks in Kananaskis Country, Banff, Calgary, and other spots all over southern Alberta, we came away with the Good, the Bad, and the Ugly: The Good Alberta […]
+August 31, 2009
+A federal appeals court in Washington has struck down, for a second time, a rulemaking by the Federal Communications Commission to limit the size of the nation’s largest cable operators to 30% of the nation’s pay television marketplace, calling the rule “arbitrary and capricious.” The 30% rule, designed to keep no single company from controlling […]
+August 27, 2009
+Less than half of Americans surveyed by PC Magazine report they are very satisfied with the broadband speed delivered by their Internet service provider. PC Magazine released a comprehensive study this month on speed, provider satisfaction, and consumer opinions about the state of broadband in their community. The publisher sampled more than 17,000 participants, checking […]
+The "Massive News" theme by: Press75.com
+ Subscribe (RSS)

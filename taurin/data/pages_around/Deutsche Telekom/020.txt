@@ -1,0 +1,24 @@
+##LINK: https://advanced-television.com/2019/07/16/deutsche-telekom-loses-streamon-appeal/
+##KEYWORDS: net neutrality
+##TITLE: Deutsche Telekom loses StreamOn appeal |
+##METHOD: paragraphs
+
+Deutsche Telekom has lost its legal battle over its zero-rated mobile video offering, StreamOn, following a court ruling that the service violates EU rules on roaming and net neutrality.
+An appeals court in the city of Muenster said that because the video streaming offer – which currently has around 2 million users – was only available to viewers when they were in Germany, it goes against the EU’s “roam like at home” rules. In addition, the court found download speeds were throttled under cheaper tariffs on the service, violating the EU’s principles on net neutrality.
+
+
+
+
+A lower court in Germany had previousy ruled in favour of the restrictions imposed by the German regulator, which led to Deutsche Telekom escalating the case to the appeals court.
+Deutsche Telekom hoped to follow the success of its T-Mobile US unit, which gained traction with a similar zero-rated offer as part of its Uncarrier strategy.
+The German operator said following the court decision it would examine legal options and continue offering the service for the moment, without increasing prices. A representative said Deutsche Telekom expects the regulator to “allow an appropriate amount of time to make the necessary adjustments,” and the operator remains convinced “StreamOn is a legal product”.
+Related posts:
+
+			You must be logged in to post a comment 
+			
+				Login			
+
+	
+			        Copyright Advanced Television Ltd © 2001–2021					
+
+						Maintained by Elrond Limited

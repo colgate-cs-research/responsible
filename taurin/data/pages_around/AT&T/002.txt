@@ -1,0 +1,254 @@
+##LINK: https://www.indiewire.com/2020/06/att-net-neutrality-hbo-max-no-data-caps-1202235538/
+##KEYWORDS: net neutrality
+##TITLE: AT&T Ignores Net Neutrality: HBO Max Gets No Data Caps, Rivals Will | IndieWire
+##METHOD: article 7
+
+
+
+ 
+ AT&T Ignores Net Neutrality: HBO Max Won’t Hit Data Caps but Competing Streamers Will 
+ 
+ AT&T will favor customers who use its own streaming service, which would've been prohibited under former net neutrality regulations.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tyler Hersko 
+ 
+ 
+							Jun 4, 2020 9:05 pm						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+				Share This Article				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+							Reddit						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+							LinkedIn						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+							WhatsApp						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+							Email						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+							Print						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+							Talk						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Federal Communications Commission Chairman Ajit Pai at an FCC meeting in 2017 
+ Jacquelyn Martin/AP/Shutterstock 
+ 
+ Three senators have accused  AT&T  of ignoring  net neutrality  principles by not counting the use of its new  HBO Max  streaming service against its customers’ data caps. AT&T data customers who use competing streamers, such as Netflix and Disney+, will have that usage counted against their data caps. 
+ Democratic senators Edward Markey, Richard Blumenthal, and Ron Wyden  published a letter to AT&T CEO Randall Stephenson  regarding the telecom giant’s decision on Thursday. The move favors AT&T customers who use its own streaming service, which would’ve been illegal under the net neutrality rules that the Ajit Pai-led Federal Communications Commission repealed in 2018. 
+ For example, an AT&T customer with a one gigabyte data plan could stream as much HBO Max as they’d like without it contributing to their data cap. But if that customer were to stream content from a rival streaming service, it would contribute to their data cap and they would be charged additional fees if they went over their data limit. Meanwhile, AT&T customers with unlimited data plans will not be subject to throttling if they hit their “soft” data caps by streaming a large amount of HBO Max. 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related 
+ 
+ 
+ 
+					'Conan' Is Over, but Conan O'Brien Isn't Going Anywhere				 
+ 
+ 
+ 
+					Donald Trump Reportedly Wanted Justice Department, FCC to Make 'SNL' Stop Mocking Him				 
+ 
+ 
+ 
+ 
+ Related 
+ 
+ 
+ 
+					Emmy Predictions 2021: Best TV Movie -- When All Movies Are TV Movies, None Are?				 
+ 
+ 
+ 
+					'The White Lotus': Everything You Need to Know About the HBO Series				 
+ 
+ 
+ 
+ 
+ “Net neutrality is a set of principles necessary to keep the internet free and open. Before the Federal Communications Commission ( FCC ) acted in 2017 to undo net neutrality, internet users benefited from rules prohibiting blocking, throttling, and paid prioritization,” the senators said in their letter. “The FCC also had the authority to prohibit unjust, unreasonable, and discriminatory practices by broadband providers, including potentially harmful practices such as ‘zero-rating.’ Before the current FCC began its efforts to eviscerate critical rules that benefit consumers, the Commission found that in many instances, when service providers zero-rate content by allowing end users to access that content without the requisite data usage counting towards the caps under users’ plans, those providers engage in harmful conduct.” 
+ The senators’ letter stemmed from a  Tuesday report from The Verge . An unnamed AT&T executive told the publication that HBO Max was using AT&T’s “sponsored data” program, which allows companies to pay AT&T to excuse their services from AT&T’s data caps. As AT&T owns HBO Max, it is essentially paying nothing for the privilege. While competitors such as Netflix could theoretically buy into AT&T’s “sponsored data” program, it would cost them money. The Verge reported that the only video platforms that use the “sponsored data” program are DirecTV, U-Verse, and Fullscreen,  which are all owned by AT&T . 
+ Spokespersons for AT&T and WarnerMedia, the company behind HBO Max, did not return requests for comment. 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ “Although your company has repeatedly stated publicly that it supports legally binding net neutrality rules, this policy appears to run contrary to the essential principle that in a free and open internet, service providers may not favor content in which they have a financial interest over competitors’ content,” the senators said in their letter. 
+ Pai, a former in-house lawyer for telecom giant Verizon who closed investigations into AT&T, Verizon , and other wireless providers after President Donald Trump designated him as the FCC chairman, and the FCC successfully dismantled the nation’s net neutrality laws in 2018. Though Pai and proponents of getting rid of net neutrality argued that the regulations depressed network expansions and equated to government micromanagement, net neutrality is overwhelmingly favored by Americans across party lines. 
+ A University of Maryland poll from 2017  stated that 83 percent of Americans — including 3 out of 4 Republicans — opposed the government’s plan to repeal net neutrality laws. A  2018 poll from Mozilla, the company behind the popular Firefox browser , stated that 78 percent of Americans preferred to have strong net neutrality protections. 
+ Technology journalist April Glaser noted in 2018  that common concerns about the repeal of net neutrality included fears that companies could throttle traffic from or even block access to select websites and services. The net neutrality issue is compounded by the monopolization of internet service providers in the United States, as consumers who do not like how ISPs ignore net neutrality guidelines may not have the option to switch to a competing service, Glaser said in an analysis of net neutrality for Slate. 
+ “Since most people in the United States don’t have more than one or two internet providers to choose from for broadband service, if users don’t wish to accept those terms, many won’t have anywhere else to go for their internet,” Glaser said in the Slate article. 
+ Though AT&T and Stephenson have consistently expressed support for net neutrality principals, their actions speak differently. In 2003 AT&T attempted to block its customers from using Wi-Fi and in 2002 warned customers to avoid “home networking” by arguing that it constituted “theft of service” and was a federal crime, according to a  research paper on net neutrality from the Columbia Law Schoo l. In 2017, then-FCC chairman Tom Wheeler released a report stating that AT&T’s aforementioned zero-rated video services potentially violated the Commission’s Open Internet Order. 
+ In 2018, the Washington Post reported that the Justice Department feared the impending merger of AT&T and Time Warner — which  raised concerns on antitrust grounds  — would cause such conglomerates to “someday  prioritize their own TV shows  and other content over rivals.” 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign Up:  Stay on top of the latest breaking film and TV news! Sign up for our Email Newsletters here. 
+ 
+ 
+ 
+ This Article is related to:   Television  and tagged  AT&T ,  FCC ,  HBO Max ,  net neutrality ,  TV Business 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

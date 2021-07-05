@@ -1,0 +1,20 @@
+##LINK: https://spaces4learning.com/EDU/SPM/Articles/2018/01/09/Post-Net-Neutrality.aspx
+##KEYWORDS: net neutrality
+##TITLE: Tips for School Leaders in a Post-Net Neutrality World -- School Planning & Management
+##METHOD: paragraphs
+
+The following is a company-submitted press release and does not necessarily represent the views or opinions of School Planning & Management magazine.
+Marie Bierede
+On December 14, 2017, the FCC voted to rescind the fairly young Net Neutrality protections put into place two years ago. The purpose of these rules was to prevent Internet Service Providers from giving preferential treatment to some parts of the Internet over others with regard to blocking or slowing the delivery of content. Although ISPs have indicated that they are not planning to degrade service to schools and districts, some educators are viewing these assurances with some skepticism, noting that things can change quickly. This article from EdSurge lists numerous ways in which education might be impacted by the loss of Net Neutrality. As Douglas Casey, Executive Director Connecticut Commission for Educational Technology points out, there are two cases. “We should consider the likely charges (Scenario A) to end users (e.g., a district paying a premium for G Suite access from its ISP) as well as (Scenario B) to content providers (that same ISP charging Google for fast delivery to districts). Both types of charges can and likely will take place.”
+There is more that districts can do to address Scenario A. Ron Reyer, Director of Technology Services at Bethel Park School District, Penn., shares this language that his district has used in RFPs with ISPs in order to get Net Neutrality provisions in their contract:
+Does the Vendor have Service Level Agreement terms and conditions? If so, what are they? What are the proposed metrics and measurement intervals? What mechanisms are used to monitor service (both historical and real-time) to evaluate whether the SLA provisions have been met or not been met?  For commodity Internet access service, does the SLA include the entire complement of Internet traffic including all protocols regardless of whether traversing IPv4 or IPv6? 
+Is the Vendor willing to provide written assurance that there will be no preferential treatment for or against any specific type of traffic based on port, protocol, site origination, site destination, time of day? 
+For the districts that are fortunate enough to have access to a statewide Research and Education Network (REN), they can gain the advantages of their bargaining power. RENs, with their large size, are in a much better position to negotiate with their ISPs for net-neutral treatment.
+The Quilt, a national coalition of Research and Education Networks, made the following statement: “RENs are committed to making all of the Internet available to all users, and use a number of techniques to ensure the Internet performs well for users and does not limit
+access to services and content they desire.“ With RENs and ISPs that sign up to service level agreements, there are still issues of what happens to traffic once it leaves that ISP’s network - at that point, they are no longer capable of making guarantees.
+Douglas Casey’s Scenario B also remains problematic. Small or new or innovative education technology companies that depend on the Internet may not be able to afford to compete with the incumbents if ISPs charge them a premium to avoid having traffic throttled. This could limit access for districts to new offerings and have a chilling effect on innovation. For now, district leaders see the loss of Net Neutrality as potentially troubling, but only time will tell how the impact will evolve for our education system.
+School Planning & Management's free email newsletter keeping you up-to-date and informed.
+I agree to this sites Privacy Policy. 
+© 2019 1105 Media, Inc.
+See our Privacy Policy & Terms of Use
+ 

@@ -1,0 +1,117 @@
+##LINK: https://www.eff.org/deeplinks/2019/02/real-net-neutrality-more-ban-blocking-throttling-and-paid-prioritization
+##KEYWORDS: paid prioritization
+##TITLE: Real Net Neutrality Is More Than a Ban on Blocking, Throttling, and Paid Prioritization | Electronic Frontier Foundation
+##METHOD: article 11
+
+
+
+ 
+ The majority of Americans support net neutrality protections. Based on the comments in the  most recent Congressional hearing  on net neutrality, you could come away with the idea that most of Congress and most of the giant Internet Service Providers do, too. But if you read between the lines, what we really heard today was a definition of net neutrality designed to leave loopholes for companies to slither through. 
+ When we talk about net neutrality protections, we often talk about the explicit bans on blocking, throttling, and paid prioritization. Those three terms got a lot of play at the hearing in the House. But net neutrality is not just those three things. 
+ Even in trying to define net neutrality this way, people on the side of ISPs like Comcast, AT&T, and Verizon can’t give up the dream of  paid prioritization . Once again, the industry trotted out the myth that a ban on paid prioritization prevents ISPs from giving special treatment to first responders or telemedicine. Joseph Franell of Eastern Oregon Telecom said that if he was in an accident, he would want his medical treatment given priority as Internet traffic, which the 2015 rules absolutely allowed. What they banned was prioritization for the purposes of making money, not for public safety or for specialized services. 
+ Net neutrality is the principle that all Internet service providers (ISPs) should treat all traffic coming over their networks without discrimination. Violations of that principle include, but are not limited to, blocking, throttling, and paid prioritization. The value of the FCC’s 2015 Open Internet Order was not just in the banning of those specific practices, but also in giving the FCC ability to investigate actions that violate net neutrality but don't fall neatly into one of those three buckets. 
+ Threats to public safety, for example, don’t necessarily present as clear cases of blocking, throttling, or paid prioritization. The case of Verizon throttling California firefighters during a wildfire might have not met the definition of throttling in the 2015 Order, but the FCC under Pai has likely given up the authority to investigate what happened there. 
+ Public safety is tied to net neutrality , as Congressman Jerry McNerney of California noted when he said that during disasters, people go online to “check evacuation routes, see if their loved ones are safe, and find out if it’s even safe to breathe outside.” And if ISPs have made deals and decisions to make it faster to get to places with wrong or unhelpful information, that is a problem. 
+ Interconnection points—places where two different networks exchange information with each other—are another place where we know ISPs can get around simple bans on just blocking, throttling, and paid prioritization. That is to say that while the bans prevent things occurring on a network, they do not stop providers from charging extra when content enters their network at the connection point, which is paying to get access to customers on the other network. That’s why California’s S.B. 822, written to replicate the whole protections of the 2015 Open Internet Order and not just these three bans, includes prohibitions on doing that. Discriminatory zero-rating—the practice of exempting certain types of traffic from counting against a data cap (often under an agreement between the ISP and web platform)—is another area that can fall outside these three bans. Not only has zero rating been shown to be  harmful to low-income broadband users ,  but it raises the cost of data for all users . 
+ Another claim made constantly was that net neutrality and the 2015 Open Internet Order made it difficult for ISPs to invest in Internet for rural and other underserved communities. It was included in cable lobby head Michael Powell’s  written testimony  as the statement that the 2015 order had “depressing effects on the market” and Farnell’s testimony that he has more offers to invest since the repeal. But it’s simply not true that net neutrality really hurt rural investment. We know from the mouths of ISPs,  when talking to their own investors , that the order didn’t affect their planned investment at all. Besides, the challenges to investment have to do with physical barriers, not protections for consumers: now that the  net neutrality rules no longer applies to them, they have still not deployed in rural markets . 
+ As former FCC Chairman Tom Wheeler said during the hearing, legislation focused only on blocking, throttling, and paid prioritization "ignores the future and doesn’t even protect today. It doesn’t protect today because it says you are free to discriminate, just don’t do it this way.” 
+ Net neutrality is a principle. It is not just a set of rules against specific discriminatory practices. Treating all Internet traffic equally is why we have the modern Internet. It’s not a new idea, but it’s in danger today. 
+ Take Action 
+ tell your representative to support real Net Neutrality 
+   
+
+
+ 
+ Deeplinks Blog 
+  by  Corynne McSherry 
+  | May 13, 2021 
+   EFF to Ninth Circuit: Don’t Block California’s Pathbreaking Net Neutrality Law 
+ 
+ 
+ Partnering with the ACLU and numerous other public interest advocates, businesses and educators, EFF has filed an  amicus brief  urging the Ninth Circuit Court of Appeals to uphold a district court’s decision not to block enforcement of SB 822, a law that ensures that Californians have fair access to...   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon ,  Katharine Trendacosta 
+  | March 18, 2021 
+   AT&T’s HBO Max Deal Was Never Free 
+ 
+ 
+ When it launched HBO Max, AT&T also announced that usage of the service would not count against the data caps of its customers, a practice known as “zero-rating.” This means that people on limited data plans could watch as much HBO Max content as they wished without incurring overage fees...   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon 
+  | March 15, 2021 
+   Sacramento Might be Undergoing a Broadband Policy Reboot 
+ 
+ 
+ When it comes to broadband policy, much of the attention on California understandably has been focused on its legal win on S.B. 822,  its landmark net neutrality law . That court case is likely to head to the 9th Circuit next, and we are optimistic that the state will prevail....   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon 
+  | March 11, 2021 
+   Congress Proposes Bold Plan to End the Digital Divide 
+ 
+ 
+ New year, new Congress, but the problems of Internet access remains. If anything, the longer the COVID-19 crisis continues, the stronger the case for fast, affordable, Internet for all becomes. And so, an updated version of the Accessible, Affordable Internet for All Act has been introduced. It remains a bold...   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon 
+  | December 26, 2020 
+   The U.S. Internet Is Being Starved of Its Potential: 2020 in Review 
+ 
+ 
+ Over a year ago, EFF raised the  desperate need for the United States to have a universal fiber infrastructure plan  in order to ensure that all Americans can obtain access to 21st century communications technology. Since then, we’ve produced  technical research showing why fiber is vastly superior to ...   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon 
+  | November 23, 2020 
+   The FCC’s Independence and Mission Are at Stake with Trump Nominee 
+ 
+ 
+ When there are only five people in charge of a major federal agency, the personal agenda of even one of them can have a profound impact. That’s why EFF is closely watching the nomination of Nathan Simington to the Federal Communications Commission (FCC).Simington’s nomination appears to be the culmination of...   
+
+
+ 
+ Deeplinks Blog 
+  by  Karen Gullo ,  Kit Walsh 
+  | September 30, 2020 
+   Broad Coalition Urges Court Not to Block California’s Net Neutrality Law 
+ 
+ 
+ After the federal government rolled back net neutrality protections for consumers in 2017, California stepped up and passed a bill that does what FCC wouldn’t: bar telecoms from blocking and throttling Internet content and imposing paid prioritization schemes. The law, SB 822, ensures that that all Californians have full access...   
+
+
+ 
+ Legal Case 
+   California's Net Neutrality Law  
+ 
+ 
+ In 2018, California enacted SB 822, providing protections for net neutrality and banning practices by Internet service providers that would harm Californians’ ability to speak, learn, organize, and compete online. This page collects letters of support for the bill from a wide range of organizations.   
+
+
+ 
+ Legal Case 
+   California Net Neutrality Cases - American Cable Assocation, et al v. Rob Bonta, American Cable Association, et al v. Xavier Becerra, and United States of America v. State of California 
+ 
+ 
+ In 2017, the Federal Communications Commission (FCC) rolled back federal protections for net neutrality. The FCC disavowed its authority to regulate broadband Internet service providers under Title II of the Telecommunications Act, an authority that was necessary to support federal net neutrality regulations.California and other states stepped into this void...   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon 
+  | August 30, 2020 
+   California’s Assembly May Do Nothing to Help on Broadband—Thanks to Big ISPs 
+ 
+ 
+ Update:  Assembly Speaker Anthony Rendon has moved to table any efforts to close the digital divide this year. The pandemic has exposed how vital high-speed broadband is to the daily lives of all Californians. The Legislature must conclude all business by midnight on August 31. Call your Assemblymember TODAY and...   

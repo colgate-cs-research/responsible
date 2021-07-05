@@ -1,0 +1,270 @@
+##LINK: https://www.zdnet.com/article/college-p2p-use-on-the-decline/
+##KEYWORDS: open Internet
+##TITLE: College P2P use on the decline? | ZDNet
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        By
+                                 
+ John Borland 
+ 
+            
+                    
+        
+        
+                                                        
+                                                    |                 August 24, 2004 -- 18:52 GMT (11:52 PDT) 
+            
+                                        | Topic:  Enterprise Software 
+ 
+ 
+ 
+ 
+ 
+ A combination of authorized music services and lawsuits is helping to control illegal file swapping on campuses, a joint entertainment industry-university group said Tuesday. 
+ 
+In the last year, more than 20 schools have signed up for deeply discounted access to music services such as Napster, MusicNet and RealNetworks' Rhapsody, the Joint Committee of the Higher Education and Entertainment Communities said in a report to Congress. In the same period, 158 students have been sued for copyright infringement, the group said. 
+ 
+"Since the beginning of the last school year we have seen progress on all counts,"  Cary Sherman , president of the Recording Industry Association of America (RIAA) and co-chairman of the joint group, said in a conference call with reporters. "A legion of college music fans who are getting their music for free and getting the impression that music has no value are now being introduced to the idea that music does have value." 
+ 
+ 
+In some cases, the traffic devoted to peer-to-peer networks on campuses has dropped by as much as half, the group said.  
+ 
+ 
+The report to Congress comes two years after the formation of the cross-industry group and more than a year after the consortium began focusing heavily on  ways to provide legal music services on campus  that might entice students away from peer-to-peer networks. 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ News.blog 
+ Broadband 
+ Our reporters' take on what's happening in broadband. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The group's efforts have been augmented by the SonyBMG-led Campus Action Network (CAN), which has helped make introductions between university officials, record labels and music services for at least 10 campuses. 
+ 
+ 
+Napster was the first company to sign a campus deal, agreeing to offer service to the Pennsylvania State University last spring in a pilot program. The fees, which were undisclosed, were folded into a mandatory information technology charge of $160 a year imposed on students. University representatives have said the fee was not raised as a result of picking up the Napster service. 
+ 
+ 
+Penn State President Graham Spanier, who also serves as co-chair of the joint college and entertainment industry group, said on Tuesday that the pilot program had been a success and that it would be rolled out to all of the university's campuses this fall. In the pilot, up to 100,000 songs had been downloaded a day by the 12,000 students participating, he said. 
+ 
+ 
+ 
+ 
+ 
+ 
+"I think this will all mushroom (to other universities)," he said. "For universities, it's really not just a legal issue. It is an ethical, it is a moral issue."
+ 
+ 
+Napster has since announced  eight deals with universities , while MusicNet, distributed through partner Cdigix, has signed six. RealNetworks said Tuesday that it had made two college deals--with the University of California at Berkeley and the University of Minnesota--to provide students with subscriptions to its Rhapsody service for less than $3 a month. 
+
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Special series 
+ Digital Agenda: Broadband 
+  News.com shows how the U.S. can build a broadband network. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Apple Computer offers  site licenses  for its iTunes music software to universities, which can include  volume discounts  for song purchases. The company said Tuesday that 55 colleges have taken site licenses to iTunes. 
+ 
+ 
+
+Those low rates are made possible, in part, by a deep discount from record labels on the amount they charge for digital music services. A representative for one digital music company said that music publishers, which are also entitled to receive a small portion of payments, have not granted similar discounts. 
+ 
+ 
+Sherman and Spanier said that these new services, along with education campaigns and new technologies blocking peer-to-peer swaps, have diminished file trading on campus, but the two men provided few concrete details on overall reductions. 
+ 
+ 
+File sharing, particularly the swapping of video files, remains popular with many students, however. 
+ 
+ 
+A peer-to-peer network called i2Hub has recently appeared on the supercharged  Internet2  network, which enables students at participating campuses to download files from each other's system at rates much faster than on the open Internet. 
+ 
+ 
+Spanier and Sherman said that the film industry has also been involved in the joint group's efforts and that the on-campus services would likely expand more deeply into video in the future. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Topics: 
+ 
+                    Cloud
+                 
+ 
+                    Big Data Analytics
+                 
+ 
+                    Innovation
+                 
+ 
+                    Tech and Work
+                 
+ 
+                    Collaboration
+                 
+ 
+                    Developer
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        By
+                                 
+ John Borland 
+ 
+            
+                    
+        
+        
+                                                        
+                                                    |                 August 24, 2004 -- 18:52 GMT (11:52 PDT) 
+            
+                                        | Topic:  Enterprise Software 
+ 
+ 
+ 

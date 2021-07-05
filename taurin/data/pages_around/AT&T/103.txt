@@ -1,0 +1,18 @@
+##LINK: https://www.benton.org/headlines/comcast-att-verizon-say-they-have-no-paid-prioritization-plans
+##KEYWORDS: paid prioritization
+##TITLE: Comcast, AT&T, Verizon say they have no paid prioritization plans | Benton Institute for Broadband & Society
+##METHOD: paragraphs
+
+Subscribe
+Subscribe
+The repeal of federal network neutrality rules became official June 11, giving broadband providers the right to block or throttle Internet traffic or to prioritize traffic in exchange for payment. But at least for now, some major ISPs are saying they won't do any of those things. The Comcast, Verizon, and AT&T websites all say they aren't doing any blocking, throttling, or paid prioritization.
+By contrast, Charter's network management disclosure only promises that it won't block or throttle, while making no promises about paid prioritization. That doesn't mean Charter has immediate plans to charge websites and online services for priority access to consumers. ISPs are required to disclose paid prioritization publicly, so we'll find out if it happens as long as the companies follow the disclosure requirements. Comcast, Charter, AT&T, and Verizon are the four biggest home Internet providers in the US. ISPs can make their disclosures either on their own websites or on the FCC website, but so far only two small ISPs have used the FCC site for their disclosures.
+ 
+CONTACT
+Benton Institute
+for Broadband & Society
+1041 Ridge Rd, Unit 214
+Wilmette, IL 60091
+847-328-3040
+Contact Us
+© 1994-2021 Benton Institute for Broadband & Society. All Rights Reserved.

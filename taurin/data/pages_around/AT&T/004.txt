@@ -1,0 +1,21 @@
+##LINK: https://www.cnbc.com/2021/03/17/att-will-count-hbo-max-toward-data-caps-blames-net-neutrality-law.html
+##KEYWORDS: net neutrality
+##TITLE: AT&T will count HBO Max toward data caps, blames net neutrality law
+##METHOD: paragraphs
+
+In this article
+AT&T will no longer exempt viewership of its HBO Max streaming service from data caps after a federal court upheld California's net neutrality law, the company said in a statement Wednesday.
+The company informed customers that it would no longer offer "Data Free TV" on its video apps beginning March 25, according to a copy of the customer notice obtained by CNBC. That means customers must be connected to WiFi to avoid having their streaming count toward their total data caps. The change will extend beyond California, since, AT&T said, "the Internet does not recognize state borders." 
+The announcement highlights a key concern the industry has with state actions impacting the internet sector. Much like with digital privacy laws, which currently only exist in a couple states, the tech industry fears a patchwork of state laws will make it more difficult to operate, especially for smaller players.
+"A state-by-state approach to 'net neutrality' is unworkable," AT&T said in a statement announcing the data cap change. "A patchwork of state regulations, many of them overly restrictive, creates roadblocks to creative and pro-consumer solutions."
+Net neutrality is the idea that internet service providers should act neutrally toward the content they host,  and abstain from speeding or throttling delivery speeds for certain sites or services. Under the California law, which a federal judge said last month could legally be enforced, AT&T said it is not allowed to "sponsor" data for customers who also use its wireless services.
+California's net neutrality law came in the wake of the Trump administration's decision to undo an Obama-era net neutrality rule at the Federal Communications Commission. The old rule installed the principle of net neutrality by reinterpreting Title II of the Communications Act of 1934 so that internet service providers would be considered common carriers subject to greater regulation.
+AT&T said it has "long been committed to the principles of an open Internet" and urged Congress to enact federal laws to make it easy and affordable for Americans to access the internet "while providing clear, consistent, and permanent net neutrality rules for everyone to follow."
+-CNBC's Steve Kopack contributed to this report.
+WATCH: Former FCC Chairman Ajit Pai on Section 230, 5G and the Biden administration
+Got a confidential news tip? We want to hear from you.
+Sign up for free newsletters and get more CNBC delivered to your inbox
+Get this delivered to your inbox, and more info about our products and services. 
+© 2021 CNBC LLC. All Rights Reserved. A Division of NBCUniversal
+Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.
+Data also provided by 

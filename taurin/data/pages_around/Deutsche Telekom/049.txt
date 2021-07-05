@@ -1,0 +1,53 @@
+##LINK: https://www.publicknowledge.org/blog/deutsche-telekom-accidentally-speaks-truth-about-t-mobile-having-a-future-without-att/
+##KEYWORDS: open Internet
+##TITLE: Deutsche Telekom Accidentally Speaks Truth About T-Mobile Having A Future Without AT&T | Public Knowledge : Public Knowledge
+##METHOD: article 1
+
+
+
+ 
+ Post 
+ 
+ 
+							Deutsche Telekom Accidentally Speaks Truth About T-Mobile Having A Future Without AT&T						 
+ 
+ 
+ 
+		By					 
+ 
+				Harold Feld			 
+				 
+	 
+ 
+ 
+ October 10, 2011 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mind you, this is not the first time DT has spoken some inconvenient truth about the real value of T-Mobile and how DT could, with relatively little effort, find another buyer or otherwise exit from the U.S. market. Back in September, when AT&T intimated that maybe it wouldn’t pay DT the promised $6 billion cash-and-spectrum break up fee, DT made it clear that AT&T damn well would because DT had forfeited numerous profitable opportunities by going to the big dance with AT&T instead of all the other boys asking out Ms. T-Mo. As   reported by Fierce Wireless Europe : 
+ DT CFO Timotheus Hoettges confirmed that it had discussed the sale of T-Mobile USA with five companies prior to the AT&T deal. One of those companies was reportedly Sprint Netxel. 
+ Who are these jilted suitors?  Supporters of the AT&T takeover are fond of asking, in a rather plaintive voice, “who will buy T-Mobile if not AT&T? After all, DT has declared T-Mobile a sickly gazelle that will be left to waste away in agony unless the mighty AT&T lion devours it in a mercy killing.” This is usually followed with some   disparaging remarks about Sprint , the presumed other suitor waiting in the wings. For some reason, this argument justifies the   confimed layoffs  of upward   of 20,000 T-Mobile employees  immediately as a means of saving jobs in the long run when T-Mo ultimately whithers away. 
+ As it turns out however, AT&T takeover supporters (and those listening to them) need not fear. DT knows exactly who its previous suitors were. And unless I have lost track of how to count, only one of the   five   companies with which DT discussed “the sale of T-Mobile” other than AT&T can be Sprint. Using advanced mathematical modelling techniques, we can determine that this leaves   four  companies (5-1=4) that aren’t Sprint as possible buyers for T-Mo when DoJ wins its antitrust case. 
+ As if this weren’t bad enough news for AT&T’s storyline that T-Mo is a sickly gazelle so repulsive no other company would stoop to acquire it, financial analysts agree that DT can spin off T-Mo to investors who don’t share DT’s aversion to the American mobile market for a fairly hefty sum. As   the same article noted : 
+ Also, Heinrich Ey, a fund manager at Allianz Global Investors in Frankfurt, told Bloomberg that an IPO of T-Mobile USA could raise as much as €20 billion, or $28 billion, albeit far removed from the $39 billion that AT&T offered.  
+ All of this inconvenient truth leaking out of DT like sieve raises some interesting questions here at home. 
+ First, why the heck doesn’t anybody notice? It’s not like these statements are coming out of some secret document horde, like when AT&T   accidentally acknowledged that they did not need T-Mo to bring 4G wireless broadband to rural America . DT officers are making these statements publicly! So why do AT&T and its chorus of supporters still sing the “T-Mo Is A Sickly Gazelle and only AT&T can put it out of its misery” song unchallenged?  
+ Second question: why is AT&T willing to pay $11 billion more than the IPO value of T-Mobile? After all, an estimated IPO value is what one assumes the fair market value of the company to be. If the IPO value is estimated at $28 billion, AT&T is willing to pay an $11 billion premium for — what? Don’t tell me “spectrum.” AT&T could acquire needed spectrum access rights far more cheaply through commercial roaming agreements. And, as already noted, AT&T previously conceded   they could bring 4G to rural America much cheaper without acquiring T-Mo.   Where do you get $11 billion worth of “efficiencies” without firing boatloads of people and using your new-found market power to exact monopoly rents? 
+ I do not expect that AT&T or its chorus of supporters will change their tune. Indeed, history shows they will simply sing “The Sickly Gazelle Chorus” louder, in the hopes of drowning out the inconvenient truth. But the Inconvenient Truth Carol is starting to become a rather penetrating counterpoint, for those willing to listen. 
+ 
+ 
+ Harold Feld   
+ 
+ 
+ 
+ About Harold Feld 
+ 
+ 
+								Harold Feld is Public Knowledge’s Senior Vice President and author of “The Case for the Digital Platform Act,” (Public Knowledge & Roosevelt Institute 2019) a guide on what government can do to preserve competition and empower individual users in the huge swath of our economy now referred to as “Big Tech.” Former FCC Chairman Tom Wheeler described this book as, “[...] a tour de force of the issues raised by the digital economy and internet capitalism.”
+
+For more than 20 years, Feld has practiced law at the intersection of technology, broadband, and media policy in both the private sector and in the public interest community. Feld has an undergraduate degree from Princeton University, a law degree from Boston University, and clerked for the D.C. Circuit Court of Appeals.
+
+Feld also writes “Tales of the Sausage Factory,” a progressive blog on media and telecom policy. In 2007, Illinois Senator Dick Durbin praised him and his blog for “[doing] a lot of great work helping people understand how FCC decisions affect people and communities on the ground.”							 

@@ -1,0 +1,71 @@
+##LINK: https://www.cnet.com/home/internet/at-t-discontinues-sponsored-data-due-to-californias-net-neutrality-law/
+##KEYWORDS: net neutrality
+##TITLE: AT&T discontinues 'sponsored data' due to California's net neutrality law - CNET
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ AT&T is ditching  the service for some of its video streaming apps. 
+                                                    Getty Images
+                                                 
+ AT&T is ditching its "sponsored data" service for some of its video streaming apps as a result of California's net neutrality law, which prohibits operators from favoring their own services and content over competitors' offerings.  AT&T said in a  blog post Wednesday  that the state law bans "sponsored data" services, otherwise known as "zero-rated" plans. This feature allows AT&T wireless customers on tiered data plans to use AT&T services like DirecTV or AT&T TV without eating into their monthly data allotment. Meanwhile, other streaming video services, like Netflix or Amazon Streaming, do count against monthly usage.  "Unfortunately, under the California law we are now prohibited from providing certain data features to consumers free of charge," AT&T said in a  blog post . "Given that the Internet does not recognize state borders, the new law not only ends our ability to offer California customers such free data services but also similarly impacts our customers in states beyond California." 
+ The news comes after a  federal judge last month said he would not block California's law , which is considered the strictest set of net neutrality protections to date, surpassing protections that had been adopted during the Obama administration. The California law passed in 2018 bars internet service providers from blocking or slowing down internet access. This was the main part of the 2015 Obama rules, but the California law also outlaws "zero-rating" or "sponsored data" offers, which allow carriers to exempt certain services from counting against a user's data cap.  California adopted its new rules  after a  Republican-led FCC in 2017 repealed the Obama-era federal  regulations.  California's rules were prevented from taking effect after they were signed into law  due to a lawsuit  filed by the broadband industry's four main lobbying groups, which aimed to block the new law.  When the FCC rolled back federal net neutrality protections, it also included a provision in its order that pre-empted states from creating their own regulations. The broadband industry argued in its lawsuit against California that it would be too complicated for internet service providers to follow different net neutrality rules in 50 states. The federal judge last month rejected that claim. The industry is appealing the decision. The US Department of Justice under former President Donald Trump had also filed a legal challenge against the state law, but  that lawsuit was formally dismissed  by the department in early February, paving the way for California to finally enforce it.  Net neutrality  is the  principle  that all traffic on the internet should be treated equally, regardless of whether you're checking Facebook, posting pictures to Instagram or streaming movies from Netflix or Amazon. It also means companies such as AT&T, which bought Time Warner, or Comcast, which owns NBC Universal, can't favor their own content over that of a competitor. "This is a win for an open and free internet, including for competing video services and internet users," Stanford Law professor Barbara van Schewick said in a statement after AT&T's announcement Wednesday. "People should be free to choose which videos they want to watch - whether that's Netflix, Twitch or their local church's Sunday service, without the company they pay to get online trying to influence their choices." As for the future of federal net neutrality protections, with Democrats now in charge, it's  expected the FCC will move to reinstate federal rules . It's very likely a new set of proposed federal rules will include provisions of the California law.  
+ 
+ 
+ 
+ 
+ Net Fix 
+ Net Neutrality 
+ AT&T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Notification on 
+ Notification off 
+ 
+ 
+ Broadband 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,281 @@
+##LINK: https://www.theverge.com/2016/11/29/13774648/fcc-att-zero-rating-directv-net-neutrality-vs-tmobile
+##KEYWORDS: open Internet
+##TITLE: AT&T just declared war on an open internet (and us) - The Verge
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ Filed under: 
+ 
+ 
+ 
+ Policy 
+ 
+ 
+ 
+ 
+ Mobile 
+ 
+ 
+ 
+ 
+ US & World 
+ 
+ 
+ 
+ 
+ 
+ AT&T just declared war on an open internet (and us) 
+ 
+ 
+ 
+ 
+    New,
+   
+ 
+ 
+        203
+       
+ comments 
+ 
+ 
+ 
+ 
+ ‘Mobilizing Your World’ sounds like a threat now 
+ 
+ 
+    
+      By
+       
+ T.C. Sottek 
+ 
+ 
+ 
+          Nov 29, 2016, 10:00am EST
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this story 
+ 
+ 
+ 
+ 
+ Share this on Facebook 
+ 
+ 
+ 
+ 
+ 
+ Share this on Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options for: 
+ AT&T just declared war on an open internet (and us) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Linkedin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pocket 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flipboard 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Last year we won  the open internet back , but the new regulations had one big weakness: they didn’t explicitly ban a scheme called “zero rating.” Zero rating is a poison pill wrapped in a piece of cheese; it  looks  like a good thing for consumers (free video!), but ultimately has the capability to rot competition and the open internet. The FCC decided it would look at zero rating schemes on a case-by-case basis, which left the door open for wireless companies to play their usual games. AT&T just broke that door off its hinges.  
+ Last night AT&T made a dim prophecy official by announcing that its new DirecTV Now streaming service would be zero rated: it  won’t count against its customers’ data caps . Zero rating isn’t new — T-Mobile has been  writing the manual  on how to get away with it — but now it’s finally happening at a scale that matters. And AT&T’s version is much worse than T-Mobile’s.  
+ AT&T is screwing it all up 
+ T-Mobile’s model began with offering free music streaming to its wireless customers through select services. So, for example, if you were a Spotify or Google Play Music customer, T-Mobile would give you unlimited high-speed data for using those apps. Eventually T-Mobile expanded this idea to video with its “BingeOn” program that started by throttling video and ended up being an opt-in program video streaming companies could use to send video to T-Mobile customers with no impact on their data caps. T-Mobile  nearly went crazy  trying to defend this program against criticism, but so far it hasn’t been slapped by the FCC.  
+ But AT&T’s zero rating model is pretty much the nightmare scenario that internet advocates and pro-competition observers have been warning us about. That’s because AT&T owns DirecTV, and is now giving DirecTV Now privileged access to AT&T’s wireless internet customers. The corruption is so obvious here that it doesn’t need a fancy net neutrality metaphor — AT&T is clearly favoring  a company it now owns  over competitors.  
+ AT&T is favoring a company it owns over competitors 
+ And that’s just the beginning of where AT&T is screwing us. The company stands to reap massive tolls on the other end of that “most favored nation” deal with DirecTV, because  it also offers something called “sponsored data”  to other companies that want the same kind of privileged access to AT&T customers. So, for example, if Netflix wants to compete fairly with DirecTV, it would need to pay AT&T to exempt its video traffic from data caps.  
+ T-Mobile and AT&T can get away with this to the extent that customers won’t notice, and it’s likely that many won’t see how the strings are being pulled. When  The Verge  covered T-Mobile’s Music Freedom and BingeOn programs critically, we heard from lots of customers who defended the services because they gave them more for their money. 
+ Here’s how T-Mobile CEO John Legere responded to BingeOn criticism:  
+ "So why are special interest groups, and even Google, offended by this? Why are they trying to characterize this as a bad thing? I think they are trying to use net neutrality as a platform to get into the news. At T-Mobile we're giving you more video, more for free, and a powerful new choice on how you want your video delivered. What's not to love? Who the hell do they think they are? What gives them the right to dictate what my customers or any wireless consumers can choose for themselves?" 
+ And here’s what AT&T Entertainment CEO John Stankey said yesterday in response to concerns about zero rating:  
+ "I don't know why anybody would want to take something away from customers that customers like. We think it's a great customer benefit. We think customers are voting already with their use of it. We've got an administration coming in that says they're about competition and customer choice." 
+ That message is powerful because it’s  real.  Zero rating gives customers something they actually need. But the ISPs are deliberately creating that need. In other words, the system is rigged. Music Freedom, BingeOn, and zero-rated DirecTV are good for customers because ISPs have built immense scarcity into their networks. Almost nobody offers unlimited data anymore because it’s bad for business.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A list of the channels offered with each DirecTV Now tier. 
+ 
+ 
+ This is what ISPs really want the internet to look like: a bundle of premium services that run up the cost of access to their networks. It’s the same game internet companies have been playing from the beginning, when they got the government to classify them as “ information services ” instead of “telecommunications services” — the ISPs really don’t want to be “dumb pipes,” because there’s less money to be made when you just give people high-quality internet with no restrictions. So AT&T and Verizon are now trying to be video content companies in addition to wireless internet providers.  
+ These goals are out in the open. “What’s starting to change is really looking at ways to monetize above the access network,”  Verizon executive VP Marni Walden told  Recode  last year . Read that:  monetize above the access network . Then listen to how AT&T’s John Stankey presented the new DirecTV service last night: “We want [customers] to understand the benefits of using AT&T for their wireless service with a premium entertainment product,” he said. “We want to sell wireless service because it comes with great content."  
+ They’re using the same playbook: turn the internet into basic cable, and charge everyone for features and content on top of that. Then, charge competitors to compete with their own vertically integrated video services. It’s a two-way toll that ISPs have been trying to erect forever. 
+ You should be deciding who wins, not the phone company 
+ The stakes are even higher  now that AT&T plans to buy Time Warner : the company that owns  Game of Thrones  and Batman. Will AT&T make HBO free to stream only for AT&T customers in the future? Will AT&T have to pay Verizon to sponsor HBO data for its customers, or will Verizon capitulate and offer HBO data for free to remain competitive? These are the kinds of byzantine deals that an open internet is designed to avoid. The core principle of net neutrality is that  you  should be deciding who wins and loses in the market for information, not the phone company.  
+ The coming zero-rated internet regime won’t spell doomsday for everyone. Companies like Netflix and YouTube can surely afford sponsored data — but what about  The New York Times ? Or your favorite internet blog? Or even  The Verge ? We were built on the open internet, and AT&T wants to destroy it. It’s personal for us, and it should feel personal to you, too. The internet was never supposed to feel like buying cable TV, but that’s what ISPs want. They are literally turning internet packages into cable bundles.  
+ The FCC has already warned AT&T  about providing free data to its customers for DirecTV video streams, and it’s possible that the agency could finally crack down on zero rating before it corrupts the entire internet service industry. But that possibility may be vanishing as the incoming Trump administration  looms over FCC policy . Republicans have been trying to gut the FCC  for nearly a decade , and between Trump and a Republican-controlled Congress there’s probably enough support to dismantle net neutrality policy, if not the agency itself. If that happens, zero rating and sponsored data schemes could become completely monstrous.  
+ The fight for the internet begins again.  
+ 
+ 
+ 
+ 
+ 
+ 
+    Next Up In
+    
+         Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Sign up for the
+        
+          newsletter
+        
+       
+      Verge Deals
+     
+ Subscribe to get the best Verge-approved tech deals of the week. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thanks for signing up! 
+ Check your inbox for a welcome email. 
+ 
+ 
+ 
+ 
+ Email  (required) 
+ 
+ 
+ 
+ 
+ 
+ 
+        By signing up, you agree to our  Privacy Notice  and European users agree to the data transfer policy.
+        
+       
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loading comments... 
+ 
+ 
+ 
+ 
+ 
+ 

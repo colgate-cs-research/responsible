@@ -1,0 +1,394 @@
+##LINK: https://www.techsutram.com/2020/06/deutsche-telekom-introduces-open-iot-platform.html
+##KEYWORDS: open Internet
+##TITLE: Deutsche Telekom introduces Open IoT Platform
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Deutsche Telekom introduces Open IoT Platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0 Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Deutsche Telekom  announced  the launch of its Open Internet of Things (IoT) Platform. 
+ 
+The platform brings developers, operators, partners, and suppliers together. Deutsche Telekom intends to make a heterogeneous IoT ecosystem as simple and manageable.  Connectivity, devices, cloud services, and solutions for data analysis are all the required tenants in today's industrial scenario, notes the announcement. 
+ 
+Executive Opinion 
+Rami Avidan, responsible for  Deutsche Telekom's  IoT business, said, "With the new “hub” for IoT we are exploiting the full potential of the Internet of Things. The amalgamation of all IoT solutions into one framework provides a business environment that is unique to date. With this, Deutsche Telekom is establishing the world's first open IoT network and expanding its role from IoT player to IoT orchestrator." 
+ 
+An Open Internet of Things (IoT) Platform 
+The platform will also introduce the marketplace and allow partners to offer their IoT portfolios. The company is also inviting partners and customers to its newly introduced IoT environment. 
+ 
+The IoT platform also introduces standardized interfaces to allow different IoT ecosystems to talk to each other. IoT Hub can be accessed at  https://iot.telekom.com/de/iot-hub 
+ 
+The platform is slated for launch in the second half of 2020. 
+ 
+ 
+ PC: Pablo,pixabay 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Note: We at TechSutram take our ethics very seriously. More information about it can be found  here . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #internet-of-things-news 
+ 
+ #IoT 
+ 
+ #iot-news 
+ 
+ #NEWS 
+ 
+ #startups 
+ 
+ #z.Udit.Agarwal 
+ 
+ 
+ Never miss an update. Subscribe and follow to stay informed. Delivered Every Tuesday. 
+ 
+ We hate spam too, we will never share your details. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mandar Pise 
+ 
+                                  Opinions expressed by techsutram contributors are their own.  More details 
+ 
+ 
+ 
+ 
+ 
+Mandar is a seasoned software professional for more than a decade. He is Cloud, AI, IoT, Blockchain and Fintech enthusiast. He writes to benefit others from his experiences. His overall goal is to help people learn about the Cloud, AI, IoT, Blockchain and Fintech and the effects they will have economically and socially in the future. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ No comments:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Post a Comment 
+     Your valuable comments are welcome. (Moderated) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Weekly Newsletter 
+ Never miss an update. Subscribe and follow to stay informed.  Delivered Every Tuesday. 
+ 
+ 
+ 
+ 
+ Thank you! You have successfully subscribed to our newsletter. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Subscribe to our Weekly Newsletter  
+ 
+ 
+ 
+ 
+ 
+ 
+                        Subscribe
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ We hate spam too, we will never share your details. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BlockChain News 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI/ML News 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cloud News 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ IoT News 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Most Read 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Okta to buy rival Identity prover, Auth0 for $6.5 Billion 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Differences IPv4 Vs IPv6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cisco VPN - Reason 442: Failed to enable Virtual Adapter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ San Francisco based AI GoodTime secured $9.5 Million in Series A funding round 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New York city based AI startup Rasgo secured $25M in Series A funding 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

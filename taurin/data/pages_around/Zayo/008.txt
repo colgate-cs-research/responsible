@@ -1,0 +1,23 @@
+##LINK: https://www.colorado.edu/engineering/2018/11/26/its-cyber-monday-are-you-ready
+##KEYWORDS: net neutrality
+##TITLE: It's Cyber Monday - are you ready? | College of Engineering & Applied Science | University of Colorado Boulder
+##METHOD: paragraphs
+
+
+Skip to Content
+
+As you consider your strategies for finding the best Cyber Monday deals on everything from salt shakers to filtered water pitchers to cameras that feed your dogs, remember that where there is connectivity, there is a need for security. As connectivity through the internet becomes pervasive, there is a growing and unmet need across many companies and industries for professionals with a solid grasp of cybersecurity principles.
+That’s why CEAS, aka CU Engineering, is launching a new cybersecurity program that combines the college’s longstanding telecom program and strengths with coursework in policy, Hacking for Defense, and entrepreneurship, as well as an introductory cybersecurity course aimed at undergraduates from a range of disciplines – no computer science background necessary. 
+Taking the broad stance that “cyber” impacts not just the Internet of Things (IoT), but intersects everything, CEAS will continue to push the boundaries of how we think about cybersecurity and its future. For example, recent studies reveal that cyber attackers still rely heavily on human factors and especially “social engineering.” This means that CU Engineering’s approach will take into account issues of confidentiality, authenticity, integrity, risk management and adversarial thinking. CEAS’s approach can be applied to vehicles, medical devices, building controls systems, and also everyday work and life situations. 
+New classes have been announced and include Introduction to Blockchain, Immersive Cyber Defense, the Business of Fintech and the Mathematics of Cryptosystems. Download a PDF of all the ITP Spring 2019 Cybersecurity Courses.
+Leading CU Engineering’s advance into broader cybersecurity education is a team of experts from across academia, industry, government and military in the Interdisciplinary Telecom Program (ITP). Among them:
+Dan Massey is a professor of Computer Science and director of the program. Dan joined the Computer Science department in fall 2017 and had previously served in the role of program manager in the Department of Homeland Security Science and Technology Cyber Security Division. He is also a lead advisor to the Neutral Vehicle working group, which collaborates with industry stakeholders on the development of a platform for secure mobility, and is active in K-12 programs to promote an early interest in cyber security. 
+Jim Curry is a professor in Applied Mathematics and an associate director in the Interdisciplinary Telecom Program. Curry is deeply committed to workforce and encouraging an interest and excitement for mathematics as a foundation for understanding a broad range of STEM disciplines. He helped establish the Department of Applied Mathematics. 
+Lloyd Thrall is an associate director and CU Engineering scholar in residence, and has served extensively in national security roles. He previously served as a senior executive appointee in the Obama Administration as the Deputy Assistant Secretary of Defense for Force Readiness. He has published widely on defense policy and is a CU Boulder alumnus.
+David Reed is a scholar in residence and former Telecommunications Policy Analyst at the Federal Communications Commission (FCC). He will teach courses on Internet Policy that introduces students to developments and issues associated with net neutrality, broadband speeds and deployment, and cybersecurity.
+Adjunct faculty from prominent companies including Circadence and Zayo will lead classes on the business case for cybersecurity. Additional appointments are anticipated including from federal agencies such as the National Security Agency. A main focus will include privacy and government issues. 
+Cyber Monday is a reminder that almost every part of our lives has been touched by technology – including salt shakers, filtered water pitchers and cameras that feed your dogs – and is therefore now vulnerable to cyber attacks. On this #CyberSecurityMonday, consider not only what you will buy, but how you will prepare yourself to understand and manage the security risks you will certainly encounter in your career and personal life. The emergent thinking and understanding of “digital citizenship” is reshaping the future, be ready for it.
+Apply  Visit  Give
+Phone: 303-492-5071Email: cueng@colorado.edu
+University of Colorado Boulder© Regents of the University of Colorado
+Privacy • Legal & Trademarks • Campus Map

@@ -1,0 +1,80 @@
+##LINK: https://www.telekom.com/media/management_unplugged/291728
+##KEYWORDS: net neutrality
+##TITLE: Net neutrality: Finding consensus in the minefield | Deutsche Telekom
+##METHOD: article 4
+
+
+
+ 
+ 
+ 
+ Company 
+ 10‑28‑2015   
+ Net neutrality: Finding consensus in the minefield 
+ 
+ 
+ 
+ Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The icons are missing? – Try disabling your ad-blocker. 
+ 
+ 
+ 
+ Share 
+ 
+  Two clicks for more data privacy: click here to activate the button and send your recommendation. Data will be transfered as soon as the activation occurs. 
+   
+ Print 
+ 
+ Read out 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Timotheus Höttges, Chief Executive Officer (CEO) Deutsche Telekom AG   
+ 
+ 
+ 
+ 
+ 
+ In our society, it is the role of politics to strike a balance between competing interests. This was certainly no mean feat in regard to net neutrality: The battle lines are drawn, some of the positions are fundamentalistic. Net activists, who see the Internet as a public good that has been neutral until now. Internet companies who fear having to pay more. And lastly telecommunications companies who fear for the refinancing of their billions worth of investments in the broadband infrastructure. For months, politicians have been listening to the various positions: From lobbyists on both sides and petitions through to traditional and  social media . The European Parliament has now approved the proposal negotiated by the EU Commission, Council and representatives of the Parliament. The result is a thoroughly balanced compromise: Against our wishes, there are rules on net neutrality and thus more regulation. The new regulation aims to prevent Internet access being restricted for EU citizens. Regulatory authorities will be given additional supervisory and sanctioning powers to ensure this. At the same time, developing innovative Internet services with high standards of quality will continue to be possible in the future. These are the so-called special services. Why are these special services needed on the net? The Internet is multifaceted, and creates services that nobody could have imagined until recently. From video conferences, online gaming, telemedecine and automated traffic management, through to self-driving cars and connected production processes in industry. All these services have different, in some cases more demanding quality requirements than simple surfing or e-mails that can arrive a few milliseconds later. A video conference should, for instance, not experience time lags during peak Internet periods. As such, there needs to be the option of giving priority to data associated with sensitive services if the network is congested. Quality differentiation on the Internet has long been common practice. Users can decide for themselves the level of service they want, and what this service is worth to them: additional storage space for e-mails, for instance, costs extra, just as do enhanced search functions on Xing and LinkedIn, or videos in HD instead of SD quality. In future there will also be the option of booking a service with assured quality in exchange for a few more euros. Quality differentiation is by no means a revolution on the Internet, but natural development. Opponents of special services claim that small providers can't afford this. The opposite is true: Start-ups need special services more than anyone in order to have a chance of keeping up with large Internet providers. Google and co. can afford server parks all around the world, to bring content nearer to their customers and thus improve the quality of their services. Small companies cannot afford this. If they want to bring services to market which require guaranteed good transmission quality, it is precisely these companies that need special services. By our reckoning, they would pay a couple of percent for this in the form of revenue-sharing. This would be a fair contribution for the use of the infrastructure. And it ensures more competition on the Internet. But the Internet is certainly more than just a virtual marketplace. It has an important social function as a medium for information and participation. It must therefore remain free, open and non-discriminatory. It is understandable that the new rules for the EU have been defined out of concern for the importance of this principle. As a result, the free and open Internet now has a legal basis and a guaranteed future. But at the same time, the opportunity remains to further develop the Internet through increased investments and with new innovative services. As such, the EU and Europe's politicians have succeeded in finding a balance of interests. That is good for Europe. And good for the global Internet.   
+ 
+ 

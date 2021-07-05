@@ -1,0 +1,120 @@
+##LINK: https://yro.slashdot.org/story/17/12/15/2026202/isps-wont-promise-to-treat-all-traffic-equally-after-net-neutrality
+##KEYWORDS: paid prioritization
+##TITLE: ISPs Won't Promise To Treat All Traffic Equally After Net Neutrality - Slashdot
+##METHOD: article 2
+
+
+
+ 
+ 95990863 
+ story 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   ISPs Won't Promise To Treat All Traffic Equally After Net Neutrality    (theverge.com)  
+ 
+ 
+ 232 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+				
+			Posted
+				by 
+		
+		
+			
+				   BeauHD 
+ on Friday December 15, 2017 @06:00PM 
+		
+		
+			 from the  he-said-she-said  dept.
+		
+		 
+ 
+ 
+ 
+ 
+			
+		 	
+				An anonymous reader writes:  The FCC  voted to put an end to net neutrality , giving internet providers free rein to deliver service at their own discretion. There's really only one condition here: internet providers will have to disclose their policies regarding "network management practices, performance, and commercial terms." So if ISPs want to block websites, throttle your connection, or charge certain websites more, they'll have to admit it. We're still too far out to know exactly what disclosures all the big ISPs are going to make -- the rules (or lack thereof) don't actually go into effect for another few months -- but many internet providers have been making statements throughout the year about their stance on net neutrality, which ought to give some idea of where they'll land. We reached out to 10 big or notable ISPs to see  what their stances are on three core tenets of net neutrality : no blocking, no throttling, and no paid prioritization. Not all of them answered, and the answers we did get are complicated. [The Verge reached out to Comcast, AT&T, Verizon, T-Mobile, Sprint, Charter (Spectrum), Cox, Altice USA (Optimum and SuddenLink), and Google Fi and Google Fiber.]
+   
+Many ISPs say they support some or all of these core rules, but there's a big caveat there: for six of the past seven years, there have been net neutrality rules in place at the FCC. That means all of the companies we checked with have had to abide by the no blocking, no throttling, and no paid prioritization rules. It means that they can say, and be mostly correct in saying, that they've long followed those rules. But it is, on some level, because they've had to. What actually matters is which policies ISPs say they'll keep in the future, and few are making commitments about that. In fact, all of the companies we contacted (with the exception of Google) have supported the FCC's plan to remove the current net neutrality rules. None of the ISPs we contacted will make a commitment -- or even a comment -- on paid fast lanes and prioritization. And this is really where we expect to see problems: ISPs likely won't go out and block large swaths of the web, but they may start to give subtle advantages to their own content and the content of their partners, slowly shaping who wins and loses online.   Comcast : Comcast says it currently doesn't block, throttle content, or offer paid fast lanes, but hasn't committed to not doing so in the future.    AT&T : AT&T has committed to not blocking or throttling websites in the future. However, its stance around fast lanes is unclear.    Verizon : Verizon indicates that, at least in the immediate future, it will not block legal content. As for throttling and fast lanes, the company has no stance, and even seems to be excited to use the absence of rules to its advantage.    T-Mobile : T-Mobile makes no commitments to not throttle content or offer paid fast lanes and is unclear on its commitment to not blocking sites and services. It's already involved in programs that advantage some services over others.    Sprint : Sprint makes no commitments on net neutrality, but suggests it doesn't have plans to offer a service that would block sites.    Charter (Spectrum) : Charter doesn't make any guarantees, but the company indicates that it's currently committed to not blocking or throttling customers.    Cox : Cox says it won't block or throttle content, even without net neutrality. It won't make commitments on zero-rating or paid fast lanes.    Altice USA (Optimum and SuddenLink) : Altice doesn't currently block or throttle and suggests it will keep those policies, though without an explicit commitment. The company doesn't comment on prioritizing one service over another.    Google Fi and Google Fiber : Google doesn't make any promises regarding throttling and paid prioritization. However, it is the only company to state that it believes paid prioritization would be harmful. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ← 
+ 
+ 
+ Related Links 
+ 
+ 
+ → 
+ 
+ 
+ 
+ NVIDIA Titan V Benchmarks Show Volta GPU Compute, Mining and Gaming Strength  
+ 
+ 
+ 
+ 
+ The Trump Administration Just Voted To Repeal the US Government's Net Neutrality Rules Submission: ISPs Won't Promise To Treat All Traffic Equally After Net Neutrality 
+ 
+ 
+ 
+ 
+ Coinbase Wants Wall Street To Resolve Its Bitcoin Trust Issues  
+ 
+ 
+ 
+ 

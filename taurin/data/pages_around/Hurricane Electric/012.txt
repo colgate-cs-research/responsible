@@ -1,0 +1,12 @@
+##LINK: https://www.techmgm.com/resources/mgmix/
+##KEYWORDS: open Internet
+##TITLE: MGMix - MGM Cyber Initiative
+##METHOD: paragraphs
+
+Montgomery’s Economic Development Secret Weapon is a 100Gig capacity open Internet Exchange. Led by a visionary collaboration among Montgomery County, The City of Montgomery, research universities, Maxwell Gunter Air Force Base, and the new Cyber College of the Air Force, the exchange holds the power to connect the entire region at lightning speed and stimulate deeply competitive operating costs.
+Learn more about the Montgomery Internet Exchange here.
+Alabama signals fertile ground for tech sector growth with new peering partner
+Hurricane Electric, a global internet service provider considered a catalyst creating the “backbone” of the internet, announced it has established a Point of Presence (POP) in Montgomery, Alabama through its rapidly expanding internet exchange, the MGMix.
+TechMGM is a collaboration of local industry, educational and government entities working together to connect and leverage Montgomery’s unique technology related assets.
+This initiative will maximize the community’s diverse technology talent pipeline and promote the city as an emerging and innovative technology hub to enhance the workforce and grow the regional economy.
+mail: info@techmgm.com

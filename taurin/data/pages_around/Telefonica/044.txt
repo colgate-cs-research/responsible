@@ -1,0 +1,30 @@
+##LINK: https://disruptivewireless.blogspot.com/2014/03/tuenti-telefonica-and-zero-rated-mobile.html
+##KEYWORDS: zero-rating
+##TITLE: Dean Bubley's Disruptive Wireless: Tuenti, Telefonica, Tokbox and zero-rated Mobile WebRTC?
+##METHOD: paragraphs
+
+Dean Bubley's Disruptive Wireless: Thought-leading wireless industry analysis
+
+The key issue with WebRTC for me is that "use cases" are not yet up to the opportunities it brings.I've seen many WebRTC demos but most of the time you don't see yourself using the product, even if it works fine thanks to webRTC.I'd be interested to know your perspective on possible compelling business phone applications built on webRTC as this is what I working on right now (aircall.io)
+
+
+Post a Comment
+
+3rd Neutral Host +  vRAN Workshop - Mar 31st London
+Small-group interactive workshop day on NHNs & vRAN Will cover: Metro 4G/5G densification, rural coverage, in-building wireless, multi-site & campus enterprise, road/rail, small cells & spectrum-sharing models 
+Technology, regulatory & business model issues - what's real in NHNs, and what's just slideware? Where does vRAN & OpenRAN fit with the move to shared/neutral networks?
+ Click HERE or email information AT disruptive-analysis DOT com for registration
+Future of Networks Research
+Disruptive Analysis’ Dean Bubley acts as Associate Director for STL Partners’ Future of Networks Research Stream. Coverage of FoN’s published research includes:
+ 
+- 5G standardisation & use-cases
+- 4G deployment & success factors
+- LPWAN technologies
+- Net Neutrality
+- NFV & SDN
+- Gigabit cable
+- Disruptive Wireless Technologies
+- SD-WAN
+- How Networks help telcos create new services
+ 
+Click here for more details, or use the contact box 

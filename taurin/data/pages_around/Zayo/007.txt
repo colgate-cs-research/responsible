@@ -1,0 +1,51 @@
+##LINK: https://www.fiercevideo.com/online-video/youtube-launches-curated-user-generated-news-service-pirate-streaming-service-ccloud
+##KEYWORDS: net neutrality
+##TITLE: YouTube launches curated user-generated news service; pirate streaming service cCloud relaunches | FierceVideo
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+                                        by                       Samantha Bookman                           | 
+             Jun 23, 2015 4:50pm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ More online video news from across the Web: 
+ > YouTube is rolling out a curated, user-generated news service called YouTube Newswire, along with two new groups, the First Draft Coalition and WITNESS Media Lab, to verify and analyze videos.  Blog post 
+ > Television is going to win this whole OTT revolution thing, media personality Michael Wolff told  CBS This Morning  while stumping for his new book,  Television is the New Television .   CBSNews  video 
+ > Enterprises should take a closer look at adding online video to their forward-facing websites.  Forbes  article 
+ > The newest Amazon original series,  Catastrophe , debuted on Prime Instant Video.  Release 
+ > An  ExStreamist  survey found that 79 percent of Netflix users would prefer paying a higher subscription rate than ever watching ads on the SVOD service.  Exstreamist  article 
+ > Amazon Web Services updated its CloudFront platform to enable additional control over its content caching services.  Release 
+ > Channel Master is adding live Internet streams to its over-the-air DVR.  Release 
+ > Sony filed a report on its streaming content security technology, Passage, with the FCC.  Filing  (PDF) 
+ > More from the piracy front, as cCloud TV launched (or rather, re-launched after being kicked off GitHub in May) with 500-plus IPTV channels streaming illegally on its service.  Mic.com  article 
+ Cable News 
+ > Time Warner Cable, come on down: You're the recipient of the FCC's first official net neutrality complaint, filed by live webcam operator Commercial Network Services. Article 
+ > Tennis Channel has signed a multiyear agreement with Neulion to bring its TV Everywhere and SVOD offerings to more platforms and markets. Article 
+ Telecom News 
+ > Zayo Group has upgraded its Ethernet backbone, both in the U.S. and internationally, from 10G to 100G to meet capacity needs. Article 
+ Wireless Tech News 
+ > The ITU has made a step forward in its work on defining 5G, officially naming the rules it's developing for enhanced mobile broadband as "IMT-2020." Well, it's a start. Article 
+ Wireless News 
+ > Verizon Wireless' upcoming OTT service will support sponsored data, with advertisers subsidizing the cost of subscribers' video consumption. Article 
+ > Broadcasters are putting the pressure on the FCC after the commission denied several petitions related to rules around next year's incentive auction of 600 MHz of broadcast spectrum. Article 
+ And finally…  Think helicopter parenting is tough enough for kids? Thanks to ubiquitous smartphones and social media, older siblings are closely monitoring their younger brothers and sisters--perhaps more so than their parents.  WSJ  article  (sub.req.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

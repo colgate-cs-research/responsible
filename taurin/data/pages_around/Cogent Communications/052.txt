@@ -1,0 +1,31 @@
+##LINK: https://newswire.telecomramblings.com/2020/09/tia-and-ul-launch-worlds-first-smart-building-assessment-and-rating/
+##KEYWORDS: zero-rating
+##TITLE: TIA and UL Launch World’s First Smart Building Assessment and Rating
+##METHOD: paragraphs
+
+Assessment criteria were developed with the input of a TIA industry working group of more than 60 leading commercial real estate, real estate investment trust (REIT), asset management, technology and telecommunications industry leaders.
+The program consists of two key components: the online SPIRE Self-Assessment and a UL Verified Assessment and Rating. The SPIRE Self-Assessment, available now in version 1.0, is the first step for assessing a building or space that allows users to gain initial insights into six distinctive criteria that describe the current state of their smart building. These criteria categories include life and property safety, health and well-being, connectivity, power and energy, cybersecurity and sustainability.
+The SPIRE Verified Assessment and Rating, coming Q1 2021, entails an in-depth audit by UL and is an objective, evidence-based assessment using the six distinctive criteria. A successful assessment results in a UL Verified Mark, a plaque and a building performance score based on six key criteria categories of the SPIRE smart building assessment framework.
+For both the Self-Assessment and the Verified Assessment and Rating, SPIRE provides a structured means to assess the outcomes of design for and adoption of smart building technologies.
+“The integration of all building systems is now technically possible and is becoming a necessity for success in a very competitive market,” said David Stehlin, CEO of TIA. “Fully integrated systems are enabling advanced building automation that helps increase efficiency, optimize operations and enhance overall occupant productivity and wellbeing. By assessing, validating and rating key building elements that take into consideration the entirety of a smart building, SPIRE can simultaneously help improve asset performance, ROI and tenant relations.”
+Originally conceived as part of an overall initiative between TIA and UL to share commercial, technical and standardization insights to further their work in the smart buildings ecosystem, the SPIRE Smart Building Program was developed over the past two years and included a collaboration with Corning Optical Communications, the program’s first pilot partner, to test the program’s overall assessment approach.
+“Corning is proud to be one of the founding members and pilot partners of the SPIRE Smart Building Program,” said Brian Davis, Corning’s director of global market development for in-building networks. “When we developed our new Optical Communications headquarters building in Charlotte, we used our industry-leading technology to create a facility that can serve as a model for future smart buildings as we help move the industry forward. After completion, TIA and UL helped evaluate and verify that we were meeting or exceeding performance levels in each of the six smart building criteria.”
+The SPIRE assessment provided insight into how Corning’s power- and fiber-to-the-edge network and ubiquitous wireless coverage impacted bandwidth availability and connectivity reliability, safe power and centralized backups, advanced safety surveillance and network cybersecurity as well as lower energy consumption.
+The SPIRE Smart Building Program comes at a time when businesses are grappling with the extent, complexity and unparalleled reach of COVID-19 and its impact on building assets. A better understanding of operations efficiency, overall costs and risk mitigation of their building portfolios in light of the pandemic has become a top priority of commercial real estate companies, building owners, managers and tenants.
+“In these unprecedented times, those overseeing smart building assets are looking for guidance to help better align performance strategies, planning tactics and operational efficiencies,” said Rachna Stegall, vice president and SPIRE Smart Building Program lead at UL. “The SPIRE Smart Building Program does just that by providing insight to smart building technologies and outcomes while helping to empower informed investment decisions about where to focus technology, building enhancements and business optimizations.”
+TIA, UL and Corning representatives will be available live online to share more information about the SPIRE Smart Building Program, 12:30 to 4 p.m. EDT, Sept. 29 in the UL Wire and Cable booth at the virtual BICSI Fall Conference and Exhibition. To visit the UL booth at the BICSI event, please register here.
+For more information about the SPIRE Smart Building Program, please visit UL.com/SPIRE.
+About TIA
+The Telecommunications Industry Association (TIA) represents more than 400 global companies that enable high-speed communications networks and accelerate next-generation ICT innovation. Through leadership in U.S. and international advocacy, technology programs and standards development, and business performance solutions, TIA and its members are accelerating global connectivity across every industry and market. TIA is accredited by the American National Standards Institute (ANSI). For more information, visit TIAonline.org.
+About UL
+UL helps create a better world by applying science to solve safety, security and sustainability challenges. We empower trust by enabling the safe adoption of innovative new products and technologies. Everyone at UL shares a passion to make the world a safer place. All of our work, from independent research and standards development, to testing and certification, to providing analytical and digital solutions, helps improve global well-being. Businesses, industries, governments, regulatory authorities and the public put their trust in us so they can make smarter decisions. To learn more, visit UL.com. To learn more about our nonprofit activities, visit UL.org.
+PR Archives: Latest, By Company, By Date
+© 2008–2010 
+
+		TR Newswire — 
+
+		Sitemap  — 
+
+		Media Partners  — 
+
+		Privacy Policy

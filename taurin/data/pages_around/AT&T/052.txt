@@ -1,0 +1,201 @@
+##LINK: https://www.techdirt.com/articles/20170711/09523137764/att-pretends-to-love-net-neutrality-joins-tomorrows-protest-with-straight-face.shtml
+##KEYWORDS: open Internet
+##TITLE: AT&T Pretends To Love Net Neutrality, Joins Tomorrow's Protest With A Straight Face | Techdirt
+##METHOD: paragraphs
+
+Net Neutrality Special Edition
+Say That Again
+
+You'd be hard pressed to find a bigger enemy of net neutrality than the fine folks at AT&T. The company has a history of all manner of anti-competitive assaults on the open and competitive internet, from blocking customer access to Apple FaceTime unless users subscribed to more expensive plans, to exempting its own content from arbitrary and unnecessary usage caps while penalizing streaming competitors. AT&T also played a starring role in ensuring the FCC's 2010 net neutrality rules were flimsy garbage, and sued to overturn the agency's tougher, 2015 rules.
+
+
+So it's with a combination of amusement and awe to see the company's top lobbying and policy head, Bob Quinn, pen a missive over at the AT&T website proudly proclaiming the company will be joining tomorrow's "day of action protest" in support of keeping the existing rules intact. According to Quinn, the company still opposes the FCC's popular 2015 consumer protections,
+but wanted to participate in the protest because that's just how much the sweethearts at AT&T adore the open internet:
+
+
+"Tomorrow, AT&T will join the “Day of Action” for preserving and advancing an open internet. This may seem like an anomaly to many people who might question why AT&T is joining with those who have differing viewpoints on how to ensure an open and free internet. But that’s exactly the point – we all agree that an open internet is critical for ensuring freedom of expression and a free flow of ideas and commerce in the United States and around the world. We agree that no company should be allowed to block content or throttle the download speeds of content in a discriminatory manner. So, we are joining this effort because it’s consistent with AT&T’s proud history of championing our customers’ right to an open internet and access to the internet content, applications and devices of their choosing.
+
+
+That is an incredible, astounding line of bullshit.
+
+
+So one, some of you might recall that the net neutrality debate began in earnest when former AT&T CEO Ed Whitacre said in 2005 that he "wasn't going to let Google ride his pipes for free." What Whitacre was proposing was using a lack of broadband competition to force companies to pay an arbitrary and duplicative toll to so much as touch the AT&T network. Ed thought he was being pretty clever in forcing other companies to pay for network upgrades, but his comments are what set off concerns that in the absence of real competition we needed rules to keep duopolies from abusing their market dominance.
+
+
+Like Comcast and Verizon, AT&T is one of several companies that subsequently spent hundreds of millions of dollars to thwart these efforts, yet now would like you to believe they're somehow still a major ally in the fight to keep the internet healthy and open. And sure, AT&T supports not blocking websites entirely since that's not something ISPs were ever truly interested in anyway. The net neutrality debate has long since shifted from ham-fisted blocking to more clever applications of anti-competitive intent like interconnection, arbitrary and punitive usage caps, and zero rating.
+
+
+Quinn's post is filled with alternative history, including this little gem:
+
+
+"For more than a decade, whether under a Democratic or Republican administration, AT&T has supported the need for clear and enforceable open internet rules. We supported the efforts of Republican FCC Chairmen to introduce the nation’s first Open Internet Principles. And we welcomed FCC Chairman Genachowski’s Open Internet Order in 2010 and testified before Congress, as a Democratic witness, in support of it.
+
+
+It should be reiterated that AT&T did support the FCC's original 2010 rules, but only because they were utter and total garbage, quite literally co-written by AT&T, Verizon and Google to ensure they were filled with loopholes. These loopholes allowed them to pretty much do whatever they wanted -- provided they pretended it was for the health and safety of the network. AT&T was also a major reason the rules didn't apply to wireless. When the FCC shored up those horrible rules in 2015, there was no more vocal opponent than AT&T, which is why this disingenuous prattle about supporting net neutrality is almost high art.
+
+
+Also... Quinn's post pretends that the 2010 rules stayed in place until the evil Tom Wheeler overturned them... leaving out the fact that it was actually a lawsuit filed by Verizon that overturned the rules and explicitly told the FCC if it wanted these rules, it needed to use Title II. But in AT&T's revisionist history all that goes missing:
+
+
+Unfortunately, in 2015, then-FCC Chairman Wheeler abandoned this carefully crafted framework and instead decided to subject broadband service to an 80-year-old law designed to set rates in the rotary-dial-telephone era. Saddling modern broadband infrastructure and investment decisions with heavy-handed, outdated telephone regulations creates an environment of market uncertainty that does little to advance internet openness. Instead, it jeopardizes the prospects for continued innovation and robust growth we have witnessed since the internet’s creation.
+
+
+Not any bit of that is accurate. Internet access was under Title II until the mid-2000s and there was a ton of broadband infrastructure buildout (and... competition). And since Wheeler put things back under Title II, investment in broadband has continued.
+
+
+So what's AT&T actually up to here? As we've mentioned previously, large ISPs want the current rules thrown out, and replaced with entirely new rules drafted by Congress. In an ideal world that would make sense, given that Congressional rules couldn't be overturned by the partisan whims of the FCC. But AT&T knows that Congress is such a epic shitshow these days that these replacement rules either won't happen, or they'll be quite literally written by AT&T lawyers. Quinn would have you simply ignore that our Congress is so awash in AT&T campaign contributions that a real net neutrality law of any worth is all-but impossible:
+
+
+"The debate around an open internet has been going on for nearly 15 years. In the end, the issue is never really about what the rules should be or whether we should have an open internet. Rather, the debate focuses on whether open internet rules should derive from the 80-year-old Communications Act or some other theory of Congressional authority because the current law predates the internet. Instead of having this debate again, Congress should act now to provide the clear statutory authority that guarantees an open internet for all consumers."
+
+
+So again, the goal here isn't to protect net neutrality. It's to kill effective and popular rules at the FCC, to gut nearly all regulatory authority over major ISPs, and to replace all of it with fluff, nonsense, and a piece of feel-good legislation that will be quite-literally crafted by AT&T lawyers. It's a pretty clever policy play by AT&T since it gives the impression they're not a bunch of anti-competitive jackasses. But AT&T pretending to care about an open internet is like Dracula suddenly professing a heartfelt concern for the plight of blood donors, or Jeffery Dahmer saying he just popped by to lend a helpful hand in the kitchen.
+
+Thank you for reading this Techdirt post. With so many things competing for everyone’s attention these days, we really appreciate you giving us your time. We work hard every day to put quality content out there for our community.
+Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis.
+While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising, we have always kept Techdirt open and available to anyone. But in order to continue doing so, we need your support. We offer a variety of ways for our readers to support us, from direct donations to special subscriptions and cool merchandise — and every little bit helps. Thank you.
+–The Techdirt Team
+Filed Under: bob quinn, day of action, fcc, net neutrality, open internetCompanies: at&t
+Subscribe: RSS
+View by: Time | Thread
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+  Unfortunately, in 2015, then-FCC Chairman Wheeler abandoned this carefully crafted framework and instead decided to subject broadband service to an 80-year-old law designed to set rates in the rotary-dial-telephone era ... it jeopardizes the prospects for continued innovation and robust growth we have witnessed since the internet’s creation. 
+The absurdity of this gave me what I thought, at first, was a sort of zen koan-induced enlightenment. Now I'm pretty sure it was just a self-defensive stroke.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+I hate to have to tell you this, but AT&T and Verizon are two different companies
+The article didn't say they weren't.
+Try doing some journalism instead of simply pulling insults out of your ass.
+Try not pulling accusations out of your ass.
+[ reply to this | link to this | view in chronology ]
+
+ What on Earth are you  talking about?
+AT&T sued the FCC, after Verizon did. It's linked in the third sentence of the article. It's got a copy of the filing and everything. It says "AT&T INC, Petitioner, v. FEDERAL COMMUNICATIONS COMMISSION and UNITED STATES OF AMERICA, Respondents" right up at the top.
+Try reading the article instead of simply pulling insults out of your ass.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+Verizon challenged the 2010 order but AT&T did not. 
+Oh, I see. You're nitpicking over half a sentence. I forgot who I was talking to for a minute.
+The article also falsely claims: "Internet access was under Title II until the mid-2000s..." 
+Sorry.  Two half-sentences.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+The best trick the Devil ever pulled was convincing the world he didn't exist.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+Have a Techdirt Account? Sign in now. Want one? Register here
+ Subscribe to the Techdirt Daily newsletter
+
+Comment Options:
+
+
+ Use markdown.
+ Use plain text.
+
+Make this the
+ First Word or
+ Last Word.
+ No thanks.
+(get credits or sign in to see balance)    
+
+ Remember name/email/url (set a cookie)
+
+Have a Techdirt Account? Sign in now. Want one? Register here
+ Subscribe to the Techdirt Daily newsletter
+
+Comment Options:
+
+
+ Use markdown.
+ Use plain text.
+
+Make this the
+ First Word or
+ Last Word.
+ No thanks.
+(get credits or sign in to see balance)    
+
+ Remember name/email/url (set a cookie)
+
+Read the latest posts:
+read all »
+Join the Insider Chat
+Email This
+This feature is only available to registered users. Register or sign in to use it.

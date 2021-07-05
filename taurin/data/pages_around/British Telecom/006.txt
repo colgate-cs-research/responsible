@@ -1,0 +1,45 @@
+##LINK: https://thehill.com/policy/technology/121415-british-isps-open-door-to-paid-prioritization
+##KEYWORDS: net neutrality,paid prioritization
+##TITLE: British ISPs open door to paid prioritization | TheHill
+##METHOD: article 1
+
+
+
+ 
+   
+ 
+ 
+ Executives from the United Kingdom's two largest Internet service providers said Tuesday they would give priority to certain websites or applications if companies paid them to do so, according to a report from the British website  PC Pro . Senior executives from BT and TalkTalk said it would be perfectly normal to prioritize web traffic from companies that pay more for the privilege. The executives argued the practice of offering some websites more bandwidth makes sense, even though no companies have approached them to do so as of yet. The admissions were some of the first from large ISPs that they are ready to ditch the concept of net neutrality, in which all web traffic receives equal priority from ISPs. TalkTalk's Andrew Heaney said net neutrality as it is commonly understood doesn't exist. "It's a myth we have net neutrality today - we don't," Heaney said. "There are huge levels of discrimination over traffic type. We prioritise voice traffic over our network. We shape peer-to-peer traffic and deprioritise it during the busy hour." The British telecom regulator Ofcom also indicated some form of paid prioritization would be acceptable, though they cautioned that ISPs would have to be transparency about any such practices.   
+ 
+ 
+ 
+ 
+ Share to Facebook 
+ 
+ 
+ Facebook 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ Share to Twitter 
+ 
+ Twitter Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 

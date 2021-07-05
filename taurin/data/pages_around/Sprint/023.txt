@@ -1,0 +1,17 @@
+##LINK: https://www.fastcompany.com/3042321/net-neutrality-wont-affect-investment-or-innovation-says-sprint
+##KEYWORDS: net neutrality
+##TITLE: Net Neutrality Won’t Affect Investment Or Innovation, Says Sprint
+##METHOD: article 13
+
+
+advertisement advertisement advertisement It’s no great shock that the Federal Communications Commission’s net neutrality stance–that Internet companies cannot offer paid prioritization of traffic–would upset service providers. As expected, AT&T, Verizon, and T-Mobile have all responded with strong opposition to the agency’s proposed guidelines, occasionally even turning to legal action. advertisement Perhaps the actual surprise is how Sprint is now distancing itself from that cohort. Rather than claiming the FCC’s push for net neutrality will discourage carriers from investing in their networks, Sprint CTO Stephen Bye is taking the magnanimous view that the move actually benefits customers, and will therefore be a net positive for service providers over the long haul. 
+ 
+ Related Article 
+ 
+ 
+ 
+ Strongest Internet Rules Ever Proposed: FCC Chairman Tells ISPs They Are Public Utilities 
+ The rules proposed by FCC Chair Tom Wheeler could put Internet service providers in a tough legal bind. 
+ Read more>> 
+ 
+ Speaking with Reuters, Bye described the situation as “highly charged, highly politicized,” but argued that he was not convinced it would have quite the catastrophic effect his rival executives are claiming. Noting that he finds the arguments that net neutrality will quell investment and innovation “less than compelling,” Bye continued that, “Our competitors are going to continue to invest so they are representing a situation that won’t play out.” As evidence, he points to the recent  spectrum auction for selected frequencies for airwaves around the U.S. , which will allow Internet companies to offer the highest-speed connectivity for users. Despite looming net neutrality rulings, the auction generated a whopping $44.9 billion. This, Bye says, serves as proof “of the level of investment the companies in the industry are willing to make.” advertisement advertisement “The notion that some of our competitors are suggesting that they will stop investing if Title II is brought into effect… That’s something we’ve refused,” Bye said, referring to Title II of the Communications Act, which reclassifies broadband service carriers as “common carriers.” The net neutrality issue will be voted on by the FCC on February 26, after which  various telecoms are expected to voice challenges . [via  Reuters ]

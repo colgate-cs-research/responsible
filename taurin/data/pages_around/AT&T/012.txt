@@ -1,0 +1,53 @@
+##LINK: https://www.forbes.com/sites/robpegoraro/2020/06/13/atts-trashing-net-neutrality-probably-wont-help-hbo-max/
+##KEYWORDS: net neutrality
+##TITLE: AT&T’s Trashing Net Neutrality Probably Won’t Help HBO Max
+##METHOD: article 1
+
+
+More From Forbes Jul 1, 2021, 09:34am EDT Premium Video Content Command Higher CPM’S Than Linear TV Jun 30, 2021, 09:49pm EDT TV, Movie Spending Rose Despite Pandemic Shutdown Jun 30, 2021, 11:47am EDT Bob Ross, Elvis And A Focus On Dead Celebrities Gives New Life To Cinedigm Jun 30, 2021, 11:30am EDT As ‘Supergirl’ Ends, Nicole Maines Reflects On Being TV’s First Trans Superhero Jun 30, 2021, 10:03am EDT Amazon Signs Multi-Million Dollar Deal For ‘SmartLess’ Podcast Jun 30, 2021, 09:02am EDT GameSquare Acquires Dallas Cowboys-Connected Complexity Esports Team Jun 29, 2021, 02:14pm EDT CNN Drops 68% In Prime As Fox News Channel Crushes Competition In Q2 Cable News Ratings Jun 28, 2021, 08:04am EDT Children’s Book Imprint Heartdrum Focuses On Contemporary Native Stories Edit Story Jun 13, 2020, 08:00am EDT | AT&T’s Trashing Net Neutrality Probably Won’t Help HBO Max Rob Pegoraro Contributor Opinions expressed by Forbes Contributors are their own. Media I cover the problems and possibilities of our tech and media systems. Share to Facebook Share to Twitter Share to Linkedin 
+ 
+ 
+ 
+ 
+ 
+ ANKARA, TURKEY - JUNE 1: In this illustration photo HBO Max logos are displayed on a mobile phone  ... [+]  and a laptop screen in Ankara, Turkey on June 1, 2020. (Photo by Dogukan Keskinkilic/Anadolu Agency via Getty Images) 
+ 
+ Anadolu Agency via Getty Images 
+ 
+ 
+ AT& 
+  
+ T 
+ T’s launch of its  HBO Max  streaming-video service doubles as a remake of one of tech policy’s longest-running series: the net-neutrality debate. 
+ 
+ In making this $14.99/month offering  exempt from data caps  for its own wireless subscribers, the Dallas-based telecom giant is engaging the exact sort of self-promotion that open-Internet advocates warned would happen after the  Federal Communications Commission’s 2017 repeal  of its 2015 net-neutrality rules.  
+ “Although your company has repeatedly stated publicly that it supports legally binding net neutrality rules, this policy appears to run contrary to the essential principle that in a free and open internet, service providers may not favor content in which they have a financial interest over competitors’ content,” senators Edward J. Markey (D-MA), Ron Wyden (D-OR) and Richard Blumenthal (D-CT) warned in  a June 4 letter to AT&T CEO Randall Stephenson .  
+ 
+ AT&T defended this “zero-rating” arrangement by saying any other firm can buy into it. 
+ “This is based on a Sponsored Data arrangement and is a program we offer on the same terms to any entities who wish to sponsor data for their customers,” spokesperson Jim Kimberly said in an email. “This is similar to arrangements some of our competitors have.” 
+ 
+ There is a chance that AT&T will find it worthwhile to pay AT&T to promote an AT&T service. That is, wireless users might find that having HBO Max not count against the hard caps on the company’s cheaper wireless plans or the  much higher throttling thresholds on its unlimited plans  (up to 100 gigabytes) will motivate them to spend money on that service instead of Netflix 
+  
+ NFLX 
+ , Disney+ or another competitor.  
+ MORE FOR YOU CNN Drops 68% In Prime As Fox News Channel Crushes Competition In Q2 Cable News Ratings De Lorean Motor Company Goes Back To The Future With NFT Auction, Vehicles Premium Video Content Command Higher CPM’S Than Linear TV 
+ But the present and recent past of the wireless industry suggests that AT&T’s newest growth-hacking venture will only buy it bad publicity. 
+ “AT&T’s whole strategy has been about owning both the content as well as the pipes to deliver it,” wrote Craig Moffett, founding partner at  MoffettNathanson , in an email. “So I suppose it stands to reason that they would land on zero rating as at least one way to ensure at least the appearance of corporate synergy. “  
+ 
+ Alas, he continued, zero rating isn’t much of an incentive these days: “At a time when most customers are on unlimited plans anyway, it’s not clear it will move the needle very much.”  
+ This tactic is even less likely to work in the context of smartphone viewing, another analyst noted.  
+ “If they’re going to watch TV—even if they’re watching it on their phone, they’re probably watching it on WiFi,” said Alan Wolk, co-founder and lead analyst at  TV[R]EV  (also a  Forbes contributor ). “And they’re not watching it that much.”  
+ See also T-Mobile’s attempt to promote the Quibi smartphone video service by  offering a year of it free to multiple-line subscribers . After a year, those who opt in will have to choose between keeping the $4.99/month Quibi as a freebie or getting Netflix as their no-cost bonus.  
+ Given that choice, would you go with a service that expects you to watch on a hand-sized screen or one that welcomes you to tune in via the biggest display in the house?  
+ T-Mobile did not provide numbers on Quibi sign-ups to date.  
+ Then there’s Verizon 
+  
+ VZ 
+ ’s disastrous attempt to boost an in-house video service by zero-rating it. Even though the New York firm’s  blinged-out launch Go90  of in 2015 happened when data caps were stricter and more prevalent, it still couldn’t overcome that offering’s lack of must-see TV. Less than three years later,  Go90 was gone . 
+ Considering the vast sums AT&T and Verizon have sunk into entertainment plays—the former  burned $67 billion to buy DirecTV only to see it get chewed up by cord cutting before dropping $109 billion  on Time Warner, while the latter has already  written off over half the $9.9 billion  it spent for AOL and Yahoo—the larger lesson here may be that telcos should avoid the content business as if were COVID-19. 
+ ( Disclosure : I’ve written for Yahoo Finance, one of those Verizon media properties.) 
+ Meanwhile, AT&T’s attempt to boost HBO Max among its own customers does nothing about a far bigger weakness for that service: It’s  still missing from Amazon 
+   AMZN  and Roku streaming-media players. 
+ But as Moffett noted, a company trying to play in both communications and content will find it has goals that don’t necessarily mesh: HBO would do best if it’s available on every platform, while AT&T’s networks do best if they see the highest possible utilization.  
+ And even a company with AT&T’s resources can’t throw its weight around that much: “They can put their thumb on the scale to help one business or the other on the margin, but it’s ultimately only a modest benefit.” 
+ Follow me on  Twitter  or  LinkedIn .  Check out  my  website .  Rob Pegoraro I’ve been covering the intersections of technology, culture and power since the definition of “social media” started with CompuServe and local bulletin-board systems and …  Read More I’ve been covering the intersections of technology, culture and power since the definition of “social media” started with CompuServe and local bulletin-board systems and the Washington Post had yet to launch a Web site. From 1999 to 2011, I wrote the Post’s consumer-technology column and have since continued to write about the feedback loops between us and our gadgets, apps and services for such outlets as USA Today, Yahoo Finance, Fast Company and Ars Technica. I’m also a frequent speaker and panel moderator at such events as Web Summit and SXSW on these issues, I've met most of the founders of the Internet, and I once received a single-word e-mail reply from Steve Jobs.  Read Less Print Reprints & Permissions

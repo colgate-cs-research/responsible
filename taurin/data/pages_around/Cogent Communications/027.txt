@@ -1,0 +1,88 @@
+##LINK: https://www.sec.gov/Archives/edgar/data/1158324/000110465920063381/tm2020160d1_ex99-1.htm
+##KEYWORDS: net neutrality
+##TITLE: 
+##METHOD: paragraphs
+
+ 
+Exhibit 99.1
+ 
+ 
+ 
+Cogent
+Launches Notes Offering 
+ 
+WASHINGTON, D.C. May 19, 2020
+ — Cogent Communications Holdings, Inc. (NASDAQ: CCOI) (“Cogent Communications”) today announced that Cogent
+Communications Finance, Inc. (the “Temporary Issuer”), a newly formed financing subsidiary of Cogent Communications’
+wholly owned subsidiary, Cogent Communications Group, Inc. (“Cogent”), intends to commence an offering of €215,000,000
+aggregate principal amount of 4.375% senior notes due 2024 (the “Temporary Notes”) to be offered and sold only to
+persons reasonably believed to be qualified institutional buyers in an unregistered offering pursuant to Rule 144A under the Securities
+Act of 1933, as amended (the “Securities Act”), and to certain non-U.S. persons in transactions outside the United
+States in compliance with Regulation S under the Securities Act.
+ 
+The Temporary Issuer expects
+to deposit the gross proceeds of the Temporary Notes into an escrow account pending the substantially concurrent consummation
+of the previously announced redemption of all of Cogent’s 5.625% senior notes due 2021 (the “Refinancing Transaction”).
+Upon completion of the Refinancing Transaction, the Temporary Notes will be automatically exchanged for additional notes (the
+ “Tack-On Notes”) to be issued by Cogent under the indenture, dated June 25, 2019, pursuant to which Cogent issued
+its existing €135 million aggregate principal amount of 4.375% senior notes due 2024
+(the “Existing Notes”). Upon this automatic
+exchange, it is expected that the Tack-On Notes (following any restricted period required by applicable law or regulation)
+will trade under the same CUSIP number and ISIN as the Existing Notes. If the offering of the
+Temporary Notes, the Refinancing Transaction and the exchange of Temporary Notes for Tack-On Notes is consummated, Cogent
+expects to use any remaining net proceeds for general corporate purposes and/or to make special or recurring dividends to
+Cogent Communications. There can be no assurance that the issuance and sale of the Temporary Notes or the exchange of
+Temporary Notes for Tack-On Notes will be consummated.
+ 
+The information in this release
+does not constitute an offer to sell or a solicitation of an offer to buy any of the Temporary Notes or the Tack-On Notes. The
+offering is not being made to any person in any jurisdiction in which the offer, solicitation or sale is unlawful. Neither the
+Temporary Notes nor the Tack-On Notes have been or will be registered under the Securities Act, and may not be offered or sold
+in the United States absent registration or an applicable exemption from registration requirements.
+ 
+About Cogent Communications
+ 
+Cogent Communications (NASDAQ:
+CCOI) is a multinational, Tier 1 facilities-based ISP. Cogent Communications specializes in providing businesses with high-speed
+Internet access, Ethernet transport and colocation services. Cogent Communications’ facilities-based, all-optical IP network
+backbone provides services in over 200 markets globally.
+ 
+ 
+ 
+ 
+Cogent Communications is headquartered
+at 2450 N Street, NW, Washington, D.C. 20037. Cogent Communications can be reached in the United States at (202) 295-4200 or via
+email at info@cogentco.com.
+ 
+# # #
+ 
+Except for historical information
+and discussion contained herein, statements contained in this release constitute forward-looking statements within the meaning
+of the Private Securities Litigation Reform Act of 1995. Such statements include, but are not limited to, statements identified
+by words such as “believes,” “expects,” “anticipates,” “estimates,” “intends,”
+ “plans,” “targets,” “projects” and similar expressions. The statements in this release are
+based upon the current beliefs and expectations of Cogent Communications’ management and are subject to significant risks
+and uncertainties. Actual results may differ from those set forth in the forward-looking statements. Numerous factors could cause
+or contribute to such differences, including the impact of the COVID-19 pandemic and the related government policies; future economic
+instability in the global economy or a contraction of the capital markets which could affect spending on Internet services and
+our ability to engage in financing activities; the impact of changing foreign exchange rates (in particular the Euro to USD and
+Canadian dollar to USD exchange rates) on the translation of Cogent Communications’ non-USD denominated revenues, expenses,
+assets and liabilities; legal and operational difficulties in new markets; the imposition of a requirement that we contribute
+to the US Universal Service Fund on the basis of our Internet revenue; changes in government policy and/or regulation, including
+net neutrality rules by the United States Federal Communications Commission and in the area of data protection; increasing competition
+leading to lower prices for our services; our ability to attract new customers and to increase and maintain the volume of traffic
+on our network; the ability to maintain our Internet peering arrangements on favorable terms; our reliance on an equipment vendor,
+Cisco Systems Inc., and the potential for hardware or software problems associated with such equipment; the dependence of our
+network on the quality and dependability of third-party fiber providers; our ability to retain certain customers that comprise
+a significant portion of our revenue base; the management of network failures and/or disruptions; outcomes in litigation; risks
+related to the offering of the Temporary Notes and the exchange of Temporary Notes for Tack-On Notes, including that such transaction
+may not be consummated; and other risks discussed from time to time in Cogent Communications’ filings with the Securities
+and Exchange Commission, including, without limitation, Cogent Communications’ Annual Report on Form 10-K for the year ended
+December 31, 2019 and Quarterly Report on Form 10-Q for the quarter ended March 31, 2020. Cogent Communications undertakes no
+duty to update any forward-looking statement or any information contained in this press release or in other public disclosures
+at any time.
+ 
+###
+ 
+ 
+ 

@@ -1,0 +1,179 @@
+##LINK: https://www.businessinsider.com/fcc-verizon-att-zero-rating-net-neutrality-letter-directv-now-2016-12
+##KEYWORDS: zero-rating
+##TITLE: FCC to Verizon, AT&T: Zero-Rating Is Unfair to Net Neutrality
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                AT&T CEO Randall Stephenson (left).
+                               
+ 
+                                  Getty/Alex Wong
+                                 
+ 
+ The Federal Communications Commission sent separate letters to AT&T and Verizon on Thursday further expressing concerns over the carriers’ use of data cap exemptions, a practice more colloquially known as “zero-rating.” The letter to AT&T comes as the latest part of a back-and-forth the Commission has had with the company over the past month. The FCC in November said it had “ serious concerns ” with AT&T’s use of zero-rating, particularly with regard to its  new DirecTV Now streaming TV service , which users of AT&T’s mobile service can stream over mobile data without it counting against their data caps. AT&T responded shortly thereafter, saying its data exemption policy benefits consumers, and noting how the FCC has no hard-and-fast rules in place regarding the practice. That response didn’t allay the FCC’s worries. In  the letter  (via  Ars Technica ), Jon Wilkins, the FCC’s wireless and telecoms chief, says the Commission has now “reached the preliminary conclusion that these practices inhibit competition, harm consumers, and interfere with the ‘virtuous cycle’ needed to assure the continuing benefits of the Open Internet.” The letter says the FCC’s primary concern is with how AT&T’s Sponsored Data program requires companies to  pay  AT&T for the ability to not count against a user’s data cap, while its own services, such as DirecTV Now, receive the same benefits at no added cost. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                DirecTV Now.
+                               
+ 
+                                  AT&T
+                                 
+ 
+ AT&T has repeatedly defended this charge by saying that DirecTV  does  pay the same rates as any other company in the Sponsored Data program, but since AT&T  owns  DirecTV, the FCC isn’t buying it. The agency estimates that a third-party video service would have to pay AT&T $16 per month to offer zero-rated service to someone who streams 10 minutes of video over LTE data per day, and $47 per month for someone who streams LTE video for 30 minutes per day. DirecTV Now, meanwhile, starts at $35 per month. “If we understand these facts correctly,” Wilkins says, “AT&T seems to present the unaffiliated provider with a choice that is unreasonable on its face: either pay a Sponsored Data rate (resulting in a $16-$47 per month — or higher — incremental cash cost not incurred by AT&T) that would make it very difficult, if not infeasible, to offer a competitively-priced service, or instead require its customers to pay significant amounts for their own usage of data while AT&T’s zero-rated DirecTV Now service offers the same usage for free.” Wilkins concludes the letter by asking AT&T to issue another response by December 15. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                FCC Chairman Tom Wheeler.
+                               
+ 
+                                  Alex Wong/Getty Images
+                                 
+ 
+ Wilkins’  letter  to Verizon, meanwhile, concerns the carrier’s “FreeBee Data 360” sponsored data program, which functions in much the same way: A company must pay Verizon for the ability to be zero-rated, even while Verizon grants its own video apps,  specifically Go90 , the same benefit at no added cost. “The position that the participation of Go90 in FreeBee Data 360 is the same as that of third parties, however, fails to take account of the notably different financial impact on unaffiliated edge providers,” Wilkins says. “For example, while there is no cash cost on a consolidated basis for Verizon to zero-rate its own affiliated edge service, an unaffiliated edge provider's FreeBee Data 360 payment to Verizon is a true cash cost that could be significant.” Wilkins again asks that Verizon respond by December 15. Responding to the letter, an AT&T spokesperson said in a statement: "These are incredibly popular free services available to millions of customers. Once again, we will provide the FCC with additional information on why the government should not take away a service that saves consumers money.” "We will review and respond to the inquiry as requested," a Verizon spokesperson said in a statement. “In the meantime, we remain quite confident that our practices are good for consumers, non-discriminatory and are consistent with current rules." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                The entrance to a Verizon wireless store is seen in New York
+                               
+ 
+                                  Thomson Reuters
+                                 
+ 
+ Zero-rating has been the big gray area in the open internet debate for the past two years, since the  net neutrality rules the FCC passed in 2015  do not give any specific judgment on sponsored data programs. Wilkins even notes in the Verizon letter that the FCC’s concern is “not with zero-rating  per se .” Rival carrier T-Mobile has been the  most aggressive practitioner  over the years, for instance, but hasn’t faced as much scrutiny because it does not make companies pay to be zero-rated — and thus leverage its position as a network provider for potential profit. Instead, the FCC says it judges each instance of zero-rating on a case-by-case basis. In AT&T and Verizon’s cases, the current Commission has problems, but all signs suggest  those fears might be too little, too late . President-elect Trump has hired three  staunch opponents  of the current FCC’s pro-regulation tendencies to help determine his transition team’s FCC-related policy, and Trump himself has been largely anti-regulation during his campaign. While any attempt to walk back the current net neutrality rules may face strong resistance, the zero-rating concerns expressed here may have trouble gaining momentum as the next administration takes office. The letters also come two weeks after Senate Republicans requested that the primarily Democrat FCC refrain from ruling on "complex, partisan, or otherwise controversial items" until Trump assumes the presidency. The FCC has mostly accepted that request thus far, but now appears to have acted against the protests of Republican commissioners. "This end-run around Congress’s clear instruction is sad — and pointless," said Ajit Pai, one of those Republican commissioners, in a statement. "For any unilateral action taken by the Wireless Telecommunications Bureau at the Chairman’s direction in the next 49 days can quickly be undone by  that same bureau after January, 20, 2017." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                              Newsletter
+                             
+ 
+                            Sign up for the 10 Things in Tech newsletter for the latest trends & developments in tech.
+                           
+ 
+ Loading 
+ Something is loading. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email address 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                By clicking ‘Sign up’, you agree to receive marketing emails from Insider
+                                as well as other partner offers and accept our
+                                 Terms of Service  and
+                                 Privacy Policy .
+                             
+ 
+ 
+ 
+ 
+ SEE ALSO: 
+ It looks like we're going to have a less open internet under Donald Trump 
+ 
+ 
+ 
+ 
+ NOW WATCH:  The ‘Apple of China’ just unveiled a phone that’s more powerful and better looking than the iPhone  
+ 
+ 
+ 
+ 
+ 
+ 
+ More: 
+ Tech 
+ AT&T 
+ Verizon 
+ FCC 
+ 
+ 
+ 
+ 
+ Zero Rating 
+ Net Neutrality 
+ DirecTV Now 
+ FreeBee Data 360 
+ 
+ 
+ 
+ 
+ Chevron icon 
+ It indicates an expandable section or menu, or sometimes previous / next navigation options. 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Close icon 
+ Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. 
+ 
+ 
+ 

@@ -1,0 +1,49 @@
+##LINK: https://potsandpansbyccg.com/2018/02/14/att-and-net-neutrality/
+##KEYWORDS: paid prioritization
+##TITLE: AT&T and Net Neutrality | POTs and PANs
+##METHOD: article 2
+
+
+
+ 
+ 
+ February 14, 2018   
+ AT&T and Net Neutrality 
+ 
+ 
+ 1 Comment 
+ 
+ 
+ The big ISPs know that the public is massively in favor of net neutrality. It’s one of those rare topics that polls positively across demographics and party lines. Largely through lobbying efforts of the big ISPs, the FCC not only killed net neutrality regulation but they surprised most of the industry by walking away from regulating broadband at all. 
+ We now see states and cities that are trying to bring back net neutrality in some manner. A few states like California are creating state laws that mimic the old net neutrality rules. Many more states are limiting purchasing for state telecom to ISPs that don’t violate net neutrality. Federal Democratic politicians are creating bills that would reinstate net neutrality and force it back under FCC jurisdiction. 
+ This all has the big ISPs nervous. We certainly see this in the way that the big ISPs are talking about net neutrality. Practically all of them have released statements talking about how much they support the open Internet. These big companies already all have terrible customer service ratings and they don’t want to now be painted as the villains who are trying to kill the web. 
+ A great example is AT&T. The company’s blog posted  a letter  from Chairman Randall Stephenson that makes it sound like AT&T is pro net neutrality. It fails to mention how the company went to court to overturn the FCC’s net neutrality decision or how much they spent lobbying to get the ruling overturned. 
+ AT&T also took out full-page ads in many major newspapers making the same points. In those ads the company added a new talking point that net neutrality ought to also apply to big web companies like Facebook and Twitter. That is a red herring because web companies, by definition, can’t violate net neutrality since they don’t control the pipe to the customers. Many would love to see privacy rules that stop the web companies from abusing customer data – but that is a separate issue than net neutrality. AT&T seems to be making this point to confuse the public and deflect the blame away from themselves. 
+ Stephenson says that AT&T is favor of federal legislation that would ensure net neutrality. But what he doesn’t say is that AT&T favors a bill the big companies are pushing that would implement a feel-good watered-down version of net neutrality. Missing from that proposed law (and from all of AT&T’s positions) is any talk of paid priority – one of the three net neutrality principles. AT&T has always wanted paid prioritization. They want to be able to charge Netflix or Google extra to access their networks since those two companies are the largest drivers of web traffic. 
+ In my mind, abuse of paid prioritization can break the web. ISPs already charge their customers enough money to fully cover the cost of the network needed to support broadband. Customers with unlimited data plans, like most landline connections, have the right to download as much content as they want. The idea of an AT&T then also charging the content providers for the privilege to get to customers is a terrible idea for a number of reasons. 
+ Consider Netflix. It’s likely that they would pass any fees paid to AT&T on to customers. And in doing so, AT&T has violated the principle of non-discrimination of traffic, albeit indirectly, by making it more expensive for people to use Netflix. AT&T will always say that are not the cause of a Netflix rate increase – but AT&T is able to influence the market price of web services, and in doing so discriminate against web traffic. 
+ The other problem with paid prioritization is that it is a barrier to the next Netflix. New companies without Netflix’s huge customer base could not afford the fees to connect to AT&T and other large ISPs. And that barrier will stop the next big web company from launching. 
+ I’ve been predicting that the ISPs are not going to do anything that drastically violates net neutrality for a while. They are going to be cautious about riling up the public and legislators since they understand that Congress could reinstate both net neutrality and broadband regulation at any time. The ISPs are enjoying the most big-company friendly FCC there has ever been, and they are getting everything they want out of them. 
+ But big ISPs like AT&T know that the political and regulatory pendulum can and will likely swing the other way. Their tactic for now seems to be to say they are for net neutrality while still working to make sure it doesn’t actually come back. So we will see more blogs and newspaper ads and support for watered-down legislation. They are clearly hoping the issue loses steam so that the FCC and administration don’t reinstate rules they don’t want. But they realistically know that they are likely to be judged by their actions rather than their words, so I expect them to ease into practices that violate net neutrality in subtle ways that they hope won’t be noticed. 
+ Share this: Click to share on LinkedIn (Opens in new window) Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window) Click to share on Pocket (Opens in new window) Click to share on Reddit (Opens in new window) Click to email this to a friend (Opens in new window) Click to print (Opens in new window) Like this: Like   Loading...   
+ 
+ Posted by  CCGConsulting  in  Regulation - What is it Good For? ,  The Industry   Tagged:  AT&T ,  Facebook ,  Net neutrality ,  NetFlix ,  Randall Stephenson 
+ 
+
+
+ 
+ 
+   Chris   says:   
+ 
+ 
+					February 14, 2018 at 9:00 am					 
+ 
+ 
+ Somebody please explain to me how ATT’s paid prioritization scheme plays out. What charges will ATT bill to Netflix related to paid prioritization? Is it similar to next day delivery from Amazon? The discussions around Net Neutrality have always confused me. Content providers have free reign to charge or act in manner that fits their business model, but ISPs should bow to the whim of content providers. Seems like the pay TV model. When will Netflix charges ISPs for the right to allow their traffic to get to the end user. 
+ 
+ Loading... 
+ 
+ 
+ 
+ 
+ Reply   

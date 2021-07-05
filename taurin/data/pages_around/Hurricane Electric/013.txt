@@ -1,0 +1,85 @@
+##LINK: https://ripe63.ripe.net/programme/meeting-plan/mat-wg/
+##KEYWORDS: open Internet
+##TITLE: MAT WG  | RIPE 63
+##METHOD: paragraphs
+
+Meeting Plan
+Presentations for MAT
+
+
+
+
+Presenter Name
+Presentation Title
+Type
+Date Added
+
+
+
+
+Martin J. Levy
+World IPv6 Day at Hurricane Electric
+
+2011-11-03
+
+
+Tiziana Refice
+M-Lab: open platform, open tools and open data  for an open Internet
+
+2011-11-03
+
+
+Vesna Manojlovic
+Update on RIPE NCC Measurements Activities
+
+2011-11-03
+
+
+Christian Kaufmann
+MAT WG Agenda
+
+2011-11-03
+
+
+Antonio Marcos Moreiras
+RIPE TTM data in real time
+
+2011-11-03
+
+
+Christian Kaufmann
+MAT WG Agenda
+
+2011-11-03
+
+
+Robert Kisteleki
+RIPE Atlas Update
+
+2011-11-02
+
+
+Wolfgang Nagele
+Large scale PCAP Analysis Using Apache Hadoop
+
+2011-11-02
+
+
+
+
+Meeting Plan
+A. Intro
+Welcome, Scribe, Jabber, Agenda
+B. RIPE TTM data in real time
+Antonio M. Moreiras
+C. Measurement Lab
+Tiziana Refice
+D. Hurricane Electric World IPv6 Day experience
+Martin Levy
+E. PCAP Analysis with HADOOP
+Wolfgang Nagele
+Find out more: Wolfgang Nagele presents Large-scale PCAP Data Analysis UsingÂ Apache Hadoop on RIPE Labs
+F. Update on RIPE NCC Activities
+Vesna Manojlovic
+G. RIPE Atlas User Defined Measurements, Functionality and Implementation
+Robert Kisteleki

@@ -1,0 +1,68 @@
+##LINK: https://mailman.nanog.org/pipermail/nanog/2016-October/089009.html
+##KEYWORDS: net neutrality
+##TITLE: AS6461 (Zayo) LAS->ORD Packet Loss
+##METHOD: paragraphs
+
+
+Previous message (by thread): Net Neutrality in Canada
+
+Next message (by thread): AS6461 (Zayo) LAS->ORD Packet Loss
+
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+
+
+
+Seeing some packet loss between LAS and ORD on the Zayo backbone. Long wait
+times / no answer on the ncc line, no auto-response/ticket creation after
+sending email.
+
+Anybody know whats up? Alerts cleared after taking the peers out of route.
+
+
+
+-- 
+
+===========================
+
+
+Brandon Yarnell
+Senior Network Engineer | Technical Operations
+O: (720) 515-3376
+
+
+
+
+Previous message (by thread): Net Neutrality in Canada
+
+Next message (by thread): AS6461 (Zayo) LAS->ORD Packet Loss
+
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+
+
+
+More information about the NANOG
+mailing list
+
+
+Previous message (by thread): Net Neutrality in Canada
+
+Next message (by thread): AS6461 (Zayo) LAS->ORD Packet Loss
+
+ Messages sorted by:
+[ date ]
+[ thread ]
+[ subject ]
+[ author ]
+
+
+
+More information about the NANOG
+mailing list

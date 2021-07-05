@@ -1,0 +1,16 @@
+##LINK: https://cyber.harvard.edu/netmaps/country_detail.php/%3Fcc%3DJP
+##KEYWORDS: open Internet
+##TITLE: Mapping Local Internet Control - Country Report: Japan
+##METHOD: paragraphs
+
+This page is an attempt to map the structure of the Internet within a single country, with an eye for exploring the controllability of the Internet (by the government as well as others), including:
+For more information about these terms and findings, see the Methods page. 
+
+Note: The red node depicts the wider Internet outside this country.
+
+Download the full image in SVG format.
+
+back to summary
+
+
+The data and maps on these pages were generated using data from CAIDA, Team Cymru, and The University of Oregon Route Views Project.

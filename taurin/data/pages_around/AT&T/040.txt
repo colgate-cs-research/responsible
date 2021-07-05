@@ -1,0 +1,17 @@
+##LINK: https://www.benton.org/headlines/win-open-internet-att-drops-zero-rating
+##KEYWORDS: open Internet,zero-rating
+##TITLE: In a Win for the Open Internet, AT&T Drops Zero-Rating | Benton Institute for Broadband & Society
+##METHOD: paragraphs
+
+Subscribe
+Subscribe
+AT&T Wireless announced it will be suspending its Sponsored Data program nationwide. Under this program, AT&T Wireless exempts AT&T’s video services like DirectTV Now from the data caps of its wireless Internet customers who subscribe to those services. This practice is known as “zero-rating.” All other data on the internet, including from competing video services, counts against users’ caps. Since many people are concerned about going over their data caps, this program gives AT&T’s video services an advantage over competing online video services. AT&T blamed its decision to stop the program across the country on California’s net neutrality law, SB822, which bans this kind of anti-competitive zero-rating in California. Let’s be clear: This is a win for an open and free internet, including for competing video services and internet users. People should be free to choose which videos they want to watch - whether that’s Netflix, Twitch or their local church’s Sunday service, without the company they pay to get online trying to influence their choices. Zero-rating only works when you have a low data cap. That creates an incentive for ISPs to keep low data caps and keep unlimited plans expensive. 
+ 
+CONTACT
+Benton Institute
+for Broadband & Society
+1041 Ridge Rd, Unit 214
+Wilmette, IL 60091
+847-328-3040
+Contact Us
+© 1994-2021 Benton Institute for Broadband & Society. All Rights Reserved.

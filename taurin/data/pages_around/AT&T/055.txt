@@ -1,0 +1,34 @@
+##LINK: https://consumerist.com/2012/09/18/advocates-file-net-neutrality-complaint-over-atts-facetime-policy/
+##KEYWORDS: open Internet
+##TITLE: Advocates File Net Neutrality Complaint Over AT&T's FaceTime Policy – Consumerist
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+								open internet							 
+ 
+ Advocates File Net Neutrality Complaint Over AT&T's FaceTime Policy 
+ 
+ 
+ 
+ 
+ 9.18.12   1:15 PM EDT   By  Chris Morran @themorrancave open internet   provoking the death star   facetime   net neutrality   fcc   at&t   apple   
+ Last month,  AT&T confirmed that iPhone customers who want to use the iPhone’s FaceTime video chat app over a cellular connection would need to belong to one of the company’s new shared data plans . At the time, several advocates raised concerns about whether or not this requirement violated the FCC’s Open Internet rules, and now these same groups have moved to file an actual complaint with regulators. 
+ In a letter, written by reps for Public Knowledge, Free Press, and the Open Technology Institute, to AT&T’s general counsel, the  advocates claim that AT&T’s requirement is in violation of FCC rules  that make it illegal for a provider to block apps that compete with that provider’s voice or video telephony services. 
+ From the letter: 
+ We respectfully request that AT&T reconsider its behavior and the impact that blocking FaceTime will have on its customers, particularly the deaf and hard of hearing, as well as all who use this application to communicate with family and friends over the Internet. Making mobile use of the application available only to those customers who pay for unlimited voice and text messages harms individuals and innovation alike. We ask instead that AT&T make this core feature of the popular iPhone and iPad devices available to all of its customers, in compliance with the Open Internet rules that “preserve the Internet as an open platform enabling consumer choice, freedom of expression, end-user control, competition, and the freedom to innovate without permission.” 
+ We’ve asked AT&T for an updated statement, and will add it here if they respond. 
+ But when these objections were first raised, AT&T claimed it was not blocking the app because all customers are allowed to download it. The Death Star also defended the action by saying, “We are broadening our customers’ ability to use the preloaded version of FaceTime but limiting it in this manner to our newly developed AT&T Mobile Share data plans out of an overriding concern for the impact this expansion may have on our network and the overall customer experience.” 
+ If it gets to the point where AT&T needs to defend itself against these allegations, we expect they will also claim that the FaceTime app does not directly compete with its voice service, as it only works with certain devices. Also, AT&T will likely say that since it does not place any of its video telephony services on iPhones, there is no competition concern there either. 
+ However, as I pointed out at the time — allowing AT&T to decide that only certain tiers of customers could have unfettered access to some apps  may  not be in violation of the Open Internet rules, but it most certainly will be the thin edge of the wedge that leads to a wireless industry where access to apps depends on your data plan. 
+ Just because something might follow the letter of the law doesn’t mean it isn’t bad for consumers. 
+ Want more consumer news? Visit our parent organization,   Consumer Reports , for the latest on scams, recalls, and other consumer issues. 
+ 
+ 
+ 9.18.12 By  Chris Morran @themorrancave open internet   provoking the death star   facetime   net neutrality   fcc   at&t   apple   
+ 
+ 

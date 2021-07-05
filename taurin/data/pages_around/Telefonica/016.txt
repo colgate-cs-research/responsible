@@ -1,0 +1,38 @@
+##LINK: https://www.thefreelibrary.com/TELECOMMUNICATIONS%2B%253A%2BTELECOM%2BOPERATORS%2BPREDICT%2BTWO-TIER%2BINTERNET-a0359607832
+##KEYWORDS: net neutrality
+##TITLE: TELECOMMUNICATIONS : TELECOM OPERATORS PREDICT TWO-TIER INTERNET. - Free Online Library
+##METHOD: paragraphs
+
+Page/Link:
+  Telecom operators were shouting fire ahead of the vote by the
+European Parliament's Committee on Industry (ITRE) on the telecoms
+package, on 24 February. The amendments that were announced on net
+neutrality threaten to create two internet networks, the operators say.
+
+  It is a position that managers from large operators, ranging from
+Deutsche Telekom to Orange to Telefonica, defended in full force during
+a meeting with Digital Agenda Commissioner Neelie Kroes, on 24 February
+in Barcelona at the the Mobile World Congress. They had already sounded
+the alarm in a letter addressed to EP rapporteur Pilar del Castillo
+(EPP, Spain) and the shadow rapporteurs a week earlier.
+
+  At issue are the definitions of 'specialised services'
+and 'reasonable management' of traffic. The ITRE committee had
+to decide between two amendments marking out 'specialised
+services', such as television on demand (IPTV), teleconferences or
+telemedicine, for example. The Socialists and Greens submitted a more
+restrictive amendment than the one defended by the EPP and the Liberals.
+
+  However, in both cases, MEPs only wanted specialised services to be
+authorised if they did not affect the quality of internet access in
+general. Incumbent operators view this as a constraint, which would
+technically force them to create two separate networks and therefore a
+two-tier internet. They also feel that these constraints will affect
+competition between European operators and "innovative"
+services, which require privileged internet access.
+
+Terms of use |
+	Privacy policy |
+	Copyright © 2021 Farlex, Inc. |
+	Feedback |
+	For webmasters | 

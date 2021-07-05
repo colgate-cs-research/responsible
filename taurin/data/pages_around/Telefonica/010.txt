@@ -1,0 +1,8 @@
+##LINK: https://www.livemint.com/Industry/IHNct5kWDpO0w1EE0oQsQJ/EU-telecom-regulators-see-free-Internet-services-as-next-bat.html
+##KEYWORDS: net neutrality,zero-rating
+##TITLE: EU telecom regulators see free Internet services as next battle
+##METHOD: article 1
+
+
+  EU telecom regulators see free Internet services as next battle Premium Berec, the body comprising the European Union’s regulators, produced a set of draft guidelines on implementing net neutrality rules which require operators, such as Orange, Deutsche Telekom and Telefonica, to treat all Internet traffic equally. Photo: Bloomberg 
+   2 min read   .   Updated: 07 Jun 2016, 02:34 PM IST     Julia Fioretti   The EU's current net neutrality rules neither explicitly allow the practice of zero-rating nor forbid it, leaving regulators in a bind

@@ -1,0 +1,144 @@
+##LINK: https://www.denverpost.com/2017/12/14/fcc-net-neutrality-colorado-tech/
+##KEYWORDS: net neutrality
+##TITLE: Now that FCC voted to repeal net neutrality, what is next?
+##METHOD: article 1
+
+
+
+ 
+ 
+ Business 
+ 
+ 
+ 
+			Now that FCC voted to repeal net neutrality, the Colorado tech community ponders what is next		 
+ 
+ Net neutrality got the heave ho by federal regulators who believe innovation was stifled under the 2015 rules. Share this: Click to share on Facebook (Opens in new window) Click to share on Reddit (Opens in new window) Click to share on Twitter (Opens in new window) Click to print (Opens in new window) Click to email this to a friend (Opens in new window) More Click to share on LinkedIn (Opens in new window) Click to share on Pinterest (Opens in new window) Click to share on Tumblr (Opens in new window) Submit to Stumbleupon (Opens in new window) 
+ 
+   
+						Federal Communications Commission Chairman Ajit Pai speaks to members of the media after a commission meeting Dec. 14, 2017 in Washington, DC. FCC has voted to repeal its net neutrality rules at the meeting.		 
+ 
+ By  Tamara Chuang  | The Denver Post PUBLISHED:  December 14, 2017 at 3:37 p.m.  | UPDATED:  December 14, 2017 at 4:53 p.m. Following the Federal Communications Commission’s approval Thursday to repeal the open-internet rules known as net neutrality, the future of the internet is very certain for some but not for others. 
+ Opponents to the rule change are  already threatening to sue  to bring back the rules the agency adopted two years ago. But those in favor, including FCC Chairman Ajit Pai, who  made the proposal  last month, don’t expect a big change in how businesses or consumers stream movies, shop online or use the internet. 
+ For those outside of the commission, the reality of what this could mean for business was already sinking in. 
+ “We are a small ecommerce company that competes, and in some cases, sells goods similar to far larger players,” said Lee Meyer, CEO of interior design site Havenly.com, which is based in Denver. “The risk, economically, to us, is that ISPs begin to charge high fees for the fastest connections to consumers — fees that a company of our size can’t reasonably bear. In the consumer world, speed has a direct impact on conversion. This decision could potentially have serious impacts on what made small internet based business possible in the first place — a free and fair internet.”   
+ 
+ 
+ Nothing will change immediately. The Office of Management and Budget must first approve the rule. 
+ The case will probably end up court, said Blake E. Reid, a University of Colorado Boulder law professor who specializes in technology policy and telecom law. While there is a movement by some Democrats to reverse the order, it would need bipartisan support, a veto-proof majority and a presidential signature. 
+ “Several public interest groups have announced plans to sue the FCC over the order. That challenge will be reviewed by a 3-judge panel at the DC Circuit and may ultimately be reviewed by the full court. It could also go up to the Supreme Court. The courts will consider whether the FCC’s reasoning in repealing the rules was arbitrary and capricious,” he said. 
+ Simultaneously, a separate proposal to create a new net neutrality law could happen. That, he said, “would likely require amending the Communications Act. How that might unfold is a lot harder to predict.” 
+ Cameron Williams, founder and Chief Technology Officer of Denver security company OverwatchID, had hoped the vote would go the other way. As the owner of a small business that uses the internet to distribute its ID security software, Williams fears his much larger competition, or competitors that get snapped up by an AT&T or another large ISP that could favor its own services over Overwatch’s.   
+ 
+ 
+ “It’s very disconcerting for sure,” Williams said. “If our competition can afford to pay a premium (to speed up internet service) that we don’t have the budget to pay for, that puts us at a significant disadvantage.” 
+ With a staff of 30 employees, Overwatch would probably have to hire someone to monitor whether company data is getting to clients as consistently fast as his competition. 
+ “I hope this goes to the Supreme Court and gets overturned,” Williams said. 
+ Ting Internet, which is  working with the city of Centennial  to offer gigabit internet to residents, has long voiced its support for net neutrality. After the vote, Ting officials said they don’t plan to change their business. Officials with NextLight, a community-owned internet utility service in Longmont, also said there will be no changes. 
+ But the state’s leading internet providers have opposed net neutrality  from the start . Comcast  created an uproar  this year when it removed some wording online that detailed its net neutrality protections — including deleting that it won’t “create paid fast lanes.” The company responded saying it has no plans to block or throttle data, or discriminate against lawful content. 
+ CenturyLink has said it was pleased that the FCC moved forward on the issue, but on Thursday, the company said it wasn’t ready to comment. 
+ “We look forward to working with the FCC to ensure that the internet experience for consumers and businesses, as well as the exchange of internet traffic between providers, remains positive and beneficial to all. However, we are going to wait and review the entire text of the FCC net neutrality order before commenting further to make sure we understand how the order may affect our operations and our customers,” the company said. 
+ 
+ Boulder-based Zayo Group, which provides internet to office buildings around the globe, said the vote to overturn net neutrality won’t impact its services as an internet backbone provider. 
+ “We believe our role at Zayo is aligned with our mission to provide enormous high-quality bandwidth and communications infrastructure to support our customers no matter what regulatory changes may take place,” the company said in a statement. 
+ 
+ 
+ 
+ 
+ Policies 
+ Report an Error 
+ Contact Us 
+ Submit a News Tip 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Sign up for Newsletters and Alerts 
+ 
+		Subscribe 
+ 
+ 
+ 
+ Follow Us 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ 
+ 
+ Twitter 
+ 
+ 
+ 
+ 
+ Instagram 
+ 
+ 
+ 
+ 
+ RSS 
+ 
+ 
+ 
+ 
+   
+ 
+ Most Popular   
+ Southwest Airlines launches warm-and-fuzzy response to United's jab over DIA competiton   
+ 
+ Colorado stays course as mask policies are revisited amid rapid spread of delta variant   
+ 
+ Ask Amy: Parental termination is legal end to mothering   
+ 
+ Keeler: Planning to boo Nolan Arenado at Coors Field? This Aurora mother has story Rockies fans should hear first.   
+ 
+ Colorado students won't have to wear masks in schools under new COVID-19 rules   
+ 
+ Denver International Airport arrivals stopped because of weather   
+ 
+ Bring your own bag, Denver. Plastic bag fees begin Thursday.   
+ 
+ Keeler: Nolan Arenado, Rockies finally got Coors Field farewell both sides deserved.  But both deserved better from Dick Monfort and Jeff Bridich.   
+ 
+ Broncos Journal: Eventual sale price would shatter current NFL record of $2.275 billion   
+ 
+ Pick 6: Odds Aaron Rodgers' next team is the Broncos, CU Buffs' Jarek Broussard win the Heisman Trophy   
+   
+ 
+ Tags:  CenturyLink Colorado Politics Federal Communications Commission gigabit internet Mike Coffman More Business News National Politics net neutrality Telecommunications Zayo Group   
+ 
+   
+ 
+ 
+ Tamara Chuang 
+ 
+ | Technology reporter 
+ 
+ 
+						​Tamara Chuang is a former Denver Post business writer.					 
+ 
+ 
+ 
+									Follow Tamara Chuang									 
+										@gadgetress									 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 

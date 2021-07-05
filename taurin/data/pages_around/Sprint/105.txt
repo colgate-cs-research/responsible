@@ -1,0 +1,69 @@
+##LINK: https://www.networkcomputing.com/cloud-infrastructure/mwc-fcc-chairman-defends-net-neutrality-decision
+##KEYWORDS: paid prioritization
+##TITLE: MWC: FCC Chairman Defends Net Neutrality Decision | Network Computing
+##METHOD: article 7
+
+
+
+ 
+   
+ At the Mobile World Congress here in Barcelona, Federal Communications Commission Chairman Tom Wheeler defended the  recent FCC decision to support net neutrality  by reclassifying Internet service providers under Title II of the Federal Communications Act. 
+ In an onstage interview with a skeptical GSMA Director General Anne Bouverot, Wheeler preferred to use the term "open Internet" in his defense of last week's FCC order. Bouverot asked him how the agency could use a “1930's law” to regulate a 21st-century technology. 
+ Wheeler said he originally considered using Section 706 of the Telecommunications Act of 1996 to regulate internet services, but the wording of that section leaves too much room for interpretation and carriers could claim their actions are “commercially reasonable.” 
+ Under Title II, however, all actions by “common carriers” of communications services can be overseen by the FCC as “just and reasonable” within “the public interest,” he said. It's the public interest that allows the agency to impose the net neutrality rules. 
+ 
+ 
+ 
+ Figure 1:     
+ 
+ 
+ 
+ Wheeler emphasized that the new rules do not dictate how the ISPs and cellular carriers market their services, or set prices and package solutions. “This is no more regulation of the Internet than the First Amendment regulates speech,” he said. “We remain absolutely steadfast in opposition to intergovernmental structures that seek to impose their will on how the Internet operates. No one blocks the use of the Internet as a medium of expression.” 
+ According to Wheeler, the only “NO" for carriers under the new rules is no blocking, throttling or paid prioritization. The regulation has many more “NOs” for the agency, he said, listing bans on  regulation of the internet, utility-style regulation,  rate regulation, tariffing, network unbundling,  regulation of technical operating requirements, new taxes or fees. 
+ On a separate note, Wheeler pointed out that carriers such as Sprint, T-Mobile, Google (with  Google Fiber ), and a number of smaller operators are committed to the new rules and plan to continue their investment in new infrastructure. 
+ He also explained that wireless carriers, while anticipating the new  open Internet rules, recently invested $48 billion in the most successful spectrum auction the FCC ever conducted, demonstrating that wireless Internet is a good business, now and in the future. Only Verizon, which has been a strong opponent of net neutrality, paid $4.5 billion for new spectrum. 
+ Wheeler called “wireless the network of the 21st century,” sharing his belief that in a few years the mobile networks will carry most of  traffic, especially with the explosion of connected devices in the Internet of Things. “Spectrum is the pathway of the 21st century, and has to be open and competitive”, he added. 
+ On the subject of 5G, Wheeler said the technology is still on the drawing board, and no one knows exactly what it will look like. “You go to the Picasso Museum here in Barcelona and you stand in front of a painting. You see something very different from what I see. I think that’s how 5G is right now," he said, responding to a question from Bouverot on the subject. 
+ Wheeler was adamant that the US would be at the forefront of 5G technologies, just as it has been in 4G. “I want America to continue to be the leader,” he said. 
+ Tags: News Cloud Infrastructure Wireless Infrastructure 
+ Recommended For You 
+ 
+ 
+     
+   What’s AWS Conveying With Its Acquisition of Wickr?   
+   Dave Michels   
+   July 02, 2021   
+   As it looks to differentiate its service, AWS focuses on privacy and encryption with its acquisition of Wickr, which is known for its privacy features 
+     
+ 
+     
+   There Is No Such Thing as Innovation Without Automation   
+   Eamonn O’Neill   
+   June 28, 2021   
+   Cloud offers great opportunities to be innovative. But you can’t be innovative without being agile, and you can’t be agile without automation.   
+     
+ 
+     
+   Steps to Building a Successful App Modernization Strategy   
+   Moti Rafalin   
+   June 24, 2021   
+   Migration of Java applications to a cloud-native architecture allows for faster product release cycles and major improvements in time to market. 
+     
+ 
+     
+   Reducing Cloud Overspend By Increasing Network Visibility   
+   Magnus Bjornsson   
+   June 14, 2021   
+   With cloud adoption only increasing, enterprises will need to optimize their efficiencies, operations, and, most importantly, prevent wasteful overspending.  
+     
+ 
+     
+   IT Chimes In: How Effective is Facial Recognition?   
+   Bob Wallace   
+   June 11, 2021   
+   As results, performance factors, and challenges come to light, interest spreads for IT managers. 
+     
+ 
+ 
+ See All in Cloud Infrastructure »   
+  

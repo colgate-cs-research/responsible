@@ -1,0 +1,297 @@
+##LINK: https://www.techdirt.com/articles/20180227/09262539315/sprints-ceo-thinks-this-whole-killing-net-neutrality-thing-is-pretty-nifty.shtml
+##KEYWORDS: net neutrality,paid prioritization
+##TITLE: Sprint's CEO Thinks This Whole Killing Net Neutrality Thing Is Pretty Nifty | Techdirt
+##METHOD: paragraphs
+
+Say That Again
+
+So when the FCC's 2015 net neutrality rules were passed, we warned how the agency's failure to include zero rating (exempting an ISP's own content or the content of a deep-pocketed partner) was going to let ISPs creatively engage in anti-competitive behavior. And sure enough, companies like Verizon and AT&T began exempting their own content from usage caps, giving them a leg up in the market. Carriers like Sprint similarly began to fracture the internet experience, at one point charging users more money if they wanted to enjoy music, video and games without having their connection throttled.
+
+
+T-Mobile pushed these creative barriers further with its Binge On offering, which exempted only the biggest and most popular video services from the company's usage caps. This automatically put thousands of smaller video providers, non-profits, educational institutions and startups at a notable market disadvantage, but by and large nobody outside of the EFF and academia gave much of a damn because a) ill-informed consumers are happy laboring under the illusion that they're getting something for free and b) the public (and by proxy media) was lazy and tired of debating net neutrality.
+
+
+Just as the Wheeler FCC realized the error of their ways and began showing signs of cracking down on carriers that use usage caps and zero rating as an anti-competitive weapon, Trump won the election and Ajit Pai's FCC began dismantling the rules entirely. You know, for "freedom." As the U.S. moved further away from a truly open internet, regulators in other countries (like India) moved to prohibit ISPs from using usage caps or zero rating as an anti-competitive bludgeon against smaller operators, startups and non-profits.
+
+
+With the rules now on the chopping block, and ISPs successfully gutting FCC and state oversight of ISPs, zero rating is going to be the least of our problems. We're back to now worrying about things like "paid prioritization," or the ability of ISPs to give their own video content (or the content of the deepest-pocketed companies) priority treatment on the network. And ISPs that were previously against such deals are now walking back their promises at an unsurprising pace.
+
+
+Throughout all of this, carriers like Sprint repeatedly professed their breathless dedication to net neutrality while they continued to implement policies that made consumer connectivity less transparent, more expensive, and less open. And speaking at the Mobile World Congress this week, Sprint CEO Marcelo Claure made it clear that the company doesn't think this whole paid prioritization thing is that big of a problem, either:
+
+
+"I don’t think there’s anything wrong for you to eventually charge a higher price for a faster access to your network,” Sprint CEO Marcelo Claure said during a keynote discussion here at the Mobile World Congress trade show. “You have this anyway. In the United States in many roads you drive, you have a faster road and you pay more. There’s nothing wrong with that. We’re still determining what is going to be the price for 5G and how we’re going to charge you, but the economics say, consumers are willing to pay more for a better service and are willing to pay less for a different type of service."
+
+
+Except net neutrality rules have always carved out massive exemptions for prioritization (medical services, high-end VOIP service, etc.). It's only the anti-competitive paid prioritization deals the rules hamstrung. ISP executives know this, they just like to conflate the two to justify their quest to turn the internet into the modern equivalent of mid nineties walled gardens like AOL. Claure proceeded to imply that past net neutrality rules didn't let the company "manage its networks," which was never the case:
+
+
+"We’re big believers in the open internet,” Claure said. “I believe there needs to be some light regulation, and it needs to be very light, in order for us to manage our networks."
+
+
+Added Claure: “We need to manage our networks … That’s the most important thing to us."
+
+
+Again though, the FCC's net neutrality rules never stopped Sprint from "managing its networks." In fact it took years of hashing out specifics in the rules to ensure that would never be a problem. Meanwhile, you don't get to proclaim you're "big believers in the open internet," while at the same time pushing for changes that could completely tilt the whole god-damned thing on its axis by letting giant companies (often a company's own subsidiaries) pay for lower latency, higher priority, and better service -- leaving startups, non-profits and educational institutions in the dust.
+
+
+Just a few years ago we were concerned that loopholes in the 2015 rules would result in caps, overage fees and zero rating being used anti-competitively (and they were and are). Now, with the FCC's rules officially slated to expire in April, most of those problems are going to appear god damned quaint in comparison with the nonsense awaiting all of us just over the horizon.
+
+Thank you for reading this Techdirt post. With so many things competing for everyone’s attention these days, we really appreciate you giving us your time. We work hard every day to put quality content out there for our community.
+Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis.
+While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising, we have always kept Techdirt open and available to anyone. But in order to continue doing so, we need your support. We offer a variety of ways for our readers to support us, from direct donations to special subscriptions and cool merchandise — and every little bit helps. Thank you.
+–The Techdirt Team
+Filed Under: ajit pai, broadband, competition, fcc, marcelo claure, net neutrality, wireless, zero ratingCompanies: sprint
+Subscribe: RSS
+View by: Time | Thread
+[ reply to this | link to this | view in chronology ]
+
+"I don’t think there’s anything wrong for you to eventually charge a higher price for a faster access to your network,”
+Your network is the data equivalent of two tin cans attached by a string. You HAVE no faster access. If you did, and you've been hiding it all these years Sprint customers should demand you and the entire board of directors be fired into the sun.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+ I didn't do it, hence why I denied it. 
+Pointing out an observation does not mean I am engaged in stupid partisan games. I merely observed that you seem to exhibit behavior classic of someone who only opposes something because some other person or group supports it. Reps or dems, dogs or cats, it doesn't matter.
+And here you are doing it again, proving my point. If you could just stop being a fundie you might have more to add to the conversation other than the lies you have been told to regurgitate like a good little sheeple.
+What point did I prove? You mean the one where you have no facts to back up anything you say? Or the one where you totally disregard the fact that all of your arguments against NN have been disproven time and time again?
+Whether I am a fundie or not, is irrelevant (especially since I have no idea what you mean by it, there are lots of different kinds of fundamentalists and I could be classified as several). 
+What is relevant is that I understand technology and how NN would or would not and does or does not affect the internet. You sir, do not, despite our repeated attempts to educate you. You are the one "regurgitating lies that you have been told", who does not add anything to the conversation, not me.
+When you actually figure out how the internet and technology works, then we can have a conversation on equal footing.
+[ reply to this | link to this | view in chronology ]
+
+Liar liar pants on fire! 
+Way to avoid the point he was really making.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+"both side of the economic market"
+What does this mean?
+"buyer" and "seller" are the usual definition. (assuming no middlemen)
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+ Seriously? That's your proof?
+Being convicted of a crime comes with punishments, one of those can be losing your right to vote. Most states only remove voting rights during incarceration and probation/parole. They are restored after. Some states do cause them to lose them permanently. However, we also don't allow anyone under 18 to vote. Is it undemocratic to require that people show some basic form of mental competency (age restriction)? And if you are convicted of proving a detriment to society (murder, rape, etc...) should that not indicate you do not have society's best interests at heart? Otherwise, all the felons could vote in their local drug dealer, I'm sure that's what we all want. Voting is a right, not a privilege, and conviction is a punishment after all. Felons lose a lot of other rights than just voting.
+Irrelevant. No longer a restriction.
+Same as 2.
+It is not as simple as they are just not allowed to vote. Many in fact are allowed to either by absentee or if they moved to the mainland. Additionally, these are not states, they are federal territories, by nature of how our government is set up, they do not have representation in Congress as a full state. Now, perhaps this should change, that is a discussion worth having but it's not as simple as just "they aren't allowed to vote, period".
+This is relevant how? Not all states require this and is not required federally. Your current ID will expire at some point anyway at which point you will have to get a new ID. So eventually everyone will have these new IDs and it will be a non-issue. What does it matter if you have to get a new ID now or in a few years when your current one expires? They have to prove who you are and that you haven't already voted somehow.
+No it is not. What an ignorant think to say.
+It's not ignorant and it is a separate issue. Related tangentially perhaps but still separate. Gerrymandering does not prevent people from voting at all. It can influence the outcome of a vote but does not prevent people from actually voting. It's also not a sure thing. There are also laws against doing this. It is illegal to engage in gerrymandering so if you have proof of someone doing it, bring it up so they can be prosecuted.
+So of your proof you have managed to show that an extremely small fraction of people in the US can't vote, this includes: 
+So please explain to me again how the US doesn't allow "many" of their citizens to vote? Because it seems to me that the overwhelming majority are allowed to vote and there are some very specific, narrow instances where they are not. Two out of three involving someone not following federal or state laws and in some cases breaking them.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+ I'm not asking you to provide proof of comment veracity, what I am saying is what you state has no basis in fact. The facts and studies instead support me. If you have facts that say otherwise, please provide them so that we all may be educated.
+I'm not ignoring the history of the US. You questioned whether the US is currently a democracy. I answered that yes it IS currently a democracy. You didn't ask about the past or the future, only the present and that is how I answered you. Bringing up the fact that some groups of people in the past were unable to vote is not relevant to whether the US is presently democratic because those restrictions no longer exist. 
+By your definition then, there has never been, is none, and never will be any government that is democratic because at some point in the history of all governments there have been some people who have been restricted from voting. Just because some groups of people are restricted from voting, does not mean the government is not a democracy. That's just discrimination. What makes a government a democracy or not is how it operates and what form it takes. Not whether 100% of the people are allowed to vote or not. If that was the case, a dictator could hold elections every year in which everyone could vote, then discard the results and call his country a democracy.
+Conspiracy theories probably did influence many from voting.
+That is their problem, not the US's. Whether people choose to believe and act on a conspiracy theory is not the responsibility of the US and has no bearing on whether the US is democratic or not. They are still allowed to vote, whether they choose to or not is up to them.
+The real world has had a word with me. It says it misses you and wants you back.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+ What are you on? Are you deliberately not understanding what we are talking about?
+Let's try again:
+"I'm not asking you to provide proof of comment veracity" ... and yet you ask for proof?
+Fine, maybe we're getting caught up in what "comment veracity" means. I took it to mean that you can't post a comment unless it is verified and proven in some way. Apparently you were talking solely about the content of the comment. In that case, yes, I want proof that what you are stating is true because from everything I see, you are wrong and all the facts and statistics say you are wrong. You are not required to provide it, but if you don't I have no reason to believe you unless you have facts and proof to support your assertions. Otherwise you could be lying for all I know.
+"You questioned whether the US is currently a democracy." - Incorrect. The operative word here would be "current".
+Ok, so I'm confused. Because my statement and your statement both seem to indicate we are talking about the present. Are you questioning whether the US is currently a democracy? As in right now, today? Or are you asking if it was a democracy in the past?
+" those restrictions no longer exist. " -
+Disenfranchisement is alive and well
+This is where I again ask for proof. Because according to your statement, you are implying that women and african americans are still not allowed to vote. All the females and african americans who voted in the last election would all disagree with you and seem to prove your statement incorrect. So, where's your proof they still aren't allowed to vote?
+"That is their problem, not the US's." - Oh, so "they" are no longer citizens? When did you decide this? I can see where this is going.
+I don't even know how to parse this. Nowhere did I say they weren't citizens, and nowhere did I say they weren't allowed to vote. In fact I said they WERE allowed to but they CHOSE not to. Stop trying to twist my words into something I never said. 
+I didn't decide anything, they decided (for whatever abominable logic and reasoning) that they were not going to avail themselves of their Constitutional right to vote. That's their choice, not mine, not yours, and not the government of US's. They were given the opportunity, they chose not to take it. They still have the opportunity to vote in the next election.
+I also can see where this is going. It's called a non-productive argument with someone who refuses to accept facts, and has to resort to try to put words in people's mouths because otherwise he has to admit he was wrong and actually face reality.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+  #1. Establish strong anti-trust and anti-monopoly regulations. Basically, if you own or produce content, you are not allowed to become a distributor of it. No more exclusive contracts between producers and distributors for them either (anti-trust). If Netflix has it... Hulu and Youtube does too! It is obviously a conflict of interest to create, own, and distribute your own content like HBO for example and soon Disney (anti-Monopoly). Case in point Disney will control it's entire library and they have become one of the largest lobbies on anti consumer and cultural rights by helping extend copyrights on things to what is essentially infinity from a human perspective.
+I really like that one. Makes sense.
+#2. Take away any ISP's power to own any public infrastructure, they should never have been allowed to own them in the first place. If a cable of any kind runs across a piece of public land, it cannot be privately owned, period.
+Okay, that's problematic. It's easier to just ban them from owning infrastructure, end of.
+#3. Proactively tie funding of enforcement agencies to the amount of corruption in the businesses. In short, you get no funding if you cannot identify wrong-doing. If you can identify wrong doing you get the money up front (Pro-Active) with which you can hire staff necessary to investigate.
+Also problematic. It takes years to train someone to investigate such matters. Keeping them on per-case contracts, which you appear to be advocating here, would result in revolving doors in which investigators would have a perverse incentive to keep the crime rate high enough to keep themselves in business. This could result in all kinds of anti-competitive shenanigans. Therefore, while we need to deal firmly with corruption, it can't be on a short-term contract basis.
+#4. Require that the Public have input on the subject via their actual voting records/identification, not just some flimflam "public comment section" visa vie the current shit hole that is the FCC. And yes, must be legally required to be audited too! No fucking secrets!
+I quite like this one, although the public comments section idea has merit; if you work for a company opposed to your viewpoint you could end up risking your job. That said, given the fraud, I'm more inclined to agree with you on this point than to disagree.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+Determining if a business is engaged in anti-competitive behavior is not a difficult task, because the results cannot be hidden. If Apple produces software and then controls what software can go onto their devices? Wham, anti-competitive. Easy!
+If ATT overcharges a customer for something, wham easy to invesitgate!
+If ATT buys "Finding Nemo" from Disney and then only allows Netflix to stream it... wham anti-trust!
+The only one of those that is actually bad is ATT overcharging.
+If Apple wants to say no, we're only going to allow x software on our devices they are fully within their rights to do that. And, newsflash, they already do this. They have specific rules about what software can and cannot be approved and added to the iStore. What they can't do is say we'll allow any software but x software gets on there for free, everybody else has to pay. That is anti-competitive.
+Your "Finding Nemo" example doesn't make any sense. Are you saying ATT would buy a single copy of the movie, a license to use the movie, or all the rights entirely and Disney would no longer own it? 
+If it's a single copy, then they couldn't let Netflix do anything with it period. If they bought a license to use the movie, they probably still couldn't do it if Disney said no and if they said yes, it's still not anti-trust worthy provided everyone else can do the same thing for the same price. In the third case, where they buy all the rights and Disney no longer owns it, then if they only want to allow Netflix to stream it, that also is not worthy of an anti-trust investigation. It's only if they allow Netflix to stream it for free and charge everyone else. If they just choose to only do business with Netflix, that is their prerogative.
+We are not talking about complex subjects
+Maybe you aren't but we are. And while something may seem pretty simple and straightforward on its face, I guarantee that once you actually get into the details of it, it gets a bit complex.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+So apple owns your property?
+They own the iStore. It's hard (but not impossible) to install anything on an iphone that doesn't come from the iStore.
+what if you buy a house from Apple?
+False equivalence. 
+Apple should not be allowed to dictate what software goes onto devices that they do not own. If they don't want it on the Apple Store that is fine, but they do not exactly let you use any "store" you want for your device without some hacks now do they?
+If they wanted to completely lock down their phone so that no one could develop any apps for it (i.e. they switched to new code and didn't release any info on it or API's) then that is totally their choice and within their rights. No one would use it obviously, but it's legal. They made it, they can make it however they want. 
+Now what they can't do is prevent someone from buying a phone, hacking it, and installing Android OS on it or cracking it to allow other apps to run on it. But they certainly can redesign it to technically allow only pre-approved apps to run on it. No different than a Playstation not being able to accept Xbox game disks or vice versa. Or do you think that Playstation, Xbox, and Nintendo devices are all anti-competitive because they only run their pre-approved game disk formats?
+[ reply to this | link to this | view in chronology ]
+
+  The ISP's can be private, but the (dumb)lines running between everything is public/government owned. That is the best balance for obvious reasons. Think China, that should say more than another, and China learned from America well!
+Sorry, that's what I meant.
+Like I said in another post, I believe this is way over blown... wham anti-trust!
+If it were that simple we wouldn't be discussing this as those problems would have been dealt with by now in the way you described.
+We are not talking about complex subjects here like financial data for SOX...
+The suject might seem straightforward but implementing reforms is not a simple matter at all.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+ To your first point, that is your opinion and you are entitled to it. I will agree that power can be a corrupting influence. However I disagree with all your other points. Since established law disagrees with you, we can argue about whether or not it should be changed or not but it doesn't negate the fact that it is currently legal, lawful and how it works today.
+To your second point, so you are saying that middlemen should be mandatory and that the creator of something should be absolutely banned from distributing it? That is ludicrous and idiotic on a number of levels. That's also not how any of our market system in America works. If you are the owner and creator of works, you have the right to distribute it however you wish, middleman or not. What you can't do is forcibly disadvantage other creators from distributing their works. See, ISPs can make all their own content they want, and they can offer it for free or for a price, that's not the problem. The problem is that they also control access to all the other content online and what they are trying to do is charge for all that other content while making theirs free. That's what they can't do and what NN would stop them from doing. It's not anti-competitive to create, own, and distribute your own works for free, it is anti-competitive if at the same time you force people to pay extra for other people's competing content.
+To your third point, I happen to know exactly what I'm talking about. You don't. I'm not disputing the fact that a false charge on a bill is an easy thing to investigate (on the face anyway, actually doing it is kind of difficult because you have to track paper and money trails, get access to accounts, etc...). 
+I'm not sure what you're getting at with the content and distributing it. That doesn't seem to relate to the discussion at hand. Regardless, the fact remains that your proposal is not financially sustainable. Taken to its logical conclusion, if it's so easy to investigate all this stuff, then eventually the FCC would find all the offenders and force them to stop. At that point there would be nothing left to investigate and their funding would dry up. The problem is, they have many other functions to perform that are NOT dependent on investigating wrong doing (e.g. spectrum management, EMF interference rating, etc...). If their only funding comes from investigating wrongdoing and that dries up, then they become useless to perform all their other functions.
+Again, with your Finding Nemo reference, not sure what you are getting at. Disney owns Nemo, and Reed Hastings and Marc Randolph own Netflix. Not seeing a connection. Disney granted a license to Netflix to show their movies on Netflix which is up later this year. At that point all Disney movies will be removed from Netflix. What's your point?
+To your fourth point, that is an interesting proposition. One that you didn't not clearly state originally. May I suggest some English and grammar lessons?
+I admit I am intrigued by your proposal but I still do not think it would work out in reality. The problem is the public is not always an expert on the matters the FCC puts forth, nor do they always have the entire picture. That's why there are public comments, so that the FCC can have the whole picture and make informed decisions. The problem is not with people in power voting, the problem is holding them accountable to vote based on facts and data, not their preference.
+I don't agree that those in control should never be allowed to vote. The president has a veto vote and that has proven to be a very necessary thing over the years. Can it be abused? Yes. But there is no way to ever prevent anything from ever being abused and sometimes you have to take the bad with the good, or else you end up with lots of bad and not much good.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+ Just remember, this isn't necessarily brought on by Trump. It's ultimately the corporations doing this, they would have solidly bought another FCC chair and prepped them regardless of who became President.
+The ISPs want Net Neutrality-killing legislation  this badly.
+Stop name-dropping the President when it isn't necessary for the context of the article. It was easy enough for you to say "Ajit Pai's FCC" without needing to mention Trump. It's become a cheap journalism gag for clicks and SEO, especially when it's such an innocent-seeming mention.
+It also shows that you may not have confidence in your own writing to draw in attention alone, which isn't true because I was enjoying it before this. There are bad things Trump actively does and promotes, but most of them don't directly involve technology.
+[ reply to this | link to this | view in chronology ]
+
+ Wheeler was (gradually) trying to do something about the problem. He wasn't doing as good a job as he  could have, but he was trying. Trump  chose to replace him with Pai. They're  both responsible.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+ Fair enough, and as I'm not  nearly masochistic enough to wade through the sewage and/or inanity that are his tweets I've no idea if he's said anything related to network neutrality either way, so with regards to your last point I've no idea, and as such I can see your point.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+ Scammers and con-artists hate rules that make it harder for them to take advantage of people, so of  course they're positively drooling over the repeal of rules that put even the slightest check in their behavior.
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+[ reply to this | link to this | view in chronology ]
+
+Have a Techdirt Account? Sign in now. Want one? Register here
+ Subscribe to the Techdirt Daily newsletter
+
+Comment Options:
+
+
+ Use markdown.
+ Use plain text.
+
+Make this the
+ First Word or
+ Last Word.
+ No thanks.
+(get credits or sign in to see balance)    
+
+ Remember name/email/url (set a cookie)
+
+Have a Techdirt Account? Sign in now. Want one? Register here
+ Subscribe to the Techdirt Daily newsletter
+
+Comment Options:
+
+
+ Use markdown.
+ Use plain text.
+
+Make this the
+ First Word or
+ Last Word.
+ No thanks.
+(get credits or sign in to see balance)    
+
+ Remember name/email/url (set a cookie)
+
+Read the latest posts:
+read all »
+Join the Insider Chat
+Email This
+This feature is only available to registered users. Register or sign in to use it.

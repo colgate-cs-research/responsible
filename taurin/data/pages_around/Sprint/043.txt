@@ -1,0 +1,45 @@
+##LINK: https://www.publicknowledge.org/press-release/public-knowledge-initiates-open-internet-complaints-against-att-sprint-t-mobile-and-verizon/
+##KEYWORDS: open Internet
+##TITLE: Public Knowledge Initiates Open Internet Complaints Against AT&T, Sprint, T-Mobile and Verizon | Public Knowledge : Public Knowledge
+##METHOD: article 1
+
+
+
+ 
+ Press Release 
+ 
+									Data Caps								 
+ 
+									Net Neutrality								 
+ 
+ 
+							Public Knowledge Initiates Open Internet Complaints Against AT&T, Sprint, T-Mobile and Verizon						 
+ 
+ 
+ 
+		By					 
+ 
+				Shiva Stella			 
+				 
+	 
+ 
+ 
+ August 6, 2014 
+ Data Caps ,  Net Neutrality ,  Transparency 
+ 
+ 
+ 
+   
+ Today, Public Knowledge filed letters with AT&T, Sprint, T-Mobile, and Verizon as the first step in the formal open internet complaint process.  The complaint is in relation to AT&T, Sprint, and Verizon’s practice of throttling wireless data subscribers with “unlimited” data plans, as well as T-Mobile’s practice of exempting speed test applications from throttling.  The letters explain how the carriers are violating the open internet transparency rule that survived court challenge. Sprint and Verizon violate the transparency rule by failing to meaningfully disclose which subscribers will be eligible for throttling. AT&T, Sprint, and Verizon violate the transparency rule by failing to disclose which areas of the network are congested, thus subject to throttling. T-Mobile violates the transparency rule by preventing throttled subscribers from determining the actual network speed available to them. 
+ In order to comply with the FCC’s transparency requirement, Sprint and Verizon must publish monthly data-based thresholds (as opposed to merely percentage-based thresholds) for throttling eligibility.  AT&T, Sprint, and Verizon must publish real-time information about parts of their network that are congested enough to trigger throttling.  All of this information must be made available in open and accessible formats that would allow third parties to integrate it into applications and facilitate public scrutiny.  T-Mobile must end its practice of exempting speed test applications from network throttling. 
+ The FCC recently issued an  enforcement advisory  reaffirmed its commitment to enforcing the open internet transparency rules. 
+ The following can be attributed to Michael Weinberg, Vice President at Public Knowledge: 
+ “If the FCC’s transparency rules mean anything, they must require carriers to let subscribers know why, when, and to what speed their connections might be throttled.  Today, Sprint and Verizon subscribers will not know if they are eligible for throttling until after they have crossed the usage threshold.  AT&T, Sprint, and Verizon subscribers will not know they will be throttled until they are actually connected to a congested cell site.  T-Mobile subscribers do not know the actual speed of their throttled connection.  This is far from transparent. 
+ In order to comply with FCC requirements, carriers must disclose eligibility thresholds in a way that makes sense to the public.  Carriers must also tell subscribers – in real time, and before subscribers are already being throttled – where congestion exists on their network.  This information must be in open and accessible formats so that third parties can use it appropriately. Similarly, throttled customers must be allowed to learn the true network speed available to them. 
+ Today, Public Knowledge calls on AT&T, Sprint, and Verizon to make this data available public or suspend their throttling program.  Public Knowledge also calls on T-Mobile to stop exempting speed test apps from throttling.  If any carrier fail to do so, we trust that the FCC will move quickly to resolve these violations of its rules.” 
+ The Letters Can Be Found Here:  
+ Verizon 
+ AT&T 
+ T-Mobile 
+ Sprint 
+ 

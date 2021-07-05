@@ -1,0 +1,28 @@
+##LINK: https://www.nytimes.com/external/idg/2008/11/25/25idg-Experts-to-Feds.html
+##KEYWORDS: open Internet
+##TITLE: Experts to Feds - Sign the DNS root ASAP - NYTimes.com
+##METHOD: paragraphs
+
+Internet security gurus and leading vendors are urging the U.S. federal government to rapidly deploy security and authentication mechanisms at the top level of the DNS hierarchy, which is known as the root zone.
+In recent weeks, the National Telecommunications and Information Administration (NTIA) has received 30-plus comments in favor of securing DNS root zone data.                                ?
+These comments are from the Internet Architecture Board (IAB) and the Internet Society                                ?as well as ISPs and domain name operators such as PayPal, Akamai Technologies, NeuStar, Comcast and Afilias.
+The "rapid adoption of DNSSEC and signing of the root zone is an urgent requirement," wrote Michael Barrett, CISO with PayPal. "We applaud NTIA for initiating this inquiry, and urge it to move with all possible
+                                speed to implement DNSSEC [DNS Security Extensions]. Inaction or further delay would be detrimental to the interest of consumers and other Internet users and to the healthy growth of electronic commerce."
+"Comcast is strongly in favor of the global adoption of DNSSEC, starting with the signing of the root," said a letter from Kathryn Zachem, vice president of regulatory and state legislative affairs, and Jason Livingood,
+                                executive director of Internet systems engineering with Comcast. "Until the root is signed, signatures for a top-level domain such as .net or .com, and signatures in domains like Comcast.net are of limited utility."
+While the majority of the comments received by NTIA recommend deploying DNSSEC across the root zone, many of them prefer that this is done by the nonprofit Internet Corporation for Assigned Names and Numbers (ICANN)
+                                rather than a for-profit corporation such as VeriSign, which operates root servers A and J.
+The Asia-Pacific Network Information Centre, a regional Internet registry, said it supports "ICANN's proposals to sign the root zone using the DNSSEC framework in a timely manner."
+IAB Chair Olaf Kolkman similarly proposed that details about DNSSEC implementation on the root zone "should be decided upon within the context of the multi-stakeholder process, as currently embodied in ICANN. This would
+                                ensure involvement of all stakeholders through well established mechanisms."
+The NTIA also received letters discouraging DNSSEC deployment from two lesser-known organizations -- PublicRoot Consortium and AV8 Internet -- as well as a few crackpot comments that are typical of any open Internet-based process.
+The DNS root zone is deployed on 13 server clusters worldwide. These servers are operated by U.S. federal agencies such as the Defense Department and NASA, corporations including VeriSign and Cogent Communications, and universities
+                                including the University of Southern California and the University of Maryland, under the direction of the Internet Assigned Numbers Authority.
+                                The root servers make it possible for top-level domains including .com, .net and .org to match domain names with corresponding IP addresses and Web sites.
+DNSSEC prevents hackers from hijacking Web traffic and redirecting it to bogus sites. The Internet standard prevents spoofing
+                                attacks by allowing Web sites to verify their domain names and corresponding IP addresses using digital signatures and public-key encryption.
+DNSSEC is viewed as the best way to bolster the DNS against vulnerabilities such as the Kaminsky
+                                bug discovered this summer. It's because of threats like these that the U.S. government
+                                is rolling out DNSSEC across its .gov and .mil domains. ?
+The U.S. federal government issued a request for public comments                                about DNSSEC deployment on the root zone on Oct. 9.
+Copyright 2008 IDG. All Rights Reserved.

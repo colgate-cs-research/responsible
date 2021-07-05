@@ -1,0 +1,18 @@
+##LINK: https://www.benton.org/headlines/first-net-neutrality-complaints-are-coming
+##KEYWORDS: net neutrality
+##TITLE: The First Net Neutrality Complaints Are Coming | Benton Institute for Broadband & Society
+##METHOD: paragraphs
+
+Subscribe
+Subscribe
+The Federal Communications Commission may have to soon consider the first disputes under its new net neutrality regulations, starting with a fight over Internet congestion and online video. Cogent Communications, which controls parts of the Internet backbone, is preparing to file complaints to the FCC, charging Internet service providers Comcast, Time Warner Cable, AT&T, Verizon, and CenturyLink with inappropriately degrading Internet traffic. The complaints would mark a new phase in the long-running and fiercely controversial debate over the FCC's Internet regulations. 
+Net neutrality has traditionally referred to the principle that Internet providers shouldn't block or manipulate traffic once it's on their networks. But the potential complaints from Cogent would instead focus on how those providers load traffic on to their networks in the first place. Cogent CEO Dave Schaeffer warned that if the companies continue to refuse to provide their customers "with access to the entire Internet on an unfettered basis… we would have no choice but to file a complaint with the FCC under the Open Internet Order." Mike Mooney, the general counsel for Level 3 Communications, another Internet backbone provider, said his company is also "currently evaluating our options." The companies will be able to file their complaints once the rules go into effect, which will occur 60 days after they are published in the Federal Register.
+ 
+CONTACT
+Benton Institute
+for Broadband & Society
+1041 Ridge Rd, Unit 214
+Wilmette, IL 60091
+847-328-3040
+Contact Us
+© 1994-2021 Benton Institute for Broadband & Society. All Rights Reserved.

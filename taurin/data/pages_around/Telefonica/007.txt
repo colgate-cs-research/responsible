@@ -1,0 +1,11 @@
+##LINK: http://www.iicom.co.uk/themes/item/5g-manifesto-calls-for-relaxation-in-net-neutrality
+##KEYWORDS: net neutrality
+##TITLE: 5G manifesto calls for relaxation in net neutrality
+##METHOD: article 1
+
+
+
+ 
+	 5G manifesto calls for relaxation in net neutrality  
+ In a 5G manifesto, a group of European telecoms service providers and equipment manufacturers have called for a relaxation of net neutrality rules, reports TeleGeography. "The document, which is backed by BT Group, Deutsche Telekom, Orange, Telecom Italia, Telefonica, Vodafone Group, Ericsson and Nokia, promises to deliver 5G services in at least one city of each EU member state by 2020, but adds the caveat that they will do so only if net neutrality rules are eased." The manifesto states: "The EU and member states must reconcile the need for open internet with pragmatic rules that foster innovation. The telecoms industry warns that the current net neutrality guidelines, as put forward by BEREC [Body of European Regulators for Electronic Communications], create significant uncertainties around 5G return on investment. Investments are therefore likely to be delayed unless regulators take a positive stance on innovation and stick to it. Telco and industry verticals concur that the implementation of net neutrality laws should allow for both innovative specialised services required by industrial applications and the internet access quality expected by all consumers. In this context we must highlight the danger of restrictive net neutrality rules, in the context of 5G technologies, business applications and beyond. 5G introduces the concept of 'network slicing' to accommodate a wide-variety of industry verticals' business models on a common platform, at scale and with services guarantees."  Read more  and the manifesto at http://bit.ly/29pk2QD - it has been welcomed by EU commissioner Günther Oettinger. 
+ Wednesday, 20 July 2016 

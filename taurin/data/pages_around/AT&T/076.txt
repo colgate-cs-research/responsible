@@ -1,0 +1,50 @@
+##LINK: https://www.mediapost.com/publications/article/288897/fcc-raises-concerns-over-atts-zero-rating-practi.html
+##KEYWORDS: zero-rating
+##TITLE: FCC Raises Concerns Over AT&T's Zero-Rating Practices 11/11/2016
+##METHOD: paragraphs
+
+Username
+Password
+Remember me
+Forgot your password?
+
+                                Subscribe today to gain access to every Research Intelligencer article we publish as well as the exclusive daily newsletter, full access to The MediaPost Cases, first-look research and daily insights from Joe Mandese, Editor in Chief.
+                            
+If you're already a paid subscriber, please sign-in.
+Username  
+                                    
+Password  
+                                      Forgot?
+Log in if you are already a member
+Username  
+                                    
+Password  
+                                      Forgot?
+For at least two years, net neutrality advocates have pressed the Federal
+Communications Commission to crack down on broadband providers who use zero-rating schemes in ways that favor their own video offerings.
+This week, the agency took its first significant step
+toward doing so. The FCC told AT&T that its decision to exempt video offered through DirecTV's app from subscribers' data caps may violate net neutrality principles.
+The net neutrality
+rules prohibit broadband providers from blocking or degrading service and from creating online fast lanes. The regulations also broadly ban Internet service providers from engaging in conduct that
+interferes with people's ability to access Web content. Carriers could potentially violate that last prohibition by excluding certain material from data caps, but the FCC has said it will take a
+case-by-case approach to the question.
+advertisement
+advertisement
+The agency told AT&T this week that zero-rating in itself isn't necessarily problematic. But the FCC added that AT&T's decision to exempt content
+of DirecTV, which it purchased last year, while also charging other companies to zero-rate their data, raises concerns.
+"The terms and conditions under which Sponsored Data is offered to
+content providers unaffiliated with AT&T, combined with s current practice of zero-rating DirecTV video applications for AT&T Mobility subscribers, may obstruct competition and harm consumers
+by constraining their ability to access existing and future mobile video services not affiliated with AT&T," Jon Wilkins, chief of the Wireless Telecommunications Bureau, writes to AT&T Senior
+Executive Vice President Robert Quinn, Jr.
+Wilkins adds that AT&T's zero-rating scheme appears to violate net neutrality principles, because the company is favoring its own content over
+video offered by competitors.
+In practical terms, the decision to zero-rate DirecTV gives consumers a big incentive to use the DirecTV app, at the expense of unaffiliated competitors like
+Hulu, Netflix or Amazon, according to the FCC.
+"Their potential subscribers would have to take into account the total cost they would incur by using the unaffiliated provider's service --
+which would include not only the proportional monthly usage costs of their AT&T Mobility data plan, but also overage fees and/or reduced transmission speeds if their consumption of the third
+party's video content results in data usage in excess of the maximum allowed under their plan," the FCC writes. "AT&T Mobility customers subscribing to AT&T's own zero-rated DirecTV services
+would not encounter these costs or impacts."
+The agency has asked AT&T for a response by Nov. 21.
+Wendy Davis is a Senior Writer at MediaPost. You can reach Wendy at wdavis@mediapost.com
+
+advertisement

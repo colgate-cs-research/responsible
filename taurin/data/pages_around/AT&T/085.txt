@@ -1,0 +1,15 @@
+##LINK: https://morningconsult.com/2017/01/11/11th-hour-fcc-report-says-att-likely-violates-zero-rating-rules/
+##KEYWORDS: zero-rating
+##TITLE: 11th-Hour FCC Report Says AT&T Likely Violates ‘Zero Rating’ Rules - Morning Consult
+##METHOD: paragraphs
+
+A report released Wednesday by the Federal Communications Commission’s Wireless Telecommunications Bureau said AT&T Inc.’s sponsored data plan for DirecTV Now appears to violate rules prohibiting certain “zero rating” data practices.
+The conclusion was part of a broader policy review released by the bureau to help a company or the agency determine if a data plan violates the FCC’s Open Internet Order’s prohibitions against packages that unfairly burden competitors or third-party affiliates.
+It’s not likely that the new policy review will be implemented. Republicans are slated to take over the FCC on Jan. 20, and GOP Commissioners Ajit Pai and Michael O’Rielly have already promised to roll back parts of the controversial net neutrality rule.
+Soon after the document’s release, Pai released a statement slamming the FCC’s “midnight regulations” on zero rating. “Fortunately, I am confident that this latest regulatory spasm will not have any impact on the commission’s policymaking or enforcement activities following next week’s inauguration,” Pai said.
+The FCC first reached the tentative conclusion that AT&T was violating the Open Internet Order on zero rating in December. The bureau accused AT&T of using the program to unfairly favor DirecTV and limit the ability of unaffiliated providers to offer competing video services to AT&T subscribers. That report was prompted by a letter sent by seven Democratic and independent senators in November that asked the FCC to crack down on “harmful zero-rating offerings.”
+In a joint statement sent to reporters on Wednesday, four of those senators — Democrats Ed Markey (Mass.), Ron Wyden (Ore.), Al Franken (Minn.) and Richard Blumenthal (Conn.) — praised the FCC’s new framework.
+“These guiding principles will help the FCC, industry and the public evaluate zero-rating offerings and identify plans that distort competition, stifle innovation, and hamper user choice and free speech,” said Markey, who promised to continue encouraging the commission to enforce the the guidelines.
+AT&T pushed back on the commission’s finding in an emailed statement. “It remains unclear why the Wireless Bureau continues to question the value of giving consumers the ability to watch video without incurring any data charges,” said AT&T Senior Vice President Joan Marsh.
+In Wednesday’s report, the FCC also found that the zero-rated content provided by Verizon Wireless’s go90 video platform may adversely affect competition, and thus the violate Open Internet rules.
+“We don’t agree with [the FCC’s] view on free data and we don’t think our customers do either,” said Will Johnson, Verizon’s head of federal regulatory affairs. Johnson said he hopes the next FCC will take the consumer benefits of free data into account.

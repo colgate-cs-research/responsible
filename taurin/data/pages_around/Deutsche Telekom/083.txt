@@ -1,0 +1,245 @@
+##LINK: https://www.zdnet.com/article/net-neutrality-key-zero-rating-decision-made-by-germany/
+##KEYWORDS: zero-rating
+##TITLE: Net neutrality: Key zero rating decision made by Germany | ZDNet
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        By
+                                 
+ David Meyer 
+ 
+            
+                    
+                    for  The German View 
+        
+        
+                                                        
+                                                    |                 October 10, 2017 -- 14:26 GMT (07:26 PDT) 
+            
+                                        | Topic:  Networking 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Germany's telecom regulator weighs in on zero-rating practices 
+ 
+   
+ 
+ 
+ Watch Now 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The German telecommunications regulator has issued a long-awaited decision on Deutsche Telekom's "zero-rated" StreamOn offers, ruling that the scheme is legal, but the company must make some modifications. Zero-rating is the practice of offering free data for certain services but not others -- those offers where you might get to use Spotify for free on your phone, or have specific streaming video services not count towards your data cap. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                        What's what with the Net Neutrality Day of Action
+                     
+ 
+ On July 12, you will get a taste of what the internet would be like if the FCC gets its way in breaking net neutrality. 
+ 
+ Read More 
+ 
+ 
+ The practice is popular with service providers and consumers, but also contentious as it counters the principle of net neutrality, which holds that all services should get equal treatment as they pass through internet connections.  The reactions to Facebook's zero-rated Internet.org app have provided the most  visible outcries about zero rating , in particular  when India banned  it for violating net neutrality. The European Union enshrined net neutrality in law a couple years back, but the new rules do not explicitly mention zero rating. Instead, it was left up to the various EU member states' telecoms regulators to decide how the practice should be treated in the light of the law. They agreed a  common approach  last year, essentially saying services being offered for free should not gain too much of an advantage over their non-zero-rated rivals. However, since then we have not seen one of those regulators make a major decision about a zero-rated service; until now. And with Germany being so influential among its EU peers, this decision by the Bundesnetzagentur was keenly awaited. Deutsche Telekom's StreamOn offers in Germany are very similar to the  Binge On scheme  offered by American subsidiary T-Mobile U.S., in that they let people stream music and video without it counting towards their data caps. Media providers must partner with Telekom (for free) in order to participate. Importantly, the best-quality video-streaming is reserved for certain monthly subscriber packages. 
+ 
+ 
+ 
+ 
+ Consumer advocates have long opposed StreamOn, with the Verbraucherzentrale Bundesverband (VZBV), an umbrella body for regional consumer rights associations, calling for Deutsche Telekom to simply offer higher data caps that could be used for all services. However, on Monday the Bundesnetzagentur said StreamOn was "essentially permissible" as there is nothing in EU law to stop telcos from exempting certain services from their data caps. "According to Bundesnetzagentur's current assessment, the zero rating offer as such is in principle admissible. However, Telekom has to ensure that partners can participate on a non-discriminatory basis," it said. It wasn't all good news for Telekom, though. The regulator also said it had to change two aspects of StreamOn: it's not acceptable for streaming video to be reduced to "DVD quality" on some tariffs, while others get to enjoy "HD quality", and Telekom also has to let subscribers exploit the offer of free data  while roaming  around the European Union. "Under the net neutrality rules, above all the reduction of the data transmission rate (in 'tariff L') with regard to video streaming is inadmissible. This violates the principle of equal treatment of all data traffic," said the Bundesnetzagentur. Telekom told ZDNet that it does not agree with the Bundesnetzagentur's "interpretation of the legal position" though it also noted that "the agency confirms our position that a zero rating is possible in principle". "Deutsche Telekom advocates a free and open internet," the telco said in a statement. "The key principle of StreamOn is to make it easy for any provider of music or video streaming to become our partner without having to pay us. There is no discrimination. The most important thing for us is the focus on the customer. And customers love what we are offering them. StreamOn is an attractive option for both consumers and streaming service suppliers." Klaus Müller, the chief executive of the VZBV, is also not happy though for precisely the opposite reasons. In a statement describing StreamOn as being "at the expense of the free internet", he warned that the agency's decision would reduce "the freedom of choice for consumers but also the competition between service providers". "Zero-rating offerings create realities in the market which pave the way for a two-class internet and keep rates high," he said, adding: "We welcome the fact that the Federal Network Agency is at least against a deterioration of the video quality in the video streaming and also insisting on compliance with the roaming regulation." Zero-rating is contentious as it counters the principle of net neutrality. 
+                                                    Image: Getty Images
+                                                 Previous and related coverage Who really wins from Facebook's 'free internet' plan for Africa? Facebook's plan to bring 'free internet access' to underserved regions has stirred up controversy among net neutrality advocates and telcos alike. TRAI rules out Facebook's Free Basics project in India Service providers violating regulations will be penalised, according to the Telecom Regulatory Authority of India. Mobile device computing policy  [Tech Pro Research] Mobile devices offer convenience and flexibility for the modern workforce--but they also bring associated risks and support issues. Read more about technology in Germany   Germany's new hate speech law goes live: So who's in its sights? Google isn't violating copyright, says court, even if its thumbnails are of pirated photos German election voting software riddled with holes, researchers warn 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Topics: 
+ 
+                    EU
+                 
+ 
+                    Cloud
+                 
+ 
+                    Internet of Things
+                 
+ 
+                    Security
+                 
+ 
+                    Data Centers
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        By
+                                 
+ David Meyer 
+ 
+            
+                    
+                    for  The German View 
+        
+        
+                                                        
+                                                    |                 October 10, 2017 -- 14:26 GMT (07:26 PDT) 
+            
+                                        | Topic:  Networking 
+ 
+ 
+ 

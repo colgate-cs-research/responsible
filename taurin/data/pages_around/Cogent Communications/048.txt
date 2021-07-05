@@ -1,0 +1,34 @@
+##LINK: http://www.cybertelecom.org/broadband/backboneref.htm
+##KEYWORDS: open Internet
+##TITLE: Cybertelecom :: Backbone Reference
+##METHOD: paragraphs
+
+ Backbone Reference 
+388 At least one
+            industry expert, Hal Varian, Dean of the School of
+            Information Management and Systems at the University of
+            California, Berkeley, has called for an end to
+            settlements-free interconnections as the industry norm.
+            Hal Varian, How to Strengthen the Internet's Backbone,
+            Wall St. J., June 8, 1998 at A22.
+240 Notice, 13 FCC Rcd
+            at 15309. In general, peering is settlements-free, i.e.,
+            the providers do not charge each other for terminating
+            traffic. Also, one peer will not allow traffic from
+            another peer to transit its network to a third provider. See WorldCom, Inc. & MCI Communications Corp., CC Docket
+            No. 97-211, Memorandum Opinion & Order FCC
+            98-225 at ¶¶ 143-46, released Sept. 14, 1998, available
+              at 1998 WL 611053."
+
+
+
+
+
+
+
+
+ 
+
+
+
+Exchange Points

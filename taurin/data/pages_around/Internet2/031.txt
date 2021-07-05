@@ -1,0 +1,146 @@
+##LINK: https://www.csmonitor.com/2004/1202/p13s02-stin.html
+##KEYWORDS: open Internet
+##TITLE: The tangled Internet: Is it time for a new one? - CSMonitor.com
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ December 2, 2004
+ 
+ 
+ 
+ 
+ 
+ By    Gregory M. Lamb 
+ Staff writer of The Christian Science Monitor   
+ @GregLamb 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By some counts, the Internet turned 35 years old this fall. But far from entering middle age, it seems to be growing into a rebellious teenager who has no idea what he will be when he grows up. It could become a safer, more secure medium running 1,000 times as fast as today. Or it could turn into a delinquent's paradise, where spam, scams, viruses, and pornography drive legitimate users away. The Internet, some observers say, could collapse in the next few years under the strain. Even if it survives, the soul of the Internet is up for grabs, other experts say. Growing concerns about security and commerce threaten its traditional openness. "Some of the fundamental precepts built into the original Internet are no longer true," says Jonathan Zittrain, cofounder of the Berkman Center for Internet & Society at Harvard Law School. Originally set up as a way for scientists and academics to exchange ideas, the Internet developed as an open system that encouraged collaboration and assumed that the people who used the system were who they said they were. Early Internet users were much more concerned about "some pesky, centralized overseer who would rain on their parade rather than some out-of-control malcontent who was technically skilled enough to try to disrupt the network," he says. Part of the problem is the increasing volume of spam, digitized scams, and viruses. Another part stems from the major fight waged by traditional businesses, such as music companies and movie studios, over intellectual rights to digital content. "One of the ways [the companies] are going to fight is to attempt to close off the openness of the Net," Professor Zittrain says. Last month, for example, the recording industry filed 761 new lawsuits against individuals for trading copyrighted music files over the Internet. Add to this the fact that the personal computers connected to the Net were themselves designed in an open way - for innovation, not security - and you have something of "a perfect storm" of disruption that is going to require much more than just tinkering around the edges to save the Internet, he says. Will the system really collapse under the strain? Most Internet experts don't think so. While concerned about the dark side, they're far more optimistic. Long way to grow The Internet still "has a very long way to grow," says Leonard Kleinrock, one of the people who was around for its birth. "In some ways, we're still in the Stone Age." On Oct. 29, 1969, as part of a project backed by the US military, Professor Kleinrock sought to send a message from a computer at the University of California at Los Angeles to the Stanford Research Institute (SRI) in northern California. There were no reporters present, no microphones or TV cameras. It was 10:30 p.m. "We weren't as smart as Samuel Morse, Alexander Graham Bell, or Neil Armstrong," says Kleinrock, who still teaches computer science at UCLA. The group didn't have a message planned ahead like "What hath God wrought?" or "a giant leap for mankind." The idea was to type "Log in." The team got as far as "L-o" before the system crashed at SRI. "So what was the first message on the Internet?" Kleinrock says. " 'Lo,' as in 'Lo and behold!' We couldn't have planned it any better." In the future, he sees "smart spaces" or "intelligent spaces" in which nearly any object - even the walls - will be hooked to the Net and aware of its surroundings. "When I walk into a room, it will know it's me. I can talk to it.... I'll be able to interact in a very simple, physical way," Kleinrock says. But the Internet of the future will be as full of surprises as it has always been, Kleinrock suggests. "Nobody predicted the Web," he says. Or the impact of e-mail. Or instant messaging. Or Napster. "Those are the things that are hard to predict, and that's where I think a lot of the growth of the Internet will occur - with these magnificent new applications that nobody thought about that the young people of this era are going to develop." Internet2, which today operates over the proprietary Abilene Network instead of the open Net, moves 1,000 times as fast as a typical broadband connection. It's being used by everyone from astronomers, who can remotely control telescopes with it, to master teachers who can see and hear distant students in high fidelity. Douglas Van Houweling, the president and CEO of Internet2, says he once observed San Francisco Symphony conductor Michael Tilson Thomas coaching a young conductor via an Internet2 feed. Mr. Thomas told the student to take his watch off his wrist because it was weighing down his arm movement, a subtle observation. "Music at the highest level is very nuanced, and you have to have [a] very high quality [connection] to make it work," Dr. Van Houweling says. The two-way interface is "very high fidelity. This is not your typical postage-stamp video conference." In another example, Robert Ballard, who found the wreck of the Titanic, is using Internet2 to connect with high school students across the country, giving them a chance to join him on his undersea adventures. Beyond these "real time" uses, Internet2 also transmits what Van Houweling calls "really large [digital] objects" - from scientific data to the latest Hollywood movie - in seconds. That's captured the interest of the Motion Picture Association of America (MPAA), which is using Internet2 to explore the advantages and threats that such a robust system represents. Hijackers 2.0 Pirates have already "begun to hijack" Internet2, Cary Sherman, president of the Recording Industry Association of America, told Congress in October. A student file-sharing system called i2hub.com, she said, has been using the Internet2 to move copyrighted material between students at different campuses. An MPAA study last summer found that 58 percent of South Koreans, nearly all of whom have fast broadband connections to the Internet, had already downloaded a movie over the Net. Worldwide, the ratio of users doing so is about 1 in 4, it claims. Quick movement of video files could open up new business opportunities but also create massive piracy problems. Both Internet2 and IPv6, a new addressing system that stands for Internet Protocol Version 6, offer better security and privacy than the current Net, which operates on the older IPv4 system. "IPv6 has a higher bar for security," says Jim Bound, chairman of the North American IPv6 Task Force, a nonprofit group urging its adoption. "In IPv4, it's an afterthought." With IPv6, for example, a phone call made over the Internet would be encrypted and very difficult to tap. The IPv6 standard is already embedded in many devices today, and the US Department of Defense has said it will switch to IPv6 by 2008. Even so, adoption will be gradual, says Dr. Bound, and a "hybrid" of both systems will be around for a long time. An intellectual battle is going on now about "when and how and why" to deploy Ipv6, he says. But IPv6 will emerge victorious as mobile Internet applications become more popular and more and more devices are connected to the Net, Bound says. "We want pervasive computing," he says. "We want every kid in every ghetto and in every country [using the Net]. This technology is not just for the elite. This technology is for all. And that's not going to happen with IPv4." Meanwhile, Zittrain sees the possibility of two Internets developing, one offering the Internet2 concept of "trusted communities" of users on a system that is closed and secure. But outside, the wide-open Internet would remain, "a vibrant jungle containing undiscovered riches and poisonous snakes" that adventurous people could volunteer to explore, he says. A far-reaching Net • Worldwide, roughly 1 in 10 people has Internet access. • Iceland boasts the highest share of Internet users in the world - 6.7 per 10 - followed by South Korea (6.1), Sweden (5.7), Australia (5.7), and the United States (5.5). • Alaska was the most wired state in the US in 2000, with 64 percent of households online. Mississippi had the lowest Internet penetration with 37 percent. • By 2003, a fifth of US households had speedy, high-bandwidth connections - double the share in 2001. • Roughly half the world's Internet traffic passes through Virginia, home to many large online firms. Sources: International Telecommunication Union; US Census, US Commerce Department; State of Virginia. 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+			You've read   of   free articles.
+			 Subscribe to continue. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Help fund Monitor journalism for $11/ month 
+ Already a subscriber?   Login 
+ 
+ 
+ 
+ 
+ Mark Sappenfield 
+ Editor 
+ 
+ 
+ Monitor journalism changes lives because we open that too-small box that most people think they live in. We believe news can and should expand a sense of identity and possibility beyond narrow conventional expectations. 
+ Our work isn't possible without your support. 
+ 
+ 
+ 
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ Unlimited digital access $11/month. 
+ Already a subscriber?   Login 
+ 
+ 
+ 
+ 
+ 
+ 
+ Digital subscription includes: 
+ 
+ Unlimited access to CSMonitor.com. 
+ CSMonitor.com archive. 
+ The Monitor Daily email. 
+ No advertising. 
+ Cancel anytime. 
+ 
+ 
+ 
+ 
+ Subscribe 
+ 
+ 
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ Related stories 
+ 
+ 
+ 
+ 
+ As IPO nears, millions of users still opt out of Facebook 
+   
+ 
+ 
+ 
+ 
+ Facebook IPO: Who's resisting Facebook and why 
+   
+ 
+ 
+ 
+ 
+ The Internet needs its own ‘declaration of independence’  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this article 
+ 
+ 
+ 
+ Copy link 
+ Link copied. 
+ 
+ 
+ × 
+ 
+   
+ 
+ 
+ 
+ 

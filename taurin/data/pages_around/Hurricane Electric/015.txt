@@ -1,0 +1,13 @@
+##LINK: https://bgp.tools/as/45754
+##KEYWORDS: open Internet
+##TITLE: AS45754 Clear Path Networks Inc - bgp.tools
+##METHOD: paragraphs
+
+Clear Path Networks Inc
+
+                            AS Number
+                            45754
+
+                        
+                            Website
+                            http://www.clearpath.net.ph

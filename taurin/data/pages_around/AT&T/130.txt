@@ -1,0 +1,87 @@
+##LINK: https://www.consumerreports.org/consumerist/no-att-comcast-and-verizon-are-not-suddenly-in-favor-of-net-neutrality/
+##KEYWORDS: paid prioritization
+##TITLE: No, AT&T, Comcast, And Verizon Are Not Suddenly In Favor Of Net Neutrality
+##METHOD: paragraphs
+
+
+                                            We respect your privacy.
+                                            All email addresses you provide will be used just for sending this story.
+                                        
+Today’s net neutrality day of action has brought out all the usual suspects in favor of keeping the internet free and accessible, but a few unexpected names have shown up today, too. Along with companies like Google, Netflix, Twitter, Facebook, and Amazon, we’re suddenly seeing AT&T, Comcast, and a couple of telecom lobbying groups out in front, claiming they love net neutrality. But is it true?
+Spoiler: Nope.
+READ MORE: 18 Cable Companies Promise To Support Net Neutrality; None Will Guarantee You In Writing 
+Many ISPs have posted articles on their corporate blogs today claiming support for the net neutrality day of action. And some are absolutely stunning examples of chutzpah, claiming to support the masses while actively advocating for the exact opposite of what everyone is protesting today to achieve.
+We’ve seen — and debunked — most of these arguments before. But using the messaging of a day of action to co-opt and derail the message is a new low, even for this fight.
+Let’s take a look, shall we?
+
+
+
+
+
+
+
+
+
+
+
+
+
+AT&T got out in front of today’s crowd, explaining its enthusiasm for net neutrality yesterday afternoon.
+In a blog post titled, “Why we’re joining the day of action in support of an open internet,” AT&T exec Bob Quinn lays out the company’s case.
+“AT&T has supported the need for clear and enforceable open internet rules,” Quinn writes. To him, that means the FCC’s 2010 Open Internet Order.
+“Unfortunately, in 2015, then-FCC chairman Wheeler abandoned this carefully crafted framework,” Quinn continues.
+In fact, Wheeler didn’t so much “abandon” it as he had it deemed unlawful: In Jan. 2014, a federal appeals court threw out the 2010 Open Internet Order, finding that its legal basis was unsound.
+Long story short, that meant Wheeler could not use that same framework again to rebuild the rule, and so had to take a different approach. The 2015 Order was not due to some rogue bureaucrat deciding to overthrow things, but rather to the industry — particularly Verizon — suing to get the old rules thrown out.
+From there, Quinn recycles tired arguments we’ve heard before: “The debate focuses on whether open internet rules should derive from the 80-year-old Communications Act or some other theory of Congressional authority, because the current law predates the internet,” he writes.
+Quinn continues, “Instead of having this debate again, Congress should act now to provide the clear statutory authority that guarantees an open internet for all consumers.”
+However, Congress created a massive update to the Communications Act not 80 years ago, but 20 — the Telecommunications Act of 1996. And that law did provide a way for the FCC to handle internet services: The very part of the Act, Title II, that the FCC is currently using.
+Moreover, calling for clarity and bipartisan agreement from the actual Congress we have in 2017 is, at best, optimistic; at worst, it passes straight through willfully naive to straight-up misleading.
+
+
+
+
+
+
+
+
+
+
+
+
+
+For its part, Comcast mouthpiece David L. Cohen voiced very similar arguments to AT&T in his corporate blog post today.
+“We support permanent, strong, legally enforceable net neutrality rules,” Cohen writes. “We don’t and won’t block, throttle, or discriminate against lawful content.”
+However, Cohen makes no such promise about the other peril, paid prioritization. That’s where Comcast can charge you, or the content company you are trying to reach, an extra fee to be delivered in a timely fashion.
+How would that work? Here’s an example: If you want to watch Comcast Stream, that will be delivered at one speed. Try to watch Amazon Prime, though, and it will be delivered at half the speed — unless either Amazon or you pay up.
+Cohen once again says the exact same thing Comcast has been saying (and advertising) since Pai first announced his plan to kill off net neutrality: “Title II regulation and net neutrality are not the same thing.”
+Cohen implies that you can have one without the other, but you can’t. When the appeals court threw out the 2010 order, it all but said that the way to square the legal circle, and give the FCC proper authority to put rules in place, was to classify broadband providers as common carriers under Title II of the law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+And of course, what would a net neutrality discussion be without Verizon — the company that caused the 2010 rule to be overthrown — clamoring how much it, too, loves a neutral internet?
+Verizon exec Will Johnson said in a press release today that, “Like those participating in the Day of Action, Verizon supports the open internet.”
+Verizon has been less than fully honest about its position on net neutrality in the past, and Johnson’s statement is another entry in that lengthening canon of bunk.
+“The internet is too important to have policies that change with each election,” Johnson writes — which is true. But Verizon’s solution is to “encourage all the participants in today’s Day of Action to join us in urging Congress to bring this decade-long issue to a close. Open Internet protections deserve to be written in ink, not pencil.”
+But Verizon, as we mentioned, is the very company that sued the FCC over its 2010 rule — and won.
+Verizon then threatened from the start to sue if the FCC properly reclassified broadband to put in place a new rule. And then, as a member of both USTelecom and the CTIA, did exactly that.
+We have been debunking ISPs claims about net neutrality for many months, and it seems we will be doing it for many months more — because the excuses they keep using are simply not true.
+None of these companies support true net neutrality that would block paid prioritization and discrimination, and none of them support clear law that bans these things.
+More: 4 misleading things the ISPs need to stop claiming about net neutrality
+Without Title II, there is no net neutrality. And although Congress could dramatically restructure all extant telecom law in the entire country, bottom to top, to rearrange how companies are classified, it’s not going to. Certainly not anytime soon, when the elected representatives on Capitol Hill can’t even agree on their top legislative priority without infighting.
+The law already exists, and it’s been working perfectly well for two full years now. The companies opposed to it all use the language of “certainty” and “investment” to describe their goals, with promises like Verizon’s, “It’s in all of our interests to ensure that consumers can access the legal content of their choice when and how they want.”
+But that says nothing about how much doing so could cost you, or how much it could cost ISPs competition (who then, make no mistake, would pass the added costs on to you). And it says nothing about squashing new competitors who will find the bar for entry raised too high to cross. 
+Editor's Note: This article originally appeared on Consumerist.
+
+                                            We respect your privacy.
+                                            All email addresses you provide will be used just for sending this story.
+                                        

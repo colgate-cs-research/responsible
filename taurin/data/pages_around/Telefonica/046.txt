@@ -1,0 +1,67 @@
+##LINK: https://www.ispreview.co.uk/index.php/2020/03/covid-19-o2-uk-zero-rates-data-usage-on-help-websites.html
+##KEYWORDS: zero-rating
+##TITLE: COVID-19 - O2 UK Zero Rates Data Usage on Help Websites - ISPreview UK
+##METHOD: paragraphs
+
+Customers of mobile operator O2 may be pleased to know that they’re zero rating access to key websites that are providing financial, health, emotional guidance and other support during the COVID-19 (Coronavirus) crisis, which means that accessing them via mobile broadband won’t count toward your data allowance.
+At the time of writing this measure has so far been introduced to support a total of 22 organisations, including Citizens Advice, Samaritans, Mind and ChildLine among others (see below for a full list). All have been be whitelisted for the duration of the pandemic and these are in addition to the NHS websites and calls to 111, which are already free to access (social welfare helplines starting with the prefix 08 are also free).
+The change, which will remain for the duration of the COVID-19 crisis, applies to all of O2’s 3G, 4G and 5G mobile network, for O2 Pay Monthly, Pay & Go and their SMB (business) customers.
+The CEO of O2, Mark Evans, said:
+“Our customers are the most important thing to us, and we want to ensure that they have the support they need throughout this difficult time. That’s why, further to our announcement last week zero-rating NHS websites, we’re ensuring that additional websites providing financial guidance, health and emotional advice and support can also be accessed by our customers without using any data allowance for the duration of the COVID-19 crisis..”
+The full list of zero-rated sites include:
+Citizens Advice:
+https://www.citizensadvice.org.uk/
+Financial Advice:
+https://www.moneyadviceservice.org.uk/en
+https://www.stepchange.org/
+Mental Health / Emotional Support:
+https://www.samaritans.org/
+https://www.mind.org.uk/
+https://www.rethink.org/
+https://www.anxiety.org/
+https://youngminds.org.uk/
+https://www.mindout.org.uk/
+Support for Older People:
+https: //www.ageuk.org.uk/
+https: //www.thesilverline.org.uk/
+Support for Young People:
+https://www.themix.org.uk/
+https://www.childline.co.uk/
+Health Support:
+https://www.alzheimers.org.uk/
+https://www.macmillan.org.uk/
+https://www.asthma.org.uk/
+https://www.bhf.org.uk/
+https://www.diabetes.org.uk/
+Disability Support:
+https://www.scope.org.uk/
+https://www.rnib.org.uk/
+https://www.actiononhearingloss.org.uk/
+Bereavement Support:
+https://www.cruse.org.uk/
+UPDATE 1:53pm
+Just to confirm that O2 zero-rate on a HTTP/SSL domain basis only, which means any third-party content that may be pulled into a website when it’s rendered will still be eating into your data allowance. Most websites pull in remote content via remote CDNs, JQuery, YouTube, Advertising etc. All of that can add up but most web browsers do tend to cache many repeated resources (javascript files etc.) after the first load.
+Has o2 also made free all the other web services which these sites all use? Like googlemanager, analytics etc?
+Very good question, I’ll ask.
+@Mark
+Thanks for getting o2 to admit that they haven’t really thought this through properly.
+Lots of these sites use Youtube for content so a lot of people are going to get a big surprise when their data vanishes. For example the dementia guide embedded on the dementia website is 52 minutes long. Ouch.
+Muppets, Clearly the idea of someone in the marketing department who has no clue how websites work. Just give people a data boost and be done with it.
+This good we needthis
+Don’t rely on the businesses to keep promises. If you have to search for something use WIFI.
+Well i think a freeze for payment for 3 months should be in order and follow on the extra 3 months on the contract, some can not pay there bill.
+The government should help more some of us got no food no job money to support their families lock down  was only way masses can understand and for universal credit to wait 5 weeks is very long time no can pay rents or mortgages all the big companies and banks should understand no should pay nothing they freeze everything to help the poor people England is rich everyone who worked in this country over the age  and all our taxes should pay all our Bill’s the rich and famous people they’ve fine and nothing in the shops only Easter eggs to live on we all need help
+Take a breath you nutter. Plenty in the shops. Nobody should have to pay for you regardless of your earnings. Help is expected but a free pass isn’t.
+I feel very let down by my 02 provider l dont feel like lm a valued customor.l feel sad that imformation from customor services can just give a token of£30 off your bill.l was mislade and laughed at by customor service operater l dont have any heart with staying with 02 anymore.lwas so upset l cryed just to be let down lm sorry but its not about the money when you have nothing and 02 made a promise that did not happen l feel such a fool
+I.am struddleing to pay my o2 bill which is over 80 pound airtime and device i.am on a monthly contract i have s 5g sim card but not on 5g my bill is due on the 30th March what do i do i.am suffering with breathing problems isolating at home really worried I’ll get cut off need my phone for universal credit calls and data for my job search which i can’t do please help really worried and crying I’ll get my phone cut off………
+I have a large bill to pay as I got behind due to my benefits I told o2 that I had artheritious and can’t get out much when I was out last week in Asda’s my legs went I fell down 11 stairs as my phone was turned of by 02 could not call my wife in car outside so had to hop outside  if my phone was not turned off I could of told her what happened when I told 02 changed my teeth to lower I have to pay £30 a thought until my bill payer went turn it back on tilliill
+I’m very happy with Mark the manager for the 02 network for what he has done for all his cusstomers. I’m Autistic & has special needs & I’m also self catherterised & suffers with astma & is vulnerable. I also have a carer that takes care of my needs. So i would like to say again thank you very much for helping during this epidemic. Yours sincerely C, Stevens.
+I wouldn’t get anything from the post office when they carnt even deliver a parcel, they have even turn off there track & trace & dont get nowhere online yet there offering you other thing I bet they have staff to take your call to sign up for that
+Little use, self isolating in a 2G only area, they’ve never upgraded the masts in this area.
+Me and my wife are stuck in India got me idea for how long
+I had to make call to UK to banks and mortgage company’s
+My bill is Under £300 for making call
+02 has nothing in place to help or Bolt on in india
+I can’t pay my bill
+Comments are closed.
+Comments RSS Feed

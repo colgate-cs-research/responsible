@@ -1,0 +1,225 @@
+##LINK: https://www.zdnet.com/article/net-neutrality-fans-pressure-u-s-senate/
+##KEYWORDS: net neutrality
+##TITLE: Net neutrality fans pressure U.S. Senate | ZDNet
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        By
+                                 
+ Declan McCullagh 
+ 
+            
+                    
+        
+        
+                                                        
+                                                    |                 May 24, 2006 -- 17:41 GMT (10:41 PDT) 
+            
+                                        | Topic:  Enterprise Software 
+ 
+ 
+ 
+ 
+ 
+  One day before Republicans plan a Senate hearing on a new telecommunications bill without Net neutrality regulations, backers of the concept have thrown their support behind a competing proposal with far more extensive federal rules. 
+ 
+During a conference call on Wednesday, representatives from Amazon.com, Google, universities participating in the Internet2 project and liberal advocacy groups all called for strict laws that would prohibit what they view as a  two-tier Internet .
+ 
+"Tomorrow is a very important day for the future of the Internet," said Paul Misener, an Amazon vice president. He warned that phone and cable companies will run roughshod over their customers "unless Congress acts to stop them" by approving alternative  legislation prepared by  Sens. Olympia Snowe of Maine and Byron Dorgan of North Dakota.
+ 
+ 
+ 
+ 
+ Net neutrality's crowded field 
+ 
+ Bill number Lead sponsor(s) What It Proposes Status 
+ S.2360 Wyden (D) No two-tier Internet Still in Senate committee 
+ S.2917 Snowe (R) and Dorgan (D) No two-tier Internet Just introduced 
+ HR5417 Sensenbrenner (R) and Conyers (D) Antitrust extended to Net neutrality Just introduced 
+ HR5273 Markey (D) No two-tier Internet Still in House committee * 
+ HR5252 Barton (R) and Rush (D) FCC can police complaints Awaiting House floor vote 
+ S.2686 Stevens (R) and Inouye (D) FCC will do a study Senate committee vote expected in June 
+ 
+ * Republicans have defeated similar language twice as an amendment to a telecommunications bill  
+ 
+Source: CNET News.com research 
+ 
+ 
+ 
+ 
+Net neutrality, also called network neutrality, is the idea that broadband providers must be forcibly prevented from favoring some Internet sites over others. Strict Net neutrality laws would prohibit providers from inking deals with content providers to, for instance, offer high-definition streaming video with a guarantee that it would be delivered without interruptions.
+ 
+ 
+Behind the Republican-backed bill ( click for PDF ) is Alaska's Ted Stevens, chairman of the Senate Commerce Committee, who  released a 135-page draft bill  that does not flatly prohibit preferential treatment for Internet sites or video. Rather, it merely says that the Federal Communications Commission would be required to prepare annual reports on any problems.
+ 
+ 
+That's not good enough, said Alan Davidson, Washington policy counsel for Google. "We believe the Internet works best when consumers are able to control what they see and do online," Davidson said, adding that Google is supporting the Snowe-Dorgan proposal and a similar one in the House of Representatives.
+ 
+ 
+The issue is turning into a classic Washington political tussle between a pair of billion-dollar industries: The nation's largest telecommunications companies are fighting for a laissez-faire approach, while Microsoft, Google and other huge Internet companies are lobbying for strict FCC regulations.
+ 
+It has turned into a largely partisan debate. In a House of Representatives committee, a Democrat-backed plan for FCC regulation  was defeated  in favor of a milder Republican alternative. In the Senate, though, the party lines are not as clear: The Snowe-Dorgan proposal is backed by one Republican and one Democrat.
+ 
+ 
+ 
+ 
+ 
+ 
+The proposal says network providers would generally not be allowed to "block, interfere with, discriminate against, impair or degrade" access to content or to prevent users from attaching devices of their choosing to the network. Network operators would also be barred from making special deals with content providers to ensure speedier delivery or improved quality of service and would be required to offer all Internet material on an "equivalent" basis.
+ 
+Network operators from the telephone and cable industries, now  allied with  some of the nation's largest hardware makers, have said repeatedly that they have no intention of blocking, degrading or impairing content. They say they're protecting their right to manage their networks as they see fit, which could mean charging extra to heavy bandwidth users, such as video providers, that expect to have their content shuttled at priority speeds.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Topics: 
+ 
+                    Cloud
+                 
+ 
+                    Big Data Analytics
+                 
+ 
+                    Innovation
+                 
+ 
+                    Tech and Work
+                 
+ 
+                    Collaboration
+                 
+ 
+                    Developer
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        By
+                                 
+ Declan McCullagh 
+ 
+            
+                    
+        
+        
+                                                        
+                                                    |                 May 24, 2006 -- 17:41 GMT (10:41 PDT) 
+            
+                                        | Topic:  Enterprise Software 
+ 
+ 
+ 

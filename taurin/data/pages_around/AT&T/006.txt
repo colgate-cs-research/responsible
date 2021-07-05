@@ -1,0 +1,229 @@
+##LINK: https://arstechnica.com/tech-policy/2021/03/att-lies-about-calif-net-neutrality-law-claiming-it-bans-free-data/
+##KEYWORDS: net neutrality,zero-rating
+##TITLE: AT&T lies about Calif. net neutrality law, claiming it bans “free data” | Ars Technica
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+      AT&T vs. net neutrality    —
+ 
+ AT&T lies about Calif. net neutrality law, claiming it bans “free data” 
+ AT&T is angry that it must stop charging HBO Max rivals for data-cap exemptions. 
+ 
+ 
+ Jon Brodkin 
+    -   Mar 18, 2021 8:45 pm UTC 
+ 
+   
+ 
+ 
+ 
+ 
+ Enlarge   /  Longtime AT&T executive John Stankey, who became CEO in July 2020, speaks onstage at the HBO Max WarnerMedia Investor Day on October 29, 2019, in Burbank, California. Getty Images | Presley Ann   
+ 
+ 
+ reader comments 
+ 241 
+  with 93 posters participating 
+ 
+ 
+ Share this story 
+ 
+ Share on Facebook 
+ Share on Twitter 
+ Share on Reddit 
+ 
+ 
+ 
+ 
+ AT&T lied about California's net neutrality law yesterday when it claimed the law requires AT&T to stop providing "free data" to mobile customers. 
+ In reality, the California law allows AT&T to continue zero-rating HBO Max, its own video service, as long as it exempts all competing video services from data caps without charging the other video providers. But instead of zero-rating all video without collecting payments from its competitors in the online-video business, AT&T decided it would rather not exempt anything at all. 
+ "Unfortunately, under the California law we are now prohibited from providing certain data features to consumers free of charge,"  AT&T claimed  in its announcement that it is ending the "zero-rating" program that exempts some content from data caps. "Given that the Internet does not recognize state borders, the new law not only ends our ability to offer California customers such free data services but also similarly impacts our customers in states beyond California," the AT&T announcement also said. 
+ Law allows zero-rating if it’s neutral 
+ Going forward, AT&T will no longer exempt the AT&T-owned HBO Max from its mobile data caps and will stop the "sponsored data" program in which it charges other companies for similar exemptions from AT&T's data caps. But this is a business decision, not purely a legal one: as we already stated, AT&T could exempt all video streaming services including HBO Max from its mobile data caps without violating the California law as long as AT&T stops charging rival video companies for the same data-cap exemptions. 
+ That's because California's net neutrality law allows zero-rating when it's implemented in a neutral manner. Specifically, the  law  bans "zero-rating in exchange for consideration, monetary or otherwise, from a third party," and bans "zero-rating some Internet content, applications, services, or devices in a category of Internet content, applications, services, or devices, but not the entire category." 
+ The law further states that "[z]ero-rating Internet traffic in application-agnostic ways shall not be a violation... provided that no consideration, monetary or otherwise, is provided by any third party in exchange for the Internet service provider's decision whether to zero-rate traffic." 
+ AT&T could choose a category of content, such as streaming video, and exempt everything in that category from its data caps. AT&T wouldn't be able to charge other video providers for the zero-rating, but providing such a perk to customers could help AT&T earn more revenue by signing up new customers and retaining existing ones who care about the perk. T-Mobile used to do something similar when it  zero-rated video and music  applications without seeking payments from the video and music providers, albeit with some technical requirements that online services had to meet to qualify for the zero-rating. ( Update : T-Mobile still offers the  music  and  video  zero-rating, and  said  that it does not violate the California law because it zero-rates the entire category and doesn't charge online service providers for the data cap exemptions.) 
+ AT&T  reported  $20.1 billion in mobile-division revenue in the last quarter of 2020, and $7.1 billion in EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization).                                             
+ Advertisement  
+ 
+ 
+ 
+ “AT&T’s anti-competitive scheme” 
+ AT&T confirmed to Ars that it has stopped zero-rating HBO Max and that it is ending its sponsored program throughout the US. This decision suggests that AT&T doesn't like the California law because it prevents preferential treatment of its own video services. AT&T had been zero-rating HBO Max at no extra cost to itself, as any money charged for that arrangement would simply be transferred from  AT&T's WarnerMedia subsidiary  to AT&T's wireless business. Meanwhile, AT&T charges WarnerMedia's online-video competitors for the same treatment, making them pay to be on a level playing field with HBO Max on AT&T's wireless network. 
+ "California's net neutrality law doesn't ban all zero-rating; it bans anti-competitive forms of zero-rating," Stanford law professor Barbara van Schewick, who supported California  in its court defense  of the net neutrality law, told Ars today. "The law does ban AT&T's anti-competitive scheme where it counts almost everything people do on the Internet, including watching Twitch, Netflix, and their home security cameras, against users' data caps, but doesn't count the data from AT&T's own video services." 
+ The law "does not ban AT&T from launching a program where it zero-rates all online video or all video chat/conferencing calls—which might be hugely popular in this pandemic. In that case, the California attorney general would retain the right to ensure such programs are actually open to all applications," van Schewick told us. 
+ AT&T could also use zero-rating in different ways to help customers, van Schewick said. For example, AT&T would be allowed to let customers use unlimited data between 12 am and 6 am "when networks aren't busy and not count that data against users' caps," to help users back up their data and download videos and podcasts, she said. 
+ Instead, AT&T's approach has been to only zero-rate data for its own services and for online service providers that pay AT&T to zero-rate a specific application. 
+ The California law was enacted in 2018 but only  took effect last month  after a federal judge denied the broadband industry's motion for a preliminary injunction. Sen. Scott Wiener (D-San Francisco) introduced the legislation that became California's net neutrality law. A spokesperson for Wiener told Ars today that Wiener's office agrees with van Schewick's interpretation of the law's provisions on zero-rating. 
+ AT&T didn’t answer key questions 
+ When contacted by Ars today, AT&T declined to explain why it doesn't zero-rate all video as allowed under California's net neutrality law. 
+ In an article yesterday , we pointed out another problem with AT&T's claims about the California law. AT&T said it has to shut off sponsored data in states other than California to comply with the California law, ignoring the fact that AT&T has the ability to shut off sponsored data for individual customers. The proof is that AT&T already lets customers  opt out of sponsored data . To comply with a ban on sponsored data in California only, AT&T could shut the feature off for all California-based customers and perhaps use the  device-location data  AT&T already collects to make sure out-of-state customers don't get "free data" when they enter California. Further Reading AT&T whines about Calif. net neutrality law as ISPs’ case appears doomed 
+ "AT&T's zero-rating plan currently permits users to turn their zero-rating on and off," California Attorney General Xavier Becerra said in a  court brief  defending the state law in September 2020. "Thus, contrary to AT&T's assertions, it already has the capability to switch off zero-rating for users who opt out and can simply use that functionality to disable zero-rating for California users." 
+ We asked AT&T why it doesn't disable sponsored data for California-based users only and did not get an answer. 
+ Zero-rating requires a “low data cap” 
+ In a  blog post yesterday , van Schewick wrote that "[z]ero-rating only works when you have a low data cap. That creates an incentive for ISPs to keep low data caps and keep unlimited plans expensive." 
+ Becerra made a similar point in the court brief while arguing that "communities of color and low-income communities" are disproportionately harmed by zero-rating. 
+ "[I]t is indisputable that communities of color and low-income communities need fair access to the open Internet," Becerra wrote. "But the zero-rated plans to which these communities disproportionately subscribe cannot supply this, because zero-rating allows ISPs to set artificially low data caps for these plans, and leaves these customers with insufficient access for everyday needs." 
+ The Democratic-led FCC in late 2016  found that AT&T violated  net neutrality rules, saying that "the Sponsored Data program strongly favors AT&T's own video offerings while unreasonably discriminating against unaffiliated edge providers and limiting their ability to offer competing video services to AT&T's broadband subscribers on a level playing field." 
+ Republican Ajit Pai  quickly rescinded  that finding after becoming FCC chairman in early 2017 and later  repealed  the federal net neutrality rules, paving the way for California to impose its own law. 
+ 
+ 
+ Promoted Comments 
+ 
+ 
+ 
+ 
+ 
+ billmao 
+ Smack-Fu Master, in training 
+ 
+ et Subscriptor 
+ 
+ 
+ jump to post 
+ 
+ 
+ 
+ 
+ 
+ Quote: When contacted by Ars today, AT&T declined to explain why it doesn't zero-rate all video as allowed under California's net neutrality law. "Because we want a competitive edge over other streaming providers by taking advantage of the fact that we also own the pipeline!" Yeah...they can't say that out loud.
+    
+   
+ 
+ 
+ 
+ 
+ 
+ 99 posts | registered  1/5/2018 
+ 
+ 
+   
+ 
+ 
+ 
+ steelcobra 
+ Ars Praefectus 
+ 
+ 
+ 
+ jump to post 
+ 
+ 
+ 
+ 
+ 
+ pkirvan  wrote: I’m sure this will get plenty of support from people who hate AT&T. Of course what consumers actually need is competition. And what could be better for keeping out new competitors than complicated regulations that vary from state to state? AT&T has the lawyers to figure out how all the rules work and clobber competitors with them. Indeed, the company has always thrived in hyper-regulated environments and has never done well when exposed to a functioning free market. So overall this will work out fine for them. ATT was literally prioritizing a service they owned while extorting competing services with the data cap counting. Data caps have never been about providing a benefit to the user, or about managing network congestion (which they are literally not capable of, that's what Cell sites do automatically). It's about creating artificial scarcity the provider can shake the customer down for.
+    
+   
+ 
+ 
+ 
+ 
+ 
+ 4464 posts | registered  7/15/2011 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ reader comments 
+ 241 
+  with 93 posters participating 
+ 
+ 
+ Share this story 
+ 
+ Share on Facebook 
+ Share on Twitter 
+ Share on Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jon Brodkin 
+      Jon is Ars Technica's senior IT reporter, covering the FCC and broadband, telecommunications, tech policy, and more.     
+ 
+ Email   jon.brodkin@arstechnica.com 
+ // 
+ Twitter   @JBrodkin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertisement  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ You must  login or create an account  to comment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Channel  Ars Technica 
+ 
+ 
+ 
+ 
+ ←  Previous story   Next story  → 
+ 
+ 
+ 
+ 
+ Related Stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Today on Ars 
+ 
+ 
+ 
+ 
+ 
+ 

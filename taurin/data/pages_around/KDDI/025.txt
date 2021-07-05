@@ -1,0 +1,323 @@
+##LINK: https://docplayer.net/40108381-Natural-relationships-internet-exchanges-and-research-and-educational-networks-muhammed-rudman-unilag.html
+##KEYWORDS: open Internet
+##TITLE: NATURAL RELATIONSHIPS: INTERNET EXCHANGES AND RESEARCH AND EDUCATIONAL NETWORKS. Muhammed Rudman Unilag - PDF Free Download
+##METHOD: paragraphs
+
+
+
+
+
+                                                                Error: 
+
+Transcription
+1 NATURAL RELATIONSHIPS: INTERNET EXCHANGES AND RESEARCH AND EDUCATIONAL NETWORKS. Muhammed Rudman Unilag
+2 About IXPN Internet exchange Point of Nigeria (IXPN) LTD/GTE is a not-for-profit, neutral and membership based organization
+3 The awesome growth of the internet There are over 2 billion internet users worldwide. About 4.5 billion people using mobile phones. NCC registered 110,433,976 SIM Cards an estimate of 70 Million of users users in Nigeria. It is estimated that there are more than 1 trillion pages of content on the Internet. About 215 million registered domain. more than 845 million people connected around the globe on Facebook. Twitter service rapidly gained worldwide popularity, with over 300 million users as of 2011,generating over 300 million tweets and handling over 1.6 billion search queries per day. One hour of video is uploaded to YouTube every second - that s 24 hours of video every 24 seconds, 60 hours a minute, 9 months every 2 hours, a decade every single day and a century every 10 days- (more video uploaded in 3 days than NTA in the past 34 years). Source:
+4 History of IXPS ARPANET developed by DARPA The first ARPANET link was established between the University of California, Los Angeles and the Stanford Research Institute on 22:30 hours on October 29, The early Internet was used by computer experts, engineers, scientists, and librarians. Network Access Points (NAPs) established at end of NSFnet The original exchange points
+5 Various types of organizations can connect to IXPN: - Other IP centric organizations, such as: E.g. Google, Akamai Technologies Inc., root-servers, Domain Registry System etc Content providers Critical Internet Resources IXPN Interconnecting Nigerian Networks Higher Educational Institutions Carriers
+6 Based on the way they evolve, IXPs are often managed by: 1. The Academic Institutions. 2. Membership-based organizations. 3. Neutral colocation operators.
+7 IXP MANAGEMENT BY ACADEMIC INSTITUTIONS Hong Kong Internet exchange (HKIX) was initiated and operated by the Information Technology Services Centre of the Chinese University of Hong Kong. Singapore Open exchange (SOX) is a public/neutral Internet exchange Point (IXP) hosted by National University of Singapore (NUS). The Vienna Internet exchange (VIX) is operated by the Vienna University Computer Center   The Norwegian Internet Exchange ( NIX) is owned and operated by the Centre for Information Technology Services (USIT) of the University of Oslo. The Athens Internet exchange (AIX) service is provided by the Greek Research and Technology Network (GR-Net). Network operation and management for the AIX is provided by the Network Management Center of the National Technical University of Athens.
+8 IXP MANAGEMENT BY : A MEMBERSHIP-BASED ORGANIZATION IXPN (Nigeria) NaMeX (Rome) AMS-IX (Amsterdam) LINX (London) DE-CIX (Germany) NEUTRAL COLOCATION OPERATORS Equinix (USA) NOTA (USA)
+9 
+10 
+11 IXPN Members 1. Tara Systems 2. Cyberspace 3. Starcomms 4. Netcom Africa 5. Linkserve Century 7. MTS First Wireless 8. Meddalion Comm. 9. Gateway Comm. 10. ITClick NetworX 11. Internet Solutions 12. Swift Networks 13. Skannet 14. Peace Global 15. Kkon 16. VDT Comm. 17. IPNX 18.University of Lagos 19.ICNL 20.Chams 21.MTN 22.Broad Based Comm. 23.Suburban 24.Simbanet 25.Google 26.GUAP/GASP 27.Cobranet 28.LHECP (Eko-Konnect) 29.Coolink 30.Main one 31.Phase3 32.Layer3 33.Etisalat
+12 NEW SITES UPDATE Abuja : The site was commissioned in July 2011 Kano : Waiting for Kano State government to allocate the site of the exchange at the ICT Park. All the required equipment are on ground and we have commenced a site survey of the HEIs. Port Harcourt : Concluded on the site, about to commence installations, to be commissioned before the end of April Enugu : Waiting for funding. Maiduguri :Waiting for funding but already in discussions with the government toward the new IXP and the NREN cluster.
+13 
+14 Questions?
+
+
+        Interconnections on the Internet: Exchange Points Keith Mitchell CTO, XchangePoint RIPE NCC Regional Meeting Dubai, 7 th Dec 2003 Outline of Presentation Introduction Internet Interconnect Principles Internet    
+
+
+        LINXCaseStudy LINX from Anywhere A Case Study with E4A Spring, 2009 2 LfA Case Study Introduction and Background Introduction This is a brief case study of an Italian service provider, E4A, who joined    
+
+
+        Chapter 6 The Internet By Frankie, K. F. Yip MSN: frankie.sir@live.com Email: ask.frankie@gmail.com Facebook: register.frankie@gmail.com 6 Background The ARPANET, created in 1969, connected computers at    
+
+
+        Internet Exchange Points Philip Smith ISOC-AU Meeting APNIC 38 Brisbane September 16 th 2014 1 Internet Exchange Points p Background What is an IXP p Why set up an IXP? p Technologies p Benefits p IXPs    
+
+
+        !! Euro-IX Update! Arnold Nipper!! Twitter: @euroix! Euro-IX,! An Association of Internet Exchanges! Euro-IX is an association of Internet Exchanges Points, promoting an open interchange of ideas and experiences,    
+
+
+        TELEHOUSE International London Docklands North London Docklands East London Metro Hamburg Frankfurt Beijing Shanghai Seoul Santa Clara Staten Island Manhattan Broadway Munich Hong Kong Taipei Tokyo Osaka    
+
+
+        Regulatory and policy challenges of next-generation access IP interconnection issues 6 November 0 Michael Kende Introduction Last year marked the 5th anniversary of the commercialisation of the Internet    
+
+
+        Presentation for Broadband for America Overview of recent changes in the IP interconnection ecosystem Michael Kende June 7 th, 2011 Ref: Introduction 2 Last year marked the 15 th anniversary of the commercialization    
+
+
+        NIGERIA S PREMIUM DATA CENTRE TIER III DESIGN CERTIFIED SECURE RELIABLE SCALABLE 1 WHY WOULD YOU WANT TO BUILD A DATA CENTRE? IT TAKES MILLIONS OF US DOLLARS TO BUILD AN EFFICIENT DATA CENTRE. A KEY ASSET,    
+
+
+        SERVICE DESCRIPTION INTERNET TRANSIT 04.05.15 / 2.6.4 1 INTRODUCTION 4 2 DEFINITIONS AND ABBREVIATIONS 4 3 SERVICE OVERVIEW NATIONAL AND INTERNATIONAL 5 3.1 Geographic cover Internet Transit... 5 3.1.1    
+
+
+        NeuStar SIP-IX Eugene Lew VP, Advanced Services +1-571-434-3420 Eugene.Lew@neustar.biz March 2006 NeuStar Background Global operator of neutral, shared, mission-critical directory and clearinghouse services    
+
+
+        SIP-IX NeuStar March 22, 2006 Safe Harbor Statement This includes information that constitutes forward-looking statements made pursuant to the safe harbor provision of the Private Securities Litigation    
+
+
+        Promoting the use of Internet Exchange Points (IXPs) A Guide to Policy, Management and Technical Issues March 2012 1. Introduction The Internet is not a single entity, but is made up of independent networks    
+
+
+        Get ready for IPv6 Digital Economy Facilitation Division, OGCIO Industry Forum 2012 24 July 2012 1 Agenda IPv4 address exhaustion Worldwide IPv6 deployment Major deployment milestones Hong Kong IPv6 deployment    
+
+
+        How the Internet Works Kyle Spencer, June 2014 Director, Uganda Internet exchange Point Technology for Development Specialist, UNICEF E-mail: kyle@stormzero.com Agenda This talk will take approximately    
+
+
+        CONSUMERLAB INTERNET GOES MOBILE Country report Nigeria An Ericsson Consumer Insight Summary Report April 2015 contents FROM DUSK TIL DAWN 3 LOCATION EQUATION 4 CONNECTIVITY CALCULATIONS 5 SERVICE AND    
+
+
+        Current Trends in IXPs, Hosting, and Cloud Computing INTERNET EXCHANGE POINTS FORUM Verena Weber, OECD The Internet The term the Internet originates from and is commonly defined as: The network of interconnected    
+
+
+        Making the Internet fast, reliable and secure DE-CIX Customer Summit - 2014 Steven Schecter  What is a Content Distribution Network RFCs and Internet Drafts define a CDN as: Content    
+
+
+        Information Pack! October 2014!! Bijal Sanghani! bijal at euro-ix dot net! Twitter: @euroix!! Introduction! Euro-IX is an association of Internet Exchanges Points, promoting an open interchange of ideas    
+
+
+        Company presentation January 2013 Gilat Satcom HQ in Israel, Main African subsidiary in Nigeria 3 international satellite teleports, 14 Hubs/PoPs in Africa, 2 PoPs in Europe, 2 Fibers Managing over 2.4Gb    
+
+
+        Measuring the Web: Part I - - Content Delivery Networks Prof. Anja Feldmann, Ph.D. Dr. Ramin Khalili Georgios Smaragdakis, PhD Acknowledgement Material presented in these slides is borrowed from presentajons    
+
+
+        Evolution At The Edge. Interconnection, Cloud Services, Oh my! Christian Koch, Megaport Why I m Here Over the past 20 years, networks have generally interconnected the same way, however, there are some    
+
+
+        Bring a Big World Closer Global Telecommunications Solutions for Business KDDI Corporation > > A Fortune Global 500 Company > > Ranked 13th in the telecommunications industry in 2011 KDDI America Total    
+
+
+        Emirates Internet Exchange EMIX Providers, Peering & Customers Adel Al-Shakeri Engineer Backbone (EMIX) Agenda EMIX Overview EMIX International Connectivity EMIX Peering EMIX Capacity Statistics EMIX Customers    
+
+
+        emarsys Whitepaper Contents Introduction Results Summary of Results Top 5 Social Email Marketing Tips About emarsys Introduction Facebook, Twitter, YouTube, LinkedIn...Social networks have grown from a    
+
+
+        Internet Marketing Professor, College of Business, San Francisco State University (William Perttula interviewed by Theodor Valentin Purc rea) The trend toward internet marketing has been going on since    
+
+
+        Digital Marketing Boot Camp 4 Days Residential Program Dubai Singapore Thailand Agenda About EduPristine About EduPristine Detailed Workshop Outlines Contact Information 1 About EduPristine Trusted by    
+
+
+        The Southeast Asia Data Centre Market A look at new players and key drivers as well as the opportunities and challenges in Asia Ronald van Kleunen CEO Globeron (ronald@globeron.com) Philip Low CEO BroadGroup    
+
+
+        !! IXP Workshop Serbia, December 2013! Bijal Sanghani!! bijal at euro-ix dot net Twitter: @euroix @bijalsanghani! Euro-IX,! An Association of Internet Exchanges! Euro-IX is an association of Internet Exchanges    
+
+
+        Internet Exchange Point Design Philip Smith  MENOG 13 Kuwait 24 th September 2013 Last updated 20 September 2013 1 Presentation Slides p Available on n http://thyme.apnic.net/ftp/seminars/    
+
+
+        Philip Smith Network Startup Resource Center (NSRC) PacNOG 16 1 st December 2014, Honiara, Solomon Islands Intro https://atlas.ripe.net 3 Atlas in the Pacific 4 Measurement Devices 5 v1 & v2: Lantronix    
+
+
+        Going Social: What Investment Firms Need to Know About Social Media Compliance Agenda Social media landscape Regulators view on social media Legal position and practical considerations Importance of a    
+
+
+        European VoIP Summit 2016 Exploring the Future of Voice Communications #VoIPSummit Future of WebRTC and Applications #VoIPSummit Panelists Dave Tubb Director of Technology EMEA Mark Seemann President and    
+
+
+        IPv6 Around the World IPv6 deployment is increasing its momentum globally, and IPv4 address exhaustion is approaching rapidly. Many parts of the world are engaged in efforts to increase broadband penetration,    
+
+
+        Chris Skinner @FSClub and @Chris Skinner @FSClub and @Chris_Skinner www.thefinanser.com Norway (Oslo) Sweden (Stockholm) Scotland (Edinburgh) Ireland (Dublin) England (London) Poland (Warsaw) Austria Slovakia    
+
+
+        CARRIER NEUTRAL DATA CENTERS: TERMINOLOGY, SERVICES, OPERATIONS Wouter van Hulten Cross-connects and Data Centre Operations African Peering & Interconnection Forum 25-27 August 2015 Wouter VAN HULTEN 1998    
+
+
+        Hong Kong Internet Exchange (HKIX) http://www.hkix.net Hong Kong Internet Exchange What is HKIX? The Evolution of HKIX Present Situation Conclude with some forecast 19-Aug-2002 ITSC, CUHK 1 What is HKIX?    
+
+
+        IPv6 Deployment in MyIX Professor Dr. Sureswaran Ramadass What is an Internet Exchange Major providers connect their networks and exchange traffic. High-speed network or Ethernet switch. Simple concept    
+
+
+        SEO, Search Engine and Online Reputation Management Presented By: Kathleen Dorsey, Founder & CEO, Global Results & Inner Circle Member 1-800-408-0093 x 210 kdorsey@globalseoresults.com Today s Topics Overview    
+
+
+        The Internet Introductory material. An overview lecture that covers Internet related topics, including a definition of the Internet, an overview of its history and growth, and standardization and naming.    
+
+
+        the Availability Digest History s Largest DDoS Attack? April 2013 From March 18 th through March 28 th, Spamhaus, a spam-filtering site, was swamped with up to 300 gigabits per second (gbps) of traffic    
+
+
+        The Internet Introductory material. An overview lecture that covers Internet related topics, including a definition of the Internet, an overview of its history and growth, and standardization and naming.    
+
+
+        NATIONAL INSURANCE COMMISSION HEAD OFFICE: Plot 1239 Ladoke Akintola Boulevard Garki 11,Abuja, P.M.B. 457, Garki Abuja, Nigeria.:09-8756021 E-mail: info@naicom.gov.ng, Website: www.naicom.gov.ng NAICOM/CFIO/DCTICOM-CIR/2014/007    
+
+
+        A comprehensive guide Reference Paper February 2015 A service built to provide a connected experience, running on a platform built to perform that s Lifesize Cloud, powered by SoftLayer, an IBM Company.    
+
+
+        SMART CITIES And ENERGY Finding new markets in a changing world 1 Today s Session Smart City introduction Growth Success Story - Smart Grid, Smart City Josh Gerber of SDG&E Growth Success Story - Blueprint    
+
+
+        BEST EXECUTION POLICY In Prague on 9 th December 2015 TABLE OF CONTENT 1. Introductory provisions 2. Markets where the Company executes customer's instructions 3. Instructions 4. Strategy for executing    
+
+
+        Home News Articles Blog Web Hosting Budget Hosting Cloud Hosting Colocation Guides DDOS Protection Datacenters Dedicated Servers Ecommerce Hosting Exchange Web Hosting Hardware Hosting Automation Hosting    
+
+
+        Where is this cloud thing anyway? By Peter van Eijk, independent IT consultant. Introducing Cloud Performance. CMG has a long tradition of adapting to new technologies. The cloud is no exception. Computing    
+
+
+        Connect. Simply. Introducing Inteliquent Global interconnection is complex. At Inteliquent, we harness our passion for problem-solving to create simplified solutions for the world s telecommunication challenges.    
+
+
+        Management Information Systems Basics of the Internet Dr. Shankar Sundaresan (Adapted from Introduction to IS, Rainer and Turban) Internet Basics Outline Internet History Internet Structure Switching Methods    
+
+
+        Cloud Computing and Big Data That s Why! Ray Walshe 14 th March 2013 Data Centre Growth We need more data centres??? (c) Ray Walshe 2013 2 By 2015 By 2015, about 24% of all new business software purchases    
+
+
+        THE AFRICAN DATA CENTER RISES Data Center Colocation Demand, Supply, Forecasts & Business Models in African Markets A XALAM ANALYTICS SPOTLIGHT REPORT REPORT TABLE OF CONTENTS October 2015 Dakar London    
+
+
+        GWI Social Summary Q2 2014 GlobalWebIndex s quarterly report on the latest trends in social networking providing insights on topline and national levels of engagement as well as current behaviors across    
+
+
+        Miami KeyCenter Empowering you to do more Telefónica Global Solutions Beijing Telefónica Global Solutions Connecting all parts of your global business We ve been building secure, reliable telecommunications    
+
+
+        Collaborative Draft The Internet Exchange Point Toolkit & Best Practices Guide How to Maximize the Effectiveness of Independent Network Interconnection in Developing Regions and Emerging Markets February    
+
+
+        The Internet Peering Playbook: Connecting to the Core of the Internet Second Edition Written by William B. Norton This book is essential reading for anyone seeking to understand the core of the Internet.    
+
+
+        Miami KeyCenter Empowering you to do more Telefónica Global Solutions Beijing Telefónica Global Solutions Connecting all parts of your global business We ve been building secure, reliable telecommunications    
+
+
+        Communications Area communications AfriNIC and the Community AfriNIC Public Policy Meetings AfriNIC-6 AfriNIC 6 th public policy meeting was held in Abuja, Nigeria from the 28 th April to 4 th May 2007.    
+
+
+        Equinix Cloud Exchange Datacenter Forum Stephane Buchs, IMS 17 th September 2014 Largest carrier-neutral data center provider Market Challenge Expanding addressable market; ensuring consistent performance    
+
+
+        An Overview About Cablenet Ownership Cablenet is a privately owned company that offers telecommunication and entertainment services to the corporate and retail markets. Shareholders are: CN Shiacolas Group    
+
+
+        Leveraging Successful Global Data Centre Business Models for the benefit of Hong Kong 26 September 2011 Digital Realty Trust Our data centres enable customers to deliver critical business operations. We    
+
+
+        F root anycast: What, why and how João Damas ISC Overview What is a root server? What is F? What is anycast? F root anycast. Why? How does ISC do it? What is f.root-servers.net? One the Internet s official    
+
+
+        Company Profile Outstanding data centres. Expertise you can trust. Europe s leading provider of premium carrier-neutral data centres. 02 / TelecityGroup Introduction Outstanding data centres. Expertise    
+
+
+        Big Data and Society: The Use of Big Data in the ATHENA project Professor David Waddington CENTRIC Lead on Ethics, Media and Public Disorder d.p.waddington@shu.ac.uk Helen Gibson CENTRIC Researcher h.gibson@shu.ac.uk    
+
+
+        Peering in Hong Kong Che-Hoo CHENG CUHK/HKIX www.hkix.net How Internet Operates in simple terms Internet is composed of networks of ISPs and users User networks connect to ISPs Small ISPs connect to large    
+
+
+        KDDI Corporation A Fortune Global 500 Company Ranked 13th in the telecommunications industry in 20 09 CONSTITUENT RATIO OF 2010 KDDI OPERATING REVENUE (%) KDDI OPERATING REVENUE (Billions of Dollars) Consolidated    
+
+
+        SOCIAL MEDIA    80 78 76 74 72 70 68 66 64 Access to free content Series 1 To learn Advanced news of products Series 1    A Social Roadmap Understand how and why people use social media Map the social    
+
+
+        Internet and IP addressing Richard T. B. Ma School of Computing National University of Singapore CS 3103: Compute Networks and Protocols Communication Network Taxonomy Telephony Network parses number dialed    
+
+
+        THE AFRICAN DATA CENTER RISES Data Center Colocation Demand, Supply, Forecasts & Business Models in African Markets A XALAM ANALYTICS SPOTLIGHT REPORT REPORT TABLE OF CONTENTS October 2015 Dakar London    
+
+
+        Social Media Analysis of Key Ecommerce Portals By Konnect Social Industry: ecommerce Brands Analysed: Flipkart, Snapdeal, FashionAndYou, Myntra, HomeShop18 Listening Period: July 12, 2013 to July 26, 2013    
+
+
+        Globalization of Academic Research In Health: The Johns Hopkins Model Thomas C. Quinn, MD, MSc Director, Center for Global Health Johns Hopkins University Global Health Global Health is a field of study,    
+
+
+        Internet Exchange Points (IXPs) Scalable Infrastructure Workshop Objectives p To be able to explain what an Internet Exchange Point (IXP) is p To be able to explain why ISPs participate in IXPs p To understand    
+
+
+        Frequently Asked Questions ODYSSEY TABLET COMPUTER Q) What are the specifications of the Odyssey tablet? 1. Size: 7 inches (diagonal from corner to corner) 2. Resolution: 1024 X 600 (WSVGA resolution),    
+
+
+        SOCIAL MEDIA ADVERTISING STRATEGIES THAT WORK ABSTRACT» Social media advertising is a new and fast growing part of digital advertising. In this White Paper I'll present social media advertising trends,    
+
+
+        20 Appendix: Understanding the Internet Appendix: Understanding the Internet History of the Internet Appendix: Understanding the Internet History of the Internet There is no doubt about it: the Internet    
+
+
+        Data Sheet Eloqua Social Suite Integrate Social directly into your campaigns with just a few mouse clicks. Product Description B2B organizations recognize that social channels represent an increasingly    
+
+
+        Singapore Internet Connectivity Cloud Expo Asia 14 November 2013 Shaun Woodhouse Commercial Director, Singapore 2 Digital Realty overview World s largest investor, developer, owner and operator of data    
+
+
+        KENET NETWORK INFRASTUCTURE KENNEDY ASEDA kaseda@kenet.or.ke Country of marathon winners? 2 Google Confidential and Proprietary Contents Network Infrastructure Network Operations Achievements & Challenges    
+
+
+        EXECUTIVE REPORT Big Data and the 3 V s: Volume, Variety and Velocity The three V s are the defining properties of big data. It is critical to understand what these elements mean. The main point of the    
+
+
+        Promoting the Use of Internet Exchange Points: A Guide to Policy, Management, and Technical Issues By Mike Jensen Summary Internet Exchange Points (IXPs) are vital elements of Internet infrastructure that    
+
+
+        UN DPADM: EGM 2015 Inclusive Economic Growth and Sustainability Dennis Anderson, Ph.D. Professor St. Francis College USA March 16-17, 2015 UN HQ About Me Professor & Chairman of Management and IT Executive    
+
+
+        KDDI Global ICT Solutions Building your business together. KDDI, your best ICT Solution Provider COMMUNICATION FOR GROWING YOUR BUSINESS KDDI ICT solutions are at the cutting-edge in all fields of information    
+
+
+        Content is king, but who rules? Is an open Internet @ risk? IP Interconnection trends from a hybrid hosting provider perspective Bart van der Sloot Managing Director LeaseWeb Network May 19, 2016 About    
+
+
+        REVIEW AND ANALYSIS OF INTERNET TRAFFIC AND ITS IMPLICATIONS ON THE ROOT NAME SERVER ARCHITECTURE Rami Khasawneh, Interim Dean, College of Business, Lewis University, khasawra@lewisu.edu Eveann Lovero,    
+
+
+        WAN Ethernet Services Portfolio Flexible, Reliable Service to More Locations with Business is dynamic. Markets change. You know from experience that the most adaptable companies are the ones that thrive.    
+
+
+        Cloud-Based Project Information Management from Aconex: A Guide for IT Professionals Adopting an Aconex SaaS Solution It s the job of CIOs and IT managers to ensure that their organizations adopt secure    
+
+
+        The Role IXPs and Peering Play in the Evolution of the Internet PTC 14, New World, New Strategies, 19-22 January 2014 Steve Wilcox, President and CTO, IX Reach A Quick Introduction Steve Wilcox founded    
+
+
+        Internet infrastructure development in the Asia Pacific: What s needed for sustainable growth Miwa Fujii , Senior Advisor Internet Development, APNIC 29 th April 2014 ADB/ITU ICT Development    
+
+
+        Top 4 Ways Social Media is Helping to Reshape Marketing How implementing social media into your business strategy can position your brand for the better Inside, you ll find information on: The ever-changing    
+
+
+        The Evolving Role of Technology in Insurance KEY MANAGEMENT GROUP, INC Key Trends Redefining the Agent s work in Insurance Market Insurance is slowly emerging from its traditional underwriting methods    
+
+
+        NewPoint IT Consulting BIG DATA WHITE PAPER NewPoint Information Technology Consulting Content 1 Big Data: Challenges and Opportunities for Companies... 3 2 The Technical and Business Drivers of BIG DATA...    
+
+
+        Digital Infrastructure and Economic Development An Impact Assessment of Facebook s Data Center in Northern Sweden executive summary The Boston Consulting Group (BCG) is a global management consulting firm    
+
+
+        What's inside the cloud?! Initial Arpanet Initial Arpanet Interface Message Processors - DDP-516 mini-computers - 24 Kbyte of Core memory - Store-and-forward packet switching - Predecessors of present    
+
+
+        Company Profile Outstanding data centres. Expertise you can trust. Europe s leading provider of premium carrier-neutral data centres. Front cover image Routine checking This page New data centre capacity    
+
+
+        Telenor Global Services Company presentation  Among the major mobile operators in the world More than 176 million mobile subscriptions 33 000 employees Present in markets with 1.3 billion people Mobile    
+
+
+        Data Services Portfolio Carrier Relations & Wholesale Department Local Services enet ewan Microwave National MPLS Local Leased Circuits Extended Services IP Transit International MPLS International Private    
+
+
+        Nigeria s Power Privatisation Process: Learning Curves Chijioke Okonkwo Senior Consultant June 2015 Learning Curves from Structure and Process Adopted for the PHCN Privatisation OUTLINE Introduction Review    
+
+
+        Competition, Interconnection and Pricing Module Break Out Session B: 9h00 10h30 Calvin S. Monson Vice President Hong Kong December 3, 2006 Consortium The following consortium worked on the ICT Regulation    
+
+
+        Executive Summary Global colocation markets continue to signal a mix of positive and negative growth indicators in 2014. Core global markets show steady historical growth, but many operators indicate that    

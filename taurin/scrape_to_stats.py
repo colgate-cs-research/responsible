@@ -156,8 +156,8 @@ def main(inpath="output/scrape_around.json", outpath="output/stats-scrape_around
             "domains-company" : domains_company
         }
 
-    #with open(outpath, 'w') as outfile: 
-    #    json.dump(stats, outfile, indent=4)   
+    with open(outpath, 'w') as outfile: 
+        json.dump(stats, outfile, indent=4)   
 
 if __name__ == "__main__":
     main()

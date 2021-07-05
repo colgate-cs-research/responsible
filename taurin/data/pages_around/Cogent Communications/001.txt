@@ -1,0 +1,22 @@
+##LINK: https://www.cogentco.com/en/about-cogent/corporate-responsibility/our-network
+##KEYWORDS: net neutrality
+##TITLE: Our Network
+##METHOD: paragraphs
+
+We at Cogent support Net Neutrality – no blocking or throttling of traffic, no paid prioritization of traffic, full access to all lawful content on the Internet, and free flowing interconnection among Internet providers. Recently, the Federal Communications Commission rescinded its rules enforcing Net Neutrality. We think that is bad for Internet users and for the Internet.
+Since 2013, we have spent over $14 million supporting net neutrality.
+It is Cogent's belief that both the customer and the Internet as a whole are best served if the application layer remains independent from the network. Innovation in the development of new applications is fueled by the individual's ability to reach as many people as possible without regard to complicated gating factors such as tiered pricing or bandwidth structures used by legacy service providers.
+Applications proliferate in a free market economy which is the Internet today.
+Our Privacy Policies explain how we collect information, how we use it and the choices you have. Our policies apply when you use our services or interact with us. Please see our Website Privacy Policy and our Data Privacy Notice.
+Some jurisdictions provide additional privacy rights to their residents. We have specific policies for the European Union (GDPR) and the State of California (CCPA).
+To contact us with any questions or concerns related to privacy, please email us at This email address is being protected from spambots. You need JavaScript enabled to view it..
+Cogent practices net neutrality. We do not prioritize packet transmissions on the basis of the content of the packet, the customer or network that is the source of the packet, or the customer or network that is the recipient of the packet. Where there are network problems such as congestion at interconnection points or fiber cuts we implement network management tools to minimize harm to the users of our network.
+Please see our US Open Internet Access Disclosure and our EU Open Internet Access Disclosure.
+Our network is layer-3-protected and built in a series of rings. In the event of a fiber cut, data is rerouted away from the cut, reaching the customer from the other direction and keeping customer connected. We proactively monitor customer services from our Network Operations Centers (located in Frankfurt, Germany; Madrid, Spain and Paris, France) and answers support calls quickly, averaging fewer than 25 seconds. We have the ability to shift our NOC operations to a fully remote status in the event necessary. Local support teams and online account management are available 24x7x365.
+Our network, like other packet switched networks has the ability to dynamically re-route traffic based on existing traffic conditions.  We have adequate capacity across most spans in our network to allow routing algorithms to automatically reroute traffic around disruptions such as fiber optic cable cuts or equipment failures.  Our systems automatically measure packet loss and latency across the network as well as span utilization.  In the event that traffic does not re-route automatically we have the ability to remotely route traffic to under-utilized spans using traffic engineering tunnels.
+For more information on our network performance see https://www.cogentco.com/en/network/performance-tools
+Acceptable Use Policy - Legal Matters - Privacy Policy - CCPA - GDPR - Contact Cogent Webmaster - Net Neutrality - Statement Concerning Modern Slavery Act (UK)
+  
+ All trademarks, tradenames and service names mentioned and/or used belong to their respective owners.
+Switch Site Language
+ 

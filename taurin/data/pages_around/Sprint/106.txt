@@ -1,0 +1,125 @@
+##LINK: https://www.absolunet.com/en/trending/repeal-net-neutrality-impact-ecommerce
+##KEYWORDS: paid prioritization
+##TITLE: The Repeal of Net Neutrality and the Impact on eCommerce | Absolunet
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+              
+                Opinion
+              
+             
+ 
+ The Repeal of Net Neutrality and the Impact on eCommerce 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ by 
+ Mikhala Lantz-Simmons 
+  -  
+ 
+ 
+ January 3, 2018 
+  -  
+ 
+    
+    
+    4 min read
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In this article, we quickly explain net neutrality, look at 3 ways that retailers, distributors and manufacturers could be impacted and offer some reflections on how to prepare for the unknown. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Absolunet is a professional services firm specializing in commerce and digital transformations.  We help brands and distributors fast-forward their digital transformation, bridge the eCommerce gap and put customers at the heart of their experience, profitably. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Net Neutrality : A Quick Explanation 
+ Big or small, mainstream or niche, commercial or free, under the law of net neutrality, all content on the internet was required to be uniformly accessible for users in the United States. Internet Service Providers (ISPs) such as Comcast, Verizon and T-Mobile were mandated to ensure that all online content could load or stream at equal speeds.  
+ ISPs were further forbidden from blocking certain sites or charging extra for access. But in a 3-2 vote on December 14th 2017, the Federal Communications Commission (FCC) dismantled the protections that safeguarded net neutrality.  
+ Will This Repeal Alter the eCommerce Landscape?  
+ Internet service providers now theoretically have the right to slow down or speed up loading times as they choose. This clears the way for a divided internet, split between fast and slow lanes.  
+ To explain their support for the repeal of net neutrality, ISPs have cited rising costs for maintaining and building out internet infrastructure and a need to protect their investments.  
+ While the major ISPs are stating that their services will not change, subtle messaging has shifted: Comcast has publicly stated that it will not block or throttle Internet access, yet  the company quietly dropped its promise to not institute paid prioritization  (faster internet lanes for a higher cost).  
+ 3 Ways Retailers, Distributors and Manufacturers Could Be Impacted: 
+ Internet Service Providers Could Pave Fast Lanes Straight to Their Own Content: 
+ In the same way T-Mobile includes access to Netflix and Sprint features Hulu in their cellular plans, internet packages could provide “free” traffic to Amazon or Walmart.com, thereby making them the preferred seller over remaining eCommerce sites. 
+ Worst case scenario:   ISPs could flat out block sites. The only minor deterrent in place is a requirement that internet service providers specify their policy around blocking sites in their user agreements but who actually reads those terms of service? ( less than one person in a thousand,  it turns out.). 
+ eCommerce Companies Might Be Asked to Pay for Priority Placement and Speed: 
+ Worst case scenario: A big player like Amazon could essentially write a large check to every single ISP to guarantee that traffic to its site gets priority over other marketplaces or eCommerce sites in terms of speed and overall access. 
+ Since  page speed has been shown to increase conversion rates , this competitive advantage could represent a large windfall: “Research shows that a 1 second delay in page response time can result in a 7%  reduction in conversions. Put into perspective, if an e-commerce site is making  US$100,000 per day,  a 1 second page load delay could potentially cost  US$2.5-million in lost sales every year. ” 
+ Browsing Histories are Already for Sale: 
+ Legislation in the US signed earlier in 2017 undid privacy rules  that required ISPs to obtain users’ explicit consent before sharing or selling their web browsing history. ISPs can now legally sell data on their clients’ traffic patterns and search history. 
+ Companies with deep pockets can pay for chunks of valuable data, which can be leveraged to create personalized communications and features. As we know, personalization is a conversion rate game changer: 2017 research  shows that 79% of commerce companies that exceeded their revenue goals had a documented personalization strategy. 
+ What Might Change for Canadian eCommerce Companies:  
+   
+ It Could be Harder to Reach Customers in the US: 
+ With American ISPs capable of slowing down or blocking certain sites as they see fit, these ISPs could demand “rent” to display Canadian content to customers. 
+ If a Canadian company refuses to pay, the ISP could potentially reroute traffic to a site like Amazon,  explains Byron Holland, CEO of the Canadian Internet Registration Authority. 
+ Cloud Services Could be Compromised: 
+ Canadian companies who store their data in US servers will need to think about the possible impact on network and data sovereignty. As Canadian internet traffic often transits through the US, there are concerns that Canadian data could get caught by non-neutral policies,  says Michael Geist, Canada research chair in internet and e-commerce law at the University of Ottawa. 
+ How Should Manufacturers, Distributors and Retailers be Preparing? 
+   
+ Assess your risk: 
+ Alongside different stakeholders in your company, look at different scenarios and how your company would need to adapt. Talk about it up front. 
+ Include it in your budget:  
+ You might need to budget for payments to an internet service provider in exchange for a guaranteed connection to customers. This would put small companies at a big disadvantage. 
+ Consider cost-recovering strategies:  
+ With this possible payment requirement, you’ll need to think about strategies for recovering costs. You may need to reallocate ad spend or, at worst, pass the cost on to the consumers.  
+ Choose your allies wisely: 
+  If it comes to it, choosing an ISP to align with won’t be a value-neutral decision. By paying one ISP, your consumers would have full access to your site, but you risk alienating consumers using a competing ISP. By not picking a side, you could be invisible to all users. If this comes to pass, many eCommerce companies will face a difficult dilemma. It will be important to leverage up-to-date data on your consumers’ locations and preferences to make an informed decision. 
+ Keep your APIs in the equation:  
+ Access to APIs (application program interfaces – the backdoor code connections that allow your site to interact with other sites in order to funnel in data or functionalities) might disappear if it becomes cost-prohibitive for other companies. Take an inventory of the API connections you are currently leveraging to determine a strategy if that access disappears.  
+ Brand experience becomes even more important 
+ What are you offering customers that will make them fight to get access to you? A solid omnichannel strategy provides value for the customer regardless of platform. In fact, the first of 2018’s  10 eCommerce trends  looks at examples of how companies are re-investing in brick-and-mortar. Consider riding the wave of pop-up shops and in-person experiences to provide value to your customer across all channels.  
+ ISPs will be on their best behavior in the short term as they are under the spotlight, but it is not too soon to be talking with relevant stakeholders about the flexibility and creativity that might be required under this new paradigm.  
+ 
+ 
+ 
+ 
+ 

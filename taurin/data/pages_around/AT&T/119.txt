@@ -1,0 +1,56 @@
+##LINK: https://www.fiercetelecom.com/telecom/incompas-to-congress-paid-prioritization-allows-isps-to-gain-profit-from-network-congestion
+##KEYWORDS: paid prioritization
+##TITLE: Incompas to Congress: Paid prioritization allows ISPs to profit from network congestion | FierceTelecom
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+by  Sean Buckley  |
+ Apr 17, 2018 10:25am 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+Incompas told the House Subcommittee on Communications and Technology that paid prioritization will only benefit large ISPs at the expense of consumers and businesses. (iStock/mindscanner)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Incompas made its case known to the House Subcommittee on Communications and Technology that paid prioritization will do nothing more than line the pockets of large ISPs with more profits from congested networks and violate the tenets of net neutrality. 
+ 
+ 
+ 
+ 
+ The House Subcommittee on Communications and Technology will hold a hearing on paid prioritization today. Paid prioritization was one of the key elements of the 2015 net neutrality rules that the current FCC overturned in December. 
+ Angie Kronenberg, chief advocate and general counsel for Incompas, said in a  letter  (PDF) sent to the House Subcommittee on Communications and Technology that paid prioritization will enable ISPs to create fast and slow lanes, enabling them to prioritize traffic flows—all for their own profit. 
+ 
+ 
+ 
+ 
+ “If paid prioritization is allowed, ISPs will be able to leverage their control over their networks and access to subscribers to allow some websites to be put in front of others at times of congestion,” Kronenberg said. “Paid prioritization, moreover, only has value if there is congestion. If capacity is abundant, prioritization has no value. If allowed to monetize congestion, ISPs will not be incented to upgrade their networks and invest in more bandwidth, and with the limited residential competition for ISP service—American consumers will be worse off.” 
+ Service providers, including AT&T, claimed that they will continue to let consumers and businesses access the internet via their pipes freely. Following the FCC’s overturning of its 2015 net neutrality, AT&T made a pledge to Congress to create an  “Internet Bill of Rights”  for internet users. Unsurprisingly, AT&T’s plan drew a mix of praise and derision from consumer and related telecom industry groups. 
+ At that time, the telco said that it does not block websites, censor online content or throttle, discriminate or degrade network performance based on content. 
+ However, AT&T’s promises have been little comfort to Incompas and others who point to the telco’s multimillion-dollar lobbying effort to overturn the 2015 FCC net neutrality rules. 
+ But it’s not just Incompas that’s against paid prioritization. 
+ The industry group cited a  survey  (PDF) it conducted that found 72% of voters are against paid prioritization. Additionally, 86% believe that ISPs should treat all websites and content equally. 
+ “Consumers want to be able to access the content, services, and applications of their choice online without ISPs controlling their choices,” Kronenberg said. 
+ 
+ 
+ Read more on 
+ 
+ net neutrality   Throttling   Incompas   FCC   AT&T   
+ 
+ 
+ 

@@ -1,0 +1,331 @@
+##LINK: http://docplayer.net/2719354-Internet-traffic-and-content-consolidation.html
+##KEYWORDS: open Internet
+##TITLE: Internet Traffic and Content Consolidation - PDF Free Download
+##METHOD: paragraphs
+
+
+
+
+
+                                                                Error: 
+
+Transcription
+1 Internet Traffic and Content Consolidation Craig Labovitz Chief Scientist, Arbor Networks S. Iekel-Johnson, D. McPherson Arbor Networks, Inc. J. Oberheide, F. Jahanian University of Michigan
+2 Talk Outline Describe two-year traffic measurement study The original Internet topology The emerging new Internet Application transport and the end of end-to-end A few words on IETF implications Page 2 - IETF
+3 Two Year Study of Inter-domain Traffic Graphic not an accurate representation of current ATLAS deployments Leverage large, widely deployed commercial Internet monitoring infrastructure Global deployment across 110+ ISPs / Content Providers Near real-time traffic and routing statistics (14 Tbps) Participation voluntary and all data sources are anonymous Largest study of its kind Page 3 - IETF
+4 Study Details Within a given ISP, commercial probe infrastructure Monitors NetFlow / Jflow / etc and routing across possible hundreds of routers Probes topology aware of ISP, backbone and customer boundaries Routers typically include most of peering / transit edge Some deployments include portspan / inline appliances Deployments send anonymous XML file to central servers Includes self-categorization of primary geographic region and type Data includes coarse grain anonymized traffic engineering statistics ATLAS Centrally maintained servers ISP / Content Providers Introduced at NANOG 47 academic paper under review, Arbor blog provides ongoing related bits Page 4 - IETF
+5 Traffic Measurements Inter-domain traffic volumes Estimate directly monitoring 25% all inter-domain traffic Believe data representative of global inter-domain traffic Validate predictions based on data (using 12 known ISP traffic demands) Measurement Confidence Does NOT measure Number of web hits, tweets, transactions, customers, etc. Internal / private customer traffic (e.g. VPNs, IPTV) ISP success nor profitability Page 5 - IETF
+6 Original Internet ( ) Settlement Free Pay for BW Pay for access BW Textbook diagram (still taught today) Hierarchical, relatively sparsely inter-connected Internet Mostly accurate until recently (modulo a few name changes over the years) Page 6 - IETF
+7 Market Forces Reshape Traffic and Connectivity Revenue from Internet Transit Source: Dr. Peering, Bill Norton Revenue from Internet Advertisement Source: Interactive Advertising Bureau Page 7 - IETF
+8 Largest Carriers: Then and Now Rank 2007 Top Ten % 1 ISP A ISP B ISP C ISP D ISP E ISP F ISP G ISP H ISP I ISP J 1.23 Rank 2009 Top Ten % 1 ISP A ISP B Google Comcast Based on analysis of anonymous ASN (origin/transit) data (as a weighted average % of all Internet Traffic). Top ten has NO direct relationship to study participation. In 2007, top ten match tier-1 ISPs (e.g., Wikipedia) In 2009, global transit carry significant traffic volumes But Google and Comcast join the list And a significant percentage of ISP A traffic is Google transit Page 8 - IETF
+9 The New Internet Settlement Free Pay for BW Pay for access BW Flatter and much more densely interconnected Internet Significant routing, traffic, security, economic, implications Disintermediation between content and eyeball networks New commercial models between content, consumer and transit Page 9 - IETF
+10 Consolidation of Content (Grouped Origin ASN) In 2007, thousands of ASNs contributed 50% of content In 2009, 150 ASNs contribute 50% of all Internet traffic Approximates a power law distribution Page 10 - IETF
+11 Case Study: Google )"!"#$%&"'()*"+,$"(-"+."/&,$"( (" '" &" %" $" #"!" -./0/12" " (*%!*!)" +*%!*!)" #!*%!*!)" #$*%!*!)" %*#*!+" '*#*!+" )*#*!+",*#*!+" ##*#*!+" #*#*!," %*#*!," '*#*!," Graph of weighted averaged grouped ASNs Over time Google absorbs YouTube traffic As of July 2009, Google accounts for 6% of all Internet inter-domain traffic Google the fastest growing ASN group Page 11 - IETF
+12 Google Dense Interconnection )!" C8,:84;068"=D"E==658"F,0G:"HIJ46"?J,8:;"C88,J46" Direct (!" '!"!"#$"%&'(")) &!" %!" $!" #!" Transit!" *+,-!." /01-!." 234-!." 235-!." *36-!." 78+-!." 9:;-!." <=>-!."?8:-!." #!" A8B-#!" Over time, Google increasingly using direct peering with tier2/3 and eyeball networks As of February 2010, more than 60% of Google traffic does not use transit Remainder largely global transit carriers These numbers do not include GGC Page 12 - IETF
+13 Other Case Studies!"#$%&"'()*"+,$"(-"+."/&,$"(!#)"!#("!#'"!#&"!#%"!#$"!" )*&!*!+",*&!*!+" $!*&!*!+" $%*&!*!+" &*$*!," (*$*!," +*$*!," -*$*!," $$*$*!," $*$*!-" &*$*!-" (*$*!-"./01234" " Rapid rise of new content players, e.g. CDNs Facebook Baidu Apple / MSFT Change in traffic patterns and business strategies of consumer networks Page 13 - IETF
+14 What s Happening? Commoditization of IP and Hosting / CDN Drop price of wholesale transit Drop price of video / CDN Economics and scale drive enterprise to cloud Consolidation Bigger get bigger (economies of scale) e.g., Google, Yahoo, MSFT acquisitions Success of bundling / Higher Value Services Triple and quad play, etc. New economic models Paid content (ESPN 360), paid peering, etc. Difficult to quantify due to NDA / commercial privacy Disintermediation Direct interconnection of content and consumer Driven by both cost and increasingly performance Page 14 - IETF
+15 Applications Rank Application Change 1 Web 41.68% 52.00% 24.76% 2 Video 1.58% 2.64% 67.09% 3 VPN 1.04% 1.41% 35.58% % 1.38% -2.13% 5 News 1.75% 0.97% % * 6 P2P (*) 2.96% 0.85% % 7 Games 0.38% 0.49% 28.95% 8 SSH 0.19% 0.28% 47.37% 9 DNS 0.20% 0.17% % 10 FTP 0.21% 0.14% % Other 2.56% 2.67% 4.30% Unclassified 46.03% 37.00% % (*) 2009 P2P Value based on 18% Payload Inspection Weighted average percentage of all Internet traffic using well-known ports Growing volume of Internet traffic uses port 80 / 443 Includes significant video component and source of most growth Unclassified includes P2P and video Payload matching suggests P2P at 18% P2P is fastest declining Page 15 - IETF
+16 The End of End-to-End?!#+"!"#$%&"'()*"+,$"(-"+."/&,$"(!#*"!#)"!#("!#'"!#&"!#%"!#$"!" The end of Xbox TCP 3074 *,$,!*" -,$,!*" $$,$,!*" $,$,!+" &,$,!+" (,$,!+" *,$,!+" -,$,!+" $$,$,!+" $,$,!-" &,$,!-" (,$,!-" Weighted average percentage of Xbox Internet traffic./01" Growing dominance of web as application front-end Plus burden of ubiquitous network layer security policies Results in growing concentration of application traffic over a decreasing number of TCP / UDP ports Especially port 80 Especially video Cumulative Distribution of Traffic to TCP / UDP Ports Page 16 - IETF
+17 P2P Graph of weighted average traffic using well-known P2P ports In 2006, P2P one of largest threats facing carriers Significant protocol, engineering and regulatory effort / debate In 2010, P2P fastest declining application group Trend in both well-known ports and payload based analysis Still significant volumes Slight differences in rate of decline by region (i.e. Asia is slower) Page 17 - IETF
+18 P2P Surpassed by Direct Download Weighted average percentage of Internet traffic contributed by Carpathia ASNs Normally study lacks visibility into hosting customers Mega [Upload Video Erotic] is an exception Carpathia small hosting company by traffic volume in Fall 2008 Mega becomes Carpathia customer in November 2008 Carpathia Hosting grows overnight to more than 0.5% of all traffic Page 18 - IETF
+19 IPv6!"#$%&"'()*"+,$"(-"+."/&,$"(!#!)" Hurricane Electric Relay Deployment!#!("!#!'"!#!&" utorrent 1.8 Release!#!%"!#!$" IPv6 miniscule percentage of Internet traffic (.04 %) Still relatively little native IPv6 peering between large carriers Few carriers with v6 traffic visibility (i.e. flow) Tunneled IPv6 shows growth since IPv6 Due to utorrent And Hurricane Electric global Teredo deployment (see blog)!" *+$+!*",+$+!*" $$+$+!*" $+$+!-" &+$+!-" (+$+!-" *+$+!-",+$+!-" $$+$+!-" $+$+!," &+$+!," (+$+!," *+$+!,",+$+!," $$+$+!," $+$+$!" Page 19 - IETF
+20 Internet Size / Growth In 2009, Internet (inter-domain) roughly ~45 Tbs And growing at 45% per year Significant, but no Exaflood Followed MINTS methodology for AGR Used 10 known ISP totals (MRTG / Flow based) to extrapolate Internet total Page 20 - IETF
+21 IETF Implications Increasingly dense Internet and impact on routing scalability and convergence Slow IPv6 deployment highlights need for alternative transition mechanisms The end of end-to-end Increasing impact of firewall, NAT Silo ed ecosystems Page 21 - IETF
+22 Conclusion Internet is at an inflection point Focus shifting from transmission to content Battle for access to eyeballs (and control of content) Transit is commoditized and devalued New focus on datacenters and co-location (caches) New technologies reshaping definition of Internet Web / Desktop Applications, Cloud computing, CDN Changes mean significant new commercial, security and engineering challenges This is just the beginning Page 22 - IETF
+
+
+        Trends in Internet Traffic Patterns Darren Anstee, EMEA Solutions Architect This Talk The End of the Internet as we Know it We present the largest study of Internet traffic every conducted Peer-reviewed    
+
+
+        Internet Inter-Domain Traffic Craig Labovitz, Scott Iekel-Johnson, Danny McPherson Arbor Networks Jon Oberheide, Farnam Jahanian University of Michigan Motivation Measuring the Internet is hard Significant    
+
+
+        ATLAS Internet Observatory Bandwidth Bandwagon: An ISOC Briefing Panel November 11, 2009, Hiroshima, Japan Danny McPherson danny@arbor.net Chief Security Officer ATLAS Observatory Details ISP / Content    
+
+
+        ATLAS Internet Observatory 2009 Annual Report C. Labovitz, S. Iekel-Johnson, D. McPherson Arbor Networks, Inc. J. Oberheide, F. Jahanian University of Michigan M. Karir Merit Network, Inc. ATLAS Internet    
+
+
+        Internet Traffic Evolution 2007-2011 Craig Labovitz April 6, 2011 Talk Outline Four-year ongoing inter-domain traffic study Review of 2010 results (NANOG / IETF / SIGCOMM) Methodology Changing carrier    
+
+
+        Internet Inter-Domain Traffic Craig Labovitz, Scott Iekel-Johnson, Danny McPherson Arbor Networks Ann Arbor, MI {labovit, scottij, danny}@arbor.net Jon Oberheide, Farnam Jahanian University of Michigan    
+
+
+        Internet Traffic Trends A View from 67 ISPs Craig Labovitz (labovit@arbor.net) Danny McPherson (danny@arbor.net) Scott Iekel-Johnson (scottij@arbor.net) Mike Hollyman (mhollyman@arbor.net) Internet Statistics    
+
+
+        STATEMENT OF CRAIG LABOVITZ, PHD Co-Founder and CEO of DeepField Before the House Judiciary Committee Subcommittee on Regulatory Reform, Commercial and Antitrust Law Hearing on Competition in the Video    
+
+
+        CDN and Traffic-structure Outline Basics CDN Traffic Analysis 2 Outline Basics CDN Building Blocks Services Evolution Traffic Analysis 3 A Centralized Web! Slow content must traverse multiple backbones    
+
+
+        SoftLayer Investments Drive Growth and Improved Customer Experience A Neovise Vendor Perspective Report 2010 Neovise, LLC. All Rights Reserved. Executive Summary Hosting and datacenter services provider    
+
+
+        Deploying IPv6, Now Christian Huitema Architect Windows Networking & Communications Microsoft Corporation Agenda The Opportunity Key Problems The Promise of IPv6 What is Microsoft doing Call to Action    
+
+
+        Internet Traffic Measurement Internet Traffic Measurement Network Monitor Placement Measurement Analysis Tools Measurement Result Reporting Probing Mechanism Vantage Points Edge vs Core Hardware vs Software    
+
+
+        The Value of Content Distribution Networks Mike Axelrod, Google axelrod@google.com Introduction Well understood facts: o Fast is better than slow but it costs more to be fast o Network has to be fast and    
+
+
+        464XLAT: Breaking Free of IPv4 Cameron.Byrne @ T-Mobile.com NANOG 61 June 2014 1 Goals of Talk 1. Declare victory for IPv6 2. Explain IPv6-only approach at T-Mobile US 3. Discuss risks related to IPv4-only    
+
+
+        The Other 50% of Internet Traffic Craig Labovitz labovit@deepfield.net 1 Earlier In previous work, focused on HyperGiants 50% of Internet traffic due to 150 companies i.e. Google, MSFT, CDNs, large consumer    
+
+
+        Internet Firewall CSIS 4222 A combination of hardware and software that isolates an organization s internal network from the Internet at large Ch 27: Internet Routing Ch 30: Packet filtering & firewalls    
+
+
+        Deploying IPv6 at Scale As an ISP Clinton Work Member of the TELUS team October 2015 Agenda n The key questions of IPv6 deployments n Why? n Who? n What? n Where? n When? n How? n Key learnings from TELUS    
+
+
+        Introduction to The Internet ISP Workshops Last updated 5 September 2014 1 Introduction to the Internet p Topologies and Definitions p IP Addressing p Internet Hierarchy p Gluing it all together 2 Topologies    
+
+
+        Real World IPv6 Migration Solutions Asoka De Saram Sr. Director of Systems Engineering, A10 Networks 1 Agenda Choosing the right solutions Design considerations IPv4 to IPv6 migration road map Consumer    
+
+
+        Today Finishing up inter-domain routing Economics of peering/settlement Review of end-to-end forwarding How we build routers 1 A History of Settlement The telephone world LECs (local exchange carriers)    
+
+
+        The forces behind the changing Internet: IXPs, content delivery, and virtualization Prof. Steve Uhlig Head of Networks research group Queen Mary, University of London steve@eecs.qmul.ac.uk http://www.eecs.qmul.ac.uk/~steve/    
+
+
+        The Effect of s for Mobile Jochen Eisl, Nokia Siemens Networks, Munich, Germany Haßlinger, Deutsche Telekom Technik,, Darmstadt, Germany IP-based content delivery: CDN & cache architecture Impact of access    
+
+
+        5.0 Network Architecture 5.1 Internet vs. Intranet 5.2 NAT 5.3 Mobile Network 1 5.1The Internet Worldwide connectivity ISPs connect private and business users Private: mostly dial-up connections Business:    
+
+
+        Residential IPv6 at Swisscom, an overview Martin Gysi What is Required for an IPv6 Internet Access Service? ADSL L2 platform, IPv6 not required VDSL Complex Infrastructure is Barrier to Cost-efficient    
+
+
+        Introduction to The Internet ISP/IXP Workshops 1 Introduction to the Internet Topologies and Definitions IP Addressing Internet Hierarchy Gluing it all together 2 Topologies and Definitions What does all    
+
+
+        Monitoring of Tunneled IPv6 Traffic Using Packet Decapsulation and IPFIX Martin Elich 1,3, Matěj Grégr 1,2 and Pavel Čeleda1,3 1 CESNET, z.s.p.o., Prague, Czech Republic 2 Brno University of Technology,    
+
+
+        Workshop on Infrastructure Security and Operational Challenges of Service Provider Networks Farnam Jahanian University of Michigan and Arbor Networks IFIP Working Group 10.4 June 29-30, 2006 What s the    
+
+
+        IPv6 measurement in CSTNET Chunjing Han chjhan@cstnet.cn CSTNET, CNIC, Sep. 2014 1. The activities of IPv6 measurement in CSTNET 2. IPv6 traffic analysis and user behavior Topics 1. The activities of IPv6    
+
+
+        The Internet Peering Playbook: Connecting to the Core of the Internet Second Edition Written by William B. Norton This book is essential reading for anyone seeking to understand the core of the Internet.    
+
+
+        Olaf Kolkman The Hourglass: A Simplified Model Application Layer: Applications use IP for connectivity The Network Access Layer: Components in the Network Access Layer deliver IP connectivity The IP Layer:    
+
+
+        MPLS/IP VPN Services Market Update, 2014 United States August 2014 Contents Section Slide Numbers Executive Summary 4 Market Overview & Definitions 8 Drivers & Restraints 14 Market Trends & Revenue Forecasts    
+
+
+        IPv6 The Big Picture Rob Evans, Janet Rob.Evans@ja.net Where are we? IPv4 32 bit addresses 4,294,967,296 possible addresses In practice much less than this. History of large allocations /8s Inefficiency    
+
+
+        November 2013 S P E C I A L R E P O R T Defining the Value of MPLS VPNs Table of Contents Introduction... 3 What Are VPNs?... 4 What Are MPLS VPNs?... 5 What Are the Benefits of MPLS VPNs?... 8 How Do    
+
+
+        Traffic Diversion Techniques for DDoS Mitigation using BGP Flowspec Leonardo Serodio leonardo.serodio@alcatel-lucent.com May 2013 Distributed Denial of Service (DDoS) Attacks DDoS attack traffic consumes    
+
+
+        The Value of Flow Data for Peering Decisions Hurricane Electric IPv6 Native Backbone Massive Peering! Martin J. Levy Director, IPv6 Strategy Hurricane Electric 22 nd August 2012 Introduction Goal of this    
+
+
+        Internet Peering, IPv6, and NATs Mike Freedman V22.0480-005 Networks Internet Peering Review: Routing Internet has a loose hierarchy of domains Hosts now local router Local routers know site routers Site    
+
+
+        Broadband Services Overview Erin Dunne Edunne@verticalsystems.com Vertical Manager of Research Services http://www.verticalsystems.com 781.329.0900 Contact: Erin Dunne Vertical, Inc. Manager of Research    
+
+
+        REMOTE ASSISTANCE SOLUTIONS Private Server UBIQUITY components Control Center: client on the remote assistance PC Ubiquity Runtime: software installed on the remote device Ubiquity Server Infrastructure:    
+
+
+        Inter-provider Coordination for Real-Time Tracebacks Kathleen M. Moriarty 2 June 2003 This work was sponsored by the Air Force Contract number F19628-00-C-002. Opinions, interpretations, conclusions, and    
+
+
+        Content is king, but who rules? Is an open Internet @ risk? IP Interconnection trends from a hybrid hosting provider perspective Bart van der Sloot Managing Director LeaseWeb Network May 19, 2016 About    
+
+
+        AN IPv6 UPDATE FOR HURRICANE ELECTRIC CUSTOMERS APRIL 2008 Executive Summary Hurricane Electric is using this document to update its customers and anyone else interested in Hurricane Electric s network    
+
+
+        Internet Protocol: IP packet headers 1 IPv4 header V L TOS Total Length Identification F Frag TTL Proto Checksum Options Source address Destination address Data (payload) Padding V: Version (IPv4 ; IPv6)    
+
+
+        Interconnection and its Discontents Jon M. Peha Carnegie Mellon University www.ece.cmu.edu/~peha PPI, May 2014 1 Internet is a Network of Networks Internet consists of over 66,000 autonomous networks*    
+
+
+        IPv6 Migration Challenges for Large Service Providers Aruna P General manager Network Operation Agenda Airtel Overview Drivers of IPV6 Migration challenges Design Considerations Deployment plan Airtel    
+
+
+        June 2010 White Paper The Evolution of Ethernet How Ethernet solutions, such as NTT America s VLink, can help businesses reduce private networking costs while leveraging Ethernet technology. Introduction    
+
+
+        2 Privacy Internet Privacy Sirindhorn International Institute of Technology Thammasat University Prepared by Steven Gordon on 19 June 2014 Common/Reports/internet-privacy-options.tex, r892 1 Privacy Acronyms    
+
+
+        New Models and Conflicts in the Interconnection and Delivery of Internet-mediated Content A Presentation at: The 36 th Annual Conference of the Pacific Telecommunications Council Changing Interconnection    
+
+
+        Data Center Security Products Biannual Worldwide and Regional Market Share, Size, and Forecasts: Excerpts Data Center Security The Increasing Requirements for Data Center-Class Performance WHITE PAPER:    
+
+
+        IPv4 and IPv6 Integration Formation IPv6 Workshop Location, Date Agenda Introduction Approaches to deploying IPv6 Standalone (IPv6-only) or alongside IPv4 Phased deployment plans Considerations for IPv4    
+
+
+        Campus LAN at NKN Member Institutions RS MANI rsm@nkn.in 1/7/2015 3 rd Annual workshop 1 Efficient utilization Come from: Good Campus LAN Speed Segregation of LANs QoS Resilient Access Controls ( L2 and    
+
+
+        Expert Reference Series of White Papers vcloud Director 5.1 Networking Concepts 1-800-COURSES www.globalknowledge.com vcloud Director 5.1 Networking Concepts Rebecca Fitzhugh, VMware Certified Instructor    
+
+
+        Deploying Secure Enterprise Wide IP Videoconferencing Across Virtual Private Networks Document Overview This document provides an overview of how to effectively and securely provide IP-based videoconferencing    
+
+
+        WHITE PAPER Midrange MX Series 3D Universal Edge Routers Evaluation Report Demonstrating the high performance and feature richness of the compact MX Series Copyright 2011, Juniper Networks, Inc. 1 Table    
+
+
+        Interconnecting Domains Using Tunnels Version History Version Number Date Notes 1 30 July 2002 This document was created. 2 19 May 2003 Updated the related documents section. This document describes how    
+
+
+        F5 Silverline DDoS Protection Onboarding: Technical Note F5 Silverline DDoS Protection onboarding F5 Networks is the first leading application services company to offer a single-vendor hybrid solution    
+
+
+        NAT and Firewall Traversal with STUN / TURN / ICE Simon Perreault Viagénie {mailto sip}:simon.perreault@viagenie.ca http://www.viagenie.ca Credentials Consultant in IP networking and VoIP at Viagénie.    
+
+
+        WAN Optimization Integrated with Cisco Branch Office Routers Improves Application Performance and Lowers TCO The number of branch-office work sites is increasing, so network administrators need tools to    
+
+
+        WHITE PAPER Preparing Your IP Network for High Definition Video Conferencing Contents Overview...3 Video Conferencing Bandwidth Demand...3 Bandwidth and QoS...3 Bridge (MCU) Bandwidth Demand...4 Available    
+
+
+        Move to IPv6 for business continuity About NewMedia Express Managed hosting service provider SGNIC accredited registrar (.sg Domain) APNIC member BGP4 Multihome Network (AS38001) Peers with NTT, China    
+
+
+        What is a Firewall? Computer Security Firewalls fire wall 1 : a wall constructed to prevent the spread of fire 2 usually firewall : a computer or computer software that prevents unauthorized access to    
+
+
+        Network Address Translation (NAT) Adapted from Tannenbaum s Computer Network Ch.5.6; computer.howstuffworks.com/nat1.htm; Comer s TCP/IP vol.1 Ch.20 Long term and short term solutions to Internet scalability    
+
+
+        Network Management for Common Topologies How best to use LiveAction for managing WAN and campus networks April 2014 www.liveaction.com Contents 1. Introduction... 1 2. WAN Networks... 2 3. Using LiveAction    
+
+
+        Plugging Network Security Holes using NetFlow Loopholes in todays network security solutions and how NetFlow can help About ManageEngine Network Servers & Applications Desktop ServiceDesk Windows Infrastructure    
+
+
+        Virtual Leased Line (VLL) for Enterprise to Branch Office Communications Reliable high throughput data connections with low-cost & diverse transport technologies Executive Summary: The Truffle Broadband    
+
+
+        AKAMAI WHITE PAPER Delivering Dynamic Web Content in Cloud Computing Applications: HTTP resource download performance modelling Delivering Dynamic Web Content in Cloud Computing Applications 1 Overview    
+
+
+        Source-Connect Network Configuration Last updated May 2009 For further support: Chicago: +1 312 706 5555 London: +44 20 7193 3700 support@source-elements.com This document is designed to assist IT/Network    
+
+
+        Traffic delivery evolution in the Internet ENOG 4 Moscow 23 rd October 2012 January 29th, 2008 Christian Kaufmann Director Network Architecture Akamai Technologies, Inc. way-back machine Web 1998 way-back    
+
+
+        Scalable Services and Load Balancing Kai Shen Services brings ubiquitous connection based applications/services accessible to online users through Applications can be designed and launched quickly and    
+
+
+        Signpost: Trusted, Effectful Internet names Jon Crowcroft from original slides by Anil Madhavapeddy, University of Cambridge Keynote for U-Net@ICC, Ottawa, 11.6.2012 BACKGROUND: 1980 Internet AOL Yahoo!    
+
+
+        IOSR Journal of Electronics and Communication Engineering (IOSR-JECE) e-issn: 2278-2834,p- ISSN: 2278-8735.Volume 10, Issue 3, Ver. I (May - Jun.2015), PP 48-53 www.iosrjournals.org Implementing VPN over    
+
+
+        464XLAT: Breaking Free of IPv4 Cameron.Byrne@T-Mobile.com APRICOT 2014 1 Background T-Mobile US is a GSM / UMTS / LTE provider in the USA with 45+ Million subscribers In 2008, T-Mobile launched the first    
+
+
+        Interconnection, Peering and Financial Settlements in the Internet Geoff Huston Internet Society Interconnection an overview of how ISPs interact to form today s Internet The Sum of Many Parts The Internet    
+
+
+        Virtual Server and DDNS For BIPAC 741/743GE August, 2003 1 Port Number In TCP/IP and UDP networks, a port is a 16-bit number, used by the host-to-host protocol to identify to which application program    
+
+
+        Distributed Systems 25. Content Delivery Networks (CDN) Paul Krzyzanowski Rutgers University Fall 2014 November 16, 2014 2014 Paul Krzyzanowski 1 Motivation Serving web content from one location presents    
+
+
+        Making the Internet fast, reliable and secure DE-CIX Customer Summit - 2014 Steven Schecter  What is a Content Distribution Network RFCs and Internet Drafts define a CDN as: Content    
+
+
+        Virtual Privacy vs. Real Security Certes Networks at a glance Leader in Multi-Layer Encryption Offices throughout North America, Asia and Europe Growing installed based with customers in 37 countries Developing    
+
+
+        IP addressing IP address: 32-bit identifier for host, router interface Interface: Connection between host, router and physical link routers typically have multiple interfaces host may have multiple interfaces    
+
+
+        Virtual private network Network security protocols COMP347 2006 Len Hamey Instead of a dedicated data link Packets securely sent over a shared network Internet VPN Public internet Security protocol encrypts    
+
+
+        The development of networks allows enterprises to provide remote access to branch offices, partners, customers, mobile employees, and home offices so that they can access application and data resources,    
+
+
+        The Opportunity for White-labeled IPTV & OTT TV for MNOs, MSOs and ISPs Date: 19 January 2014 0 Leader in Technology and Competition 7M population, multi-lingual, mainly Chinese speaking 3.8 million Telephone    
+
+
+        WHITE PAPER Unlocking Video Over the Internet with MX Series Routers Introduction to Automatic Multicast Tunneling as a Transition Strategy for Local Service Providers Copyright 2011, Juniper Networks,    
+
+
+        Virtual Leased Line (VLL) for Communications between Offices Reliable high throughput data connections with low-cost & diverse transport technologies Executive Summary: The Truffle Broadband Bonding Network    
+
+
+        Unifying the Distributed Enterprise with MPLS Mesh Technical Whitepaper June 2011 Copyright 2011 AireSpring Introduction Today s modern enterprise employs IT technologies that deliver higher value, resiliency,    
+
+
+        Securing and Monitoring BYOD Networks using NetFlow How NetFlow can help with Security Analysis, Application Detection and Traffic Monitoring Don Thomas Jacob Technical Marketing Engineer ManageEngine    
+
+
+        ProCurve Networking The Next Generation of Networking Introduction... 2 Benefits from... 2 The Protocol... 3 Technology Features and Benefits... 4 Larger number of addresses... 4 End-to-end connectivity...    
+
+
+        NEFSIS TRAINING SERIES Nefsis Dedicated Server version 5.2.0.XXX (DRAFT Document) Requirements and Implementation Guide (Rev5-113009) REQUIREMENTS AND INSTALLATION OF THE NEFSIS DEDICATED SERVER Nefsis    
+
+
+        The Emerging 21 st Century Access Power Peering (*) William B. NORTON DrPeering International, Palo Alto, CA USA Abstract: From the beginning of the Internet as a government-funded network of networks    
+
+
+        Truffle Broadband Bonding Network Appliance Reliable high throughput data connections with low-cost & diverse transport technologies PART I Truffle in standalone installation for a single office. Executive    
+
+
+        Sprint Global MPLS VPN IP Whitepaper Sprint Product Marketing and Product Development January 2006 Revision 7.0 1.0 MPLS VPN Marketplace Demand for MPLS (Multiprotocol Label Switching) VPNs (standardized    
+
+
+        CS 457 Lecture 19 Global Internet - BGP Fall 2011 Decision Process Calculate degree of preference for each route in Adj-RIB-In as follows (apply following steps until one route is left): select route with    
+
+
+        THE IDENTIFIED EMERGING POLICY RESPONSES 1. INSERT Traffic shaping 2. The UK Parliament is presently considering introducing technical measures to tackle the problem of unlawful peer-to-peer (P2P) file-sharing.    
+
+
+        ZEROOUTAGES WHITE PAPER Private Cloud Solutions Virtual Onsite Data Center ZEROOUTAGES - WHITE PAPER Single Side / Balancing The ZeroOutages solution makes for a perfect link bonding/balancing device for    
+
+
+        TYLER JUNIOR COLLEGE School of Continuing Studies 1530 SSW Loop 323 Tyler, TX 75701 1.800.298.5226 www.tjc.edu/continuingstudies/mycaa Education & Training Plan CompTIA N+ Specialist Program Student Full    
+
+
+        Chapter 3 TCP/IP Networks 3.1 Internet Protocol version 4 (IPv4) Internet Protocol version 4 is the fourth iteration of the Internet Protocol (IP) and it is the first version of the protocol to be widely    
+
+
+        Interconnec(on economics: issues and models Prof. Costas Courcoube(s AUEB Telefonica June 2012 1 Goal Show that economics (game theory) are key to understand current interconnec(on trends Discuss interes(ng    
+
+
+        White Paper Layer 7 Visibility and Control FEBRUARY 2013 This document highlights the foundation of Meraki s self-learning layer 7 traffic analytics engine and the rich visibility and intuitive management    
+
+
+        AT&T Managed IP Network Service (MIPNS) MPLS Private Network Transport Technical Configuration Guide Version 1.0 Introduction...2 Overview...2 1. Technology Background...2 2. MPLS PNT Offer Models...3    
+
+
+        THE WHAT AND WHY ABOUT A Proud Vendor Member of the 1 What Is this about? 2 What is Mikrotik? What DOES it DO for ME! What is it s Purpose! What is the BIG DEAL? Why should I care? Does it help my bottom    
+
+
+        COUNCIL WORKING GROUP ON INTERNATIONAL INTERNET-RELATED PUBLIC POLICY ISSUES (RES. 1336) 6 th meeting, Geneva, 2-3 February 2015 INTERNATIONAL TELECOMMUNICATION UNION Document CWG-Internet 6/4-E 15 September    

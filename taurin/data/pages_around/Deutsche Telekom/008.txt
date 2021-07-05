@@ -1,0 +1,57 @@
+##LINK: https://www.euractiv.com/section/digital/news/deutsche-telekom-chief-causes-uproar-over-net-neutrality/
+##KEYWORDS: net neutrality
+##TITLE: Deutsche Telekom chief causes uproar over net neutrality  – EURACTIV.com
+##METHOD: article 1
+
+
+
+ 
+ 
+   EURACTIV.com   
+  30-10-2015
+           
+ 
+ 
+ 
+ Timotheus Höttges [ Wikipedia ]   
+ 
+ 
+ 
+ Languages:  Français Comments   Print   Email       Facebook   Twitter   LinkedIn   WhatsApp     
+ 
+ Deutsche Telekom CEO Timotheus Höttges sparked concerns among net neutrality campaigners this week. Following Tuesday’s (October 27) European Parliament vote, Höttges said Telekom will demand startups pay a share of their revenue to get good internet service. 
+ Höttges said telecoms will benefit from the new law, which allows better internet quality for specialised services. According to Höttges, small startups need those services too—but they’ll have to pay a fee for them. 
+ “There needs to be the option of giving priority to data associated with sensitive services if the network is congested,” Höttges said. 
+ “Developing innovative internet services with high standards of quality will continue to be possible.” 
+ Management of network congestion is another hot button issue that critics of the net neutrality bill said could be misused. Some critics argued that telecoms would potentially have free rein to step in and control internet speed at will. 
+ Negotiations between the European Parliament, Commission and Council over net neutrality were often heated and yielded a final compromise only after a marathon meeting that ended in the early morning on 30 June. 
+ Critics said the outcome of negotiations was a watered down deal that would still allow telecoms operators to offer internet service at different speeds. Specialised services are at the centre of campaigners’ concerns. 
+ EU Digital Commissioner Günther Oettinger has pointed to examples e-health and connected cars as services that could be accessed with priority speed internet. 
+ Campaigners say that doesn’t do enough to clear up the murky definition of specialised services that’s written into the law. 
+ >>Read:  Parliament green lights roaming and net neutrality 
+ Höttges’ statement on Wednesday (28 October) is a first glimpse of how major telecoms may interpret those services. 
+ He sparked controversy by claiming that specialised services would give a boost to startup businesses. 
+ “Start-ups need special services more than anyone in order to have a chance of keeping up with large internet providers,” he argued. 
+ “If they want to bring services to market which require guaranteed good transmission quality, it is precisely these companies that need special services. By our reckoning, they would pay a couple of percent for this in the form of revenue-sharing,” Höttges added. 
+ Simon Schaefer, a private startup investor and founder of Berlin’s tech hub Factory, called Höttges’ claim “ludicrous”. 
+ “They’re creating a toll on anybody that doesn’t have the liquidity to finance whatever price they come up with,” Schaefer told EURACTIV. 
+ Startups are overall less likely to be able to afford premium service, according to Schaefer. Particularly smaller companies that create online games or videos would be disadvantaged, since they need a lot of bandwidth and don’t have the finances to compete with giants like Youtube for better service. 
+ Schaefer said the overarching issue is that there is no understanding of specialised services carved out in the new net neutrality law, which is part of the broader telecoms single market legislation and also includes provisions to drop mobile roaming charges within Europe by 2017. 
+ “The lack of definition is being used now by Mr Höttges. He’s making a lack of definition into a business model,” Schaefer said. 
+ Allied for Startups, a group that advocates on behalf of startups, signed a  letter to MEPs  before Tuesday’s vote on the bill to urge them to approve amendments that would have dealt a blow to measures allowing specialised services. The amendments were rejected. 
+ Factory, Rome startup association Roma Startup, and several dozen other tech companies also signed the letter. 
+ Vodafone Germany has already signalled its agreement with Höttges. “There isn’t even a one-class internet today,” the company told Spiegel Online yesterday. 
+ Large telecoms companies have been resistant to net neutrality legislation and clung to controversial provisions allowing specialised services and zero rating, which allows providers to offer certain apps or services for free as part of their packages. 
+ European telecoms association ETNO said in a statement following the Parliament vote that services such as connected cars and e-health require “network management as well as differentiation of services”. 
+ Background Negotiators from the European Parliament, Commission and Council agreed on a draft of the telecoms single market legislation on 30 June 2015, after heated, night-long discussions. The major parts of the bill address net neutrality and mobile roaming charges. Following the 27 October plenary vote in Parliament, EU telecoms regulator BEREC has nine months to review the legislation. 
+   
+ 
+ 
+ 
+ Languages:  Français Comments   Print   Email       Facebook   Twitter   LinkedIn   WhatsApp     
+ 
+ 
+ Topics   
+   Deutsche Telekom   Digital & Media   Net Neutrality   single market for telecommunications   Telecoms regulation   
+   
+ 

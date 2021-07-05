@@ -1,0 +1,8 @@
+##LINK: https://lists.internet2.edu/sympa/arc/i2-news/2006-03/
+##KEYWORDS: open Internet
+##TITLE: i2-news - News for and about the Internet2 community - arc
+##METHOD: paragraphs
+
+Subject: News for and about the Internet2 community 
+
+Archive powered by MHonArc 2.6.16.

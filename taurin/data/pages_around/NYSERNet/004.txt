@@ -1,0 +1,26 @@
+##LINK: https://groups.google.com/g/geni-users/c/X2Ara3ME3Jo
+##KEYWORDS: open Internet
+##TITLE: Is there a proxy between my VM and the open web?
+##METHOD: paragraphs
+
+Hi!  I have two VM resources on GENI, and I’m trying to install my node.js server on them.  On both, “npm install” errors out trying to fetch the prerequisite libraries.  Usually this is due to internet connectivity
+ issues, and can be caused by a proxy (if I don’t have npm set up to use that proxy).
+ 
+Do the resources have a proxy between that VM and the open internet?
+ 
+A curl from one resource (pcvm2-6.instageni.nysernet.org) showed that it could reach the prerequisite URLs fine
+(which would be consistent with the idea that I have not set up npm correctly for a proxy).
+ 
+On pcvm2-6.instageni.stanford.edu, though, I wasn’t able to install curl because I get 404 errors trying to do so (on URLs that work fine on my machine).
+ 
+Anyone have any ideas of why this could be happening?
+ 
+Thanks!
+ 
+Details:
+Account type: GENI portal
+Slice name: serversetup
+Aggregates:
+- NYSERNet InstaGENI
+- Stanford InstaGENI
+That worked for me.  Thanks!

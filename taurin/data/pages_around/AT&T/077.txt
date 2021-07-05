@@ -1,0 +1,123 @@
+##LINK: https://www.eff.org/deeplinks/2021/03/atts-hbo-max-deal-was-never-free
+##KEYWORDS: zero-rating
+##TITLE: AT&T’s HBO Max Deal Was Never Free | Electronic Frontier Foundation
+##METHOD: article 11
+
+
+
+ 
+ When it launched HBO Max, it  was discovered  that usage of the service would not count against the data caps of AT&T customers, a practice known as “zero-rating.” This means that people on limited data plans could watch as much HBO Max content as they wished without incurring overage fees. AT&T just declared that it would stop this practice, citing California’s net neutrality law as a reason. No matter what spin the telecom giant offers, this does not mean something “free” was taken away. That deal was never free to begin with. 
+ It should be noted that net neutrality doesn’t prevent companies from zero rating in a non-discriminatory way. If AT&T wanted to zero rate all video streaming services, it could. What net neutrality laws prevent is ISPs from using their control over Internet access to advantage its own content or charging services for special access to its customer base. In the case of HBO Max and zero rating, since AT&T owns HBO Max, it costs them nothing to zero rate HBO Max. Other services had to pay for the same treatment or be disadvantaged when AT&T customers chose HBO Max to avoid overage fees. 
+ This is why AT&T is claiming that it’s being forced to stop offering a “free” service because of California’s net neutrality rule. Rather than admit that the  wireless industry knows zero rating can be used to shape traffic and user behavior  and that perhaps users should determine the entire Internet experience, they want to turn this consumer victory into a defeat. But this basic consumer protection is long overdue having only taken this long because of former FCC Chairman Ajit Pai’s  decision to abandon net neutrality and terminate investigations into AT&T’s unlawful practice  in 2017, which prompted California to pass S.B. 822 in the first place. 
+ You Already Paid AT&T to Offer the HBO Max Deal  
+ American Internet services—mobile and to the home—are vastly more expensive than they should be. We pay more for worse services than in many other countries and practices like zero rating are part of that. 
+ A comprehensive  study by Epicenter.works  showed that after zero rating was banned in the EU, consumers received cheaper mobile data over the years. This is because if the ISP can not do things like drive users towards its verticals through artificial scarcity schemes like data caps, it will need to raise its caps and be less willing to penalize usage of its network simply for using the service they purchased in order to appeal to customers. In fact, the infrastructure being laid out for modern wireless, fiber optics, has so much capacity that data caps really make no sense if the market was more competitive. 
+ It is also very important to understand that the cost of moving data is getting cheaper and easier. As we move to fiber-backed infrastructure, the cost of moving data is coming down, speeds are going up exponentially, and the congestion challenges of the early days of the iPhone are a distant memory. 
+ As a result, even though moving data is cheaper, AT&T prices haven’t changed accordingly. Profits for the companies grow, but consumers aren’t seeing prices that match the lowering cost of data. You have essentially paid the price of a real unlimited Internet plan for one with data caps, which continue to exist so that telecom companies can charge more for unlimited plans and collect overage fees. We know problem isn’t actual capacity, since  AT&T lifted data caps  at the start of the COVID-19 pandemic. If data caps and related data scarcity schemes were necessary for the operation of the network, then a time  when usage is on the double-digit rise  should have meant AT&T needed to keep its data caps intact and enforce them to keep things running. They didn’t because fiber-connected towers have more than enough capacity to handle growth, unlike  older non-fibered cable systems who now throttle uploads . 
+ AT&T’s Zero Rating Favored Big Tech and Was Anticompetitive 
+ Competition among video streaming services is fierce and should be protected and enhanced. User-generated content on things like Twitch and YouTube, premium content from Netflix, Disney+, or Amazon Prime are all competing for your attention and eyeballs. AT&T wanted to give HBO a leg up by simply making the other services either more expensive via a data cap or to have them pay AT&T to be exempt so even if you were not watching AT&T’s product, money was coming to them. Such a structure makes is impossible for a small independent content creator to be competitive as they lack the resources to pay for an exemption and would need to provide content compelling enough for AT&T customers to pay extra to watch. 
+ Furthermore, as the Epicenter.works study discovered, it took a lot of resources from Internet companies to obtain a zero rating exemption making it something only the Googles, Facebooks, and similarly large Internet companies could regularly engage in but not medium to small companies. AT&T doesn’t mind that because it just means more ways to extract rents from more players on the Internet despite being fully compensated by users for an unfettered Internet experience. 
+ Low-Income Advocates Fought Hard to Ban AT&T’s Zero Rating 
+ During the debate in California, AT&T attempted to reframe its zero-rating practice as “free data” and came  awfully close to convincing Sacramento to leave it alone . But advocates representing the low-income residents of California came out in strong support of the California net neutrality law's zero-rating provisions. Studies by the Pew Research Center showed that when income is limited, consumers  opt to use only mobile phones for Internet access  as opposed to both wireline and wireless service. Groups like the  Western Center on Law and Poverty  pointed out that for these low-income users, AT&T was giving them a lesser Internet and not equal access to higher-income users. 
+ And that is the ultimate point of net neutrality, to ensure everyone has equal access to the Internet that is free from ISP gatekeeper decisions. When you take into consideration that AT&T is  one of the most indebted companies on planet Earth , it starts to make sense why in the absence of federal net neutrality, AT&T started to seek out any and every way to nickel and dime everything that touches its network. But with California’s law starting to come online, users finally have a law that will stand against the effort to convert the Internet into cable television. Whether or not we have federal protection, it seems clear that the states are proving right now that they can be an effective backstop and the work in preserving a free and open Internet will continue not just in DC but in the remaining 49 states. 
+   
+
+
+ 
+ Deeplinks Blog 
+  by  Mitch Stoltz 
+  | June 29, 2021 
+   Setbacks in the FTC’s Antitrust Suit Against Facebook Show Why We Need the ACCESS Act 
+ 
+ 
+ After a marathon markup last week, a number of bills targeting Big Tech’s size and power, including the critical  ACCESS Act , were passed out of committee and now await a vote by the entire House of Representatives. This week, decisions by a federal court tossing out both the Federal...   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon 
+  | June 29, 2021 
+   A Wide, Diverse Coalition Agrees on What Congress Needs to Do About Our Broadband 
+ 
+ 
+ A massive number of groups representing interests as diverse as education, agriculture, tech sector, public and private broadband providers, low-income advocacy, workers, and urban and rural community economic development entities came together to ask Congress to be bold in its infrastructure plan. They are asking Congress to tackle the digital...   
+
+
+ 
+ Deeplinks Blog 
+  by  Katharine Trendacosta 
+  | June 22, 2021 
+   Congress Wants to Put the Brakes on Runaway Acquisitions by Big Tech 
+ 
+ 
+ The Judiciary Committee of the U.S. House of Representatives recently released a comprehensive series of bills designed to curb the excesses of Big Tech. One of them, the  Platform Competition and Opportunity Act , addresses one of the biggest, most obvious problems among the largest tech companies: that they use...   
+
+
+ 
+ Deeplinks Blog 
+  by  Bennett Cyphers ,  Cory Doctorow 
+  | June 21, 2021 
+   The New ACCESS Act Is a Good Start. Here’s How to Make Sure It Delivers. 
+ 
+ 
+ We’ve praised the ACCESS Act as “a step towards a more interoperable future.” However, the bill currently before Congress is just a first step, and it’s far from perfect. While we strongly agree with the authors’ intent, some important changes would make sure that the ACCESS Act delivers on its...   
+
+
+ 
+ Deeplinks Blog 
+  by  Katharine Trendacosta ,  Bennett Cyphers ,  Cory Doctorow ,  Cindy Cohn 
+  | June 11, 2021 
+   The ACCESS ACT Takes a Step Towards a More Interoperable Future 
+ 
+ 
+ When it comes to online services, there are a few very large companies whose gravitational effects can alter the entire tech universe. Their size, power, and diverse levers of control mean that there is no single solution that will put right that which they’ve thrown out of balance. One thing...   
+
+
+ 
+ Deeplinks Blog 
+  by  Jason Kelley 
+  | June 11, 2021 
+   1000 Californians Have Asked Their Representatives To Fix Our Broken Broadband System. Have You? 
+ 
+ 
+ The California legislature has been handed what might be their easiest job this year, and  they are refusing to do it . Californians far and wide have spent the pandemic either tethered to their high-speed broadband connections (if they’re lucky), or desperately trying to find ways to make their internet...   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon 
+  | June 3, 2021 
+   California Has $7 Billion for Broadband. Sacramento May Just Sit On It 
+ 
+ 
+ It’s hard to believe that when Governor Newsom identifies a total of $7 billion for California’s legislature to spend on broadband access—coming from a mix of state surplus dollars and federal rescue money to invest in broadband infrastructure— that the legislature would do nothing.   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon 
+  | May 14, 2021 
+   Governor Newsom’s Budget Proposes Historic Investment in Public Fiber Broadband 
+ 
+ 
+ This morning, California Governor Gavin Newsom  announced his plans  for the state’s multi-billion dollar surplus and federal recovery dollars, including a massive, welcome $7 billion investment in public broadband infrastructure. It's a plan that would give California one of the largest public broadband fiber networks in the country. The...   
+
+
+ 
+ Deeplinks Blog 
+  by  Cory Doctorow 
+  | April 21, 2021 
+   Fighting  FLoC and Fighting Monopoly Are Fully Compatible 
+ 
+ 
+ Are tech giants really  damned if they do and damned if they don’t  (protect our privacy)?That’s a damned good question  that’s been occasioned  by Google’s announcement that they’re killing the invasive, tracking third-party cookie (yay!) and  replacing it with FLoC , an alternative tracking scheme  that will ...   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon 
+  | April 14, 2021 
+   Congress, Don’t Let ISP Lobbyists Sabotage Fiber for All 
+ 
+ 
+ For the first time an American president has proposed a plan that wouldn’t just make a dent in the digital divide, it will end it. By deploying federal resources at the level and scale this country has not seen since electrification nearly 100 years ago, the U.S. will again connect...   

@@ -1,0 +1,174 @@
+##LINK: http://pressoffice.itweb.co.za/openwave/profile.htm
+##KEYWORDS: open Internet
+##TITLE: 
+##METHOD: paragraphs
+
+
+
+Industry Leadership
+
+
+Over a Decade of Innovation and 
+									Leadership
+
+									Openwave Systems Inc. (Nasdaq: OPWV) is a 
+									global software innovator delivering highly 
+									scalable platform solutions in the areas of 
+									
+mediation and 
+									
+messaging that enable 
+									operators to monetize the growing demand for 
+									mobile data while optimizing their use of 
+									network resources. 
+
+Building on its mobile data heritage, 
+									Openwave helps its customers adapt their 
+									infrastructure to the fast pace of web 
+									services so they can continue to add value 
+									to the end-user experience through 
+									contextually relevant content and services. 
+									The company is headquartered in Silicon 
+									Valley, California
+
+
+Context-aware Solutions
+
+									All our software solutions leverage their 
+									position in the data path to help operators 
+									become more aware of the devices, content, 
+									network conditions, personal preferences and 
+									data plan behind every request. This is 
+									context awareness.
+
+
+�           
+
+Application 
+									Congestion Control: Ensuring the most 
+									efficient use of network resources through 
+									context-aware traffic optimization 
+									�           
+									 
+Price Plan Innovation: 
+									Engaging the end-user with superior service 
+									discovery and targeted data plans 
+									�           
+									Ecosystem Monetization: 
+									Enabling upstream and downstream business 
+									models with open development tools 
+									�           
+									 
+Messaging: 
+									A 
+									carrier-grade email platform, robust content 
+									storage and intelligent subscriber data 
+									management 
+
+
+Openwave's
+									
+Traffic Mediation 
+									solutions operate on an open, all-IP 
+									framework that acts as a single control 
+									point for total traffic management: content 
+									adaptation, web and media optimization, 
+									network security, policy control and dynamic 
+									charging and campaigning. 
+
+									Openwave's
+									
+Data Mediation & Analytics 
+									solutions monitor network traffic and user behavior and dynamically add intelligence, 
+									predictive policy control and location 
+									awareness across the entire portfolio. 
+									Openwave Amplicity� helps operators leverage 
+									the value of their networks by improving the 
+									way content is distributed and monetized on 
+									the mobile web.
+
+
+Messaging: Openwave�s suite of mobile 
+									messaging and email services simplify the 
+									different modes of messaging moving across 
+									an operator�s network. Low-cost, �infinite� 
+									content storage ensures that providers can 
+									manage the growing amount of content being 
+									shared, while a personalized communications 
+									dashboard simplifies the very act of 
+									communicating � supporting email, voice, 
+									chat, posts and tweets.
+
+
+
+Strategic Partnerships
+
+									Openwave partners with over one hundred 
+									companies to expand its reach and 
+									capabilities. Hardware partnerships include 
+									Juniper Networks, F5, SUN Microsystems, IBM 
+									and storage company EMC. Software 
+									partnerships include Cloudmark and Commtouch 
+									(anti-spam), McAfee (anti-virus) and GBSD 
+									Technologies (location). 
+
+									In addition to delivering tailored solutions 
+									directly to our customers, Openwave is 
+									collaborating with Alcatel Lucent, Tech 
+									Mahindra and IBM worldwide; as well as DSG 
+									in Africa and Syniverse in Southeast Asia to 
+									bring our innovative mediation and messaging 
+									technologies to emerging markets.
+
+
+
+Openwave History
+
+									Openwave was formed in August 2000 when 
+									wireless Internet pioneer Phone.com merged 
+									with messaging software provider 
+									Software.com. This union signaled a larger 
+									trend taking shape in the industry -- the 
+									convergence of broadband and mobile 
+									communications as traditional 
+									telecommunications intersected with the 
+									Internet. 
+
+
+Heritage of Firsts
+
+
+ - 1st Mobile Browsing deployment in the world (AT&T)
+										 -
+										 1st WAP 1 deployment in the world (TeliaSonera)
+									 -
+										 1st WAP 2 deployment in the world (KDDI)
+									 -
+										 1st Open Internet deployment in the world (KDDI)
+									 -
+										 1st converged communications trials (O2, Telefonica)
+									 -
+										 1st photo messaging system in world (J-Phone) 
+									 -
+										 1st fully integrated voice and video call answering system in the world 
+									 -
+										 1st SUPL emergency location system
+									
+
+
+									Today, Openwave enables the creation and 
+									delivery of innovative data services for 
+									leading communication service providers 
+									worldwide. 
+									For more information about Openwave products 
+									and services please visit
+									
+http://www.openwave.com
+
+
+Home  |   
+	            		  Newsroom  |  
+                          Contacts  |   
+                          Profile  |   
+                          Openwave  |   
+                          ITWeb

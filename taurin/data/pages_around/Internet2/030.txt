@@ -1,0 +1,39 @@
+##LINK: https://serverfault.com/questions/118203/are-jumbo-frames-mtu-up-to-9k-realistic-common-over-the-open-internet
+##KEYWORDS: open Internet
+##TITLE: networking - Are Jumbo Frames (MTU up to 9k) realistic/common over the open Internet? - Server Fault
+##METHOD: paragraphs
+
+
+                            Stack Exchange network consists of 177 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+                        
+Server Fault is a question and answer site for system and network administrators. It only takes a minute to sign up.
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+I've got an application that would benefit from larger Ethernet frames.  (In theory, we could reduce the number of outbound packets by > 50%, maybe even 66%.)  
+I'm also in the process of specifying networking requirements with candidate hosting companies for a new installation of my application servers.  It would be nice to, at a minimum, not restrict client connections from benefiting from Jumbo Frames.  
+But how realistic is this?  Some general questions, assuming the segment of the network we can control is Jumbo Frame-friendly (switches are large MTUs capable, ICMP MTU path discovery allowed, etc.):
+The key here is that you can control your little segment of the network and enable large MTUs but you can't control the path your packets take over the internet and certainly can't control the configuration of the routers your packets will pass through. Most internet routers aren't configured above 1500 so you aren't going to have much luck with this solution. Worse, sometimes larger packets will actually get dropped by routers that don't support jumbo frames so I think you'd actually find things are worse if you try sending jumbo frames to the internet.
+Jumbo frames are great on your internal network - especially for networks doing streaming or iSCSI.
+As others have said above the answer is currently no. 
+Also consider the MTU of your providers uplink, unless that supports Jumbo frames, then you are out of luck before you start.
+A lot of the tertiary education networks (AARNET, JANET, Internet2) have end to end enabled jumbo frames on their networks. If you are serving people on those networks I would suggest it is worthwhile.
+My experience is that Jumbo Frames are usually constrained to a dedicated link between an application server and its database server. The number of types of incompatibility possibilities on anything more complex is mind-boggling.
+Thanks for contributing an answer to Server Fault!
+But avoid …
+To learn more, see our tips on writing great answers.
+Required, but never shown
+Required, but never shown
+
+                                                By clicking “Post Your Answer”, you agree to our terms of service, privacy policy and cookie policy
+
+To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+site design / logo © 2021 Stack Exchange Inc; user contributions licensed under cc by-sa.                    rev 2021.7.2.39633
+
+
+                        Your privacy
+                    
+
+                        By clicking “Accept all cookies”, you agree Stack Exchange can store cookies on your device and disclose information in accordance with our Cookie Policy.
+                    

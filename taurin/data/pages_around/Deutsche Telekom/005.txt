@@ -1,0 +1,26 @@
+##LINK: https://www.mobileworldlive.com/featured-content/top-three/deutsche-telekom-telia-face-net-neutrality-probes
+##KEYWORDS: net neutrality
+##TITLE: Deutsche Telekom, Telia face net neutrality probes - Mobile World Live
+##METHOD: paragraphs
+
+Germany’s regulator the Bundesnetzagentur opened an investigation into Deutsche Telekom’s StreamOn service to assess if it breaks EU net neutrality regulations, days after Sweden’s PTS commenced a similar probe into Telia’s offers.
+Reports in news title Golem said the German regulator was reviewing the StreamOn offer, which allows Deutsche Telkom (DT) customers to stream music and video through “participating partner” applications without being charged for the data used.
+Similar offers have been investigated by regulators across the economic bloc to see if they break EU net neutrality regulations, which state all internet traffic must be treated equally.
+The DT probe comes days after Swedish regulator PTS announced it was making further investigations into Telia’s zero-rated “free surf on social media” deal.
+Following a request made in January asking Telia to discontinue the service, PTS will now gather information from the operator on the impact of free social media on overall consumer usage.
+In a statement, the PTS said its probe would provide: “a better understanding of the operator’s selection of service providers and how the offer affects the end customers’ choice and use of certain services on the Internet.”
+Despite the regulator’s initial request, which the operator said was not in line with EU-wide regulation, the deal remains available.
+Interpretation of EU net neutrality rules have put operators head-to-head with local regulators across several markets, with T-Mobile’s Dutch business winning an appeal case related to its zero-rated music offer in April.
+
+
+                                                        Chris Donkin                            
+
+Chris joined the Mobile World Live team in November 2016 having previously worked at a number of UK media outlets including Trinity Mirror, The Press Association and UK telecoms publication Mobile News. After spending 10 years in journalism, he moved...
+Read more
+Nokia picks up Danish 5G RAN deal
+Telia completes carrier division sale
+Deutsche Telekom, Microsoft back SKT app store
+Feature Video: MWC21 Barcelona – Wrap Up
+Feature Video: Elon Musk Keynote
+Feature Video: MWC21 Barcelona – Day 2 Highlights
+©  2021 GSM Association. The GSMA, Mobile World Live, MWC Barcelona, MWC Los Angeles & MWC Shanghai terms and logos are trademarks of the GSM Association                    

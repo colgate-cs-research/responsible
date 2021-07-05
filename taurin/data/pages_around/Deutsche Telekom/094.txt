@@ -1,0 +1,64 @@
+##LINK: https://www.fiercewireless.com/wireless/during-mwc-keynote-fcc-s-wheeler-defends-net-neutrality-rules
+##KEYWORDS: paid prioritization
+##TITLE: During MWC keynote, FCC's Wheeler defends net neutrality rules  | FierceWireless
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+by  Phil Goldstein  |
+ Mar 3, 2015 1:01pm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BARCELONA, Spain--FCC Chairman Tom Wheeler delivered an impassioned defense of the commission's new net neutrality rules for wireless and wired networks, arguing that the Internet needs a referee to decide which practices of carriers are just and reasonable. 
+ 
+ 
+ 
+ Wheeler 
+ 
+ In an interview here at Mobile World Congress with Anne Bouverot, the director general of the GSMA, Wheeler also discussed the AWS-3 auction and next year's planned incentive auction of 600 MHz broadcast TV spectrum, which he said will be taking place during next year's MWC. 
+Wheeler, a former head of the CTIA, knows the world of wireless lobbyist intimately, and has been attending MWC for decades. Yet he had the task of explaining and justifying the FCC's new regulations in a tough environment, with some wireless executives at the conference this week taking issue with key elements of the rules. 
+ "The basic question comes down to this, and that is, if the Internet is the most powerful and pervasive platform in this history of the planet, which I believe it is, can it exist without a referee?" he said. "That their needs to be a referee with a yardstick, or a meter stick here, that's it's just and reasonable." 
+ "Do we have a set of rules that say, activities should be just and reasonable, and somebody who can throw the flag if they aren't?" Wheeler said. 
+ Under the rules the FCC reclassified broadband, including mobile broadband, as a telecommunications service under Title II of the Telecommunications Act, which critics of the plan argue will stifle innovation and could be a backdoor to rate regulation. Wheeler flatly refuted that suggestion. 
+ Wheeler noted, as he has multiple times before, that in 1993, when he was leading CTIA, the wireless industry asked Congress to have mobile voice be regulated as a common carriers under Title II but to not enforce many regulations under the law. "That is exactly what the rules are today for mobile," he said. "And it's been wildly successful." 
+ The FCC chief said the agency took that construct and made it more deregulatory for net neutrality by abstaining from even more provisions of Title II than it did for mobile voice. Wheeler said the FCC is not going to dictate to carriers how they build their networks or limit them from providing innovative new mobile services. "The day after the net neutrality rules go into effect, the revenue stream for the wireless carriers in consumer services will be the same as the day before," he said. 
+ Last week the FCC adopted three so-called "bright line" rules for net neutrality: no blocking of legal content; no throttling of Internet traffic on the basis of content; and no paid prioritization of content. For everything not covered by those rules, the FCC approved a catchall "standard for future conduct," which will used to ensure that broadband providers are not "unreasonably interfering with or unreasonably disadvantaging" the ability of consumers and content providers to use the Internet and connect to each other. Future practices will be judged on a case-by-case basis. 
+ Wireless carriers will not have to go the agency and ask permission every time they want to introduce a new offering or mobile broadband plan, such as a new zero-rating plan, according to FCC officials. However, operators can go to the FCC to get an "advisory opinion" on whether a new proposed mobile data business plan meets the future conduct standard, and customers can file complaints. 
+ Additionally, the rules take a hard line in defining what constitutes "reasonable network management." The agency says such network management practices must be "primarily used for and tailored to achieving a legitimate network management--and not commercial--purpose. For example, a provider can't cite reasonable network management to justify reneging on its promise to supply a customer with 'unlimited' data." 
+ That would seem to nix wireless carriers' ability to throttle the speeds of customers on legacy unlimited data plans simply because they are not on usage-based plans. 
+ Earlier this week top wireless industry executives said that while they support an open Internet, they think wireless carriers should be able to prioritize data traffic of certain kinds of services, whether it is for first responders, streaming video or driverless cars. 
+ "We are for net neutrality," Deutsche Telekom CEO Timotheus Hoettges said here on Monday, according to the  New York Times . "But some services should be prioritized over others." 
+ Additionally, Nokia (NYSE:NOK) CEO Rajeev Suri spoke in favor of certain kinds of paid prioritization, arguing that operators should be allowed to provide faster connections to customers who wish to pay for them. "Net neutrality, this is a tricky debate to have. But fundamentally I believe that access should be open. You should be open and fair in terms of Internet access," Suri said on Sunday. "But there are some services that simply require a different level of connectivity and a different level of service. Driverless cars--you're not going to do this in a 'best effort' network." 
+ Wheeler also noted that the AWS-3 auction, which produced a record $44.9 billion in gross winning bids, showed that carriers, even with the prospect of strong net neutrality rules in the offing, showed they are willing to invest in their networks. 
+ Wheeler said he was surprised that the auction did so well but that the high prices carriers paid will not inhibit them from actually deploying networks using the spectrum. "I don't think that any of the CFOs of the companies that were bidding fell off the turnip truck," he said. "Everybody bids to a budget. Everybody bids to a plan. And the plan is, what can I generate in revenue, in EBITDA?" He said the AWS-3 auction actually had lower prices historically on a per MHz-POP basis in terms of what it can generate for carriers in revenue and EBITDA because mobile data usage is so much higher now than it was in past auctions. 
+ Wheeler said that "one year from today" the FCC will be conducting its incentive auction, in which broadcasters will sell their spectrum. "The goal is to be able to get a fair price and a fair return for broadcasters and a fair price from the carriers," he said. And if there's money that is made in the process, that's a good thing, he said, "but that's not the overriding goal." 
+ When Bouverot asked Wheeler what he thinks of 5G, he noted that there is a museum in Barcelona dedicated to the art of Pablo Picasso museum. Two people could look at a Picasso painting, he said, and see totally different things. "And I think that is what 5G is now," he said. 
+ For more: 
+- see this  NYT  article 
+ Special Report:  Net neutrality for wireless and wireline carriers 
+ Related Articles: 
+Nokia CEO argues in favor of paid prioritization in net neutrality, introduces 'programmable world' concept 
+Net neutrality rules won't force carriers to get FCC permission for new plans, officials say 
+FCC approves net neutrality rules for wireless, putting future zero-rating plans on notice 
+T-Mobile, CTIA urge FCC to preserve zero-rating, give carriers flexibility under net neutrality 
+Led by the FCC's Pai, GOP are rallying against Wheeler's net neutrality proposal 
+Sprint's Bye: Carriers will still invest in networks even under Title II regulations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

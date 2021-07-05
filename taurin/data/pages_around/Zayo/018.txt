@@ -1,0 +1,87 @@
+##LINK: https://www.telecomramblings.com/page/105/
+##KEYWORDS: zero-rating
+##TITLE: Telecom Ramblings - News, Analysis and Commentary for Telecom and Internet Infrastructure - 105
+##METHOD: paragraphs
+
+With its first four data centers in Brazil in high demand, Equinix revealed earlier this month that it has decided to build a fifth facility in the country as part of its ongoing expansion plans.  Today we learned that it's not a minor add-on either, with room for 2,800 cabinets that will when complete double Equinix's footprint in the country. [Read more →]
+Leave a Comment
+
+Spring is the season for new optical gear, and especially the week of OFC.  And this year, Infinera is taking the opportunity to unveil the technology that will underly the third generation of its PIC-powered DWDM products, the Infinite Capacity Engine.   [Read more →]
+Leave a Comment
+
+Here are four Friday quick-takes: three involving Latin American infrastructure, and one being a government contract: [Read more →]
+Leave a Comment
+
+This Industry Viewpoint was written by Francois Locoh-Donou, Senior Vice President and Chief Operating Officer, Ciena
+It took a long time, but the Internet of Things era is here, at last. Gartner predicts something in the vicinity of 6 billion things will connect to the network in 2016, with that set to balloon to 20.8 billion by 2020, or nearly three things for every person alive on the planet today. But for a long time it was merely a concept, [Read more →]
+Leave a Comment
+
+Yesterday, Level 3 finished off a key project that its Latin American business has been working on for some time.  They have activated a new subsea cable landing on Colombia's Pacific coast, bringing a branch of their South American Crossing cable ashore. [Read more →]
+Leave a Comment
+
+For your perusal this fine Thursday: two metro fiber market expansions, an Ethernet interconnection, and a fixed wireless launch. [Read more →]
+1 Comment
+
+Here's three interesting data center expansion projects from the first half of this week that should not be missed: [Read more →]
+Leave a Comment
+
+RCN Business has found a route across the Hudson River and into new markets with some help from Cross River Fiber. They've partnered with the New Jersey-focused infrastructure builder and operator to expand their services into key data centers in the state. [Read more →]
+Leave a Comment
+
+A little more consolidation in the world of what we once called VoIP hit the markets yesterday. magicJack VocalTec has announced an agreement to buy Broadsmart, which specializes in selling hosted unified communications as a service to medium and large enterprise clients. [Read more →]
+Leave a Comment
+
+Here's a quick roundup of some of the news that the industry started off with this week, both domestic and international: [Read more →]
+Leave a Comment
+
+Birch Communications has spent the last decade rolling up network and CLEC assets from around the USA, but its 28th consecutive deal takes the company across the border and into Canada for the first time and in a big way.  Reports from January had them sniffing around Primus Telecommunications, which was seeking protection from creditors, and they have indeed followed through with an agreement to buy the company's assets. [Read more →]
+1 Comment
+
+This article was authored by John C. Tanner, and was originally posted on telecomasia.net.
+ITEM: Hutchison Global Communications Limited (HGC) revealed plans Wednesday to launch what is being billed as one of the the world’s first wholesale active mobile fronthaul service in Hong Kong. [Read more →]
+Leave a Comment
+
+IBM today revealed a significant cloud services deal in the APAC region that could be a sign of things to come. The Indonesian telecommunications provider Indosat Ooredoo and its subsidiary Lintasarta have signed a five year partnership deal to develop and deliver solutions via the IBM cloud to its customer base.  [Read more →]
+Leave a Comment
+
+For this Thursday morning, let's quickly review a few bits of network-related news that is worth a look: [Read more →]
+Leave a Comment
+
+There's a bit of fiber M&A activity out there this week in a lesser known corner of the sector. Axia NetMedia has a private equity suitor. Partners Group has agreed to acquire the Toronto-listed network builder and operator.  [Read more →]
+Leave a Comment
+
+Telefonica today revealed plans for a new submarine cable system linking North and South America.  The new cable, called BRUSA, will connect the Brazilian cities of Fortaleza and Rio de Janerio with the Puerto Rican port of San Juan and the Mid-Atlantic city of Virginia Beach. [Read more →]
+Leave a Comment
+
+Equinix is looking to a new source of inspiration to further build out the ecosystem within its vast inventory of data centers.  They have tapped the insights and developments of the tech giant Facebook and the Open Compute Project. [Read more →]
+Leave a Comment
+
+While the news over at Cisco has been about cloud-related technology acquisitions, yesterday they were part of an interesting APAC announcement down under. Telstra is using Cisco's software platform to bring SDN and NFV powered products to market. [Read more →]
+Leave a Comment
+
+Hutchison Global Communications is upgrading its metro capabilities in its home market of Hong Kong with some help from Infinera. HGC is deploying Infinera's TM-Series Mobile Fronthaul solution as it prepares for the advent of 5G and all the extra bandwidth that will be required to hook up towers and small cells to make it happen. [Read more →]
+Leave a Comment
+
+Several colo-related items from this week's news that are worth a quick look: [Read more →]
+Leave a Comment
+
+Here are three interesting metro and regional fiber items worth a look today: [Read more →]
+1 Comment
+
+Here are a few interesting news bytes from the vendors from the early part of this week: [Read more →]
+Leave a Comment
+
+Level 3 unveiled some new capabilities this morning over in Europe. The global network operator has expanded its Carrier Ethernet 2.0 footprint onto its pan-European network. [Read more →]
+Leave a Comment
+
+© 2008–2015 
+
+		Telecom Ramblings — 
+
+				
+		—
+				Sitemap  — 
+
+		Partners  — 
+
+		Privacy Policy

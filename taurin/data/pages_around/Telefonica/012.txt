@@ -1,0 +1,51 @@
+##LINK: https://www.fiercewireless.com/europe/european-telcos-claim-net-neutrality-major-barrier-to-5g-investment
+##KEYWORDS: net neutrality
+##TITLE: European telcos claim net neutrality is major barrier to 5G investment | FierceWireless
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+by  Michael Carroll  |
+ Jul 8, 2016 5:58am 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Leading European telecoms operators and infrastructure vendors warned that planned net neutrality rules issued by BEREC, the body comprised of the national regulators of the European Union's 28 member states, could stymie the rollout of 5G networks. 
+ In a document entitled  5G Manifesto for timely deployment of 5G in Europe , board-level executives from BT, Deutsche Telekom, CK Hutchison, Orange, Proximus, KPN, Tele2, Telecom Italia, Telefonica, Telekom Austria, Telenor, Telia, and Vodafone; infrastructure vendors Ericsson, Nokia; and satellite companies Inmarsat and SES, warned of the "danger of restrictive net neutrality rules in the context of 5G technologies, business applications and beyond." 
+ The views of the telecoms industry were backed by executives at companies including Ahlers, Airbus Defence and Space, Philips, Siemens, and Thales Alenia Space, all of which operate in vertical industries that are expected to utilise 5G technology. 
+ European commissioner Günther Oettinger welcomed the manifesto, although he has so far refrained from commenting on the net neutrality stance taken by the telecoms industry. 
+ In the manifesto, executives stated that BEREC's planned net neutrality rules "create significant uncertainties around 5G return on investment." 
+ The nub of their argument appears to be that net neutrality rules would not enable them to prioritise key services expected to be enabled by 5G, including automated driving, smart grid control, virtual reality, and public safety services. Such services require a "flexible and elastic configuration of resources in networks and platforms, on a continuous basis", the manifesto states. 
+ A balance between the needs of the telecoms and vertical industries can be achieved through network slicing, a form of network virtualisation that has emerged as a key concept in the development of 5G technology. The manifesto argues that network slicing will "accommodate a wide-variety of industry verticals' business models on a common platform, at scale and with service guarantees." 
+ The manifesto states that the telecoms and vertical industry executives believe BEREC's net neutrality rules are "excessively prescriptive and could make telcos risk-averse thus hampering the exploitation of 5G, ignoring the fundamental agility and elastic nature of 5G network slicing to adapt in real time to changes in end-user/application and traffic demand." 
+ BEREC proposed that national regulators must ensure "equal and non-discriminatory treatment of traffic in the provision of internet access services and related end-users rights" in net neutrality rules published in November 2015. The body in June published draft guidelines on the implementation of those rules, and opened a public consultation that aims to provide "valuable feedback from stakeholders and to increase transparency." 
+ The consultation is open until Jul. 18. 
+ For more: 
+- see the industry  manifesto  (PDF) 
+- read this EC  statement 
+- view BEREC's consultation  announcement 
+- see BEREC's full  implementation guidelines  (PDF) 
+ Related articles: 
+EC prioritises 5G, IoT and cloud among others in Digital Single Market push 
+Report: German government seeks greater freedom in telecoms regulation 
+EC Commissioner: Telecoms regulations cannot be decided by the industry alone 
+Ericsson reveals separate 5G developments with Vodafone, Deutsche Telekom 
+Ovum: 5G subscriptions to reach 24M by end-2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

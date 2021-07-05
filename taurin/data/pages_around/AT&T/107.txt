@@ -1,0 +1,262 @@
+##LINK: https://www.theverge.com/2018/1/24/16927262/att-net-neutrality-isp-tech-companies-facebook-twitter
+##KEYWORDS: paid prioritization
+##TITLE: AT&T’s CEO penned an open letter calling for net neutrality laws to cover both ISPs and web companies - The Verge
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ Filed under: 
+ 
+ 
+ 
+ Policy 
+ 
+ 
+ 
+ 
+ US & World 
+ 
+ 
+ 
+ 
+ Tech 
+ 
+ 
+ 
+ 
+ 
+ AT&T’s CEO penned an open letter calling for net neutrality laws to cover both ISPs and web companies 
+ 
+ 
+ 
+ 
+    New,
+   
+ 
+ 
+        18
+       
+ comments 
+ 
+ 
+ 
+ 
+ But he hasn’t clarified AT&T’s stance on paid prioritization 
+ 
+ 
+    
+      By
+       
+ Thuy Ong @ThuyOng 
+ 
+ 
+ 
+          Jan 24, 2018, 11:28am EST
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this story 
+ 
+ 
+ 
+ 
+ Share this on Facebook 
+ 
+ 
+ 
+ 
+ 
+ Share this on Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options for: 
+ AT&T’s CEO penned an open letter calling for net neutrality laws to cover both ISPs and web companies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Linkedin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pocket 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flipboard 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AT&T has taken out a series of full-page ads in major newspapers including  The New York Times  and  The Washington Post  calling for a net neutrality law that would govern both ISPs and web companies like Facebook and Twitter. But web companies aren’t typically part of the net neutrality conversation because they don’t provide internet access, and the vague rules AT&T is proposing still seem to leave open the possibility for ISPs to sell paid fast lanes. 
+ The open letter from AT&T CEO Randall Stephenson  states that  an Internet Bill of Rights would help to “guarantee neutrality and transparency,” and that congressional action is needed to ensure consistent rules for all internet companies. “Legislation would not only ensure consumers’ rights are protected, but it would provide consistent rules of the road for all internet companies across all websites, content, devices and applications,” Stephenson wrote. 
+ Even though  AT&T says  it supports aspects of net neutrality like not blocking or throttling certain websites, the letter doesn’t address  paid prioritization  and fast lanes. Paid prioritization means AT&T and other ISPs could charge a company like Google extra money to essentially get its content to consumers faster than the content of companies that are unable to pay and are relegated to “slow lanes.” While big ISPs might be in favor of a law that prohibits the outright blocking of websites, they’re a lot less likely to support one that bans paid prioritization — and without that, it’s not a real net neutrality law. 
+ In an email to  The Verge , AT&T walked right up to the line of outright stating that it supported paid fast lanes. A company spokesperson said that “a higher level of internet performance is required” for new technologies like augmented reality to work and that Congress should take this into consideration when writing its law. “As it relates to prioritization specifically, we don’t know what the ultimate answer is,” the spokesperson said. But the answer seems pretty clear: what AT&T is describing is prioritization. 
+ 
+ 
+ Consumers Need an Internet Bill of Rights  https://t.co/MYvxWsBBu7 — AT&T Public Policy (@ATTPublicPolicy)  January 24, 2018 
+ 
+ 
+ 
+ On top of all this, AT&T is also trying to conflate internet service providers with web companies — something that critics of net neutrality have done on a regular basis to argue against the rules. It suggests a net neutrality law should apply to web companies, too, because they also see and collect massive amounts of data. And while it’s true that rules are needed to govern this type of data collection and protect consumers, there’s a big distinction between how these different types of companies collect information on users: Facebook and Google can only see data that touches their sites and services, but ISPs like AT&T will see subscribers’ data no matter what since all internet traffic has to pass through them. 
+ One critic called AT&T’s ads the “ultimate in hypocrisy.” In an emailed statement, Gigi Sohn, a fellow at the Georgetown Law’s Institute for Technology Law and Policy and a former FCC counselor, said, “Any ‘Internet Bill of Rights’ supported by AT&T will leave the FCC powerless, net neutrality and privacy protections weak, and consumers and competition left out in the cold.” 
+ In its email to  The Verge , AT&T indicated that the open letter wasn’t meant to be comprehensive but to “begin a dialog” around what consumer protections would look like if they applied to both ISPs and web companies. 
+ We’ve noted  that Congress passing a law on net neutrality could, in theory, achieve the same goals and stop refractory debates surrounding neutrality. But ISPs are also powerful lobbyists that have  directed millions of dollars  to lawmakers. Net neutrality laws written by ISPs are also reportedly  filled with loopholes . So these aren’t what true net neutrality activists want. 
+ Update January 24th, 4PM ET:  This story has been updated with comment from AT&T. 
+ 
+ 
+ 
+ 
+ 
+ 
+    Next Up In
+    
+         Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Sign up for the
+        
+          newsletter
+        
+       
+      Verge Deals
+     
+ Subscribe to get the best Verge-approved tech deals of the week. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thanks for signing up! 
+ Check your inbox for a welcome email. 
+ 
+ 
+ 
+ 
+ Email  (required) 
+ 
+ 
+ 
+ 
+ 
+ 
+        By signing up, you agree to our  Privacy Notice  and European users agree to the data transfer policy.
+        
+       
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loading comments... 
+ 
+ 
+ 
+ 
+ 
+ 

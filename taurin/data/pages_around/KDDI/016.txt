@@ -1,0 +1,26 @@
+##LINK: https://toyokeizai.net/articles/-/50940
+##KEYWORDS: open Internet
+##TITLE: KDDI's New Challenge: Incubating Startups  | original | Tokyo Business Today | All the news you need to know about Japan
+##METHOD: article 4
+
+
+
+ 
+ It has twelve companies participating all together, as well as a scope of over 40 million users with these services are combined. 
+ 
+ 
+ KDDI, which has in recent years been making progress with acquiring and investing in a great number of IT businesses, has laid out its new idea, "Syn.alliance." (pronounced "syn dot alliance"). 
+ The company started the service on October 16, and coming into this year it has added subsidiaries like the “life information” websites “Nanapi” and “Qrank,” the entertainment media company “Natalie,” as well as a weather forecast company, Weather News. It has 12 companies participating all together, as well as a scope of over 40 million users with these services are combined. 
+ Building a platform to bring in customers 
+ 
+ 
+ Simply put, Syn.alliance is a platform to bring in customers between services. They aim to establish common "side services" for each service and to make it easy for users to navigate them. At the forefront of these side services is space for advertising. They allocate the revenue from advertising depending on how many views a promotional video receives. In addition, it can also check update information from various websites. 
+ The person who oversees this alliance, Koichi Morioka of KDDI's new business promotion head office, has worked as a content producer for Yahoo! Japan as well as a deputy representative for Facebook Japan.“Smartphones have a lot of applications, and searching for services that are suitable for you is difficult,” Morioka explained.“ 
+ After all, every person only uses about eight applications. Therefore, we carefully select popular services from every genre, and with collaborating, we have created a mechanism that makes it easy for users to navigate.” 
+ Morioka commented that the platform's image is like the Yamanote line: “you can ride from any station (service), and no matter what station you choose, you can still ride. They're like the portal websites that came with the computer age. None of the websites are the 'main site.' Every service will become an entryway for users.” The twelve companies are currently developing twelve genres, and their first plan, while taking into account how useful they can be to users, is to expand to twenty genres. 
+ As a new initiative, the typically forefront running company KDDI is devoting itself to being a "behind the scenes supporter.” At a conference on the 17th, company director Takahashi Tanaka of KDDI flatly stated "forget about au and listen to today's presentation." Of all of the services that were unveiled by the affiliates of participating companies, not one of them had an au or KDDI logo. Morioka also said that he does not think too much of au in dealing with the open internet. 
+ The reason they are reducing their exposure is because their platform is aiming to gain points of contact with users outside of KDDI. They are expanding their own content service, "au Smart Pass" (which has 11 million members), but they will not be able to reach users from other companies with it alone. That said, they have never had a successful attempt at opening up a cell phone service to another company. Therefore, those at KDDI will devote themselves to working behind the scenes, and are thinking that they will try and reach users of other companies by providing this platform. 
+ Attracting more customers has become a priority 
+ Managing director Makoto Takahashi stated "we are now doing things like analyzing user access data, changing the mechanisms that bring customers to us, and capitalizing off of the improvements our services have made. We are also thinking of doing a realistic collaboration with an electronic money service.” But, apart from the fact they have skilfully created a link of contact between KDDI and users, from there it is unclear what sort of business they will be linked with and whether or not it will lead to profits. 
+ In addition, some doubt still remains as to whether or not the twelve companies participating this time are really the "elite alliance" they are made out to be, and if users will be able to put the shared side services of each of the services to use. Morioka remarked that he wants to announce the second and third phases as well. Just how much traffic will this "Yamanote line" platform, which has a way of thinking that deviates from typical cell phone companies, be able to produce?So if they're planning to make money , then this project is a difficult challenge . 
+  

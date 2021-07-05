@@ -1,0 +1,14 @@
+##LINK: https://www.pushspring.com/optout.html
+##KEYWORDS: open Internet
+##TITLE: Opt Out
+##METHOD: paragraphs
+
+Download the Magenta MarketingPlatform Choices app.
+Marketing Solutions, a division of T-Mobile USA, develops and utilizes technology that allows for collection of personally identifiable information associated to end user devices via pseudonymous, resettable device advertising IDs on devices that support advertising IDs, to create aggregated interest and behavior-based targeting segments, to drive targeted advertising campaigns, and to perform analytics services for our customers.
+Advertising IDs are pseudonymous, resettable, identifiers that allow for personalized advertising on devices. Advertising IDs were developed to give users better controls and provide developers with a simple, standard system to continue to monetize their apps.
+Mobile device users who do not want to receive interest-based advertising from PushSpring may opt-out in several ways:
+AppChoices is supported by the following industry associations which provide a universal way to opt out of analytics and ad targeting by all participating companies in a geographic location e.g. United States, including PushSpring and many of our partners. You can learn more below at the links below.
+If you know your device Advertising ID, you can enter it below:
+IOS
+ANDROID
+Please note that (a) there will be a lag for an advertising ID to be removed from previously distributed targeting segments that are already active at the time when the opt-out is exercised and (b) opting-out will not block general advertisements that are sent at random, and not tied to the perceived interest of the user of a particular device.

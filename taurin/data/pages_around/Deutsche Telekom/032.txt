@@ -1,0 +1,207 @@
+##LINK: https://www.ampereanalysis.com/insight/deutsche-telekoms-streamon-a-template-for-supporting-uncapped-mobile-video
+##KEYWORDS: net neutrality,zero-rating
+##TITLE: Ampere Analysis Insights
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Insights_ 
+ 
+ 
+ 
+ 
+ 
+ About Consumer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 04/04/2017   Richard Broughton 
+ Deutsche Telekom's StreamOn a template for supporting uncapped mobile video 
+ 
+ Deutsche Telekom has unveiled zero-rating for popular mobile video and music services in Germany, through StreamOn, a value add for its premium mobile tiers. StreamOn - a counterpart to T-Mobile USA's BingeOn product - allows users to view supported video services and listen to supported music services via their mobile device, without the data counting against their monthly cap. The service will be included on existing Magenta mobile plans, starting with music-only StreamOn Music for the operator's mid- tier 'M' packages, to HD video and music tier StreamOn Music & Video Max included with MagentaEins multiplay packages. At launch, supported media services will include YouTube, Amazon Video, Netflix, ZDF Mediathek, Sky Go, 7TV, as well as Apple Music, Napster, Amazon Music and others. Demand for mobile video has been growing rapidly in Germany. Ampere research suggests that 80% of Deutsche Telekom's German mobile customers have watched one or more of the zero-rated video services in the last month, and that an increasing proportion (11% as of Q1 2017 - up on 4% in Q3 2015) are watching video on their smartphone daily. The most widely accessed service for Deutsche Telekom mobile customers is YouTube, which was watched by 67% of its subscribers in February 2017, followed by Amazon Video, watched by 26% of the company's mobile customers. Both services will be supported in the StreamOn plan. 
+ 
+ Zero-rated video may be controversial from a net-neutrality standpoint. Some existing commercial models place the burden of carrying the distribution cost on the video service provider – which risks pressuring smaller video services out of the market. Deutsche Telekom indicates that supported video services face no such charges, and its commercial model is predicated more on upselling to higher mobile tier.  But there is no doubt that there is growing consumer demand for uncapped mobile data - in Germany and beyond. Video is by far the largest consumer of mobile data and by zero-rating popular services Deutsche Telekom will be aiming to bring video-on-the-go to data-conscious subscribers. StreamOn contains the components to both stabilise ARPUs and mollify regulatory bodies - and thus could prove to be the template for wider zero-rated video deployments. 
+ 
+ 
+ 
+ 
+ 
+ More  Insights 
+ 
+ 
+ 
+ 
+ 
+ 01/07/2021    Guy Bisson 
+ Netflix now the largest commissioner of Scripted European content 
+ 
+ 
+ 
+ 29/06/2021    Maria Dunleavey 
+ Tracking TikTok’s phenomenal growth 
+ 
+ 
+ 
+ 24/06/2021    Ben McMurray 
+ Ligue 1: Amazon’s rights deal leaves Canal+ frustrated 
+ 
+ 
+ 
+ 22/06/2021    Jaanika Juntson 
+ CuriosityStream: Indirect subscribers drive SVoD service’s growth, but lower ARPU 
+ 
+ 
+ 
+ 16/06/2021    Piers Harding-Rolls 
+ Xbox Game Pass: How the release of day one content is building 
+ 
+ 
+ 
+ 16/06/2021    Bhavini Gohil 
+ CFlight audience measurement set to accelerate BVoD revenue growth in UK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                            The Amp is our highly-acclaimed free weekly  round up of key industry news, delivered to  your inbox.  Sign up and be informed.
+                         
+ 
+                             
+
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Amp Latest Newsletters 
+ × 
+ 
+ 
+ 
+ 
+ 
+ 
+ Close 
+ 
+ 
+ 
+ 
+ 

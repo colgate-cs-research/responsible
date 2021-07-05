@@ -1,0 +1,67 @@
+##LINK: https://www.groundedreason.com/zero-rating-on-the-5g-spectrum-is-a-problem/
+##KEYWORDS: zero-rating
+##TITLE: Zero Rating on the 5G Spectrum is a Problem | Grounded Reason
+##METHOD: article 1
+
+
+Zero Rating on the 5G Spectrum is a Problem 
+ Published  2017-01-16  By  Dennis Restauro   
+ This article is the topic of the following episode of the Grounded Reason podcast.  Click here  for information on accessing the podcast on various mobile devices. 
+ 
+ 
+ 
+ The future of cord cutting is headed down a road of uncertainty.  Recent net neutrality rules have provided hope for more affordable internet access and content. However, the future is gloomy for a couple reasons. There been rumors of the incoming administration overturning net neutrality rules. Furthermore, even if current rules stand, they don’t go far enough to ensure an open internet. 
+ The 5G wireless spectrum is promising faster speeds and more internet coverage nationwide. Many wireless carries have instituted a practice called “zero-rating” threatens to leave cord cutters right where they started.  I’ll go over what I mean by this, and how it could happen. However, before I cover that, let me provide an understanding of what  5G, net neutrality, and zero-rating is. 
+ What is 5G 
+ 5G refers simply refers to the 5th generation of wireless technology. Anyone with a smart phone has heard Sprint, Verizon, AT&T, and other wireless carries refer to their 3G and 4G networks. 5G is the next generation of that technology and it will begin to roll out this year. 
+ Ultimately, 5G isn’t one technology but a set of technologies that will deliver more capacity and higher speeds than the current 4G wireless infrastructure. 5G is said to be able to deliver gigabit speeds, making wireless viable for internet in your home, car, or anywhere. Furthermore, the capacity of 5G could provide enough data allotments to make streaming video viable on basic plans. This was only possible on “grandfathered” unlimited data plans on the 4G network. 
+ The internet capacity of 5G could completely shake up the internet service provider space as wireless 5G providers will be able to deploy high speed internet to areas much faster and cheaper than companies deploying copper and fibre optic cable. 
+ However, as you all know, there is just as much competition in the wireless industry as there is in the current residential ISP sector. This means there will be little or no competition when choosing a 5G internet service provider in the future. Therefore, the rules set forth to ensure net neutrality will remain important as we enter this 5G era. Let me go over net neutrality briefly, so we’re all on the same page. 
+ Net Neutrality 
+ In February of 2015, the FCC instated rules known as the “Open Internet” rules. Many know them as the net neutrality rules. While there was much fear mongering from internet service providers (ISPs) and those and the pockets of ISPs, the open internet rules are really just three reasonable rules to ensure free and open communication on the internet. Those are 
+ 
+ No Blocking: broadband providers may not block access to legal content, applications, services, or non-harmful devices. 
+ No Throttling: broadband providers may not impair or degrade lawful Internet traffic on the basis of content, applications, services, or non-harmful devices. 
+ No Paid Prioritization: broadband providers may not favor some lawful Internet traffic over other lawful traffic in exchange for consideration of any kind—in other words, no “fast lanes.” This rule also bans ISPs from prioritizing content and services of their affiliates. 
+ 
+ In the past, these concepts were the de facto operation of ISPs on the internet. However, as citizens began streaming video over the internet, ISPs began violating these conventional practices as it affected their TV businesses. Therefore, the FCC felt the need to codify these rules, in order to maintain an equal playing field for all content on the internet. 
+ However, these rules left a backdoor for companies to exploit and violate the very spirit of what net neutrality was trying to protect. That backdoor is known as “zero-rating.” 
+ What is Zero-Rating 
+ Zero-rating is when an internet provider allows a content provider’s data to pass through their network free of charge. For instance, lets say I own an ISP and I have a company that provides movie and TV content. Normally I charge my customers monthly and give them a 10GB data allowance to use my network. However, any TV or movies you stream through the movie and TV service I own will not count against your 10GB monthly allowance. 
+ On the surface it’s sounds great for the customers of that ISP that want to use that content. However, imagine  if this applied to our roads. For example, let’s assume there was a massive privatization of our road system and 2 companies built nationwide road systems. 
+ To drive on a company’s road you would have to pay tolls or some subscription fees. Let’s also assume that these companies sell cars. Furthermore, if you buy one of their cars, your free from paying to drive on their roads. This would completely kill innovation in the car industry. Why would anyone buy a car from a company that can’t offer them a discount to drive on private roads? 
+ The same thing is true of internet access and content. Assuming an ISP also owned content and video distribution,  and if you subscribe to their video distribution, you wouldn’t have to pay for that data, why would you use any other video distributor? TV would become less innovative, as you would need to be able to offer internet capacity for people to subscribe to your service. 
+ We’ve already seen what lack of competition does to the TV industry. for almost a decade we’ve had nothing but reality TV and singing contests. It wasn’t until the original programing of HBO, Netflix, Amazon, and others began providing a return to TV quality. Zero-rating would disadvantage any company specializing solely in content creation. 
+ Don’t think this is just a prediction on my part. This scenario is already coming to fruition, starting in Austin. 
+ AT&T, 5G, and Zero-Rating 
+ In the first half of this year, AT&T  will be  testing their 5G network in Austin TX . They will be using their video service  DirecTV Now  to test video traffic over their 5G network. DirecTV Now is zero-rated on AT&T network, which means it won’t count against any data usage for AT&T customers. 
+ If the test is successful and AT&T goes nationwide with this offering, customers will have their internet, telephone, and TV wrapped into a bundle with no real competition.  Does that sound familiar? If zero-rating is permitted to continue, any video content that isn’t DirectTV Now will be at a massive competitive disadvantage. In other words, customers will have little choice of ISP and no real choice of affordable service. 
+ Instead of including explicit language on zero-rating in the FCC’s open internet rules, the FCC has decided to take issues regarding zero-rating on a case by case basis. The FCC has recently  issued a judgement  that AT&T zero-rating it’s DirecTV Now service may be violating net neutrality. However, industry insiders feel that once current FCC Chairman Wheeler steps down later this month the open internet rules will be reversed. 
+ Even prior to the FCC decision, AT&T seemed to think the next administration will side with big business. Jessica Conditt at Engadget  wrote : 
+ In its conclusion, AT&T says the FCC lacks the authority to stop its Data Free TV program — and besides, AT&T argues, the bureau is going to drastically change next month as President-elect Donald Trump’s conservative administration takes over. FCC chairman and net neutrality advocate  Tom Wheeler plans to step down  on Inauguration Day, January 20th, and Trump will choose his replacement. 
+ “Whatever judgment the Bureau purports to pass on this program before January 20th will very likely be reversed shortly thereafter,” AT&T writes. 
+ With people like  Jeffery Eisenach  involved in the FCC transition team it’s hard to imagine AT&T being wrong. However, the FCC has a tradition of giving it’s ear to the public during it’s rule making process. It looks like creating a groundswell of citizens leaving comments with the FCC and  contacting their representatives  are the last hope of retaining an open internet. 
+ 
+ 
+ You can listen to this episode of the Grounded Reason Podcast through any of the sources below. This and every episode is 100% free for you to listen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Podcast Client 
+ If you are using a podcast client then you just need to add the shows RSS link which is “http://groundedreason.libsyn.com/rss”. 
+ 
+ Contact the Show 
+ Please Subscribe to The Show in iTunes, Stitcher, or your Podcast App. 
+ Please rate and review the show in iTunes . If you want to send us questions or comments please use any of the methods below. 
+ For more information on cutting the cord visit –  https://www.groundedreason.com 
+ Call and leave a question or comment for the show: 650-TALK-GRP 
+ Grounded Reason FaceBook Page 
+ Email us at  [email protected] 
+ Tweet us  @GroundedReason 
+ Need More Information? If this article didn't answer your specific question, head over to our  Home Page ! It will guide you to affordable internet providers, streaming services to meet your needs, information on antennas, and many more tools and resources to help you save money on TV and Internet access. For tips and tricks on cutting the cord and other tech topics be sure to join our  Facebook Page . 
+ Join Millions of Cord Cutters       For the latest information on cord cutting, affordable internet, and cord cutting deals subscribe to our weekly email newsletter. It's 100% Free! Simply enter your email below and click "Subscribe Now!"         
+ Disclosure: Grounded Reason is supported by a small commission for purchases made through some product links on this website. We do not accept compensation from companies attempting to sway our review of products. 
+ Filed Under:  Podcasts  Last Updated  2019-03-29

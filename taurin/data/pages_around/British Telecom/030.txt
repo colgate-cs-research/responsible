@@ -1,0 +1,267 @@
+##LINK: https://journals.riverpublishers.com/index.php/JICTS/article/view/6315
+##KEYWORDS: open Internet
+##TITLE: A Model-Driven and Business Approach to Autonomic Network Management
+							| Journal of ICT Standardization
+##METHOD: article 1
+
+
+
+ 
+		A Model-Driven and Business Approach to Autonomic Network Management
+	 
+ 
+ 
+ 
+ 
+ 
+								Mehdi  Bezahaf
+							 
+ 
+									Lancaster University, United Kingdom
+								 
+ 
+ 
+										https://orcid.org/0000-0001-5083-6592
+									 
+ 
+ 
+ 
+ 
+								Stephen  Cassidy
+							 
+ 
+									British Telecom, London, United Kingdom
+								 
+ 
+ 
+										https://orcid.org/0000-0001-5148-8171
+									 
+ 
+ 
+ 
+ 
+								David  Hutchison
+							 
+ 
+									Lancaster University, United Kingdom
+								 
+ 
+ 
+										https://orcid.org/0000-0001-6052-0559
+									 
+ 
+ 
+ 
+ 
+								Daniel  King
+							 
+ 
+									Lancaster University, United Kingdom
+								 
+ 
+ 
+										https://orcid.org/0000-0002-5575-4649
+									 
+ 
+ 
+ 
+ 
+								Nicholas  Race
+							 
+ 
+									Lancaster University, United Kingdom
+								 
+ 
+ 
+										https://orcid.org/0000-0002-6870-8078
+									 
+ 
+ 
+ 
+ 
+								Charalampos  Rotsos
+							 
+ 
+									Lancaster University, United Kingdom
+								 
+ 
+ 
+										https://orcid.org/0000-0003-0252-9373
+									 
+ 
+ 
+ 
+ 
+ 
+														DOI:
+						 
+ 
+ 
+								https://doi.org/10.13052/jicts2245-800X.928
+							 
+ 
+ 
+ 
+ 
+										Keywords:
+				 
+ 
+																		Autonomic network management, 													intent-based networking															 
+ 
+ 
+ Abstract 
+ As corporate networks continue to expand, the technologies that underpin these enterprises must be capable of meeting the operational goals of the operators that own and manage them. Automation has enabled the impressive scaling of networks from the days of Strowger. The challenge now is not only to keep pace with the continuing huge expansion of capacity but at the same time to manage a huge increase in complexity – driven by the range of customer solutions and technologies. 
+ Recent advances in automation, programmable network interfaces, and model-driven networking will provide the possibility of closed-loop, self-optimizing, and self-healing networks. Collectively these support the goals of a truly automated network, commonly understood as “autonomic networking” even though this is a prospect yet to be achieved. 
+ This paper outlines the progress made towards autonomic networking and the framework and procedures developed during the UK Next Generation Converged Digital Infrastructure (NG-CDI) project. It outlines the operator-driven requirements and capabilities that have been identified, and proposes an autonomic management framework, and summarizes current art and the challenges that remain. 
+ 
+ 
+ 
+		Downloads
+	 
+ 
+ 
+ 
+			Download data is not yet available.
+		 
+ 
+ 
+ 
+ 
+													Author Biographies
+											 
+ 
+ 
+																																							Mehdi  Bezahaf,  Lancaster University, United Kingdom 
+ 
+ 
+ Mehdi Bezahaf  is a Senior Research Associate at Lancaster University. He received his Ph.D. degree from Sorbonne Université in 2010. With a demonstrated history of working in academia and industry, his research interests include experimental networking, mobility management, wireless networks, Internet architecture, and network virtualization. Mehdi is also an active researcher and contributor to open Internet standards, including the IRTF, IETF, and ITU. 
+ 
+ 
+ 
+ 
+																																							Stephen  Cassidy,  British Telecom, London, United Kingdom 
+ 
+ 
+ Stephen Cassidy  MA MInstP CEng FIET is a Senior Manager at BT Applied Research, interested in the relationship between people, information technology and organisational structure, and how they determine enterprise culture and effectiveness. This combines research into AI, data-driven decision tools, self-learning systems, human behaviour and culture. He lectures on MBA programmes and serves on several advisory boards. He has published over 60 papers, holds a similar number of patents, and is a winner of the Queen’s Award for Industry. 
+ 
+ 
+ 
+ 
+																																							David  Hutchison,  Lancaster University, United Kingdom 
+ 
+ 
+ David Hutchison  is Professor of Computing at Lancaster University, UK, and the Founding Director of InfoLab21. His work is well known internationally for contributions in a range of areas including Quality of Service, active and programmable networking, content distribution networks, and testbed activities. His current research focuses on the resilience of networked computer systems, and the protection of critical infrastructures and services. 
+ 
+ 
+ 
+ 
+																																							Daniel  King,  Lancaster University, United Kingdom 
+ 
+ 
+ Daniel King  is a Senior Research Associate at Lancaster University. He holds a PhD and MBA from Lancaster University. He worked previously for leading technology companies including Cisco, Redback Networks, Movaz Networks, and he co-founded Aria Networks. Daniel is also an active leader, researcher and contributor to open Internet standards, including the Internet Research Task Force (IRTF), the Internet Engineering Task Force (IETF), the Open Networking Foundation (ONF), and MEF. 
+ 
+ 
+ 
+ 
+																																							Nicholas  Race,  Lancaster University, United Kingdom 
+ 
+ 
+ Nicholas Race  is a Professor of networked systems with the School of Computing and Communications, Lancaster University. His research is broadly around experimental networking and networked media, specializing in the use of software-defined networking and network-functions-virtualization for new network-level services, including in-network media caching, network-level fairness, and network monitoring. 
+ 
+ 
+ 
+ 
+																																							Charalampos  Rotsos,  Lancaster University, United Kingdom 
+ 
+ 
+ Charalampos Rotsos  received the Ph.D. degree from the Computer Laboratory, Cambridge University. He is a Lecturer in computer networks and networked systems with Lancaster University. His research focus is in network service management and orchestration, network programmability and monitoring, and cloud operating systems. He is an active contributor to many popular open-source projects relevant to SDN experimentation (OFLOPS), open-hardware (Blueswitch),and cloud OS (Mirage Unikernel). 
+ 
+ 
+ 
+ 
+ 
+						References
+					 
+ 
+ S. Dobson, S. Denazis, A. Fernández, D. Gaïti, E. Gelenbe, F. Massacci, P. Nixon, F. Saffre, N. Schmidt and F. Zambonelli. A Survey of Autonomic Communications. ACM Trans. Auton. Adapt. Syst., 1(2):223–259, Dec 2006.  
+ Next Generation Converged Digital Infrastructure project –  https://www.ng-cdi.org/   
+ M. Bezahaf, D. Hutchison, D. King and N. Race. Internet Evolution: Critical Issues. Proceedings of the IEEE, 24(4):5–14, Jul 2020.  
+ S. Dobson, D. Hutchison, A. Mauthe, A. Schaeffer-Filho, P. Smith and J. P. G. Sterbenz. Self-Organization and Resilience for Networked Systems: Design Principles and Open Research Issues. Proceedings of the IEEE, 107(4):819–834, 2019.  
+ O. Babaoglu, M. Jelasity and A. Montresor. Grassroots approach to self-management in large-scale distributed systems. In Unconventional Programming Paradigms. Lecture Notes in Computer Science, vol. 3566:286–296, 2005.  
+ O. Babaoglu, M. Jelasity, A. Montresor, A. Fetzer, C. Leonardi, S. Van Moorsel and M. Van Steen. Self-star properties in complex information systems, conceptual and practical foundations. Lecture Notes in Computer Science, vol. 3460, 2005.  
+ D. Clark, C. Partridge, J. Ramming and J. Wroclawski. A knowledge plane for the internet. In Proceedings of the 2003 conference on Applications, technologies, architectures, and protocols for computer communications (SIGCOMM ’03), 3–10, 2003.  
+ ITU-T Technical Specification. Network 2030 Architecture Framework FG-NET2030 – Focus Group on Technologies for Network 2030, Jun 2020.  
+ M. Bezahaf, M. Perez Hernandez, L. Bardwell, E. Davies, M. Broadbent, D. King and D. Hutchison. Self-Generated Intent-Based System. 2019 10th International Conference on Networks of the Future (NoF), 138–140, Feb 2020.  
+ Y. Wang, R. Forbes, U. Elzur, J. Strassner, A. Gamelas, H. Wang, S. Liu, L. Pesando, X. Yuan and S. Cai. From Design to Practice: ETSI ENI Reference Architecture and Instantiation for Network Management and Orchestration Using Artificial Intelligence. in IEEE Communications Standards Magazine, 4(3):38–45, Sep 2020.  
+ R. Li, Z. Zhao, X. Zhou, G. Ding, Y. Chen, Z. Wang and H. Zhang. Intelligent 5G: When Cellular Networks Meet Artificial Intelligence. in IEEE Wireless Communications, 24(5):175–183, Oct 2017.  
+ Tayeb Ben Meriem, Ranganai Chaparadza, Benoît Radier, Said Soulhi, José-Antonio Lozano López and Arun Prakash. GANA–Generic Autonomic Networking Architecture: Reference Model for Autonomic Networking, Cognitive Networking, and Self-Management of Networks and Services. ETSI White Paper 16 (2016).  
+ M. Behringer, M. Pritikin, S. Bjarnason, A. Clemm, B. Carpenter, S. Jiang, and L. Ciavaglia. Autonomic Networking: Definitions and Design Goals. RFC 7575, Jun 2015.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+		
+	PDF
+
+	 
+ 
+ 
+ 
+
+		
+	HTML
+
+	 
+ 
+ 
+ 
+ 
+ 
+						Published
+					 
+ 
+						2021-06-08
+					 
+ 
+ 
+ 
+ 
+						Issue
+					 
+ 
+ 
+							2021: Vol9 Iss2
+						 
+ 
+ 
+ 
+ 
+							Section
+						 
+ 
+							Special Issue on Zero-touch Network and Service Automation (ZSM)
+						 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

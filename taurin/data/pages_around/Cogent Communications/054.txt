@@ -1,0 +1,61 @@
+##LINK: http://concurrentmedia.com/2015/02/23/the-next-ott-battleground-zero-rating/
+##KEYWORDS: zero-rating
+##TITLE: The next OTT battleground: Zero-rating | Concurrent Media
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+				
+				The next OTT battleground: Zero-rating
+			 
+ 
+ February 23, 2015 By  Paul Sweeting Blog 
+ 
+ 
+ The FCC this week is expected to approve on a party-line vote chairman Tom Wheeler’s long-gestating plan to impose new net neutrality rules by reclassifying internet access as a telecommunications service under Title II of the Communications Act, setting in motion a process by which the world will finally get to see the full text of the 308-page Memorandum and Order and begin fighting — almost certainly in court — over its particulars. 
+ One thing that apparently will not be in the order, however, is any bright-line rule banning so-called “zero-rated” data plans offered by wireless operators and ISPs under which particular applications are not counted toward a user’s monthly data cap. 
+ “We do not take a position on zero-rating,” the FCC’s special counsel for external affairs Gigi Sohn confirmed last week on the C-Span program The Communicators. Instead, she said, the agency would review complaints about zero-rated services on a “case-by-case basis” to determine whether they harmed consumers. 
+ That has many OTT providers, start-ups and VCs worried that wireless carriers and ISPs will rush to embrace zero-rated data plans, producing the same sort of anti-competitive and market-distorting effects as paid prioritization, which the new rules do explicitly ban. 
+ “’Zero-rating’ should not be permitted where (a) it is paid for by edge providers; or (b) it is offered to selected applications within a class to the exclusion of others, even if there is no payment involved,” video streaming service Vimeo wrote to the FCC in a  February 19 letter  that was joined by Cogent Communications, Contextly, Distinc.tt1 , Dwolla, Engine Advocacy, Kickstarter, and Tumblr. “The Commission has recently heard from numerous entities highlighting the need for strong rules protecting businesses and users from the practice of “zero rating.”4 As many of us have explained in our filings, our companies would not be able to pay for special treatment—whether in the form of paid prioritization or zero-rating. Consumers react strongly to zero-rating because it looks like a bargain. Once some applications are zero-rated, competing applications that count against a consumer’s cap will be at a huge disadvantage.” 
+ A group of VCs led by Union Square Ventures also raised the alarm over zero-rating in a  February 18 letter  to the commission: 
+ Communication regulators around the world are recognizing the dangers of these arrangements and are banning such practices. Regulators in Chile, the Netherlands, Slovenia and Canada explicitly prohibited zero-rating, while regulators in Germany, Austria and Norway publicly stated that zero-rating violates network neutrality. These regulators recognize that allowing tactics that lead to artificial scarcity will not lead to the bandwidth abundance central to continuing the virtuous cycle of innovation. 
+ Zero-rated services are more common overseas than in the U.S. The FCC’s 2010 open internet rules was widely interpreted as banning zero-rating. While those rules were ultimately thrown out by a federal appeals court wireless carriers and ISPs remained cautious about embracing them. But the practice has been growing. 
+ Among wireless carriers, AT&T  has been the most aggressive on zero-rating, rolling out its  Sponsored Data program  in early 2014 that allows any service or advertiser to exempt their traffic from data caps for a price. T-Mobile’s  Music Freedom  plan exempts music streaming services from data caps but does not charge the services to participate. On the wireline side, Comcast exempts its own streaming service from data caps on Microsoft’s Xbox platform. 
+ Critics of zero-rating, however, fear that the new rules’ silence on the issue will be taken as by carriers and ISPs as an open invitation to create a market for zero-rated services, as some are clearly itching to do. 
+ In a  letter to the FCC  dated February 11, Verizon made it clear it remains keenly interested in offering zero-rated services: 
+ Rather than restricting access, the “commercial arrangements” that Verizon was, and continues to be, interested in are those that have the possibility of offering consumers additional choices and saving them money. As we explained to the court in our briefs, the Commission’s earlier rules foreclosed voluntary business arrangements, such as “innovative arrangements (such as advertiser-supported services) that would help recover the costs of building and maintaining broadband networks.” These types of “sponsored data” arrangements – where online content or service providers voluntarily pick up the tab for usage associated with their traffic, rather than the end user doing so – also hold promise for saving consumers money and enabling interested providers to differentiate themselves and better compete. These are the kinds of pro-consumer services that can arise in “a two-sided market with respect to Internet services,” as we also explained at oral argument.  Such services do not “restrict access” any more than 1-800 telephone numbers restrict calls. 
+ The wireless industry association, CTIA, also pushed for a green light on zero-rating in a  separate letter  to the commission: 
+ The commission should state that data allowances, zero rating, music freedom, and sponsored data are all pro-consumer features and should explicitly state that they are permitted under the new rules and standards…It is important for the Commission to recognize that existing pro-consumer practices are permitted under the new standard to provide some guidance as to how the standard will apply and show good faith that future mobile innovation will continue to be encouraged. 
+ The issue could come to a head fairly quickly. Verizon is planning to launch an  over-the-top mobile video subscription service  later this year and is almost certainly eyeing zero-rating that data traffic. AT&T is awaiting FCC approval to acquire DirecTV with an eye toward expanding its mobile video offerings, again almost certain to be zero-rated. Dish Network was a  surprise major buye r in the most recent FCC auction of wireless spectrum and is considered a potential takeover target for T-Mobile or Sprint, more likely T-Mobile. 
+ The two wireless giants, Verizon and AT&T, could also soon be locked in a duel over mobile streaming of NFL games, heightening the incentive to embrace zero-rating. Verizon currently has mobile streaming rights to in-market NFL games; should AT&T succeed in its bid for DirecTV it would gain access to Direct’s out-of-market NFL Sunday Ticket package. 
+ Beyond that, many net neutrality supporters worry that the expanded use of zero-rated data plans by wireless carriers will encourage wireline ISPs to follow suit. 
+ “In a recent filing, Verizon argued that it appealed the Open Internet Rules [in 2010] because its lawyers recognized the order banned zero-rating for a fee and Verizon wanted to engage in this practice. As a result, zero-rating in the US has generally been limited to wireless offerings,” Stanford Law School professor and prominent net neutrality advocate Barbara van Schewick wrote in a white paper delivered to the FCC last week. “If the FCC does not address the issue, it is likely that zero-rating will expand rapidly, given the ISPs’ interest in the practice.” 
+ While OTT providers scored a major victory when the FCC decided to  treat interconnection arrangements  between edge providers and ISPs as a Title II service subject to the new net neutrality rules, it’s clear the battle over the rules of the OTT road is far from over. 
+ Share this: Share Email Print Facebook Twitter Reddit LinkedIn Tumblr 
+ 
+   
+ 
+ 
+ Share this Entry 
+ Facebook Google+ Twitter Pinterest LinkedIn StumbleUpon Reddit Email 
+ 
+ 
+ 
+ 
+ 
+ Subscribe 
+ 
+ Get the latest live, linear & OTT news & analysis delivered to your inbox every week 
+ 
+ 
+ 
+ 
+ 
+ Blog FCC ,  net neutrality ,  OTT ,  zero-rating 
+ 
+   

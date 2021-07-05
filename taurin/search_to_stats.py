@@ -2,7 +2,7 @@
 
 import json
 
-def main(inpath="output/search_no-around.json", outpath="output/stats-search_no-around.json"):
+def main(inpath="output/search_around.json", outpath="output/stats-search_around.json"):
     with open(inpath, 'r') as infile:
         data = json.load(infile)
     

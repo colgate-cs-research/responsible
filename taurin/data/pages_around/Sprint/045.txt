@@ -1,0 +1,63 @@
+##LINK: http://www.telco2.net/blog/2008/01/open_internet_access_on_mobile.html
+##KEYWORDS: open Internet
+##TITLE: Telco 2.0: Open Internet Access on Mobile - framing our thoughts
+##METHOD: paragraphs
+
+
+« Sprint-Nextel: 1.0 thinking in a 2.0 world |
+                        Main
+                        | Ring! Ring! Hot News, 28th January 2008 »
+
+Last week Mark Lowenstein, former strategy VP at a major US telco (now Managing Director at Mobile Ecosystem) presented some issues around ‘Open Internet Access on Mobile’ on INmobile.org, the private community for senior executives in wireless. They prompted a ‘Telco 2.0’ response from us. We thought the exchange, captured below here, would be useful to our readers [note: normally INmobile.org discussions are private, but Mark allowed us to reprint his comments here…]:
+Mark said: “Open access [to the internet on mobile] is going to be a key area of development in 2008. Its strongest proponents point to the PC industry and the experience we all have on the Internet. I’d like to raise some issues we all need to consider as the framework for open access is developed over the next couple of years. 
+First, we have to keep in mind wireless industry economics. It costs hundreds of times more to deliver a megabyte of data over a wireless network compared to residential broadband. There is no technology on the horizon that radically changes that framework. 
+Second, customer service is an aspect that open access proponents have under-considered. If you experience a problem in the PC world, you know that getting help can be cumbersome and costly. Having a problem on Facebook or MySpace? Try actually reaching a human being for help on these “social networks”. By contrast, wireless operators today are the default for all manner of customer service, even when problems have nothing to do with the actual service provided by the operator. How is this going to be handled in an “off-portal” world? 
+Third is the area of privacy and security. We’ve experienced tremendous growth in wireless data, and have been relatively untouched by the spam and virus problems so pervasive in the PC world. Can you imagine the backlash if there’s a high profile instance if minors [children] - the majority of whom now own cell phones - start receiving the sorts of inappropriate messages we all see daily in our e-mail inboxes? 
+Finally, we have to think hard about what the user experience in an “open access” world is going to be like. Consider that a superior user experience in today’s digital world tends to come from the most closed and tightly integrated offerings. I think of three examples here: iPod/iTunes; Blackberry; and console gaming.”
+The Telco 2.0 response:
+The context for all the changes Mark cites is the move from a one-sided consumer-facing business to a two-sided platform business model (this is the focus of our current research, of course, and the next Telco 2.0 Exec Brainstorm in April in London - sign up before 12 Feb to get discounts on seats!).
+The issue of cost (‘wireless industry economics’) can be dealt with in three key ways:
+1.) Raising the price of “all you can eat” data plans to better reflect their true cost. Users are currently buying a non-revocable option to ever increase their usage, without the compensating increases in price. It makes an accounting profit, but only because you’re never pricing in the true cost of that option. 
+2.) Allowing application partners to package up data and bundle it with their applications in a manner that reflects the application’s average usage pattern (time, geography, ‘burstiness’, etc.), but with the user only seeing a fixed “all you can eat” fee for that one application. Importantly, we must enable that product to be easily sold and provisioned in the context of the partner’s business — not just via your own online portal or call centre.
+3.) Treating the issue as a logistics problem for data. Content that is not time-critical should be sent via some other means to the device (broadband/WiFi, Bluetooth, sideloaded). The carrier’s job is to develop these capabilities, make it simple for all users, and sell that logistics capability to the upstream partner. When I post a letter to London from Edinburgh, I don’t need to think about whether it’s going by plane, road or rail. The postal service just delivers it for when it’s needed. It doesn’t fly every letter, because that’s inefficient. For this to work you need to stop seeing wireless as a silo, and better integrate it with the PC and home networking. 
+Customer service costs can be lowered by:
+- Adopting the above re-bundling strategy, and charging those application partners a reasonable fee to support their applications (we’re currently in the middle of trying to size the addressable markets here. Contact us to find out more).
+- Tiering your service level, possibly via multiple brands. So my personal ISP (Zen Internet) is a premium ISP that’s more than happy to help with any PC problem. There’s a good chance Zen will be bought by BT, so BT will add another brand and segment to its portfolio. 
+- Working to eliminate more of the root causes of customer confusion - even if it means, say, assisting website owners to reword their download installation instructions to stop confusing users. Be creative, and take responsibility (and credit) for the customer experience. 
+- Building much better self-help forums for users to search and also help each other. Make better use of the technology we have. Nokia, Microsoft, and many others support millions of users without massive call centres, because they make it easy for users to find answers to problems. Open up your support and incident databases. 
+- Be humble. Give the users credit when it does go wrong. Apologise. Make every contact into a retention opportunity.
+- Turn it into a VAS sales opportunity - Apple make tons of money from AppleCare. Offer premium support for a fee, throw it in for ‘free’ to your more profitable customers. 
+The privacy issue is multi-faceted and there’s no easy, simple answer, since it’s made up of many related problems. However, there are some specific steps that can be done to make things better:
+- Provide facilities that proxy interactions with users. For example, say a partner wants to send a bulk SMS that’s inappropriate for minors. Offer a premium API that will accept that message, and only pass it on to accounts that have registered for unblocking adult content. (This is a general principle of keeping highly private data like age, location, presence ‘inside the telco’ and only offering secondary functions that don’t compromise privacy.) 
+- Make it more obvious when you’re acting as a trusted intermediary. For example, one patent I filed at Sprint was to turn the carrier logo on the handset from a printed one to an LED. Then when Sprint was presenting an interstitial page ( e.g. for single sign-on, PIN entry to buy content, release of personal profile details) the light would come on, letting you know that it’s really Sprint you’re interacting with. Re-intermediate the experience as part of the platform offering. Become a trustmark, just like the VISA logo. 
+- Expose your assets that enable authentication whenever you can. Make it easy for apps to access the SIM, or network authentication, or even select account details. Rather than worry about open access ruining your model, think about how you can take your assets into the open access space and how partners can integrate them with their applications to enable a more secure experience. 
+The overall user experience issue was largely addressed by DoCoMo with i-mode — separate ‘approved’ applications that have gone through testing from ‘unapproved’ ones where you’re on your own. Apple do this, with a ~$4/unit fee for iPod accessories to be “official”. However, the economic model can be modified to lower up-front certification costs for application developers in return for a share of any future revenue streams from their application. 
+Furthermore, many channel partners will be there to assure the overall user experience is a satisfactory one. You don’t just throw open the doors; you select your initial partners carefully and see what works and what doesn’t. 
+Summary:
+* Old model: Product company
+* Feared model: Pipe company
+* Best model: Platform company
+Posted at  8:53 PM | Link to this article
+
+
+                                    (To prevent spam, all comments need to be approved by the Telco 2.0 team before appearing. Thanks for waiting.)
+                                 
+
+Name:
+
+
+
+Email Address:
+
+
+
+URL:
+
+
+
+
+                                          Remember personal info?
+
+
+Comments: (you may use HTML tags for style)
+

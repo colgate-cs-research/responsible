@@ -1,0 +1,264 @@
+##LINK: https://www.theverge.com/2020/6/4/21280914/sen-ed-markey-at-t-zero-rating-hbo-max-net-neutrality
+##KEYWORDS: zero-rating
+##TITLE: Senators criticize AT&T for not counting HBO Max toward data caps - The Verge
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ Filed under: 
+ 
+ 
+ 
+ Policy 
+ 
+ 
+ 
+ 
+ Mobile 
+ 
+ 
+ 
+ 
+ Tech 
+ 
+ 
+ 
+ 
+ 
+ Senators criticize AT&T for not counting HBO Max toward data caps 
+ 
+ 
+ 
+ 
+    New,
+   
+ 
+ 
+        32
+       
+ comments 
+ 
+ 
+ 
+ 
+ AT&T is zero-rating HBO Max data 
+ 
+ 
+    
+      By
+       
+ Jay Peters @jaypeters 
+ 
+ 
+ 
+          Jun  4, 2020,  6:27pm EDT
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this story 
+ 
+ 
+ 
+ 
+ Share this on Facebook 
+ 
+ 
+ 
+ 
+ 
+ Share this on Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options for: 
+ Senators criticize AT&T for not counting HBO Max toward data caps 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Linkedin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pocket 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flipboard 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Photo by Samuel Corum/Getty Images 
+ 
+ 
+ 
+ Senators Ed Markey (D-MA), Ron Wyden (D-OR), and Richard Blumenthal (D-CO) have written  a letter  to AT&T CEO Randall Stephenson criticizing the company’s decision to exempt HBO Max streaming data from counting toward AT&T mobile customers’ data caps. The practice is known as zero-rating, and it’s been a  contentious issue in the telecom industry for years . The letter follows AT&T’s recent confirmation  to  The Verge   that HBO Max data wouldn’t count toward AT&T’s mobile data caps.  
+ AT&T is able to do this thanks to the  Federal Communication Commission’s rollback of net neutrality protections  that prohibited companies from, among other things, giving their own data streams preferential treatment. The loss of those protections back in 2018 opened the gate for zero-rating.  
+ The FCC’s rollback of net neutrality protections gave companies like AT&T the green light 
+ While it may sound like a benefit, the concern with zero-rating is that it harms competition. It means even though HBO Max, which is operated by AT&T subsidiary WarnerMedia, won’t use up data on AT&T mobile customers’ data plans, other streaming services like Disney Plus and Netflix will. In theory, that could incentivize customers to watch HBO Max content instead of content from other service providers — an option AT&T makes  even more tempting  thanks to bundling free access to HBO Max with some wireless, internet, and TV plans.  
+ “This practice of allowing one arm of your company to ‘pay’ another arm of your company for preferential treatment attempts to mask its true impact,” said the senators in the letter. “The Trump FCC may have gutted critical net neutrality protections, but AT&T nonetheless has a responsibility to avoid any policies or practices that harm consumers and stifle competition.” 
+ 
+ 
+ AT&T reportedly has a policy of not counting use of HBO Max, which AT&T owns, against AT&T customers’ data caps. The Trump FCC may have gutted  #NetNeutrality , but AT&T still has a responsibility to avoid policies that harm consumers and stifle competition. https://t.co/QKJ5Hjkktr — Ed Markey (@SenMarkey)  June 4, 2020 
+ 
+ 
+ 
+ HBO Max is taking advantage of AT&T’s “ sponsored data ” program, an AT&T executive told  The Verge . That program lets users stream content from partners who then pay AT&T for the streamed data instead of having it count toward a customer’s data cap. But HBO Max is ultimately paying AT&T Mobility for the data used, meaning AT&T is essentially paying itself for the exemption and giving its customers a free perk that could give HBO Max an edge over the competition.  
+ The senators have asked Stephenson to respond to the letter and explain why AT&T is doing this by June 25th. You can read the letter in full below: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Next Up In
+    
+         Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Sign up for the
+        
+          newsletter
+        
+       
+      Verge Deals
+     
+ Subscribe to get the best Verge-approved tech deals of the week. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thanks for signing up! 
+ Check your inbox for a welcome email. 
+ 
+ 
+ 
+ 
+ Email  (required) 
+ 
+ 
+ 
+ 
+ 
+ 
+        By signing up, you agree to our  Privacy Notice  and European users agree to the data transfer policy.
+        
+       
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loading comments... 
+ 
+ 
+ 
+ 
+ 
+ 

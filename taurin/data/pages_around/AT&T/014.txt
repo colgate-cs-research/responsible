@@ -1,0 +1,57 @@
+##LINK: https://www.mediapost.com/publications/article/352195/att-violates-net-neutrality-principles-with-hbo-m.html
+##KEYWORDS: net neutrality
+##TITLE: AT&T Violates Net Neutrality Principles With HBO Max, Lawmakers Say 06/05/2020
+##METHOD: paragraphs
+
+Username
+Password
+Remember me
+Forgot your password?
+
+                                Subscribe today to gain access to every Research Intelligencer article we publish as well as the exclusive daily newsletter, full access to The MediaPost Cases, first-look research and daily insights from Joe Mandese, Editor in Chief.
+                            
+If you're already a paid subscriber, please sign-in.
+Username  
+                                    
+Password  
+                                      Forgot?
+Log in if you are already a member
+Username  
+                                    
+Password  
+                                      Forgot?
+AT&T is facing criticism on Capitol Hill over the decision to exempt HBO Max streaming video from wireless subscribers' data caps.
+“The Trump FCC may have gutted critical net
+neutrality protections, but AT&T nonetheless has a responsibility to avoid any policies or practices that harm consumers and stifle competition,” Sens. Ed Markey (Massachusetts), Ron Wyden
+(Oregon) and Richard Blumenthal (Connecticut) said in a letter sent Thursday to CEO Randall Stephenson.
+The letter comes around one week after AT&T launched HBO Max, the new streaming
+video service that offers HBO programs as well as non-HBO television shows and movies, including “Friends,” “The Big Bang Theory,” “Crazy Rich Asians” and
+“Shazam.”
+AT&T is “zero-rating” all HBO Max content for wireless customers -- meaning that those customers can stream HBO Max programs without burning through their
+monthly data allotment. 
+advertisement
+advertisement
+When those same customers stream videos from other services, like Amazon Prime or Google Play, the data counts toward customers' maximums.
+The lawmakers tell
+Stephenson that the zero-rating policy -- which gives consumers an obvious incentive to subscribe to AT&T-owned HBO Max over competing video providers -- appears to violate net neutrality
+principles.
+“Although your company has repeatedly stated publicly that it supports legally binding net neutrality rules, this policy appears to run contrary to the essential principle
+that in a free and open internet, service providers may not favor content in which they have a financial interest over competitors’ content,” they write.
+Controversies over data
+cap exemptions are nothing new for AT&T. Back in 2013, the telecom pioneered “toll-free data” by allowing partners to pay for their data to be exempted from consumers' monthly caps.
+Several years later, after acquiring DirecTV, the company exempted DirecTV video streams from wireless data caps.
+During the Obama era, the Federal Communications Commission said AT&T's
+zero-rating scheme appeared to violate the then-existing net neutrality rules.
+Those rules, which were repealed by the current FCC, broadly prohibited broadband carriers from blocking or
+degrading service and from creating online fast lanes. The regulations also banned carriers from engaging in conduct that interferes with people's ability to access web content.
+In January of
+2017, shortly before leaving the FCC, former chairman Tom Wheeler told
+lawmakers that AT&T's zero-rating program “may harm consumers and competition by unreasonably discriminating in favor of downstream providers owned or affiliated with the network
+providers.”
+Three weeks later, current chairman Ajit Pai closed
+the FCC's investigation into zero-rating.
+For its part, AT&T says the zero-rating scheme will benefit consumers. “Our wireless subscribers can stream HBO Max video without incurring
+data charges, which will save money for millions of consumers,” a company spokesperson says.
+Wendy Davis is a Senior Writer at MediaPost. You can reach Wendy at wdavis@mediapost.com
+
+advertisement

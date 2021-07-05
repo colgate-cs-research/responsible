@@ -1,0 +1,43 @@
+##LINK: http://www.onradsradar.com/2016/12/
+##KEYWORDS: zero-rating
+##TITLE: NSP Strategy: December 2016
+##METHOD: paragraphs
+
+"Not having a goal to work toward makes it difficult to direct your efforts, measure progress and motivate yourself to keep going. Write your goals down—and be specific." - Jim Rohn 
+"Personal goals start as thoughts and dreams. Business goals may have those attributes, but often business goals are handed to you by a superior. Sales goals, sales plans, sales numbers, pipelines, funnels, and various benchmarks for you to achieve for THEM."  - Jeffrey Gitomer
+It is December, the time of year for reflecting on the year closing up and planning for the year coming soon. Let's get a jump on that with some Goal Setting help in this 45 minute webinar on December 14 at Noon Eastern.
+REGISTER NOW!
+What's in the news?
+
+Why Telecom Carriers Are Resisting a Program for Low-Income Internet Subsidies by Fortune magazine.  "For decades, low-income households have been getting subsidized telephone service under the federal government’s Lifeline program. Back in April, the Federal Communications Commission, which oversees the program, decided to extend the subsidy to cover broadband Internet service as well. After all, about one-third of the 40 million households eligible for the Lifeline program lack broadband." AT&T, VZ and C-Link have told the FCC they are opting out. 
+
+However, AT&T is taking another government contract. DSLR is reporting that "AT&T is the likely winner of a government contract to build our first nationwide emergency broadband network known as FirstNet."  FirstNet is the nationwide wireless emergency network that was suggested after 9/11!
+
+Cable Nodes Becoming a Choke Point.
+
+"Not all Internet service providers use monthly data caps to control bandwidth usage, but default unlimited plans appear to be rapidly going the way of the dodo. WideOpenWest Holdings LLC (WOW) COO Cash Hagen says when it comes to broadband providers and usage caps, "it's not a matter of if we all do it at some point, but when, how and how the customers adapt to that."  [lightread]
+
+Presidio is filing for their IPO and "expected to value it at as much as $3 billion"! (Presidio is an MSP, a telecom broker and a Cisco partner.)
+
+GoDaddy has made 3 moves this year. First they bought FreedomVoice for the service that is like Google Voice for $40M. Today it was announced that GoDaddy is buying Host Group Europe for $1.79B. Strangely, in September, GoDaddy bought Serbia’s ManageWP, a multi-site WordPress management tool. 
+
+
+IDC research says that by the close of 2016, SMBs (under 500 employees) will have collectively spent $564 Billion on IT hardware, software and services. (That includes SAAS like Salesforce and Office365 and managed services like RMM).
+
+Amazon announced that they are getting in the Virtual Server space at $5 per month. They are starting selling cable-voice bundles for Comcast and Frontier. There is a heavy rumor that Amazon will be offering Hosted VoIP soon (possibly powered by BroadCloud). 
+
+You have to start thinking value-add, retention, customer satisfaction and upselling. I have been chanting outcomes and bundles for a long time. Going forward selling product just won't work -- they can buy that via a click on Amazon. 
+Marketing Your Fiber 
+If you offer fiber to businesses or consumers, do you need help marketing it to get a better take rate? Join the webinar on 6/3! 
+Selling Hosted VoIP
+ We offer a variety of sales training on Hosted VoIP View them here!
+Selling Fat Pipes
+Buy the audio recording of Selling Fat Pipes webinar now!
+How to Compete!
+Get the audio of the How to Compete seminar - Now!
+The Hosted PBX Market Analysis
+Market analysis for Hosted PBX (UCaaS, Hosted UC), the CLEC or the cloud industry is available upon request.
+Meet Me:
+..... see me Live at FISPA in New Orleans in Feb. 5-7, 2018
+..... see me Live at CVX Expo in Ft Lauderdale on Feb. 13-16, 2018 or at ITEXPO!
+...  Meet me for coffee in my home town of Tampa. 

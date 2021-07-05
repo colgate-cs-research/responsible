@@ -1,0 +1,75 @@
+##LINK: https://www.theeagleonline.com/article/2015/02/unwired-net-neutrality
+##KEYWORDS: net neutrality
+##TITLE: UnWired: Slow Netflix? Fix it with net neutrality - The Eagle
+##METHOD: article 5
+
+
+
+
+ Net neutrality is the idea that all internet traffic should be treated equally, even when it comes to charging for bandwidth usage. 
+ A "free and open internet" even got a hat tip at the  State of the Union address . 
+ 
+ 
+ 
+ This next question may seem like a non-sequitur but it’s not. How many choices did you have when signing up with your Internet service provider (ISP)? 
+ Currently, I live in the Berkshire apartments on Massachusetts Ave. My roommate and I were given two options: RCN and Comcast. The Berkshire recently signed a contract with Comcast to rewire the whole building. The Avalon apartments had a few more choices like Verizon. Students who live on campus have few choices when it comes to picking an ISP. AU provides Internet hosted by two companies most people have never heard of: Lightower Fiber Networks and Cogent Communications.  
+ The web takes a huge amount of cables, wires and other infrastructure to bring you your  adorable cat video . That’s why companies share networks, leading to limited choices. 
+ It’s called “interconnection.” Simply put, an ISP like Cogent Communications can broker a deal with Verizon (which they do) to use portions of the network that only one company owns. 
+ The U.S. is a relatively free capitalist country. If you are worried that your  Hershey bar is produced with child labor  or Walmart is ruining America, you can choose not to hand over your dollars to those companies. Because of interconnection, it is impossible to completely avoid a company that has a bad record on net neutrality. 
+ For example,  Cogent Communications’ CEO accused Verizon  of violating net neutrality and their interconnection agreement. Cogent Communications claimed that Verizon slowed customer’s Internet speeds without notice. Then, Verizon tried to charge Cogent Communications extra money for the bandwidth usage. 
+ I can’t say exactly how AU was affected (that’s above my pay grade, which is zero), but a  Measurement Lab  study that examined Cogent Communications’ download speeds in D.C., Chicago, New York and other cities shows that Verizon may have punished partners who used extra bandwidth. 
+ The Measurement Lab report indicates that New Yorkers’ internet speeds dropped once Verizon asked Cogent Communications to pay for premium service. Internet  speeds went back up once Netflix began to pay the ISPs  for additional bandwidth. 
+ Verizon’s differential treatment of Netflix traffic goes against the idea of net neutrality by giving preferential treatment to websites and ISPs and asking some providers to pay extra. It’s not the first time the telecommunications giant has charged an ISP or company unfairly. 
+ Verizon and Comcast are the companies that brought forth  Comcast v. FCC  and  Verizon v. FCC . Comcast’s case castrated the Federal Communications Commission’s ability to require fair treatment for all web traffic. Verizon’s case ended with courts allowing ISPs to not only price discriminate but outright block content. These cases resulted in a more expensive and restricted Internet. 
+ In many ways, we are handcuffed to paying too much for sub-par service (at least until Google Fiber comes to town, or someone can tap into D.C.’s extensive fiber optic network that is being pitifully underused - that’s our next article). So let’s not tie our hands more. 
+ The FCC will vote in February on new rules that could make or break neutrality. We don’t really have the option to vote with our dollars here, but there are many websites that allow you to voice your opinion in favor of net neutrality. You can  make a comment to the FCC itself , or sign petitions with  Public Knowledge  or the  American Civil Liberties Union . 
+ Our generation has grown up with the Internet. We know how it works - maybe not always at a technical level, but at a social and cultural level. It makes sense that ISPs want to charge more for higher speeds, but the benefits of equal access outweigh that interest. The U.S. already had Internet access disparities. Net neutrality will help ensure equal access to the benefits of the web, like innovation and open knowledge. We should not make it harder to access. The free and open Internet we envision must be neutral. 
+ thescene@theeagleonline.com   
+ 
+ 
+ 
+ Never miss a story 
+        Get our weekly newsletter delivered right to your inbox.
+         
+ 
+ Email Address  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ More from The Eagle 
+ 
+ 
+ 
+ 
+ 
+ 
+ Faced with daunting schedules, ROTC students find time to make it work 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The (Com)Post: Sustainability apps for every kind of person  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ National Museum for Women in the Arts hosts free Community Day 
+ 
+ 
+ 

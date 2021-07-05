@@ -1,0 +1,52 @@
+##LINK: http://internet3.sourceforge.net/
+##KEYWORDS: net neutrality
+##TITLE: Internet3: P2P Net Neutrality
+##METHOD: paragraphs
+
+Introduction
+                Internet3 is the creation of a distributed peer-to-peer (P2P)
+                platform using open source web technology for the acquisition,
+                archival and delivery of Internet content to prevent censorship
+                and to address net neutrality issues. It is an answer to the
+                lack of information freedom in the proposed Internet2.
+It was conceived to address concerns over Web sites such as
+                Google, YouTube, and Digg tinkering with rankings, as well as
+                government and Internet Service Providers censoring political
+                Web content, such as Alex Jones PrisonPlanet.com and
+                Infowars.com.
+Internet3 includes a set of technologies which layers a bit
+                torrent client underneath Web browsers and Web servers.
+Features
+Decentralized Search Engine, User-Controlled Content
+                Decentralized Web Hosting, Host-Controlled Content
+                Seamless Torrent Web Browser
+                Web Interface to Bit Torrents
+                Searchable, Tagged Content
+                Ranked Content
+                Mirrored Content from P2P Networks
+                Archived Content from P2P Networks
+                RSS Feeds, Web Sites, Podcasts, Videos, Audio
+Benefits
+Download Censored Content from Peers
+                Reduced Web Hosting Costs
+                Easy Mirroring
+                Easy Hosting of Search Engine
+Open Source
+                Implemented using available open source technologies and made open
+                source for easy extension.
+Architecture
+                Initial set of technologies use an open source P2P client and Web
+                server written in Python.
+The Web browser plug-in can either be written as an actual
+                plug-in, like a Google search bar, or integrated as a Javascriptlet
+                or Javascript that will be brought up by the user with a bookmark
+                to tag a Web site or while browsing an a torrented Internet3 Web
+                server.
+The following figure represents the overall architecture or
+                technology framework.
+Note that while browing an Internet3 Web server, the Internet3
+                client will download torrented content through their own Web
+                server. Otherwise, a regular Web browser will download untorrented
+                content.
+See the SourceForge documents link for more architecture
+                information.

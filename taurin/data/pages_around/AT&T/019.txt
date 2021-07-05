@@ -1,0 +1,7 @@
+##LINK: https://news.bloomberglaw.com/tech-and-telecom-law/at-t-halts-free-data-services-after-california-net-neutrality-ruling
+##KEYWORDS: net neutrality
+##TITLE: 
+##METHOD: article 1
+
+
+Company will no longer exempt sponsored video content Says ruling impacts customers beyond California  AT&T Inc.  will no longer exempt certain TV shows and movies from customers’ monthly data allowance after a federal judge  allowed  California’s net neutrality law to take effect.  “The new law not only ends our ability to offer California customers such free data services but also similarly impacts our customers in states beyond California,” the company said in a statement.  California’s law bans broadband providers from exempting certain content from counting toward a consumer’s data cap.  AT&T defended the practice, arguing that it “delivered significant benefits and saved consumers money.”  Supporters of the California law argue that AT&T offered the data allowance exemptions to steer customers to video services it owns.  “Since many people are concerned about going over their data caps, this program gives AT&T’s video services an advantage over competing online video services,” Barbara van Schewick, a professor at Stanford Law School, said in a statement.  (Updated with additional reporting.)  To contact the reporter on this story:  Jon Reid  in Washington at  jreid@bloomberglaw.com To contact the editor responsible for this story:  Keith Perine  at  kperine@bloomberglaw.com  To read more articles  log in .  Learn more about a  Bloomberg Law subscription .

@@ -1,0 +1,205 @@
+##LINK: https://www.techspot.com/news/88973-att-no-longer-allow-unlimited-tv-streaming-now.html
+##KEYWORDS: zero-rating
+##TITLE: AT&T will no longer allow unlimited TV streaming now that California law bans 'zero-rating' | TechSpot
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ The Web 
+ 
+ att 
+ net neutrality 
+ 
+ 
+ AT&T will no longer allow unlimited TV streaming now that California law bans 'zero-rating' 
+ HBO Max subscribers will now see their streaming count towards their data caps 
+ 
+									By                                                  Cal Jeffrey   
+ March 18, 2021, 13:25 
+ 
+ 33 comments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In a nutshell:  California's net neutrality law is coming back to bite consumers in the backside, at least according to AT&T. The provider has previously allowed customers to stream content from HBO Max without it counting toward their data caps (zero-rating). However, California's new law bans streaming services from "sponsoring" subscribers' data usage.  
+ AT&T  announced  on Wednesday that it would no longer be able to allow customers unlimited streaming from any internet TV services because California law now forbids allowing companies to pay to zero-rate its subscribers. This change will prominently affect HBO Max (an AT&T-owned VoD service) subscribers, who have been able to use the service without it affecting their data usage. 
+ "Prior to California's law, sponsored data customers were able to browse, stream and enjoy applications from sponsors without using their monthly data allowance," the company said. "Unfortunately, under the California law, we are now prohibited from providing certain data features to consumers free of charge." 
+ 
+ The provider says that these changes do not only affect California customers because "the internet does not recognize state borders." This concern was foreshadowed in the US Department of Justice's  challenging  of the Califonia legislation in 2018. The DoJ viewed the law as an attempt to undermine the FCC's  rollback  of internet access regulations. It argued that the FCC has the sole authority to create rules governing internet access since a large portion of interstate commerce occurs over the internet. 
+ "States do not regulate interstate commerce — the federal government does," said former US Attorney General Jeff Sessions. "Once again the California legislature has enacted an extreme and illegal state law attempting to frustrate federal policy." 
+ The idea of Califonia's law and the premise that it lobbied on was attractive on its surface. It was an attempt to level the playing field so that big companies could not get an unfair advantage over smaller companies offing similar services by paying for faster speeds or unlimited data usage for its customers. However, as can be seen, this is now going to affect those who previously enjoyed using those services without incurring the extra usage involved. 
+ AT&T concludes, saying it supports regulation on the federal level, but that a "patchwork" of rules made up state-by-state is "unworkable." In other words, when a state puts restrictions on or bans a service, the easiest and most cost-effective way to comply is not to offer it anymore, regardless of where the customer lives. 
+ Image credit:  AT&T Store  by NYCStock,  HBO Max  by Tada Images 
+ 
+ 
+ 
+												33 comments
+										 
+ 					270 interactions
+					 
+ 
+ 
+ 
+ Share this article: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Reads 
+ 
+ 
+ 
+					WarnerMedia is merging with Discovery to create a new streaming giant				 
+ 
+ 
+ 
+					AT&T is upgrading its emergency service-focused 'FirstNet' network to 5G				 
+ 
+ 
+ 
+					The World Wide Web source code NFT has been sold for $5.4M				 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WATCH: Top 10 Most Significant Nvidia GPUs of All Time 
+ 
+ 
+ 
+ Now Read This… 
+ 
+ 
+ 
+ 
+ AMD's CPUs lose ground to Intel, Windows 7 gains users 
+ 
+ 
+ 
+ 
+ 
+ 
+ Latest Aorus hardware looks like a GPU, is a superfast Gen4 AIC SSD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Most Read 
+ 
+ 
+ 
+ 24 comments 
+ 
+ 
+ 
+ Ford F-150 Lightning EV: High Tech Truck Deep Dive 
+ 
+ 
+ 
+ 
+ 14 comments 
+ 
+ 
+ 
+ 5 Ideas to Improve and Bring New Life into Your Old PC Case 
+ 
+ 
+ 
+ 
+ 32 comments 
+ 
+ 
+ 
+ Micro Center apologizes for insulting AMD graphics cards 
+ 
+ 
+ 
+ 
+ 37 comments 
+ 
+ 
+ 
+ Crypto miners in China are selling off their graphics cards amid crackdown 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

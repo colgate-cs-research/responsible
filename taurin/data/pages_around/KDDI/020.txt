@@ -1,0 +1,31 @@
+##LINK: https://www.telehouse.com/how-an-internet-peering-network-reduces-bandwidth-costs-for-colleges-and-universities/
+##KEYWORDS: open Internet
+##TITLE: Internet Peering Network Reduces Bandwidth Costs - Telehouse- Telehouse
+##METHOD: paragraphs
+
+Colleges and Universities need bandwidth. It’s a cost that wasn’t on the books 30 years ago, but is now a big line item.
+Usage continues to grow, not only for online learning programs, but students in residence gobble up gigabytes of bandwidth for web surfing and streaming video. CRMs and other cloud-based software demand fast, efficient connections.
+Many institutions are turning to Internet Peering to increase speed and reduce bandwidth costs.
+Bandwidth is the volume of data that can be transferred from one point to another in a defined period of time, usually measured in seconds. Bandwidth speed can be measured by how much time it takes for a file to get from one destination to another. The shortest amount of time of course gives the user the best experience, as larger bandwidth moves files much faster.
+The global spend on e-learning is expected to reach $51.5B this year, with up to half of that expected in North America alone. That’s 51.5B reasons higher education is taking a hard look at their business model and increasing resources for online courses.
+LearningHouse states: 3.4 million, or 17% of all college students were “fully engaged” in online learning programs in 2014. That number is expected to rise to closer to 25% by 2020.
+US News & World Report states: while 51% of employers prefer the weight of a “brick and mortar” degree, the other 49% do not.
+The stigma of an online degree is fading.
+Many colleges and universities are bolstering their infrastructure strategy and technology to accommodate the rise in distance learning and bandwidth use.
+Peering is a relationship between 2 or more Internet Service Providers (ISPs), who exchange traffic directly or through Peering Exchanges.
+In private Peering, partners peer directly with one another through their networks. In public Peering, partners exchange traffic through a centralized peering exchange—also known as an IX.
+There can be hundreds of members of a Peering Exchange such as NYIIX. These ISPs share a direct Peering network, instead of routing traffic through the public Internet. This direct connection increases speed, quality and efficiency.
+Each partnership is unique. The partners negotiate agreements between themselves independent of the exchange.
+The advantage is that building an Internet infrastructure and its associated bandwidth costs are bypassed. That cuts down on overhead costs for both partners.
+Read more about how Internet Peering saves money
+Educational organizations will save money because the efficiency of Peering moves data faster and cheaper and can minimize bandwidth costs.
+Besides allowing spikes in customer usage on your website to go unnoticed to users, peering makes live streaming video more efficient. The route data takes is shorter, so there is less interruption of the signal and faster upload times.
+For online curriculum planners and students using the Internet, this is great news.
+And with high definition reaching 4K and 8K levels, bandwidth isn’t just for streaming online learning. Some of the biggest Netflix users reside in the student dorms right on campus.
+The more partners you have in an Internet Peering Exchange, the better it works. Sharing bandwidth among partners results in an open Internet where every user does not have to build an entire infrastructure.
+One such exchange is The New York International Internet Exchange or NYIIX. KDDI, the parent company for Telehouse, began NYIIX back in the 90s. NYIIX appears in every carrier hotel in New York metropolitan area.
+It was the first Peering Exchange in New York. And it’s one of the oldest and largest exchanges in the world. Though it is affiliated with Telehouse, NYIIX is what’s known as Data Center neutral. You do not need to store your data at the Telehouse Data Center to join NYIIX.
+It’s simple. You just need to know your iPV4 or iPV6 address, purchase a few things—like a router and decide on a port size, and begin contacting other members of your exchange.
+A good Data Center provider can walk you through each of the steps and guide you in writing Peering Agreements.
+They’ll also help your team outline the best Colocation, Cloud, and Internet Peering strategies to enhance your short and long-range growth.
+This is an necessary category.

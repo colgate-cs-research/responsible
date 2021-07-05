@@ -1,0 +1,42 @@
+##LINK: https://www.fiercevideo.com/cable/cogent-level-3-could-be-first-to-file-net-neutrality-complaints-fcc
+##KEYWORDS: net neutrality
+##TITLE: Cogent, Level 3 could be first to file net neutrality complaints with FCC | FierceVideo
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+                                        by                       Jim Barthold                           | 
+             Apr 10, 2015 10:44am 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The FCC knows what's coming: a slew of net neutrality complaints, starting with an anticipated claim by Cogent Communications citing Comcast (NASDAQ: CMCSA), Time Warner Cable (NYSE: TWC), AT&T (NYSE: T), Verizon (NYSE: VZ) and CenturyLink (NYSE: CTL) with degrading Internet traffic. 
+ The complaint became likely after Cogent CEO Dave Schaeffer told the  National Journal  that it would "have no choice but to file a complaint with the FCC under the Open Internet Order" if its customers can't get "access to the entire Internet on an unfettered basis." 
+ And Cogent, while the most vocal in the past, isn't alone in plotting how it will approach the FCC. Level 3 is "currently evaluating our options" based on "interconnection point congestion as some large consumer ISPs continue to attempt to leverage control over access to their users to extract arbitrary goals," Mike Mooney, the carrier's general counsel told the publication. 
+ The at-risk parties--Comcast, Time Warner Cable, AT&T, Verizon and CenturyLink--joined the FCC in offering no comment to the story, the  National Journal  reported. 
+ Cogent and Level 3 were another matter. 
+ Schaeffer said he believes the FCC will act if ISPs don't "deliver all of the Internet all of the time at the speeds they have sold to their customers," and Mooney added that the FCC order "clearly requires that when broadband providers sell their customers access to the Internet they have an obligation to make adequate interconnection arrangements to honor those promises." 
+ For more: 
+	- read this  National Journal   story 
+ Related articles: 
+	FCC sends net neutrality rules to Federal Register, sets stage for telco, industry challenges 
+	Verizon's McAdam urges Congress to take hard line on spectrum bidding credits, curb FCC's net neutrality rules 
+	FCC releases net neutrality order, industry preps lawsuits 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

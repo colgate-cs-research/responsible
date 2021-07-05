@@ -1,0 +1,164 @@
+##LINK: https://arstechnica.com/information-technology/2015/06/sprint-stops-throttling-heavy-users-to-avoid-net-neutrality-complaints/
+##KEYWORDS: net neutrality
+##TITLE: Sprint stops throttling heavy users to avoid net neutrality complaints | Ars Technica
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+      Biz & IT    —
+ 
+ Sprint stops throttling heavy users to avoid net neutrality complaints 
+ AT&T, T-Mobile, and Verizon still throttle when their networks are congested. 
+ 
+ 
+ Jon Brodkin 
+    -   Jun 18, 2015 3:30 pm UTC 
+ 
+   
+ 
+ 
+ Elliott Brown 
+ reader comments 
+ 
+  with 46 posters participating, including story author 
+ 
+ 
+ Share this story 
+ Share on Facebook 
+ Share on Twitter 
+ Share on Reddit 
+ 
+ Sprint has stopped throttling its heaviest data users, even when its network is congested, to avoid potential violations of the Federal Communications Commission's new net neutrality rules that ban throttling. Instead, Sprint will manage congestion with a policy aimed at giving all customers a solid connection to the network. 
+ "Sprint said it believes its policy would have been allowed under the rules, but dropped it just in case,"  The Wall Street Journal  reported . 
+ “Sprint doesn’t expect users to notice any significant difference in their services now that we no longer engage in the process,” Sprint told the newspaper. Further Reading AT&T’s unlimited data throttling to be punished with $100 million fine 
+ We've contacted Sprint but haven't heard back. Changes on the company's website show that Sprint did indeed drop its throttling policy. 
+ A year ago, we  wrote about the throttling policies  of the four major US carriers. All of them were throttling users in some circumstances; generally, only the heaviest users among those with unlimited data plans would be hit with reduced speeds, and even then it would only happen in congested areas. 
+ AT&T was alone in throttling unlimited data users  at all times of the day  regardless of whether the network was congested. The throttling was triggered when customers on "unlimited" LTE plans hit 5GB of usage in a month and would continue until the billing cycle was over. AT&T  finally changed its policy last month  so that heavy users on the unlimited LTE plans are only throttled when the network is congested. AT&T already restricted throttling to congested areas on its 3G and HSPA+ networks, though customers on those slower networks are only given  3GB a month  before they are eligible for throttling. 
+ Before the net neutrality rules went into effect last week,  Sprint's website  said that "To more fairly allocate network resources in times of congestion, customers falling within the top five percent of data users may be prioritized below other customers attempting to access network resources, resulting in a reduction of throughput or speed as compared to performance on non-congested sites." 
+ Sprint's policy did not single out unlimited data users, though those would be the ones most likely to get throttled. 
+ The throttling policy has been  removed from the company's website . Now, Sprint says, "when congestion does occur, meaning that the demand on a particular sector temporarily exceeds the ability of that sector to meet the demand, Sprint relies on the radio scheduling software provided by Sprint’s hardware vendors to allocate resources to users... The goal of congestion management is to ensure that all users during times of congestion have access to a fair share of the network resources and that no user is starved of resources."   
+ Advertisement  
+ 
+ 
+ The  FCC rule against throttling  has an exception for "reasonable network management." After all, carriers really do need to manage the bandwidth allocated to users when cell sites are congested. But Sprint's change of heart indicates that it's possible to do this without reducing some users to speeds that render their devices unusable. 
+ FCC Chairman Tom Wheeler has objected to throttling policies that single out unlimited data users, saying that  network management decisions  should not be used to enhance revenue streams. By only throttling customers on unlimited data plans no longer sold to new customers, carriers appear to be pushing longtime customers onto newer, pricier plans that apply overage charges when customers exceed a data cap. 
+ Last year, Verizon Wireless  caved to pressure from Wheeler , deciding not to throttle unlimited data users with LTE devices. The decision may have been due to  license restrictions Verizon alone has to follow  because of the spectrum it uses for LTE. Verizon  still applies its throttling to 3G users , slowing down the top five percent of unlimited 3G users when the network is experiencing high demand. 
+ UPDATE : One commenter  pointed out  that Sprint also has enforced a policy that caps video downloads at 600kbps. Sprint does still have this policy  listed  on parts of its  website , saying, "Streaming video speeds for phones will be limited to 600kbps at all times, which may impact quality." 
+ We asked Sprint if it will stop slowing video traffic down. The company indicated that it will no longer apply the strict 600kbps limit broadly, but isn't getting rid of video limits entirely. “Sprint is making changes to the way it handles video. The current policy is outlined on our network management page at sprint.com/networkmanagement. These changes may not yet have been reflected on every Sprint web page. In addition, Sprint may offer—and some customers may choose—plans that include limits on streaming video as part of the rate plan. This will be prominently disclosed as a material term of the plan.” 
+ Sprint's policy says, "Video optimization is always deployed and active on the Sprint network for all identifiable video traffic. Although the purpose of the optimization techniques is to improve overall video viewing experience, it is possible that some users may experience minor discernible reductions in image quality when viewing video traffic on certain devices." 
+ Sprint also offered a more general comment on its throttling change of heart: "For less than a year, Sprint used a network management practice that applied only at the level of individual congested cell sites, and only for as long as congestion existed. At such sites, we temporarily allocated resources away from the top 5 percent of heaviest users and to the 95 percent of users with normal usage, to try to allocate the effects of congestion more fairly. Once congestion at the site passed, the limitation automatically ended. Upon review, and to ensure that our practices are consistent with the FCC’s net neutrality rules, we determined that the network management technique was not needed to ensure a quality experience for the majority of customers.”   
+ Advertisement  
+ 
+ 
+ It isn't throttling—we're just slowing you down 
+ T-Mobile also still throttles unlimited data users. The case of T-Mobile is slightly complicated because many of its plans are technically "unlimited" but come only with a certain amount of "high-speed" data. Once a customer has exceeded the high-speed data, speeds are slowed for the rest of the month unless the customer purchases more. 
+ But T-Mobile also sells more expensive plans with unlimited high-speed data, which is generally understood to mean that users are never throttled no matter how much data they use. That isn't the case, however.  T-Mobile's policy  says unlimited high-speed data customers who use more data than 97 percent of customers are throttled during times of heavy demand. 
+ "Unlimited high-speed data customers who use more data than what 97 percent of all customers use in a month, based on recent historical averages (updated quarterly), will have their data usage de-prioritized compared to the data usage of other customers at times and at locations where there are competing customer demands for network resources, which may result in slower data speeds," T-Mobile says. 
+ T-Mobile spokespeople have been trying to convince Ars that "de-prioritization" isn't actually "throttling." Verizon has also  claimed  that its own "network optimization" isn't throttling. The tactic is reminiscent of  Comcast's claim  that its data caps aren't actually "data caps." Regardless of what semantics the carriers use, they are slowing down their customers. 
+ T-Mobile's policy is fairly generous, though. As of now, it applies only to unlimited customers who use more than 21GB of data in a month. Those customers are "de-prioritized for the remainder of the billing cycle in times and at locations where there are competing customer demands for network resources." 
+ Verizon's 3G throttling policy affects those who use at least 6.5GB a month. 
+ AT&T has gone the furthest in defending its throttling. AT&T is  facing a lawsuit  filed by the Federal Trade Commission and a $100 million fine  proposed by the FCC  yesterday. The FCC says AT&T violated a transparency rule by falsely labeling plans as unlimited and not adequately disclosing its throttling policy to customers. 
+ AT&T is fighting both, saying that "all of the major carriers" do it. Wheeler clearly wasn't buying that argument, and given the changes Sprint made in response to net neutrality rules, AT&T may have an even tougher time trying to change the FCC chairman's mind. 
+ For those of you who are being throttled and believe it might violate FCC rules, consumers can  file net neutrality complaints on the commission's website . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ reader comments 
+ 
+  with 46 posters participating, including story author 
+ 
+ 
+ Share this story 
+ 
+ Share on Facebook 
+ Share on Twitter 
+ Share on Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jon Brodkin 
+      Jon is Ars Technica's senior IT reporter, covering the FCC and broadband, telecommunications, tech policy, and more.     
+ 
+ Email   jon.brodkin@arstechnica.com 
+ // 
+ Twitter   @JBrodkin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertisement  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ You must  login or create an account  to comment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Channel  Ars Technica 
+ 
+ 
+ 
+ 
+ ←  Previous story   Next story  → 
+ 
+ 
+ 
+ 
+ Related Stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Today on Ars 
+ 
+ 
+ 
+ 
+ 
+ 

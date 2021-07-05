@@ -1,0 +1,3204 @@
+##LINK: https://linustechtips.com/topic/1316363-att-fights-back-against-california%25E2%2580%2599s-net-neutrality-law/
+##KEYWORDS: net neutrality
+##TITLE: AT&T fights back against California’s net neutrality law - Tech News - Linus Tech Tips
+##METHOD: article 25
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jet_ski 
+ 
+ 
+ 
+                Member
+                
+					 ·  621 posts 
+ 
+ 621 posts 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Summary 
+ 
+ 
+	AT&T will no longer exempt viewership of its HBO Max streaming service from data caps after a federal court upheld California’s net neutrality law, the company said in a statement Wednesday.
+ 
+ 
+	 
+ 
+ 
+	[The source article is convoluted so here’s what actually happened] 
+	 
+ 
+ 
+	A federal court ruled that AT&T is breaking California state’s net neutrality law by not counting HBO Max towards monthly data caps. Because this means AT&T is effectively charging people differently based on their data usage which completely undermines the idea of net neutrality.
+ 
+ 
+	 
+ 
+ 
+	In order to comply with the court order, instead of excluding all streaming data from data caps, AT&T decided to do the complete opposite. Now even streaming HBO Max will count towards data caps.
+ 
+ 
+	 
+ 
+ 
+ Quotes 
+ 
+ 
+ 
+		Quote
+	 
+ 
+ 
+			The company informed customers that it would no longer offer “Data Free TV” on its video apps beginning March 25, according to a copy of the customer notice obtained by CNBC.
+		 
+ 
+ 
+ 
+	 
+ 
+ 
+ My thoughts 
+ 
+ 
+	Unbelievable. The judge says you have to treat all network traffic equally, so instead of giving Netflix and others the same treatment, AT&T decides to take something away from their customers.
+ 
+ 
+	 
+ 
+ 
+	AT&T plans are very expensive. Their “unlimited” plan will set you back ~$100 per month. And if you decide to get their cheaper plans, data costs $10 per gig!
+ 
+ 
+	 
+ 
+ 
+	The fact that they could let people stream HBO Max without counting that toward the data cap is them admitting how unjustified their pricing is. At the same time they are going around blaming the net neutrality law as something that’s “hurting consumers” where in fact it’s them.
+ 
+ 
+	 
+ 
+ 
+ Sources 
+ 
+ 
+ https://www.cnbc.com/2021/03/17/att-will-count-hbo-max-toward-data-caps-blames-net-neutrality-law.html 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spotty 
+ 
+ 
+ 
+ Senior Moderator 
+ ·  9,813 posts 
+ 
+ 
+ 9,813 posts 
+ 
+ Location :  Australia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		1 minute ago, Jet_ski said:
+	 
+ 
+ 
+			In order to comply with the court order, instead of excluding all streaming data from data caps, 
+			[...]
+		 
+ 
+ 
+			Unbelievable. The judge says you have to treat all network traffic equally, so instead of giving Netflix and others the same treatment, AT&T decides to take something away from their customers.
+		 
+ 
+ 
+ 
+	Wait, did anyone actually ever expect them to remove data caps for all streaming services? Video streaming services make up a gigantic portion of internet traffic. If they were going to do that they may as well just remove the data caps completely.
+ 
+ 
+ 
+ 
+ 
+ CPU:  Intel i7 6700k  |  Motherboard:  Gigabyte Z170x Gaming 5 |  RAM:  2x16GB 3000MHz Corsair Vengeance LPX |  GPU:  Gigabyte Aorus GTX 1080ti |  PSU:  Corsair RM750x (2018) |  Case:  BeQuiet SilentBase 800 |  Cooler:  Corsair H100i AIO |  SSD:  Samsung 970 Evo 500GB + Samsung 840 500GB + Crucial MX500 2TB |  HDD:  Seagate Ironwolf 8TB + 2x Seagate Ironwolf 6TB |  Monitor:  Acer Predator XB271HU + Samsung BX2450 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dreckssackblase , 
+ Belgarathian , 
+ GDRRiley  and 
+
+ 16 others 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								1
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								18
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Brooksie359 
+ 
+ 
+ 
+                Member
+                
+					 ·  10,657 posts 
+ 
+ 10,657 posts 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		10 minutes ago, Spotty said:
+	 
+ 
+ 
+			Wait, did anyone actually ever expect them to remove data caps for all streaming services? Video streaming services make up a gigantic portion of internet traffic. If they were going to do that they may as well just remove the data caps completely.
+		 
+ 
+ 
+ 
+	Totally agree. Granted it would be great if they did in fact remove data caps as they don't seem super necessary to me. Idk why people should have to pay more for their internet if they are using it. Why have fast internet if you can't even use it properly without going over the cap fairly fast. Grsnted I find that for myself streaming is hardly an issue for my data cap but downloading games is much more concerning as I can easily go over with a couple of big games. Generally speaking if I don't download games in a month I won't go over the cap even when watching streaming services heavily. When I downloading more than a couple of games then I tend to go over fairly quickly especially if they are the 100+ gb in size. 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ huilun02 
+ 
+ 
+ 
+                Member
+                
+					 ·  17,220 posts 
+ 
+ 17,220 posts 
+ Multireligious Paleontologist 
+ 
+ Location :  Out of silver platters 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	Wait...
+ 
+ 
+	 
+ 
+ 
+	Is this for mobile data or home internet?
+ 
+ 
+	 
+ 
+ 
+	Is exclusion of all streaming services from data caps the norm in the US? And for which type of line?
+ 
+ 
+ 
+ 
+ 
+ Awareness is key. Never enough, even in the face of futility. Speak the truth as if you may never get to say it again.  This world is full of ugly. Change it they say. The only way is to reveal the ugly. To change the truth you must first acknowledge it. Never pretend it isn't there. Never bend the knee. 
+ 
+ 
+	 
+ 
+ 
+	Please quote my post in your reply, so that I will be notified and can respond to it. Thanks.
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jet_ski 
+ 
+ 
+ 
+                Member
+                
+					 ·  621 posts 
+ 
+ 621 posts 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ Author 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		9 minutes ago, huilun02 said:
+	 
+ 
+ 
+			Wait...
+		 
+ 
+			 
+		 
+ 
+			Is this for mobile data or home internet?
+		 
+ 
+			 
+		 
+ 
+			Is exclusion of all streaming services from data caps the norm in the US? And for which type of line?
+		 
+ 
+ 
+ 
+	Mobile data.
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Master Disaster 
+ 
+ 
+ 
+                Member
+                
+					 ·  14,187 posts 
+ 
+ 14,187 posts 
+ A thermometer is just a speedometer for atoms 
+ 
+ Location :  SOL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		1 hour ago, Spotty said:
+	 
+ 
+ 
+			Wait, did anyone actually ever expect them to remove data caps for all streaming services? Video streaming services make up a gigantic portion of internet traffic. If they were going to do that they may as well just remove the data caps completely.
+		 
+ 
+ 
+ 
+	Sometimes is better to take a light shafting and maintain the status quo than it is to cause a fuss and risk the shafting turning into a forceful fucking.
+ 
+ 
+	 
+ 
+ 
+	No business is ever going to do something that costs them more when there's an alternative that moves the extra cost onto the customer instead.
+ 
+ 
+ 
+ 
+ 
+	Main Rig:-
+ 
+ 
+	Ryzen 7 3800X | Asus ROG Strix X570-F Gaming | 16GB Team Group Dark Pro 3600Mhz | Corsair MP600 1TB PCIe Gen 4 | Sapphire 5700 XT Pulse | Corsair H115i Platinum | WD Black 1TB | WD Green 4TB | EVGA SuperNOVA G3 650W | Asus TUF GT501 | Samsung C27HG70 1440p 144hz HDR FreeSync 2 | Ubuntu 20.04.2 LTS |
+ 
+ 
+	 
+ 
+ 
+	Server:-
+ 
+ 
+	Intel NUC running Server 2019 + Synology DSM218+ with 2 x 4TB Toshiba NAS Ready HDDs (RAID0)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BigDamn 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								1
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jet_ski 
+ 
+ 
+ 
+                Member
+                
+					 ·  621 posts 
+ 
+ 621 posts 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ Author 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		38 minutes ago, Master Disaster said:
+	 
+ 
+ 
+			Sometimes is better to take a light shafting and maintain the status quo than it is to cause a fuss and risk the shafting turning into a forceful fucking.
+		 
+ 
+			 
+		 
+ 
+			No business is ever going to do something that costs them more when there's an alternative that moves the extra cost onto the customer instead.
+		 
+ 
+ 
+ 
+	But that’s not really the point here. AT&T structured their offering to unfairly incentivize people to subscribe to [HBO Max], a subsidiary of their parent company, instead of other services. But they are trying to frame it as if they were doing people a favor. They weren’t, it was a self serving thing to boost their own business by breaking net neutrality.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ thechinchinsong , 
+ Tensimeter , 
+ SteveGrabowski0  and 
+
+ 5 others 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								8
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ StDragon 
+ 
+ 
+ 
+                Member
+                
+					 ·  1,800 posts 
+ 
+ 1,800 posts 
+ 
+ Location :  I walk the 5th dimension 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	The whole ISP model is based on oversubscription. For example, if everyone were to stream (practically, they won't) at 100mbp/s for hours on end, the entire Internet would be as slow as molasses in December. It's analogous to a highway on peak rush-hour where everyone feels entitled to the right to drive 65+MPH the entire stretch of the journey. No, it's mathematically impossible due to that whole time/place dimensional aspect of the universe.
+ 
+ 
+	 
+ 
+ 
+	AT&T is wrong in breaking California's law of net neutrality. What they should be doing is raising their rates to shed customers to both reduce load and profit enough to re-invest back into expanding the network. 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tieox 
+ 
+ 
+ 
+                Member
+                
+					 ·  1,905 posts 
+ 
+ 1,905 posts 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	Why the US tolerates data caps is beyond me.  
+ 
+ 
+ 
+ 
+ 
+ PC - NZXT H510 Elite, Ryzen 5600, 16GB DDR3200 2x8GB, EVGA 3070 FTW3 Ultra, Asus VG278HQ 165hz, 
+ 
+ 
+	 
+ 
+ 
+ Mac - 1.4ghz i5, 4GB DDR3 1600mhz, Intel HD 5000.  x2 
+ 
+ 
+	 
+ 
+ 
+ Endlessly wishing for a BBQ in space. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ thechinchinsong , 
+ ascendings , 
+ CTR640  and 
+
+ 5 others 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								8
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Master Disaster 
+ 
+ 
+ 
+                Member
+                
+					 ·  14,187 posts 
+ 
+ 14,187 posts 
+ A thermometer is just a speedometer for atoms 
+ 
+ Location :  SOL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		1 hour ago, Jet_ski said:
+	 
+ 
+ 
+			But that’s not really the point here. AT&T structured their offering to unfairly incentivize people to subscribe to [HBO Max], a subsidiary of their parent company, instead of other services. But they are trying to frame it as if they were doing people a favor. They weren’t, it was a self serving thing to boost their own business by breaking net neutrality.
+		 
+ 
+ 
+ 
+	To be clear, I 100% agree with you but to expect them to unblock everything when they can do to opposite for nothing and save money in the long run is naive.
+ 
+ 
+	 
+ 
+ 
+	Playing devils advocate though, you cannot deny that AT&T subscribers who also had HBO were getting a freebie, kind of a thank you for being loyal reward. They were technically doing some people a favour even if it was self serving.
+ 
+ 
+ 
+ 
+ 
+	Main Rig:-
+ 
+ 
+	Ryzen 7 3800X | Asus ROG Strix X570-F Gaming | 16GB Team Group Dark Pro 3600Mhz | Corsair MP600 1TB PCIe Gen 4 | Sapphire 5700 XT Pulse | Corsair H115i Platinum | WD Black 1TB | WD Green 4TB | EVGA SuperNOVA G3 650W | Asus TUF GT501 | Samsung C27HG70 1440p 144hz HDR FreeSync 2 | Ubuntu 20.04.2 LTS |
+ 
+ 
+	 
+ 
+ 
+	Server:-
+ 
+ 
+	Intel NUC running Server 2019 + Synology DSM218+ with 2 x 4TB Toshiba NAS Ready HDDs (RAID0)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ dizmo  and 
+ FmPhenom 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								2
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Master Disaster 
+ 
+ 
+ 
+                Member
+                
+					 ·  14,187 posts 
+ 
+ 14,187 posts 
+ A thermometer is just a speedometer for atoms 
+ 
+ Location :  SOL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		28 minutes ago, Tieox said:
+	 
+ 
+ 
+			Why the US tolerates data caps is beyond me.  
+		 
+ 
+ 
+ 
+	The lack of any reasonable alternative is probably pretty high on that list.
+ 
+ 
+ 
+ 
+ 
+	Main Rig:-
+ 
+ 
+	Ryzen 7 3800X | Asus ROG Strix X570-F Gaming | 16GB Team Group Dark Pro 3600Mhz | Corsair MP600 1TB PCIe Gen 4 | Sapphire 5700 XT Pulse | Corsair H115i Platinum | WD Black 1TB | WD Green 4TB | EVGA SuperNOVA G3 650W | Asus TUF GT501 | Samsung C27HG70 1440p 144hz HDR FreeSync 2 | Ubuntu 20.04.2 LTS |
+ 
+ 
+	 
+ 
+ 
+	Server:-
+ 
+ 
+	Intel NUC running Server 2019 + Synology DSM218+ with 2 x 4TB Toshiba NAS Ready HDDs (RAID0)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GDRRiley , 
+ Inelastic , 
+ ARikozuM  and 
+
+ 1 other 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								4
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MageTank 
+ 
+ 
+ 
+                Member
+                
+					 ·  5,617 posts 
+ 
+ 5,617 posts 
+ Fully Stable 
+ 
+ Location :  United States 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		3 hours ago, Jet_ski said:
+	 
+ 
+ 
+			AT&T plans are very expensive. Their “unlimited” plan will set you back ~$100 per month. And if you decide to get their cheaper plans, data costs $10 per gig!
+		 
+ 
+ 
+ 
+	I wish my internet was only $100 per month. Paying $160 per month now for 40Mbps down, 10Mbps up "fiber-fed 4G" in my rural area. Funnily enough, it's also on an AT&T network, lol.
+ 
+ 
+ 
+ 
+ 
+	My (incomplete) memory overclocking guide: 
+ 
+ 
+ 
+	 
+ 
+ 
+	Does memory speed impact gaming performance?  Click here to find out! 
+ 
+ 
+ 
+		On 1/2/2017 at 9:32 PM, MageTank said:
+	 
+ 
+ 
+			Sometimes, we all need a little  inspiration .
+		 
+ 
+ 
+ 
+	 
+ 
+ 
+	 
+ 
+ 
+	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MightyMishka , 
+ StDragon  and 
+ dizmo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								1
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								1
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								1
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ StDragon 
+ 
+ 
+ 
+                Member
+                
+					 ·  1,800 posts 
+ 
+ 1,800 posts 
+ 
+ Location :  I walk the 5th dimension 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		6 minutes ago, MageTank said:
+	 
+ 
+ 
+			I wish my internet was only $100 per month. Paying $160 per month now for 40Mbps down, 10Mbps up "fiber-fed 4G" in my rural area. Funnily enough, it's also on an AT&T network, lol.
+		 
+ 
+ 
+ 
+	Could be worse - could be HughesNet.
+ 
+ 
+	 
+ 
+ 
+	Elon is doing everyone (with the exception of his competition of course) a favor here with Starlink   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ thechinchinsong  and 
+ MightyMishka 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								2
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MageTank 
+ 
+ 
+ 
+                Member
+                
+					 ·  5,617 posts 
+ 
+ 5,617 posts 
+ Fully Stable 
+ 
+ Location :  United States 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		1 minute ago, StDragon said:
+	 
+ 
+ 
+			Could be worse - could be HughesNet.
+		 
+ 
+			 
+		 
+ 
+			Elon is doing everyone (with the exception of his competition of course) a favor here with Starlink   
+		 
+ 
+ 
+ 
+	Yeah, HughesNet is in my area but the reviews were terrifying. We also got the offer for StarLink after I signed up, but luckily we managed to reach out to the FCC to complain about Spectrum falsely advertising internet in our rural area and now they have to come out and get started on construction. Hopefully I'll be back on stable internet in the near future.
+ 
+ 
+ 
+ 
+ 
+	My (incomplete) memory overclocking guide: 
+ 
+ 
+ 
+	 
+ 
+ 
+	Does memory speed impact gaming performance?  Click here to find out! 
+ 
+ 
+ 
+		On 1/2/2017 at 9:32 PM, MageTank said:
+	 
+ 
+ 
+			Sometimes, we all need a little  inspiration .
+		 
+ 
+ 
+ 
+	 
+ 
+ 
+	 
+ 
+ 
+	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ StDragon 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								1
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ wkdpaul 
+ 
+ 
+ 
+ Senior Moderator 
+ ·  8,270 posts 
+ 
+ 
+ 8,270 posts 
+ Not a New Member 
+ 
+ Location :  蒙特利尔，加拿大 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		44 minutes ago, Tieox said:
+	 
+ 
+ 
+			Why the US tolerates data caps is beyond me.  
+		 
+ 
+ 
+ 
+	Last I checked, mobile data cap is rather common almost everywhere.
+ 
+ 
+ 
+ 
+ 
+ If you need help with your forum account, please use the  Forum Support  form ! 
+ 
+ 
+	 
+ 
+ 
+ VPN server guide 
+ 
+ 
+ Introduction to Mechanical Keyboard 
+ 
+ 
+ 
+ Spoiler 
+ 
+ 
+ 
+ My Gaming Rig - Motherboard:  MSI Z370-A PRO  CPU:  i7-8700  RAM:  32GB DDR4 2400(4x8GB)  GPU:  Gigabyte GTX 1060 3GB  OS SSD:  512GB SU800 SSD  Storage:  2x 1TB Seagate  PSU:  Seasonic G650  OS:  Windows 10 Pro 64bits  Monitor:  Acer 21in G205H + Lenovo 21in
+		 
+ 
+ 
+ 
+	 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ StDragon 
+ 
+ 
+ 
+                Member
+                
+					 ·  1,800 posts 
+ 
+ 1,800 posts 
+ 
+ Location :  I walk the 5th dimension 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		1 minute ago, MageTank said:
+	 
+ 
+ 
+			Yeah, HughesNet is in my area but the reviews were terrifying.
+		 
+ 
+ 
+ 
+	Those reviews most likely aren't wrong. I can't give too much information, but I have a client that has no option but HughesNet. The speeds are that of ISDN or T1 if you're lucky. Average latency 400 to 500ms. Speed of light baby!! Guessing those sats are nearly as LEO to that of Starlink. That, or they're just so far apart in relaying the signal back and fourth.
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BigDamn 
+ 
+ 
+ 
+                Member
+                
+					 ·  1,153 posts 
+ 
+ 1,153 posts 
+ 
+ Location :  United States 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		2 hours ago, Master Disaster said:
+	 
+ 
+ 
+			Sometimes is better to take a light shafting and maintain the status quo than it is to cause a fuss and risk the shafting turning into a forceful fucking.
+		 
+ 
+ 
+ 
+	I'm going to frame this quote and hang it on my wall
+ 
+ 
+ 
+ 
+ 
+ QUOTE ME IF YOU WANT A REPLY! 
+ 
+ 
+	 
+ 
+ 
+ PC #1 
+ 
+ 
+	Ryzen 7 3700x@4.4ghz (All core) | MSI X470 Gaming Pro Carbon | Crucial Ballistix 2x16gb (OC 3600mhz)
+ 
+ 
+	MSI GTX 1080 8gb | SoundBlaster ZXR | Corsair HX850
+ 
+ 
+	Samsung 960 256gb | Samsung 860 1gb | Samsung 850 500gb
+ 
+ 
+	HGST 4tb, HGST 2tb | Seagate 2tb | Seagate 2tb
+ 
+ 
+	Custom CPU/GPU water loop
+ 
+ 
+	 
+ 
+ 
+ PC #2 
+ 
+ 
+	Ryzen 7 1700@3.8ghz (All core) | Aorus AX370 Gaming K5 | Vengeance LED 3200mhz 2x8gb
+ 
+ 
+	Sapphire R9 290x 4gb | Asus Xonar DS | Corsair RM650
+ 
+ 
+	Samsung 850 128gb | Intel 240gb | Seagate 2tb
+ 
+ 
+	Corsair H80iGT AIO
+ 
+ 
+	 
+ 
+ 
+ Laptop 
+ 
+ 
+	Core i7 6700HQ | Samsung 2400mhz 2x8gb DDR4
+ 
+ 
+	GTX 1060M 3gb | FiiO E10k DAC
+ 
+ 
+	Samsung 950 256gb | Sandisk Ultra 2tb SSD
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Leviathan-  and 
+ SlimyPython 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								1
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								1
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ paddy-stone 
+ 
+ 
+ 
+                Member
+                
+					 ·  7,196 posts 
+ 
+ 7,196 posts 
+ Iron Druid 
+ 
+ Location :  United Kingdom 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	See this is where I actually like the UK. ATM you can get unlimited data plans for 4g/5g for around £20-30 or so depending on who you go with, which is another reason I am considering swapping out my FTTC. To be clear FTTC is also unlimited, but the speed is only marginally faster at around 58-64mbps vs the 4g (currently) of 40-60mbps.
+ 
+ 
+	 
+ 
+ 
+	I hope that in a few years space-x will drop the prices of it's equipment and plan, as that would be a viable alternative for many more people then, with better speeds too. Maybe that will be the kick up the arse that some ISPs need to be more customer focused. After all you can't make as much profit if you keep losing customers, unless you hold a monopoly.
+ 
+ 
+ 
+ 
+ 
+	Please quote my post, or put  @paddy-stone  if you want me to respond to you.
+ 
+ 
+ 
+ Spoiler 
+ 
+ 
+ 
+ 
+ PCs:-  
+ 
+ 
+ Main PC build   https://uk.pcpartpicker.com/list/2K6Q7X 
+ 
+ 
+ ASUS x53e  - i7 2670QM / Sony BD writer x8 / Win 10, Elemetary OS, Ubuntu/ Samsung 830 SSD 
+ 
+ 
+ Lenovo G50 - 8Gb RAM - Samsung 860 Evo 250GB SSD - DVD writer 
+ 
+ 
+				 
+			 
+ 
+ Displays:- 
+ 
+ 
+ Philips 55 OLED 754 model 
+ 
+ 
+ Panasonic 55" 4k TV 
+ 
+ 
+ LG 29" Ultrawide 
+ 
+ 
+ Philips 24" 1080p monitor as backup 
+ 
+ 
+				 
+			 
+ 
+ Storage/NAS/Servers:- 
+ 
+ 
+ ESXI/test build   https://uk.pcpartpicker.com/list/4wyR9G 
+ 
+ 
+ Main Server  https://uk.pcpartpicker.com/list/3Qftyk 
+ 
+ 
+ Backup server - HP Proliant Gen 8 4 bay NAS running FreeNAS ZFS striped 3x3TiB WD reds 
+ 
+ 
+ HP ProLiant G6 Server SE316M1 Twin Hex Core Intel Xeon E5645 2.40GHz 48GB RAM 
+ 
+ 
+				 
+			 
+ 
+ Gaming/Tablets etc:- 
+ 
+ 
+ Xbox One S 500GB + 2TB HDD 
+ 
+ 
+ PS4  
+ 
+ 
+ Nvidia Shield TV  
+ 
+ 
+ Xiaomi/Pocafone F2 pro 8GB/256GB 
+ 
+ 
+ Xiaomi Redmi Note 4 
+ 
+ 
+ 
+			 
+		 
+ 
+ 
+ Unused Hardware currently :-   
+ 
+ 
+ 4670K MSI mobo 16GB ram 
+ 
+ 
+ i7 6700K  b250 mobo 
+ 
+ 
+ Zotac GTX 1060 6GB Amp! edition 
+ 
+ 
+ Zotac GTX 1050 mini 
+ 
+ 
+ 
+			 
+		 
+ 
+ 
+ 
+	 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ comander 
+ 
+ 
+ 
+                Member
+                
+					 ·  1,306 posts 
+ 
+ 1,306 posts 
+ 
+ Location :  /dev/null 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	It's not that hard for AT&T to just throw in an extra 10GB of data per month or something along those lines. 
+ 
+ 
+	 
+ 
+ 
+	This won't matter that much. Bundling isn't illegal. 
+ 
+ 
+ 
+ 
+ 
+	R9 3900x; 64GB RAM | RTX 2080 | 1.5TB Optane P4800x
+ 
+ 
+	1TB ADATA XPG Pro 8200 SSD | 2TB Micron 1100 SSD 
+	HD800 + SCHIIT VALI | Topre Realforce Keyboard
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Donut417 
+ 
+ 
+ 
+                Member
+                
+					 ·  10,284 posts 
+ 
+ 10,284 posts 
+ The lactose intolerant pirate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		On 3/18/2021 at 8:24 AM, Tieox said:
+	 
+ 
+ 
+			Why the US tolerates data caps is beyond me.  
+		 
+ 
+ 
+ 
+	We dont. But the FCC screwed the pooch when they killed Title 2. Now each state has to make its own rules. Because the Federal Government cant do the job. Thats one of the issues with the administration changing every 4 to 8 years. That means those policies change every 4 to 8 years. 
+ 
+ 
+	 
+ 
+ 
+	ISP's fought title 2 because they didnt want to be regulated. Now they will be regulated by 50 individual state governments. Sucks to be them. 
+ 
+ 
+ 
+ 
+ 
+	I just want to sit back and watch the world burn. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jet_ski , 
+ GDRRiley  and 
+ thechinchinsong 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								1
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								2
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Zodiark1593 
+ 
+ 
+ 
+                Member
+                
+					 ·  4,947 posts 
+ 
+ 4,947 posts 
+ The Maiden That Never Was... 
+ 
+ Location :  Placerville, California 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		On 3/18/2021 at 6:08 AM, MageTank said:
+	 
+ 
+ 
+			Yeah, HughesNet is in my area but the reviews were terrifying. We also got the offer for StarLink after I signed up, but luckily we managed to reach out to the FCC to complain about Spectrum falsely advertising internet in our rural area and now they have to come out and get started on construction. Hopefully I'll be back on stable internet in the near future.
+		 
+ 
+ 
+ 
+	Satellite Internet is considered in places where it’s literally between that or dial up. Mobile internet is drastically superior if you can get that instead, even with caps.  
+	 
+ 
+ 
+	If the pandemic didn’t alert government (from local all the way to federal) to the need to get infrastructure built without excluding rural or poor areas, I fear the status quo will persist indefinitely. 
+ 
+ 
+ 
+ 
+ 
+	The pursuit of knowledge for the sake of knowledge.
+ 
+ 
+	Forever in search of my reason to exist.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dabombinable 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								1
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ StDragon 
+ 
+ 
+ 
+                Member
+                
+					 ·  1,800 posts 
+ 
+ 1,800 posts 
+ 
+ Location :  I walk the 5th dimension 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		22 minutes ago, Zodiark1593 said:
+	 
+ 
+ 
+			If the pandemic didn’t alert government (from local all the way to federal) to the need to get infrastructure built without excluding rural or poor areas, I fear the status quo will persist indefinitely. 
+		 
+ 
+ 
+ 
+	That's public policy discussion, not a technical limitation. Not all rural folk are poor. In fact, I know many wealthy that choose to live out there for more land and a better quality of life. But, that also means they have to pump their own water from a well (it's all automated) and have a septic tank maintained on schedule. Meaning, no MUD (Municipal Utility District) to supply city water and sewer. Lack of internet infrastructure out in the rural areas is no different.
+ 
+ 
+	 
+ 
+ 
+	Anyways, I think with Starlink, that will make rural living more popular for those that work from home. More land, bigger house, and cheaper.
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Donut417 
+ 
+ 
+ 
+                Member
+                
+					 ·  10,284 posts 
+ 
+ 10,284 posts 
+ The lactose intolerant pirate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		43 minutes ago, Zodiark1593 said:
+	 
+ 
+ 
+			If the pandemic didn’t alert government (from local all the way to federal) to the need to get infrastructure built without excluding rural or poor areas, I fear the status quo will persist indefinitely. 
+		 
+ 
+ 
+ 
+	Thats what the Universal Service Fund is for. Thats the reason why many Rural areas have POTS available. The problem is Rural internet service is not profitable. DSL have distance limitations, which is why many rural areas only have 3 to 6 Mbps DSL. Coax service while not as restrictive, is not really designed for rural areas. As they need a decent level of population density to make it profitable. They want to load up a node with more than 4 people. While Coax internet can travel distance, thats only due to the Hybrid Fiber Coax nature of the network and the fact that AMPs can force the signal out further. But AMP's cost money and need to be powered. The Optical nodes also cost money and need to be powered. Thats why LTE, WISP, Satellite or slow ass DSL are the only options in those areas. 
+ 
+ 
+ 
+ 
+ 
+	I just want to sit back and watch the world burn. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Zodiark1593 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								1
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wash 
+ 
+ 
+ 
+                Member
+                
+					 ·  9 posts 
+ 
+ 9 posts 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		38 minutes ago, Donut417 said:
+	 
+ 
+ 
+			Thats what the Universal Service Fund is for. Thats the reason why many Rural areas have POTS available. The problem is Rural internet service is not profitable. DSL have distance limitations, which is why many rural areas only have 3 to 6 Mbps DSL. Coax service while not as restrictive, is not really designed for rural areas. As they need a decent level of population density to make it profitable. They want to load up a node with more than 4 people. While Coax internet can travel distance, thats only due to the Hybrid Fiber Coax nature of the network and the fact that AMPs can force the signal out further. But AMP's cost money and need to be powered. The Optical nodes also cost money and need to be powered. Thats why LTE, WISP, Satellite or slow ass DSL are the only options in those areas. 
+		 
+ 
+ 
+ 
+	 
+ 
+ 
+	I think I'll just count myself lucky that I live in a small-ish town of around 10-20K (Two separate towns attached at the hip, thus the wide figure), and we happen to have a provider ( Centurylink  They recently renamed themselves to Lumen last year- makes little sense) that gives out 1Gbit Upload/Download thanks to the beauty of Fiber Optic.
+ 
+ 
+	 
+ 
+ 
+	Before, we had just Comcast, and it sucked. When it worked. (Only about 200Mbits Down/30-50Mbits upload speed. Now try that in an active family of five at the time)
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wash 
+ 
+ 
+ 
+                Member
+                
+					 ·  9 posts 
+ 
+ 9 posts 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted  March 20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		On 3/18/2021 at 2:05 AM, Jet_ski said:
+	 
+ 
+ 
+			AT&T plans are very expensive. Their “unlimited” plan will set you back ~$100 per month. And if you decide to get their cheaper plans, data costs $10 per gig!
+		 
+ 
+			 
+		 
+ 
+ 
+ 
+	 
+ 
+ 
+	Also formerly had AT&T in the realm of about a decade ago. We had a plan that only allowed 3GB of data monthly, which sounds a bit reasonable at first. But apparently something happened and it ended up showing one of my sisters going over, and they slapped a big overuse charge on us. This was during a trip to Southern California, so they also bottle-necked speeds tremendously. We ditched the service once they announced this "pay by the gigabyte" plan.
+ 
+ 
+	 
+ 
+ 
+	While service sucked where we live even now with a different carrier, it was certainly worse back then- the only good one in the area seemed to be Verizon, but they in turn seemed to be even more expensive an option, so we didn't go that route.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jet_ski 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+								1
+							 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Link to post 
+ 
+ Share on other sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

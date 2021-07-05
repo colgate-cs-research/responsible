@@ -1,0 +1,63 @@
+##LINK: http://www.engine.is/news/issues/net-neutrality-shake-up-sprint-endorses-title-ii-gop-introduces-legislation/5000
+##KEYWORDS: net neutrality,open Internet
+##TITLE: Net Neutrality Shake Up: Sprint Endorses Title II, GOP Introduces Legislation — ENGINE
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ Evan Engstrom 
+ 
+ 
+ January 16, 2015 
+ 
+ 
+ 
+ Issues ,  Open Internet 
+ 
+ 
+ 
+ Net Neutrality Shake Up: Sprint Endorses Title II, GOP Introduces Legislation 
+ 
+ 
+ 
+ Evan Engstrom 
+ 
+ 
+ January 16, 2015 
+ 
+ 
+ 
+ Issues ,  Open Internet 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Today marked something of a sea change in the net neutrality debate that has gripped the country for the past year. The reclassification of broadband as a common carrier service under Title II seemed all but dead on arrival just a few short months ago. This cast real doubt on the future of startups in this country, and the jobs and economic opportunities that they create. 
+ Now, groups that once bristled at the mere mention of strong net neutrality rules are publicly embracing the tenets of an open Internet. Perhaps most exciting is  Sprint declaring their support for Title II reclassification , making them the first national mobile carrier to do so. Sprint’s announcement is further evidence that reclassification would do nothing to chill investment in the expansion of broadband infrastructure. 
+ The other big news of the day was the release of  a net neutrality bill from House Republicans . This bill includes some encouraging provisions, including rules that prevent ISPs from blocking, throttling, or charging edge providers for preferential access to customers—the cornerstones of any strong net neutrality rules—and applies these rules to both wireless and wireline broadband. Of course the devil is in the details, and upon closer examination it is clear that the proposed legislation would do much to undermine the future of an open Internet. 
+ For one thing, the bill appears to apply to only customer-facing prioritization, meaning that the rules will not prevent ISPs from using their gatekeeper power to extort money from edge providers at the peering/interconnection level. Since some of the most notable net neutrality violations in recent history involved interconnection, this loophole may be large enough to swallow the rules altogether. And, since the proposed legislation would prohibit the FCC from addressing any future avenues for discrimination, ISPs would simply have to be more creative in how they extract rents from edge providers. 
+ The bill would also rescind an important tool that allows the FCC and state agencies to ensure broadband competition and deployment—Section 706. While 706 by itself is an insufficient grant of authority to effectively ensure an open Internet, it still has an important role in policing ISP malfeasance.  As President Obama discussed earlier this week , the FCC can and should use its 706 authority to overturn laws (passed at the behest of large ISPs) that prevent municipalities from providing broadband for their citizens. Under the proposed House bill, the FCC will lose its ability to vacate these anti-competitive handouts to ISPs. Similarly, invalidating 706 as a grant of authority could diminish the role of the FCC and similar state agencies in reviewing harmful broadband consolidation, like the proposed merger between Comcast and Time Warner. 
+ While it’s encouraging to see those once opposed to net neutrality start talking about rules that would protect an open Internet, it would be naive to think that the proposed legislation is anything other than an attempt by ISPs and their supporters to squeeze whatever benefit they can from what they see as a bad development: the  FCC’s impending decision to reclassify broadband under Title II . The proposed legislation fails to offer the same strong net neutrality rules that the FCC can provide under Title II, and instead would make it impossible for the FCC to act in the future to protect a vibrant Internet. 
+ The legislation as drafted seems to be little more than a last ditch effort by the opponents of net neutrality to prevent a reclassification that seems increasingly inevitable. Those of us in the startup community who have been fighting for an open Internet must continue to make a clear case to legislators, the FCC, and members of the public: Title II reclassification is the best way to guarantee net neutrality, not just in the short term, but for generations to come. 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,234 @@
+##LINK: https://www.zdnet.com/article/not-really-flat-rate-german-court-trips-up-deutsche-telekoms-throttling-plans/
+##KEYWORDS: open Internet
+##TITLE: Not really 'flat rate'? German court trips up Deutsche Telekom's throttling plans | ZDNet
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        By
+                                 
+ Michael Filtz 
+ 
+            
+                    
+                    for  The German View 
+        
+        
+                                                        
+                                                    |                 October 31, 2013 -- 11:03 GMT (04:03 PDT) 
+            
+                                        | Topic:  Networking 
+ 
+ 
+ 
+ 
+ 
+ Deutsche Telekom's plans to introduce throttling for heavy users appears to have run into difficulties. 
+ 
+ 
+ 
+ Read this 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                        Online throttling and site-blocking to be outlawed in Europe under net neutrality plan
+                     
+ 
+ We will guarantee access to the full and open internet on every device, on every network, says the EU's digital chief.
+ 
+ 
+ Read More 
+ 
+ 
+ A regional court in Germany ruled on Wednesday that throttling broadband connections would put Deutsche Telekom's customers at an "unreasonable disadvantage". The telco  
+ recently announced plans to limit users' broadband speeds 
+ 
+ to 2Mbps after they exceeded specified monthly download limits, starting at 75GB for some plans. The caps were scheduled to come into force in 2016. 
+ The court ruling came in response to a case brought by consumer group Verbraucherzentrale Nordrhein-Westfalen, which claimed that there was no valid legal basis for capping the speeds. However, to some degree the ruling seemed to hinge on semantics: in a statement, the court noted that if Deutsche Telekom customers sign up for "flat rate" plans, they expect "a fixed price for a certain surfing speed, and do not expect limitations". All of the telco's DSL plans are marketed as "flat rate". 
+ The ruling also noted that in an era of streaming television and films, 2Mbps was simply too restrictive for many users, challenging Deutsche Telekom's assertion that the throttling would only affect what it referred to as 'power users'. 
+ Initially, the telco planned on throttling speeds to 384Kbps, but  
+ raised the rates to 2Mbps in response to criticism 
+ 
+. Even so, the plans continued to draw consumers' ire, including a Change.org petition that garnered more than 200,000 signatures from angry customers. 
+ In response to the criticism, Deutsche Telekom noted that since the throttling would only start at 75GB, most users — who currently use between 15GB to 20GB per month, according to the telco — would not have been affected. 
+ This month, fellow German broadband provider O2  
+ introduced new plans to throttle broadband connections 
+ 
+ across the country. Starting next year, many customers will see their internet speeds drop to 2Mbps when they reach a 300GB limit for the fourth straight month. 
+ 
+ 
+ 
+ 
+ In advertising and promotional materials, O2 also positions most of its internet plans as "flat rate". 
+ The Deutsche Telekom court decision is appealable. "We cannot understand the decision," said a Deutsche Telekom spokesperson. "We will review the ruling, and expect to appeal." 
+ Further reading 
+ 
+ 
+ Deutsche Telekom boosts LTE speeds to 150Mbps, plans fibre build-out 
+ 
+ 
+ 
+ Deutsche Telekom tweaks plan to bring in broadband data caps, throttling in 2016 
+ 
+ 
+ 
+ Deutsche Telekom plans to double super-fast broadband connections by 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Topics: 
+ 
+                    EU
+                 
+ 
+                    Cloud
+                 
+ 
+                    Internet of Things
+                 
+ 
+                    Security
+                 
+ 
+                    Data Centers
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        By
+                                 
+ Michael Filtz 
+ 
+            
+                    
+                    for  The German View 
+        
+        
+                                                        
+                                                    |                 October 31, 2013 -- 11:03 GMT (04:03 PDT) 
+            
+                                        | Topic:  Networking 
+ 
+ 
+ 

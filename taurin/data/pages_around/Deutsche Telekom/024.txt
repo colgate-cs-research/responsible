@@ -1,0 +1,34 @@
+##LINK: https://en.wikipedia.org/wiki/Chaosdorf
+##KEYWORDS: net neutrality
+##TITLE: Chaosdorf - Wikipedia
+##METHOD: paragraphs
+
+
+
+Chaosdorf is a hackspace operated by non-profit association (Eingetragener Verein) Chaos Computer Club Düsseldorf / Chaosdorf e.V. in the city of Düsseldorf, Germany. It is Düsseldorf’s Chaos Computer Club chapter.[7]
+
+Chaosdorf is operated by non-profit association Chaos Computer Club Düsseldorf / Chaosdorf e.V. and is mainly financed by member fees and donations. A membership in the association is not required to take part in the mostly cost-free workshops and meetings.
+
+The purpose of the association is the creation of an environment for adult education, modern information privacy and socializing between communities.
+
+Chaosdorf was founded 24 April 2001.[1] Their first rooms were located on Fürstenwall 232 in Düsseldorf-Friedrichstadt.[8]
+
+After a lengthy renovation process[9] Chaosdorf moved into a new building on Hüttenstrasse[10] that used to be a "rather sketchy nightclub" in 2011.[7]
+
+The space itself consists of four rooms: A large lounge/hackcenter, a kitchen, a media room, and a workshop.[7][11] Chaosdorf owns different kinds of equipment to help members fulfilling their projects and offering services.[12]
+
+Chaosdorf is known in the German hackspace culture for organizing Easterhegg 2002 – the first Easterhegg event outside of Hamburg[13] – and OpenChaos: Hackerspace Design Patterns.[14]
+
+It gained mainstream attention in 2013 for organizing a large-scale street protest in Cologne demanding net neutrality after Deutsche Telekom announced to throttle web traffic.[5]
+
+Chaosdorf gained even more widespread mainstream attention after Der Spiegel published a story about its non-commercial in-house OwnBeer microbrewery.[15][7]
+
+On 30 December 2013 Rheinische Post, a major German regional daily newspaper, published a two page feature about Chaosdorf.[10]
+
+The hackspace also supports friendly organizations such as Forum Freies Theater,[3] Free Software Foundation Europe,[16] Freifunk Rheinland e.V.,[17] and Sub-Etha[18] by providing room for meetings, storage for hardware, or infrastructure.
+
+In October 2013 members of the technology online magazine Hack a Day published a story about Chaosdorf – their first visit in a German hackspace.[7]
+
+In 2020 Chaosdorf moved to a bigger building on Sonnenstrasse.[19] The new space provides the following rooms: class room, electronic lab, wet lab, hackcenter, kitchen/lounge, and fab lab (Werkstatt).[20]
+
+Among the members of Chaosdorf are a few renowned people such as former member of parliament North Rhine-Westphalia Marc Olejak of the Pirate Party Germany,[21] visual artist Rachid Maazouz[10] and the security researchers Ilias Morad, Alexander Karl, and Martin Dessauer.[22][23]

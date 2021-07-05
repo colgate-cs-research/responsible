@@ -1,0 +1,25 @@
+##LINK: https://www.fool.com/investing/2020/06/03/att-will-zero-rate-hbo-max-undermining-competition.aspx
+##KEYWORDS: zero-rating
+##TITLE: AT&T Will Zero-Rate HBO Max, Undermining Competition | The Motley Fool
+##METHOD: paragraphs
+
+Returns as of 7/2/2021
+Returns as of 7/2/2021
+Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.
+With the streaming wars intensifying this year, every service provider is looking for any advantage it can get in order to earn a piece of your monthly entertainment budget. Many years ago, telecommunications giants dreamed up the idea of sponsored data, where a company offering some online service could pay for the underlying data used to access that service. The practice is also called zero-rating, and it has garnered considerable criticism over the years for undermining net neutrality and competition more broadly.
+That's exactly what AT&T (NYSE:T) is planning to do with HBO Max, the successor to HBO Now that launched last week.
+AT&T will pay itself for sponsored data usage. Image source: AT&T.
+The Verge has confirmed that AT&T will effectively exempt HBO Max data usage from counting toward mobile data caps under the guise of sponsored data. AT&T subsidiary WarnerMedia will pay AT&T subsidiary AT&T Mobility so that HBO Max subscribers don't have to worry about using up their data. But since AT&T owns both companies, it is simply shifting money from one pocket to another and paying itself.
+The media outlet had originally asked AT&T streaming chief Tony Goncalves about the practice in an interview, and the exec initially said HBO Max would not get preferential treatment while noting that data plans are purportedly unlimited. But unlimited data plans have long been a misnomer, as carriers typically throttle speeds for heavy data users at a certain threshold, so data usage still matters. For AT&T, that threshold is 22GB.
+Zero-rating has been broadly criticized for years by net neutrality advocates, as giving any service preferential treatment tilts the competitive scales. For example, AT&T customers watching a third-party video streaming service from Netflix, Disney, Comcast or Apple, among many other contenders, will have that usage count against their data caps, encouraging them to instead watch the service that AT&T owns. It's worth noting that AT&T's DIRECTV service is also zero-rated, although Ma Bell has been hemorrhaging DIRECTV subscribers because of ongoing cord-cutting.
+The Trump administration repealed the Federal Communication Commission's net neutrality rules in 2018, allowing internet service providers to give preferential treatment and paid prioritization to certain services and content.
+While some larger companies may be able to afford to pay sponsored data fees to level the playing field, those fees could be framed as AT&T essentially imposing a tax on competitors. None have chosen to participate in those programs thus far. Perhaps more importantly, smaller service providers simply may not be able to pay and sponsored data could arguably be considered a barrier to entry for new entrants.
+Discounted offers are only available to new members. Stock Advisor will renew at the then current list price. Stock Advisor list price is $199 per year. 
+Stock Advisor launched in February of 2002. Returns as of 07/02/2021.
+
+                  Market data powered by FactSet and Web Financial Group.
+              
+
+
+                  Market data powered by FactSet and Web Financial Group.
+              

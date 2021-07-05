@@ -1,0 +1,772 @@
+##LINK: https://hackaday.com/2016/08/07/getting-the-data-out-over-other-peoples-wifi/
+##KEYWORDS: open Internet
+##TITLE: DNS Tunneling: Getting The Data Out Over Other Peoples’ WiFi | Hackaday
+##METHOD: article 66
+
+
+
+ 
+ DNS Tunneling: Getting The Data Out Over Other Peoples’ WiFi 
+ 
+ 
+                65 Comments             
+ 
+ by: 
+ Elliot Williams 
+ 
+ 
+ 
+ August 7, 2016 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Title: 
+ 
+ 
+ Copy 
+ 
+ Short Link: 
+ 
+ 
+ Copy 
+ 
+ 
+ 
+ 
+ 
+ 
+ [KC Budd] wanted to make a car-tracking GPS unit, and he wanted it to be able to phone home. Adding in a GSM phone with a data plan would be too easy (and more expensive), so he opted for the hacker’s way:  tunneling the data over DNS queries every time the device found an open WiFi hotspot . The result is a device that sends very little data, and sends it sporadically, but gets the messages out. 
+ This system isn’t going to be reliable — you’re at the mercy of the open WiFi spots that are in the area. This certainly falls into an ethical grey zone, but there’s very little harm done. He’s sending a 16-byte payload, plus the DNS call overhead. It’s not like he’s downloading  animated GIFs of cats playing keyboards  or something. We’d be stoked to provide this service to even hundreds of devices per hour, for instance. 
+ If you’re new here, the idea of tunneling data over DNS requests is as  old as the hills , or older, and we’ve even  covered this hack before in different clothes . But what [KC] adds to the mix is a one-stop code shop on  his GitHub  and a GPS application. 
+ Why don’t we see this being applied more in your projects? Or are you all tunneling data over DNS and just won’t admit it in public? You can post anonymously in the comments! 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posted in  Wireless Hacks Tagged  dankaminsky ,  dns ,  dns tunneling ,  tunnel ,  wifi   
+
+
+ 
+ 
+ GekkePrutser   says:   
+ 
+ 
+ 
+							August 7, 2016 at 1:55 pm						 
+ 
+ 
+ 
+ 
+ Why not use a simple web request? The only thing I can think of is to bypass captive portals, but those capture DNS requests too in general (so they can redirect them to their own login page) so I don’t think that’d work. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ GekkePrutser   says:   
+ 
+ 
+ 
+							August 7, 2016 at 1:57 pm						 
+ 
+ 
+ 
+ 
+ By the way I don’t use it myself because 3G is very cheap here.. Prepaid rates of 2c/MB (which is loads for simple stuff) and a year’s airtime with a 10-euro topup. So there isn’t much point in messing around like this. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ NoseyNick   says:   
+ 
+ 
+ 
+							August 7, 2016 at 2:40 pm						 
+ 
+ 
+ 
+ 
+ Captive portal will USUALLY capture DNS too, like you said. Only advantage I can think of for DNS is that an HTTP request will typically require AT LEAST a TCP 3-way handshake, a data packet for HTTP GET, another for the response, and 2 for tear-down = 7 packets. Minimum. Maybe even some DNS first!  :-D 
+ If you drop packets partway through, you have messy timeout / retry stuff to handle, half-open connection woes, etc. 
+ DNS might be as little as 2 packets (request + response), it’s UDP, it’s FAIRLY unlikely to be filtered, may be proxied but if so, quite cleanly (apart from the captive portal case). If you’re moving fast and want to join a hotspot, do the DHCP DORA dance, and THEN get a message out as quickly as realistically possible before you drop off the hotspot again, DNS is probably a fair choice, heck the average (non-captive-portal) hotspot might even complete the request for you after you drop off-air. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ RÖB   says:   
+ 
+ 
+ 
+							August 9, 2016 at 4:08 pm						 
+ 
+ 
+ 
+ 
+ Scenario, 
+ I run a not for free access point and I respond to all ‘not-registered as paid for’ IP or MAC addresses DNS requests with the IP of my web portal so they can pay.  
+ Not yet paid customer types in google.com and get my IP in response to the DNS request for google.  
+ They pay but now their laptop has cached my IP address for google in their OS DNS cache so every time they try to get to google they end up at my site again even though they have paid.  
+ Now I know this could be resolved with DNS Zone TTL/Refresh but unfortunately these metrics are often ignored.  
+ It’s just easier to return a 302 redirect to HTTP requests until they pay than it is to go fix DNS cache settings on customers OS’s. 
+ 
+ 
+ Report comment   
+
+
+ 
+ 
+ NoseyNick   says:   
+ 
+ 
+ 
+							August 9, 2016 at 7:41 pm						 
+ 
+ 
+ 
+ 
+ “Now I know this could be resolved with DNS Zone TTL/Refresh but unfortunately these metrics are often ignored” 
+ As far as I can tell, JAVA* is the one and only thing that still completely ignores DNS TTL in 2016. A few other things will say “No, I see your 2s TTL but I’m going to treat it as a minimum 10s” but even that is not “normal”, certainly not a default OS/browser setting, you probably deliberately installed deliberately-over-aggressive caching software and if it takes 10s to cleanly log into the captive portal it’s your own fault. 
+ This doesn’t even include Android’s variant of “not Java honest” BTW, which was still broken in ICS but fixed to correctly honour DNS TTLs in Jellybean (mid 2012) 
+ So these days, sending all DNS to 10.1.2.3 with a 1s TTL *OUGHT* to work for a captive portal… but in any case, it does indeed appear that many captive portals are transparent to DNS, even pre-login (perhaps for historical reasons including ICS and old Java?), so “telemetry over DNS” does indeed look like a workable approach. 
+ 
+ 
+ Report comment   
+
+
+ 
+ 
+ RÖB   says:   
+ 
+ 
+ 
+							August 9, 2016 at 7:56 pm						 
+ 
+ 
+ 
+ 
+ @ [NoseyNick] 
+ Perhaps things are different there but where I am many ISP substitute a different Refresh rate into DNS requests just to save a bit of traffic and probably still to prevent DNS serial number attacks. I thought it was well known that the RFCs for DNS were not very well followed.  
+ In any case is still come back to the same thing even if there is a small number of end users effected and that is it’s easier to use a 302 redirect than it is to fix the end users software.  
+ Dealing with DNS zone issues is probably not every hardware hackers cup of tea.  
+ Obviously you understand DNS very well but you would be more the exception than the rule around here. 
+ 
+ 
+ Report comment   
+
+
+ 
+ 
+ RÖB   says:   
+ 
+ 
+ 
+							August 7, 2016 at 2:25 pm						 
+ 
+ 
+ 
+ 
+ I have my wi-fi locked down for two reasons – 
+1) People with mobile devices abuse the access when it’s not locked. 
+2) I don’t want to be in any way responsible for or associated with any illegal content that others would be more inclined to download on someone else’s connection.  
+ Apart from those issues and 1) would be solved by a rate limit (throttling), I would happily allow access and I am sure most people would if it were simple to achieve.  
+ It would be a turning point for IoT if less techy people could just check a box when they install their router to allow some specific limited traffic.  
+ This article shows how much can be achieved with so little internet traffic. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ John   says:   
+ 
+ 
+ 
+							August 7, 2016 at 8:56 pm						 
+ 
+ 
+ 
+ 
+ My wifi is open and has been that way in one form or another since about 2000, it will remain open.if someone wants to do something illegal with it then the police will have to get them for it, I am not a policeman and it is not my job to police. It is also time that ISPs realised that they are not policemen too. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ notarealemail   says:   
+ 
+ 
+ 
+							August 7, 2016 at 9:03 pm						 
+ 
+ 
+ 
+ 
+ It only takes a few minutes (seconds for some people) to put a tiny bit of security on your router with a password; or at least change the default login and SSID. 
+ I think it is well worth it. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ Elliot Williams   says:   
+ 
+ 
+ 
+							August 8, 2016 at 1:59 am						 
+ 
+ 
+ 
+ 
+ You’re confusing “security” with “sharing”.  I used to run my WiFi open (in Washington DC) and just let people use it.  My bandwidth was mostly free during the day when I was at work anyway — i.e. a wasted resource.   
+ The router was locked down, however, and the computers on the inside of my network were all reasonably secure.  This is not something I’d recommend to grandmas, but if you know what you’re doing, sharing is caring. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ notarealemail   says:   
+ 
+ 
+ 
+							August 8, 2016 at 2:17 am						 
+ 
+ 
+ 
+ 
+ Yes, I was confusing the two. *facepalm* 
+ I do share with a few neighbors, but not any random person who drives/walks by. Lots of free WiFi around the city for them anyway IMO. I’m still new to wireless networking, so I try to play it safe. 
+ 
+ 
+ Report comment   
+
+
+ 
+ 
+ RÖB   says:   
+ 
+ 
+ 
+							August 7, 2016 at 9:13 pm						 
+ 
+ 
+ 
+ 
+ We have warrantless data monitoring in my country. My ISP is required by law to recorded everything I do online and authorities can access that at any time without a warrant.  
+ I personally use a VPN as a protest as that is not illegal *YET*. 
+ If someone were to download illegal content via my WiFi then all paths lead to me and I would more or less have to prove my innocence and that would likely cost in excess of $100,000 in legal fees and you don’t get that back.  
+ We have gone from innocent unless proven guilty to guilty unless you can afford the non-refundable legal costs. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ RÖB   says:   
+ 
+ 
+ 
+							August 8, 2016 at 5:47 pm						 
+ 
+ 
+ 
+ 
+ I am in Australia. It’s not just internet connections that are monitored, mobile devices as well they get your location updated every 5 minutes if you have a mobile device. We have had cases of parking lots accessing the data to recover unpaid parking fines. It’s a fiasco.  
+ I refuse to carry a mobile phone (government tracking device) but younger people take it all in stride. I would protest professionally but I am not going to live long enough for this mess to be fixed.  
+ Western governments are on a crash course to .. bad times … lol I am not even game to write the words but I am sure you get it. 
+ 
+ 
+ Report comment   
+
+
+ 
+ 
+ some guy   says:   
+ 
+ 
+ 
+							August 9, 2016 at 11:57 am						 
+ 
+ 
+ 
+ 
+ Thank you for your reply. This is really really scary, especially that (from what i found after a really quick internet search) a lot of people seems not to be worried by this or even welcome such measures to “fight terrorism”. And yes, the governments here in Europe are also working on suppressing privacy. The world is quite sad sometimes. :-( 
+ 
+ 
+ Report comment   
+
+
+ 
+ 
+ sonofthunderboanerges   says:   
+ 
+ 
+ 
+							August 27, 2016 at 3:35 pm						 
+ 
+ 
+ 
+ 
+ RÖB –  I refuse to carry a mobile phone (government tracking device) but younger people take it all in stride. I would protest professionally but I am not going to live long enough for this mess to be fixed.  
+ Why not carry around a small notebook or small Chromebook (or a medium-sized tablet) and load Skype Android or Skype PC. Instead of a headset get a Philips USB phone head fo Skype-Out calls. Carry everything in a small laptop bag. Wait until you get to a Internet Cafe or a Maccers (MacDonald’s in USA) with WiFi and then make all your mobile phone calls there. The Skype-In number can have voice mail too so you don’t have to listen for ringout unless they call during your Maccer’s visit. You can just respond to old voice mails. Your Skype-In number shows up on their caller-id or you can block it. Telstra should never be involved unless they also control Maccer’s or Cafe’s wifi.I still think Skype uses some sort of VPN scenario to peer-to-peer users and/or Microsoft servers in USA. Not in Luxembourg or Estonia any more. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ Whatnot   says:   
+ 
+ 
+ 
+							August 9, 2016 at 3:11 pm						 
+ 
+ 
+ 
+ 
+ So you would run an open WiFi but ONLY the DNS port? Would be an interesting thing. Plus if you have a router that can do encrypted DNS through custom firmware you are extra safe from trouble. Won’t work in the land of free though where they outlawed custom firmware. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ RÖB   says:   
+ 
+ 
+ 
+							August 9, 2016 at 4:20 pm						 
+ 
+ 
+ 
+ 
+ Exactly, even with a general willingness to support free hot spots, current router firmware doesn’t support it well.  
+ We have one service provider that offers a financial incentive for there customers to open their routers to other customers of the same service provider. They have customer software to do it as they also supply the router. 
+ And they use a logon system that may provide some legal security to the sharing customer but that has not been tested. There will surely be a case where someone believes they can use this arrangement to conduct criminal activity on the shared service and leave the legal problems to the original owner.  
+ This has not been tested yet and could leave the sharing customer with a bill like $100,000 just to defend themselves as we still use the archaic nominative investigation process in our police force. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ sonofthunderboanerges   says:   
+ 
+ 
+ 
+							August 27, 2016 at 2:34 pm						 
+ 
+ 
+ 
+ 
+ Whatnot – Yup… Walmart sells a Chinese brand in US Stores for about $19 (usd) – well sometimes they do. It’s the Virgin Mobile ZTE and $20/month service.  
+ I think all new USA cell phones are now required to have E911. That means a GPS chip is required. However, there is no charge for the extra hidden monitoring chip back to Beijing. Remember the FURBY scare at Ft Meade?  (I’m joking of course…) 
+goo.gl/uycr3f 
+:-D 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ wojtekka   says:   
+ 
+ 
+ 
+							August 7, 2016 at 10:34 pm						 
+ 
+ 
+ 
+ 
+ I did that exactly. It worked quite well when I was walking around with ESP8266 in a backpack. In a car I didn’t get any traces of my 10km home-work route, even with external antenna. I can only assume that pedestrians usually are closer to the buildings (and APs) and at lower speed they have more time to establish connection. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ RW   says:   
+ 
+ 
+ 
+							August 8, 2016 at 4:01 am						 
+ 
+ 
+ 
+ 
+ Might be at the mercy of the noise threshold in the wifi modules tuner. Got an older win CE device and if I drive at moderate speed with that, it notifies networks as fast as it can ding. Whereas my androids aren’t nearly as sensitive. This is with intermal antennas. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ RoGeorge   says:   
+ 
+ 
+ 
+							August 9, 2016 at 5:49 am						 
+ 
+ 
+ 
+ 
+ By design, a WiFi network can not work reliably for a moving endpoint e.g. a running car. WiFi was designed for stationary endpoints. By contrast, the GSM network was specifically designed to be able to work in a moving car. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ Tim   says:   
+ 
+ 
+ 
+							August 12, 2016 at 9:36 am						 
+ 
+ 
+ 
+ 
+ I’ve also been playing with this. A RasPi on the dashboard with USB WiFi dongle collects mountains of APs, doing a full scan several times per second. All that’s needed for location is the MAC and signal strength with 3+ in view, so this part works very well. Actually connecting to them is a different story; when I examine my logs for which ones tunneled a packet out, most are near stoplights. On my simple script at least, everything blocks during the connection attempt and you can miss a lot of APs waiting for the DHCP request to either succeed or timeout. Ideally you need multiple WiFi radios so that a connection attempt on one isn’t blocking everything. So far I solved this a different way, since my commute is the same every day, after some number of attempts an AP is marked bad and no further connections are attempted to it. This way, on a subsequent commute it is no longer shadowing a bunch of others. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ Tim   says:   
+ 
+ 
+ 
+							August 23, 2016 at 7:41 pm						 
+ 
+ 
+ 
+ 
+ Update: Code now online at  https://github.com/drmn4ea/WiSneak  ; some very preliminary data up at  http://tim.cexx.org/?p=1407  . Requires 1 Pi (or other portable linux device) and GPS/WiFi dongles for collecting geolocation comparison data; a server (home PC is fine) and domain name + web hosting also needed if you want to run the tunnel-probing part. 
+ 
+ 
+ Report comment   
+
+
+ 
+ 
+ Whatnot   says:   
+ 
+ 
+ 
+							August 9, 2016 at 3:16 pm						 
+ 
+ 
+ 
+ 
+ Ironically that is the reason why I would not open my WiFi, connects the coordinates too precisely for anybody to gather, and since it’s linked to your IP now the entire world can find your home. So thanks for ruining open WIiFi guys (and when I say guys I also mean Google and their snooping roving cars too. And no doubt others like MS and apple also.) 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ sonofthunderboanerges   says:   
+ 
+ 
+ 
+							August 27, 2016 at 2:38 pm						 
+ 
+ 
+ 
+ 
+ TheGraal – If GOOGLE would just release their Street Camera Car GPS captures of wi-fi hot-spots world wide then you could do that. Google may be planning on rolling out just such an app. As why else record geolocations of wifi ap’s (private and public) as the Street Camera Cars are driving around? 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ Greenaum   says:   
+ 
+ 
+ 
+							August 8, 2016 at 8:20 am						 
+ 
+ 
+ 
+ 
+ If he’s using open hotspots, why not just use HTTP for his requests? Or some sort of ICMP if he likes disposable packets. The point of this one has missed me. 
+ As people have mentioned, a captive portal won’t bother routing his DNS requests onto the actual Internet, and in the UK at least, British Telecom have infested the place with captive portals. They run a scheme where their users can access each others’ networks when travelling, using a login. To log in, you connect first to a captive portal operated out of the user’s router. Thus something like 90% of the open “Internet” in the UK doesn’t actually connect to the real Internet. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ NoseyNick   says:   
+ 
+ 
+ 
+							August 8, 2016 at 8:43 am						 
+ 
+ 
+ 
+ 
+ DNS *IS* “some sort of UDP” (well, OK, except when it’s TCP, but USUALLY it’s “some sort of UDP”), and it’s one that stands some chance of NOT being filtered on firewalls that often “block all UDP except DNS”. It stands some chance of being proxied, but if it is, it is likely to be fairly cleanly proxied, and it MAY even get through SOME captive portals before you have unlocked them. It’s not perfect, but nothing is. It’s certainly not a terrible choice. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ Greenaum   says:   
+ 
+ 
+ 
+							August 8, 2016 at 8:51 am						 
+ 
+ 
+ 
+ 
+ Ah yeah, firewalls, forgot about that! Yes true, weird UDP packets are more likely to get trashed.  
+ I’ve seen the guy’s page, he got lots of results along his drive, but I’d like to know the percentage success rate, vs requests just ignored. I suppose in this case it’s not vital data. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ NoseyNick   says:   
+ 
+ 
+ 
+							August 8, 2016 at 10:41 am						 
+ 
+ 
+ 
+ 
+ I have begun to play about with this sort of stuff myself some time – doing a somewhat scientific study, at least of some part of MY city (which is a fairly geeky city, probably not statistically representative of the rest of the world). 
+ So far I have just PASSIVELY (no transmission, reception only), collected a list of 7451 MAC addresses, 7567 SSIDs (some seem to have multiple SSIDs, or have changed a few times during my collection), 5128 UNIQUE SSIDs (some larger networks have many many APs, “” is also really popular). [Offtopic: There’s a lot of “fun” SSID names too]. 6622 APs seem to be encrypted, 813 open, 16 seem to change their mind from time to time. 144 of them appear to support the WEP encryption that can be cracked in 3 seconds (which might be do-able drive-by, but is presumably legally dubious). A surprisingly high 3081 support the WPA1 encryption that can be cracked in about 60 seconds (which is probably too slow for TRUE drive-by, or even cycling / walking past, you would presumably need to deliberately hang around). 3397 MIGHT be genuinely secure with WPA2. 
+ There are a few websites (and associated apps) that share WiFi credentials, I haven’t investigated those yet, they may make some of the WPA/WPA2 ones a bit more “open”. It’s not entirely clear whether the owners of the WiFi actually consented to sharing them, or if the apps stole them, or tricked people into sharing them, or if they might be in the grey area of “customers only” and then dubiously re-shared onwards, or whatever. A small dictionary attack of “known default passwords” might also be worth trying, but again legally dubious so I probably won’t try it and certainly won’t share if I did    :-p 
+ Even assuming I just stick with the 813 seemingly-legal “completely open” ones, I have yet to determine how many of them will give me an IP address, never mind captive portals, straight-through DNS, proxied DNS, DNS spoofing, DNS transparency, HTTP proxying, HTTP redirection, HTTP transparency, or whatever, but this is probably what I will investigate next. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ NoseyNick   says:   
+ 
+ 
+ 
+							August 8, 2016 at 6:21 pm						 
+ 
+ 
+ 
+ 
+ First test against ONE coffee-shop captive portal confirms that, indeed, DNS seems to get through, get genuine DNS responses, but then HTTP requests are met with a very short  redirect. 
+This is a sample size of ONE captive portal, but (if it turns out to be common) would indeed imply that funny DNS requests to foo.bar.baz.TOWL.yourdomain.fict might be a good way to get small amounts of data out, even through this type of captive portal. 
+I shall try to increase my sample size to a few hundred “open” captive portals sometime, see how common this might be, and also see how many will intercept HTTP. 
+ 
+ 
+ Report comment   
+
+
+ 
+ 
+ sonofthunderboanerges   says:   
+ 
+ 
+ 
+							August 27, 2016 at 3:12 pm						 
+ 
+ 
+ 
+ 
+ Greenaum – I think what the OP meant was that even with an open hotspot you still have to authenticate by clicking on a [ACCEPT TOS] button (etc.) or login with your cable TV credentials or pay-to-play with credit card (at least in USA).  
+ However, to get to that start screen, the local DNS server automatically redirects any HTTP requests to that authentication screen (i.e. googlẹ̣̣̥̣̣ .com, etc.). However, if you have your special DNS server at home (with DNS Tunneling running) at your house on your own domain (open to the Internet via a pinhole on your router), you can type in it’s IP address (not a name like myhouse .com or it will be redirected). IP addresses using port 53 (TCP/UDP) should not be redirected (I think). So your DNS Tunneler sends a port 53 request to your home DNS server bypassing the hotspot’s DNS server. It only has a short 16-byte payload, so it is darn quick. Some anti DNS Tunneler schemes look for larger payloads and traffic patterns as ‘they’ are viewing it as a natsec issue (  https://www.sans.org/reading-room/whitepapers/dns/detecting-dns-tunneling-34152  ). I don’t think anyone will get that pissed off with such a small payload with no bad-guy intent. 
+ I hope I got that right… 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ NoseyNick   says:   
+ 
+ 
+ 
+							August 8, 2016 at 7:09 pm						 
+ 
+ 
+ 
+ 
+ Project Fi is a bit “googly” for some people, and a bit US-specific for others (what are roaming charges like?). I think it also requires a Nexus phone? Not any other DIY IoT gadgets or even any other Android devices? I guess for some, those constraints might be fine, but for others, hacking around with short messages over DNS over random free WiFi can still be fun.   :-) 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ RW   says:   
+ 
+ 
+ 
+							August 8, 2016 at 7:27 pm						 
+ 
+ 
+ 
+ 
+ Erm, trusting a Google side project to still be there when you need it is like trusting in Leprechaun’s gold. Takes 5 years to know they’re seriously serious about anything now. Would be as bad as buying some IoThing from random company that’s probably gonna go titsup in a year. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ sonofthunderboanerges   says:   
+ 
+ 
+ 
+							August 27, 2016 at 9:19 pm						 
+ 
+ 
+ 
+ 
+ riskinhos – MacDonalds, Dunkin Donuts, KFC, Walmart, Public Library, Office Depot, Staples, FedEx, BestBuy, etc. are all GENERALLY open WiFI hotspots.in USA. Most only require that you hit a ACCEPT TERMS OF SERVICE button first to browse Internet. But I’m not sure if you even need to do that with DNS Tunneling.You might just go right through on port 53 udp/tcp. When I’m war driving I have found that local mom & pop Realtor offices have open wifi hotspots with no authentication at all. Straight to url. I know you must have them in your area. Just pull into their parking lot. However I find chain-restaurants tend to have a general manager that kind of polices the parking lot for squatters. Park too long using his hotspot for watching movies or making Skype calls and he’ll come out to shoo you away or call the cops if you get arrogant about it. You could also get lucky at factories. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ Tim   says:   
+ 
+ 
+ 
+							August 12, 2016 at 6:39 am						 
+ 
+ 
+ 
+ 
+ Kudos! I’ve been working on basically this exact same project in Python on an old RasPi (for proof of concept), but in the hour-a-month or so of free time I can block off  for personal projects these days :( This pretty well sorts it; free telemetry over DNS tunneling is feasible! Side note: In my area (northeast USA) the local cable duopoly (Comcast) have been supplying all their customers with cablemodems with WiFi hotspot and captive portal enabled (for other Comcast customers to borrow the connection). ALL of these pass DNS tunnel data, and they are everywhere (100+ per city block)! 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ sonofthunderboanerges   says:   
+ 
+ 
+ 
+							August 27, 2016 at 9:28 pm						 
+ 
+ 
+ 
+ 
+ Tim – good to know! I too am in n.e. usa and I see COMCAST in the SSID list all the time. Also see COX and XFINITY too. I definitely want to try this for telemetry. I had an idea to use FIREFOX WIFI MANAGER to automate looking for open ap’s to auto authenticate. However, the concept takes far too long to negotiate while driving too fast. All I wanted to do was like the OP is send simple message system stuff when 3G/4G has dead spots. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ BotherSaidRussians   says:   
+ 
+ 
+ 
+							March 26, 2018 at 11:15 pm						 
+ 
+ 
+ 
+ 
+ I can see several applications for this. 
+not least integrate it with a very basic rainbow table (cough 32MB /cough) on a cheap IC containing the most commonly used logins and some adaptive code based on a very simple neural network running on a $1 micro to preselect banks of codes more likely to work with the SSID used. 
+If all its ever going to be used for is sending back a Ramius (One ping only!) I doubt anyone would object. 
+Obviously with a bigger table it would get access to a wider range of networks, but typically more memory means higher power usage. 
+ 
+ 
+ Report comment   
+ Reply  
+
+ 
+ 
+ BotherSaidRussians   says:   
+ 
+ 
+ 
+							March 26, 2018 at 11:21 pm						 
+ 
+ 
+ 
+ 
+ Hack *2, harvest used BIOS ICs from dead laptops, keyring picture frames, small DVD players etc. 
+The biggest annoyance would be finding enough chips as typically with older machines they often break down over time requiring multiple erase/write cycles to get them going again. 
+ 
+ 
+ Report comment   
+ Reply  

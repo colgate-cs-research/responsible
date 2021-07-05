@@ -1,0 +1,48 @@
+##LINK: https://www.attpublicpolicy.com/broadband/banning-paid-prioritization-within-a-viable-and-sustainable-framework/
+##KEYWORDS: paid prioritization
+##TITLE: Banning Paid Prioritization within a Viable and Sustainable Framework - AT&T Public Policy
+##METHOD: article 4
+
+
+
+
+ 
+ Larry Mills-Gahl 
+  February 25th, 2015 - 12:31pm  
+ 
+ 
+ It is true that the story as told above does seem sensible, but the story above ignores the context that the broadband infrastructure in the U.S. (while it has improved) lags behind many European and Asian countries where transport and content are separate. Broadband access in many parts of the world (that are more heavily regulated) is faster, more reliable and cheaper than in the U.S. so claiming that the lack of regulation thus far has helped U.S. investment goes against the current state of the networks and claiming additional separation (or regulation) between transit and content would harm investment is also contradicted by history and current practice. 
+The simple solution of separating transit from content is the only way to continue to have an Internet that can continue to grow and innovate. 
+ 
+
+
+ 
+ Jason Herr 
+  March 24th, 2017 - 8:59am  
+ 
+ 
+ This is a well written statement. It ignores the customer desire to be connected to the internet. If I have been sold a certain amount of bandwidth at an advertised rate? I expect that to be delivered. That is net neutrality. 
+ This statement is like the industry standard of billing. It leaves out important details and the customer ends up paying more. In a world of co-location and SaaS, this is a massive miscomprehension or misrepresentation of how networks and services interact. 
+ I found this page, while researching a change to ATT. I would pay more each month for a service from a company that provides actual internet access. I was disappointed to see this is still your ongoing stance. 
+ 
+
+
+ 
+ Larry Mills-Gahl 
+  February 25th, 2015 - 12:31pm  
+ 
+ 
+ It is true that the story as told above does seem sensible, but the story above ignores the context that the broadband infrastructure in the U.S. (while it has improved) lags behind many European and Asian countries where transport and content are separate. Broadband access in many parts of the world (that are more heavily regulated) is faster, more reliable and cheaper than in the U.S. so claiming that the lack of regulation thus far has helped U.S. investment goes against the current state of the networks and claiming additional separation (or regulation) between transit and content would harm investment is also contradicted by history and current practice. 
+The simple solution of separating transit from content is the only way to continue to have an Internet that can continue to grow and innovate. 
+ 
+
+
+ 
+ Jason Herr 
+  March 24th, 2017 - 8:59am  
+ 
+ 
+ This is a well written statement. It ignores the customer desire to be connected to the internet. If I have been sold a certain amount of bandwidth at an advertised rate? I expect that to be delivered. That is net neutrality. 
+ This statement is like the industry standard of billing. It leaves out important details and the customer ends up paying more. In a world of co-location and SaaS, this is a massive miscomprehension or misrepresentation of how networks and services interact. 
+ I found this page, while researching a change to ATT. I would pay more each month for a service from a company that provides actual internet access. I was disappointed to see this is still your ongoing stance. 
+ 

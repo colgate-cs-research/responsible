@@ -1,0 +1,92 @@
+##LINK: https://ctedunet.net/dedicated-internet/
+##KEYWORDS: net neutrality
+##TITLE: Dedicated Internet | Connecticut Education Network
+##METHOD: article 1
+
+
+
+ 
+ Dedicated Internet 
+ Internet Service 
+ 
+ 
+ CEN provides a stable and reliable internet service offering that bridges network performance with scalable bandwidth. This capability includes numerous value added services at a total price point that can not be matched. The CEN internet offering provides the following capacity: 
+ 
+ Expandable capacity to suit the need of every member organization 
+ Symmetrical upload/download capability with 1G,10G or 100G handoffs 
+ No caps, throttling or rate limits 
+ Adheres to Net Neutrality principles 
+ 
+ 
+ 
+ In October 2018, CEN became Mutually Agreed Norms for  Routing Security (MANRS) certified. MANRS is a global  initiative, supported by the  Internet Society , that increases  overall network security and provides crucial fixes to reduce the most common routing threats including filtering, Anti-spoofing, Coordination, and Global validation. Joining MANRS means joining a community of security-minded organizations committed to making the global routing infrastructure more robust and secure, and it is an initiative where CEN can provide leadership through action for the directly connected community as well as alongside research and education networks nationally. 
+ Included Features: 
+ 
+ All Fiber Network 
+ High performance and  low latency connectivity. 
+ 
+ Equitable Pricing Model 
+ Bandwidth tiers ranging from 25 Mbps to 100 Gbps. All features included at no additional fee. 
+ 
+ Symmetrical Upload and Download Speeds 
+ 1Gbps, 10Gbps, or 100Gbps Ethernet handoffs. 
+ 
+ No Data Caps, No Rate Limiting or Throttling 
+ Burst at any time to the full handoff speed. 
+ 
+ Jumbo Frame Support 
+ 9000 MTU for high capacity throughput. 
+ 
+ DDoS Threat Detection and Mitigation  
+ Protects members from multiple DDoS threats including volumetric, protocol, and application attack vectors. 
+ 
+ End to End Management 
+ Fully owned and operated by CEN, serviced by local technicians. 
+ 
+ IPv4 and IPv6 
+ /29 IPv4 and /48 IPv6 addressing included. Additional blocks of IP's available. 
+ 
+ Border Gateway Protocol (BGP)  
+ BGP for multi-homing and diverse routing. 
+ 
+ Domain Name System (DNS) 
+ DNS hosting including primary and secondary DNS service. Will help members transfer existing domain names. 
+ 
+ CIPA Compliant Web Filtering  
+ Enterprise Internet content filtering solution for Children’s Internet Protection Act (CIPA) compliance and E-Rate eligibility. 
+ 
+ Fault Tolerant Architecture 
+ Resilient design including triangle core, fully meshed aggregation layer, dual homed devices, diverse fiber paths, and hardened equipment. 
+ 
+ Mutually Agreed Norms for Routing Security (MANRS) Certified Network 
+ Increases overall network security and provides crucial fixes to reduce the most common routing threats including filtering, anti-spoofing, coordination, and global validation. 
+ 
+ 24/7 Network Operations Center (NOC) 
+ Provides proactive monitoring of the health of a connection. 
+ 
+ Network Neutrality 
+ Adheres to the principles of net neutrality, only use providers who pledge the same, and we do not own any content where prioritization of traffic is of benefit or interest. 
+ 
+ Internet2 
+ Regional connector for Internet2, the national research and education network. Available for I2 members and community anchor participants. 
+ 
+ Blended Internet 
+ Multiple, geographically diverse Tier 1 Internet Backbone Providers, peering exchanges, and on-net caches providing resiliency and seamless routing possibilities. 
+ 
+ E-Rate  Eligible 
+ E-Rate service provider, serving K-12 and library partners since 2001. SPIN #143049066. 
+ TO LEARN MORE: 
+ Get Connected 
+ WHY CEN? 
+ 
+ QUALITY 
+ CEN’s scalable, resilient network design offers an unmatched combination of performance attributes for speed, latency, reliability, and security. 
+ 
+ VALUE 
+ CEN’s cost recovery model provides competitive pricing, custom tailored services, and larger feature sets as compared to other for-profit ISPs. 
+ 
+ SERVICE 
+ CEN's Connecticut based team backs its members with a 24/7/365 Network Operations Center (NOC) and access to senior technical staff for the most consistent, local, expert service available. 
+   
+ 
+ 

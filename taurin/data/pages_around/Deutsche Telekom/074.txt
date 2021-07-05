@@ -1,0 +1,9 @@
+##LINK: https://www.pc-max.de/content/news/weltgeschehen/deutsche-telekom-kein-zero-rating-von-spotify-fuer-neuvertraege-0/1/
+##KEYWORDS: zero-rating
+##TITLE: Deutsche Telekom: kein Zero-Rating von Spotify für Neuverträge
+##METHOD: paragraphs
+
+Das sogenannte Zero-Rating der Deutschen Telekom für den Dienst Spotify wird es in Zukunft nur noch für Bestandskunden geben. Neukunden, die ihren Vertrag ab dem 2. August abschließen, werden ihr im Vertrag enthaltenes Datenvolumen während des Musikhörens somit belasten. Alle zuvor abgeschlossenen Verträge werden von den Änderungen nicht betroffen sein.
+Die Deutsche Telekom erklärt diesen Schritt nicht mit den neuen EU-Beschlüssen, die zu einer Verbesserung der Netzneutralität führen sollen. Laut der Deutschen Telekom sei Zero-Rating ohne Weiteres mit den Vorgaben der Europäischen Union vereinbar. Der Grund für die Umstellung ist deutlich einfachen, weil der Netzbetreiber sich aus finanziellen Gründen dazu entschieden hat. Sicherlich fallen durch die Nutzung von Spotify Kosten an, welche die Deutsche Telekom bisher für den Kunden getragen habe, bald möchte man sich die Dienstleistung vom Kunden wieder bezahlen lassen. Auf Anfrage von ComputerBase 
+Die Abschaffung des Zero-Ratings ist nicht die erste Änderung des Spotify-Abs der Telekom. Seit dem 28. April ist so, dass Musik nicht mehr mit voller Geschwindigkeit gestreamt werden kann, sobald das im Vertrag inbegriffene Datenvolumen aufgebraucht ist. Also muss die Musikwiedergabe auch mit gedrosselter Geschwindigkeit von Statten gehen, sobald das Datenvolumen durch andere Verwendungen aufgebraucht worden ist. Diese Änderung ist jedoch auf die Vorlage der Europäischen Union zurückzuführen. 
+Spotify-Premium-Nutzer können jedoch auch in Zukunft noch streamen, ohne das Datenvolumen zu belasten. Dazu müssen Playlists jedoch erst über WLAN offline zugänglich gemacht werden.  

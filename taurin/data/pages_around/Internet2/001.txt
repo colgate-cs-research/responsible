@@ -1,0 +1,62 @@
+##LINK: https://bryanalexander.org/politics/internet2-on-net-neutrality/
+##KEYWORDS: net neutrality
+##TITLE: Internet2 on net neutrality | Bryan Alexander
+##METHOD: paragraphs
+
+How is higher education responding to net neutrality’s impending demise?
+To answer this question, last week I interviewed the policy director for EDUCAUSE, the largest education and technology group.  The heads of ISTE and the New Media Consortium also published a joint article about their views.   All share a similar stance: that net neutrality is good for education, that the FCC should keep it intact, and educators should advocate for its preservation.
+I also reached out to Internet2, since they are an academic network.  I was curious about their opinion of the FCC’s decision, as well as how they structured their own system.  Sara Aly, Internet2’s communications manager, kindly answered my barrage of questions.
+Internet2 supports net neutrality, both for national policy and their own.  They’ve given statements to the FCC to this effect.  They also see their own network as unaffected by Pai’s broader policy change.  Internet2 is also coordinating with EDUCAUSE (recall that they are working with a coalition of organizations and associations).
+Aly also offered this statement, which I reproduce here in full:
+Internet2, which owns and operates a national research and education network, has long championed the principle of network openness as fundamental to a free and educated society. This openness has resulted in significant advancements in science, research, and education, and a history of continuous innovation. Internet2 has operated and will continue to operate its network according to open network principles.
+In particular, Internet2 will not prioritize network traffic or make decisions about content on the network, other than protecting the network and its connectors for security reasons. In addition, our network management practices are widely discussed and disclosed within the research and education community and thus transparency is an essential element of these principles.
+Regarding the FCC’s Internet Freedom proceeding, Internet2 has been working closely with EDUCAUSE and other higher education associations* who are leading the advocacy efforts on behalf of the research and higher education community. We will continue to support their efforts and provide technical expertise, as necessary. Our primary focus is to make sure that the research and education community participates in a global Internet that offers a level playing field for all innovators.
+*American Association of Community Colleges (AACC); American Association of State Colleges and Universities (AASCU); American Council on Education (ACE); American Library Association (ALA); Association of American Universities (AAU); Association of College & Research Libraries (ACRL); Association of Public and Land-grant Universities (APLU); Association of Research Libraries (ARL); Chief Officers of State Library Agencies (COSLA); Modern Language Association (MLA); and Sacramento Public Library.
+In short, Internet2 is another educational organization of many that stands against Pai’s new direction.  Unusually, they have the opportunity to practice what they preach.
+It seems likely that American higher ed stands almost completely united against the end of net neutrality.  It also seems likely the the FCC disagrees and will axe net neutrality in a few days.
+Where do we go from here?
+Searching for an article that describes plainly and truthfully my post net neutrality browser experience.
+I’ve seen many versions.
+Reblogged this on As the Adjunctiverse Turns.
+What’s your take on the reality of political censorship under NN?https://dailystormer.red/neutral-apocalypse-the-sky-is-falling-on-ur-tubes/
+I think it’s likely.  Not right away, but soon.
+Pingback: After net neutrality: how should educators respond? | Bryan Alexander
+Your email address will not be published. Required fields are marked *
+Comment 
+
+
+Notify me of followup comments via e-mail
+
+Name * 
+Email * 
+Website 
+ Notify me of follow-up comments by email.
+ Notify me of new posts by email.
+ 
+
+
+Many call themselves “futurists” — Bryan actually knows how to do it.
+–Howard Rheingold
+Is @BryanAlexander a wizard because he wrote about the possibility of a pandemic in 2018? He says he has a beard like one.
+–NPR’s 1A
+Gotta love @BryanAlexander‘s ability to catalyze a conversation without leaning on hyperbole or triggers.
+-Mark David Milliron
+This is so well-structured and thoughtful that it almost made me forget I was terrified while reading it.
+–Kyle Erlenbeck
+When ⁦@BryanAlexander  is futuring about you, you’d better start futuring yer own dang self!
+–Stephanie Doscher
+[F]uturist and higher-ed guru Bryan Alexander…
+–Gabriel Paquette
+Enter your email address to follow this blog and receive notifications of new posts by email.
+
+
+							Email Address                        
+
+
+
+
+
+
+
+
+	                        Subscribe                        

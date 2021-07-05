@@ -1,0 +1,169 @@
+##LINK: https://arstechnica.com/tech-policy/2018/06/comcast-att-verizon-say-they-have-no-paid-prioritization-plans/
+##KEYWORDS: paid prioritization
+##TITLE: Comcast, AT&T, Verizon say they have no paid prioritization plans | Ars Technica
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+      Net neutrality promises    —
+ 
+ Comcast, AT&T, Verizon say they have no paid prioritization plans 
+ ISPs make network management disclosures as net neutrality repeal takes effect. 
+ 
+ 
+ Jon Brodkin 
+    -   Jun 12, 2018 6:05 pm UTC 
+ 
+   
+ 
+ 
+ Enlarge Comcast 
+ reader comments 
+ 125 
+  with 84 posters participating 
+ 
+ 
+ Share this story 
+ Share on Facebook 
+ Share on Twitter 
+ Share on Reddit 
+ 
+ The repeal of federal net neutrality rules became official  yesterday , giving broadband providers the right to block or throttle Internet traffic or to prioritize traffic in exchange for payment. 
+ But at least for now, some major ISPs are saying they won't do any of those things. The Comcast, Verizon, and AT&T websites all say they aren't doing any blocking, throttling, or paid prioritization. 
+ By contrast, Charter's  network management disclosure  only promises that it won't block or throttle, while making no promises about paid prioritization. That doesn't mean Charter has immediate plans to charge websites and online services for priority access to consumers. ISPs are required to disclose paid prioritization publicly, so we'll find out if it happens as long as the companies follow the disclosure requirements. 
+ Comcast, Charter, AT&T, and Verizon are the four biggest home Internet providers in the US. 
+ Net neutrality supporters have speculated that Internet providers will be on their best behavior for the time being. Congress is considering whether to impose a new version of net neutrality rules, with Democrats pushing for a full restoration of the FCC rules and Republicans pushing for a weaker form of net neutrality. ISPs likely want to avoid a public backlash that could increase pressure on lawmakers to enact strict rules. 
+ ISPs can make their disclosures either on their own websites or on the  FCC website , but so far only two small ISPs  have used the FCC site  for their disclosures. 
+ Comcast: We don’t favor traffic 
+ The new version of Comcast's  network management disclosure  says that it doesn't block or throttle lawful Internet traffic and that the ISP doesn't accept payments for prioritization. 
+ "Comcast does not directly or indirectly favor some traffic over other traffic, including through use of techniques such as traffic shaping, prioritization, or resource reservation, in exchange for consideration, monetary or otherwise," the nation's largest home broadband provider says. Comcast also said that it doesn't prioritize traffic in order to benefit any "affiliate," which could refer to NBC's online content or other Comcast properties.   
+ Advertisement  
+ 
+ 
+ Further Reading Comcast deleted net neutrality pledge the same day FCC announced repeal 
+ Comcast's statement on paid prioritization goes beyond the promise Comcast makes on another webpage. That page originally contained a statement that "Comcast doesn't prioritize Internet traffic or create paid fast lanes," but that language was  deleted in April 2017 , just as FCC Chairman Ajit Pai announced the first version of his plan to eliminate net neutrality rules. The  webpage  continues to say that Comcast does "not block, slow down or discriminate against lawful content." 
+ Even after making that change, Comcast said last year that it had no plans for paid prioritization. The disclosure on the  new page  suggests that Comcast still has no such plans. 
+ Despite repealing net neutrality rules, the FCC is requiring ISPs to disclose whether they engage in blocking, throttling, or paid prioritization. If Comcast chooses to start charging online services or websites for prioritization, it would have to update its public disclosures in order to avoid punishment. 
+ AT&T and Verizon 
+ AT&T  makes  a similar statement, saying that "AT&T does not favor certain websites or Internet applications by blocking or throttling lawful Internet traffic on the basis of content, application, service, user, or use of nonharmful devices on its broadband Internet access services." Further Reading AT&T describes post-net neutrality plans for paid prioritization 
+ AT&T also said it doesn't favor traffic "in exchange for consideration (monetary or otherwise) from a third party, or to benefit an affiliate." AT&T makes an exception to this when it comes to "address[ing] the needs of emergency communications, law enforcement, public safety (including  FirstNet ), or national security authorities, consistent with or as permitted by applicable law." 
+ It wouldn't be surprising to see AT&T change course in order to pursue paid prioritization in the future. In February, the  company argued that paid prioritization  should be allowed because it could benefit applications such as "autonomous cars, robotic surgeries, or public safety communications." 
+ Verizon also says it isn't pursuing paid prioritization for now—despite the company's years-long battle to allow such deals. 
+ "We will not accept payments from any company to deliver its traffic faster or sooner than other traffic on our consumer broadband service, nor will we deliver our affiliates’ Internet traffic faster or sooner than third parties,’" Verizon  says . "We will not prioritize traffic in a way that harms competition or consumers."   
+ Advertisement  
+ 
+ 
+ Verizon also said that it "will not block any legal Internet content, applications, or services based on their source or content" and "will not throttle or slow down any Internet traffic based on its source or content." 
+ Verizon has played the biggest role in the broadband industry's fight against net neutrality. It was Verizon's lawsuit against the FCC that overturned the  first version of net neutrality rules  in 2014. 
+ During  oral arguments  in that case, Verizon complained that net neutrality rules don't allow it to block online services that refuse to pay Verizon for access to Internet users. Verizon argued that it would be able to block websites and online services "in a free market." 
+ While Verizon today is pledging that it won't block, throttle, or charge for prioritization, it's clearly something the company has considered. 
+ Charter’s promises 
+ Charter's disclosure page , as mentioned previously in this article, makes no promises regarding paid prioritization. Another  recent policy statement  that says Charter does not "slow down, block, or discriminate against lawful content" also makes no promises on paid prioritization. 
+ We asked Charter for its current stance on paid prioritization and will update this story if we get a response. 
+ Charter does pledge not to block or throttle lawful Internet traffic. "Charter does not block or degrade its Customers' ability to access lawful content or services," the disclosure says. Charter says it may block sites for security reasons or to prevent "the transfer of child pornography or other unlawful content." 
+ Charter made more extensive net neutrality pledges when it was seeking FCC permission to buy Time Warner Cable. In exchange for merger approval, Charter said that it would avoid blocking, throttling, and paid prioritization for three years regardless of whether the net neutrality rules remained in place. But the FCC did not actually put this requirement into writing when it  approved the merger  in 2016, saying it was unnecessary because the net neutrality rules were the "law of the land." 
+ The FCC did impose other merger conditions, however. For seven years, Charter must offer free network interconnection to network operators, content delivery networks, and online services that meet certain traffic requirements. This should help prevent the kind of congestion that  affected Netflix on Time Warner Cable  and other ISPs in 2013 and 2014. 
+ Another merger condition in place for seven years prevents Charter from imposing data caps or charging for Internet service based on data usage. 
+ Disclosure: The Advance/Newhouse Partnership, which owns 13 percent of Charter, is part of Advance Publications. Advance Publications owns Condé Nast, which owns Ars Technica. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ reader comments 
+ 125 
+  with 84 posters participating 
+ 
+ 
+ Share this story 
+ 
+ Share on Facebook 
+ Share on Twitter 
+ Share on Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jon Brodkin 
+      Jon is Ars Technica's senior IT reporter, covering the FCC and broadband, telecommunications, tech policy, and more.     
+ 
+ Email   jon.brodkin@arstechnica.com 
+ // 
+ Twitter   @JBrodkin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertisement  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ You must  login or create an account  to comment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Channel  Ars Technica 
+ 
+ 
+ 
+ 
+ ←  Previous story   Next story  → 
+ 
+ 
+ 
+ 
+ Related Stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Today on Ars 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,89 @@
+##LINK: http://www.telco2.net/blog/2014/05/telco_20_news_review_178.html
+##KEYWORDS: open Internet
+##TITLE: Telco 2.0: Open Internet NPRM, Telefonica Q1s, Apple Beats, VoLTE: Telco 2.0 News Review
+##METHOD: paragraphs
+
+
+« China, ITU, T-Results, UK Fibre, Apple: Telco 2.0 News Review |
+                        Main
+                        | FCC, DTAG, DirecTV, Broadband, Comcast WebRTC: Telco 2.0 News Review »
+
+The 9th Annual ‘OnFuture EMEA’ Executive Brainstorm & Innovation Forum (formerly ‘New Digital Economics EMEA’) is designed to equip up to 200 specially-invited business leaders with new, breakthrough ideas, methods and tools on how to grow significant new revenues in the next 12-18 months leveraging Mobile, Cloud and Big Data. For the full agenda click here, to apply to participate click here.
+It’s been a week of intense lobbying at the FCC regarding the Open Internet NPRM. AT&T, not surprisingly, weighed in claiming that reclassification would automatically create a termination-fee regime for the Internet and require the renegotiation of all peering agreements. Harold Feld of Public Knowledge, not surprisingly, disagreed and denounced this as “scary mumbo-jumbo”. 
+On the other hand, a catalogue of Silicon Valley companies wrote to the FCC to express their support for net neutrality. The list includes Google, Facebook, Amazon, Level(3), EBay, Microsoft, Yahoo! and much else - but not Apple. 
+The explanation of this seems to be that the organisers didn’t ask them to sign.
+Web-hosting company Neocities decided to impose its own “slow lane”,  throttling access for IP addresses belonging to the FCC down to 28.8Kbps. Burn! They also released the nginx configuration file on Github for anyone else who felt inclined to do likewise.
+A more conventional lobbying effort saw 10 US Senators write to Chairman Wheeler. 
+And by this morning, all the lobbying seemed to be having an effect. Commissioner Clyburn blogged that she supported Title II reclassification, a ban on “pay for priority”, and that open Internet rules should apply to mobile services. In the light of this, Wheeler is expected to announce a revised draft NPRM today that takes into account the net neutrality lobby’s concerns.  We shall see when the text appears.
+Telefonica announced its Q1 results, which were poor. Revenue was down 18% and net income 23%. A substantial part of this was due to exchange rate shifts, with the devaluations of the Argentine and Chilean pesos reducing the value of Telefonica’s earnings there. 
+Revenue in Spain was off 8.8%, but this is actually a substantial improvement on recent results. However, you couldn’t say anything like that about revenues in booming Germany, also off 8.8% in Q1. (Has anyone else noticed that T-Mobile.de’s competitors seem to be struggling? Vodafone’s results in Germany have been poor as well, and E-Plus is selling out to, well, Telefonica.)
+At the same time, capex is up by almost a third. Telefonica’s answer to this is, in a word, “content”. They’re buying a Spanish pay-TV operator, spending some â¬1.3bn in order to add 1.6 million TV homes and the rights to Spanish league football. Well, it’s cheaper than Ono, although of course it doesn’t add any broadband.
+In the UK, televised football is synonymous with Sky, as hard as its competitors might try. The competitors may just have caught a break, though. On Sunday, as the Premiership reached its climax with the decisive Manchester City-West Ham game, their Sky Go/Now TV video-on-demand network went floppy (although not the core satellite pay-TV network) and left the viewers guessing who was winning the league. They are not happy, and refunds are being offered.
+The latest attempt to loosen Sky ‘s two-decade Vulcan Death Grip on football is, of course, BT Sport. BT’s full year results are now with us, and the news is that revenues were flat over the year - pretty good, as everyone else is seeing a decline - and pre-tax profits were up 6% at Â£2.8bn. That said, BT Wholesale’s revenues were down 7% and Openreach’s by 1%. In both cases, BT blames the ref, sorry, OFCOM.
+Business’s sales were flat at Â£3.5bn (again, pretty good in the light of tanking wholesale voice prices everywhere and OFCOM interest in metro-fibre pricing), while consumer was the stand-out, with revenue up 4% year on year and up 9% in BT’s fourth quarter. That said, BT boasts of gaining 79% of the quarter’s broadband net-adds, while also reporting that Openreach’s broadband connection net-adds were down 24% year-on-year - so part of the explanation was that it was a big share of a small total. (As for the slide in broadband net-adds, they blamed the weather.)
+Nothing daunted, Sky is planning to buy out Fox’s shares in its Italian and German satellite TV networks, creating a solid block of football and hyperbolic breaking news announcements across Europe.
+The current release of the Android source code contains evidence of a new gadget that seems to be a set-top box or smart-TV, which will be made by HTC as a Google Nexus project. However, smart-TV usability remains awful, and constitutes a real security threat.
+And when AT&T acquired Leap Wireless, as well as a struggling regional carrier and a decent MVNO, it also got a surprisingly successful streaming music business, Muve, which boasts two million subscribers and that rare thing in today’s music business, actual revenue. Muve subscriptions are bundled with Cricket MVNO service and offer unlimited music downloads. AT&T is said to be looking at selling the business off, for fear of cannibalising the next news item.
+Apple has thrown its biggest acquisition ever. The FT says they’re in negotiations to buy Beats Music for some $3.2bn worth of really big headphones. The deal would give Apple a decent business selling fancy audio hardware, and a substantial streaming music service that is resold by, among others, AT&T Mobility. It would also make Beats founder Dr Dre the first hip-hop billionaire, and as you might expect, the good doctor didn’t hesitate to make the point all over the Internet. He, at least, seems confident of the deal closing.
+The Beats subscription is $10/mo, and AT&T springs for the first three months as an introductory offer. As a result, the majority of new signups are AT&T subscribers. At the same time, it would be a reasonable guess that they’re probably also iPhone users - although exclusivity is long gone, the symbiosis between AT&T Mobility and Apple is still a real phenomenon. Apple’s own iTunes Radio has been a bit of a disappointment, and of course Apple is deeply invested in design, hardware, and music. But, really, $3.2bn? ZDnet makes the obvious point that Apple can afford it.
+Horace points out that if iTunes Radio is a failure, it hasn’t troubled Apple much, and the iTunes and iCloud business remains very successful. However, music as such is shrinking quite fast as a category, overshadowed by the mighty app:
+Burberry CEO Angela Ahrendts, meanwhile, joins Apple as the boss of retail, drawn in by a signup bonus of $9.8m in Apple stock.Ari Partinen, the Nokia engineer responsible for the superb cameras in the N8, Pureview 808, and Lumia 1020, has also joined Apple this week.
+Here’s a Kurt Eichenwald long read on the Apple/Samsung case. And Horace reckons there are enough late-majority smartphone adopters left to keep the North Atlantic market growing until 2018.
+Although the Apple/Samsung wars are now over, in such a way as to make you wonder why anyone ever thought it was worth fighting them, Oracle and Google are still fighting, as an appeal court unexpectedly reversed the verdict on whether or not Oracle can patent APIs.
+Nintendo issued a profit warning back in January that led to calls for the boss to resign. Now, they’ve issued actual numbers, and they’re worse than the warning. Wii U shipments were meant to be 9 million, which was revised down to 2.8 million, and the out-turn was 2.72 million. 3DS shipments were meant to be 18 million, revised down to 13.5 million, and the out-turn was 12.2 million. The upshot? Revenue down 10 per cent and a $456m loss. Ars reviews the options.
+Motorola Solutions - that’s the bit that Google didn’t buy - has announced a new indoor-location analytics product that integrates WiFi and Bluetooth Low Energy beacons. They have four partner companies developing applications for the system.
+HP is investing a billion dollars in OpenStack technology, and starting a new data centre product, Facility as a Service, which essentially means HP builds and manages a data centre to your specs and you rent it from them.
+Mozilla seems still to like the idea of putting ads in Firefox, despite the wave of user horror that greeted it first time around.
+AT&T announced that it will launch VoLTE this month, with HD Voice (exactly what codec or bandwidth is unspecified, we’re guessing it’ll be AMR-WB). Users of the Asus Padfone X in Chicago and Minneapolis will be the first to get the service, which goes live on the 23rd.
+Verizon Wireless, meanwhile, reiterated that it’s committed to launching VoLTE this year, but it looks like it’s slipped right by a few months and will be coming in H2. VZW will be deploying AMR-WB at the same time as its HD voice solution. T-Mobile USA, for its part, already has done on its HSPA network, and Sprint has 100 markets with HD voice on its CDMA network. Which is a pity, because one day they’ll have to move over to LTE. Sprint uses the 3GPP2’s solution, EVRC-NW, both on the CDMA and on its LTE network with the HTC Evo 4G, so it’s anyone’s guess if it will interoperate.
+The FCC this week blogged a statement that seems to put carriers on notice about PSTN transition, encouraging subscribers to comment on plans to move services over to all-IP and to object if necessary. Interestingly, Verizon is planning to shut down a chunk of its copper network and migrate the customers to FiOS, and the FCC says they have to provide TDM services over the fibre.
+Voxbone is offering a WebRTC trunking service, so your customers’ WebRTC travels over their network to your SIP peering. Useful, although of course it won’t help if the last-mile is the problem.
+Telekom Austria and America Movil are getting started on integration even before the merger is settled; they’re centralising their international voice interconnects in America Movil’s facility in Miami.
+And VoiceBase is a full-featured web-based transcription and indexing application.
+NTT DoCoMo is preparing for trials of what it calls 5G equipment from six vendors. Stand by for fearsome arguments about what constitutes “5G” (does anyone remember 2.75G and 3.9G?), but the content is interesting, centring on frequencies above 6GHz, small cells, high density deployments, and M2M. Nokia, Samsung, and NEC are all commissioned to work on beamforming in different frequency bands, while Ericsson explores “new radio interface concepts” and “massive MIMO”, Fujitsu studies how very dense networks of small cells can schedule transmissions, and Alcatel-Lucent looks into “new waveforms to support M2M and mobile broadband”. The trials will start at their Yokosuka R&D centre, and then move outdoors next year.
+Alcatel-Lucent’s Q1s, meanwhile, were reasonable. Revenues are still shrinking, off 3.3% excluding the enterprise division that’s been sold to China Huaxin, but the losses are much smaller, â¬73 million compared to â¬353 million a year ago. The explanation is that the company has improved its margins, basically by killing off over-ambitious managed service contracts.
+The best products were IP routers, where revenue was up 11.1%, and IP transport, i.e. the optical division, up 6%. By contrast, the access network and “IP platform” (i.e. IMS and co) divisions did pretty badly. The big sellers were the 7950 XRS core router, which is selling to cable companies, and the 1830 photonic switch. Nice, aren’t they?
+Apparently, both ALU and Nokia had trouble obtaining some components in Q1.
+Nokia, meanwhile, has a tie-up with Juniper Networks, under which Nokia contributes its telco-y software products to Juniper’s SDN and Juniper provides the IP routing kit.
+Cambridge Communications has been testing its self-organising backhaul system for small cells with China Telecom, setting up a 28GHz mesh network around their offices in Anhui.
+Asian operators are apparently keen on cloud-RAN, centralised farms of virtual base stations, and the like. No wonder, if this chart from China Mobile’s trials of the technology is to be believed.
+Google’s space balloon WiFi thingy has noticed that it might need to talk to GSM operators after all.
+Telenor CEO Jon Fredrik Baksaas says that the company’s biggest challenge is how to get the 80 per cent of its customer base who are voice-only to start using the Internet. That is, as they say, both a challenge and an opportunity. Things were pretty good at Telenor; revenue was up 7.3 per cent and net income up 2%. The carrier saw strong growth in its emerging markets, and a solid performance in Europe; the only market where it lost ground was Thailand.
+Deutsche Telekom has set out terms under which it would proceed with a Sprin-T merger. Specifically, it wants a break clause of at least $1bn, and it wants T-Mobile executives to  be in charge and the T-Brand used throughout “any” regulatory delay, and right up to closing. Keen and agile readers will have noticed that this sounds more like T-Mobile taking over Sprint than the reverse, and Phone Scoop points out that it also sounds like John Legere being CEO rather than Dan “the industry’s most expensive CEO - because I’m worth it” Hesse.
+Meanwhile, Sprint is rowing back on its promise of unlimited data. Users are being informed that, starting next month, the top 5% of data users may be traffic-shaped during the busy-hour in the busy-cell (aka a fairly classic 95th percentile policy in the backbone ISP world). 
+Sprint-owned MVNO Boost Mobile, meanwhile, tidied up the ratecard, while the CEO of American Tower said that Sprint, one of his tenants, might need 40,000 more cell sites to achieve its aim of overlaying 2.5GHz coverage on its whole footprint. He also said that VoLTE deployment at VZW and AT&T might mean 20-30 per cent more sites.
+If the FCC is settled, Masayoshi Son certainly has the money to buy T-Mobile, having just trousered $58bn through the Alibaba.com IPO. The question is surely whether the deal makes more sense the other way around.
+DTAG, meanwhile, launched its mobile wallet with 1,000 acceptance points around Bonn. It’s called “MyWallet”, imaginatively enough.
+Germany’s Federal Court of Auditors thinks the government should sell its stake in DTAG, but keep the railways.
+Telekom Austria, meanwhile, is having a bad Q1 while negotiating with Carlos Slim; net profits down 26.5%.
+SFR and Vodafone have agreed to continue their enterprise customer partnership. Econet Wireless brings WiFi offload to Zimbabwe. Lebanon’s two operators have been threatened with losing their licences if they don’t get their act together.
+Google Fibre is claiming outrageously great take-rates, as high as 75%, in Kansas City. The take rate is the critical economic variable in a fibre roll-out, as it both multiplies the revenue and amortises the cost to pass. Telecompetitor points out that although Google is doing some smart things - like getting groups of customers in “fibrehoods” to pre-commit and pay a deposite, and then start building - other deployers don’t get to do this sort of thing.
+The FTTH Council reckons the UAE has the world’s highest penetration of fibre to the home, 85%, helped by high density, a small population, and the fact that so many buildings are new. It’s just a pity all the websites are censored.
+Community broadband builders B4RN turn up a new gigabit deployment, and BT immediately promises to deploy FTTH.
+Here’s a sceptical look into BT’s numbers for FTTC passes. The Welsh government is auditing its version of BDUK. 
+TalkTalk offers very cheap DSL. BT is deploying WiFi into HSBC Bank branches. 
+And finally, here’s the app that knows where you can get onto the public, but often obstructed, beaches of Malibu
+Posted at 11:46 AM | Link to this article
+
+
+                                    (To prevent spam, all comments need to be approved by the Telco 2.0 team before appearing. Thanks for waiting.)
+                                 
+
+Name:
+
+
+
+Email Address:
+
+
+
+URL:
+
+
+
+
+                                          Remember personal info?
+
+
+Comments: (you may use HTML tags for style)
+

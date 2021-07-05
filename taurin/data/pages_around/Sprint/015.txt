@@ -1,0 +1,199 @@
+##LINK: https://www.geekwire.com/2018/interview-verizon-ceo-lowell-mcadam-on-5g-wireless-t-mobile-sprint-and-net-neutrality/
+##KEYWORDS: net neutrality
+##TITLE: Q&A: Verizon CEO Lowell McAdam on 5G wireless, T-Mobile/Sprint, net neutrality and acquisitions - GeekWire
+##METHOD: article 5
+
+
+
+ 
+ 
+ 
+ Q&A: Verizon CEO Lowell McAdam on 5G wireless, T-Mobile/Sprint, net neutrality and acquisitions 
+ by  Todd Bishop  on  May 4, 2018 at 8:11 am May 4, 2018 at 8:25 am 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Share  21 
+  Tweet 
+  Share 
+  Reddit 
+  Email 
+ 
+ 
+ 
+ 
+ Watch the 2021 GeekWire Awards 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Verizon CEO Lowell McAdam in the Seattle region this week. (GeekWire Photo / Todd Bishop) 
+ Verizon Communications held its annual shareholder meeting Thursday morning south of Seattle, in Renton, Wash. Why Renton? That’s one of the questions GeekWire asked Verizon Chairman and CEO Lowell McAdam during a one-on-one interview with the leader of the telecommunications giant. 
+ Our discussion, in a conference room overlooking Lake Washington, covered the waterfront in terms of issues facing Verizon and the broader tech and telecom industries — including this week’s big wireless news, the proposed merger of Verizon Wireless competitors T-Mobile and Sprint.  McAdam’s comments  on that topic  made news , but we also talked about many other subjects, including the coming wave of 5G wireless coverage, net neutrality, the U.S. regulatory environment, acquisitions and the state of Verizon’s TV ambitions. 
+ Continue reading for edited excerpts from the interview. 
+ GW: How did you end up here in Renton for your annual meeting? 
+ Lowell McAdam:   We move the meeting around the country for a couple of reasons. We’ve got partners and obviously investors and customers and employees all over the US. We haven’t taken it overseas yet. But what I like to do is get out and have our employees be exposed to the directors and the process. We have meetings with the Microsofts and the Amazons frequently, and we do that while we’re here. There’s lots of big customers in the area. 
+ We’re partners with Starbucks on a number of things, and I’ll meet with (Starbucks CEO) Kevin (Johnson) tonight and talk to him about that. It’s a perfect way for us to remind ourselves that we’re national and becoming more and more global, and expose the employees to the process. We think it’s part of the culture of the company. 
+ GW: Based on  your shareholder letter , 5G is clearly where you’re putting the stake in the ground in the future. What are you going to tell shareholders here about the status of 5G and any changes in your outlook on when it could come? 
+ Lowell McAdam:  If you’ve followed us, we have been the ones that have been really pushing 5G for the last couple of years. And frankly, we were the only ones in the US that thought that we could be where we are today. We partnered with Korea Telecom and Nokia and Ericsson and Samsung to really push the standard. 
+  The bottom line for me is, [5G] is the fourth industrial revolution. I’ve been in this business since the early ’80s, and this will be the biggest change in the way people live their lives that I’ve seen in my career. 
+ We had to create our own standard, and then the standards bodies caught up, and now there is a global standard. So we pushed this very hard and we put a stake in the ground that we wanted to launch markets by the end of ’18, and we’re on pace to do that. We’ve announced one city, Sacramento. We have the others ready to announce, but we want to make sure that we get the equipment in and the fiber installed and that sort of thing, so we will be announcing more of them over the next several months. 
+ But we’ve made great progress. We have exploded the myth about 5G. If you look back two years ago, people said — and some of them are still saying it, by the way, and we’re happy that they are, because that means they’ve missed the boat. They’re saying things like, it has to be line of sight. It doesn’t. [ Massive MIMO ] antenna technology has exponentially shifted the performance, so it doesn’t have to be line of sight anymore. The myth was 200 feet was as far as you would be able to do millimeter wave transmission. We’re designing at 2,000 feet now, and we think it’s going to go even farther than that. So we are on track with what we have said. 
+ We’re on track with an extremely aggressive cycle and I think there’s going to be some very, very positive surprises, because you can see the bandwagon starting to build and people are beginning to build applications for 5G. The bottom line for me is, this is the fourth industrial revolution. I’ve been in this business since the early ’80s, and this will be the biggest change in the way people live their lives that I’ve seen in my career. And remember, there wasn’t a cellphone when I started, let alone a smartphone. 
+ GW: What’s your favorite example of how 5G will change things? 
+ McAdam:  This one demonstrates a lot of the different capabilities, in healthcare. Today you can do a video consultation. Tomorrow you will be able to do a complete examination, all the way to remote surgery on someone. If you think about it, if you have a particular illness and you have to have a specialist in New York City, as an example, do the work. … Today it takes about 200 milliseconds to go from the handset to the cell site. It’ll be less than a millisecond. It’s less than it takes you to blink you eyes, so think about 200 times that versus one millisecond. So you can take a robotic hand here and move it and feel like you’re touching someone that’s all the way across the country. That’s one of my favorite applications. 
+ The other one that probably resonates with people more is we talk about autonomous cars. You can’t do autonomous cars without 5G. A car going down the road at 70 miles an hour. If you think about 200 milliseconds of delay and you’re way down the road, you’re not going to be able to avoid accidents. The integration of the street lights and the cameras so that you can anticipate what’s coming with the artificial intelligence that’s being developed now, you can get all of that to the car or to your Garmin device or your phone or whatever so quickly that you’ll be able to avoid accidents that you couldn’t avoid before. There’s a bunch of examples like that, but those are just two. 
+ GW: There was a big wrinkle in the wireless industry in the US over the weekend with the proposed merger of T-Mobile and Sprint. Do you believe that that merger should be allowed to proceed? 
+ McAdam:  Well, we don’t care, is the answer to that. Maybe the fourth time is the charm here. I don’t know. But we’ve been … In the areas like 5G, we’ve been pushing forward with that strategy. I don’t think that merger matters from a 5G perspective. We’re going to do it regardless, and we’re way ahead of everybody. We’ve made all the investments that are required and fiber and millimeter wave spectrum and those sorts of things. 
+ I’ve been in the business a long time. I’ve worked in Europe and Japan and Korea, where you have two big carriers all the way to eight carriers competing. I think the US has always been a competitive market. Competition will probably be different if they’re together, but it’s still going to be a very competitive market, so we don’t care. It’ll take them two years, a year of approval and a year of integration, before they’re pointed into the wind, if you will, and we’re going to make the most out of those two years. 
+ GW: What impact would consolidation have on prices? Would it make you less likely to make price cuts? 
+ McAdam : No. I don’t think so. This era that we’re about to go into is going to be all about applications. A market that is just doing voice or data, you have two variables. We’re going to have 10 different variables. How many devices do you want to connect to the network? What sort of latency do you want to have? What sort of through put do you want to have? We’ll be customizing the network for specific applications, so I think this is not going to be a competition on price as much as it’s going to be a competition on capability, and it’ll be capabilities that customers really want. That’s where the competitive environment is going to shift to. 
+ GW: Who are the competitors going to be in five years? 
+ McAdam:  That’s a very good question. … We partner with the cable companies and we compete with the cable companies. We partner with Apple and in some ways we compete with Apple, and the same thing with Google. So there are so many players. I mean Facebook is a competitor to us now. We’re involved in the ad business with Oath. I think to look at this market as a Sprint/T-Mobile versus AT&T versus Verizon is kind of silly. I mean it’s far more dynamic and far more interesting, frankly, than that. 
+ GW: I can almost see T-Mobile headquarters from here. I don’t know if you planned it that way. 
+ McAdam:  Is that where the hot air is coming out of? 
+ GW: I’ve got to ask you, I’m sure for some folks (T-Mobile CEO) John Legere is entertaining. What’s your opinion of him? 
+  You can either be a celebrity or you can have your head down running your business. I choose to be the one that has my head down running the business. I think all this other stuff is a waste of energy, so I don’t pay any attention. 
+ McAdam:  Honestly, I don’t pay any attention. I’m not a big social network person. If you take a look, I don’t tweet. .. You can either be a celebrity or you can have your head down running your business. I choose to be the one that has my head down running the business. I think all this other stuff is a waste of energy, so I don’t pay any attention. He’s, I guess, made a bunch of sort of disparaging remarks over the years about (AT&T CEO) Randall Stephenson and me in particular. I couldn’t name one of them, and I don’t care. It doesn’t matter. 
+ GW: Have T-Mobile’s business practices and marketing tactics in particular changed at any point what you’ve done, or forced you to do things you otherwise wouldn’t have? 
+ McAdam:  I think the answer to that has to be yes. I mean any time you have a competitor in the market. Things that AT&T has done has made us change. Things that we’ve done have made them change, so every carrier impacts the other. You survive in an ecosystem that has a lot of different inputs. Things that Apple has done, things that Google has done. … So the answer is yes. I think from that perspective, if you look at where T-Mobile was five years ago versus where they are today, you have to say they’ve done some things right. But we feel pretty good that we’ve done a lot of things right, too, and we continue to lead the industry, and we’re going to make sure we continue to do that. 
+ GW: Last year you had some comments about acquiring a cable company and then you revised those in January of this year. Where are you now on the acquisition front? 
+ McAdam:  We like what we have. We talked about cable companies as a way to accelerate 5G. If you look what happened since then, we went out and bought a lot of millimeter wave. We went out and did the big deals with Corning, the 36 million miles of fiber. We’re now working with the cities, and you see states passing laws to help us get fiber infrastructure in the ground faster and modernize it. So the need for that has kind of moved forward. We’ve got the assets we need and we’re getting the public/private partnerships set up with the big municipalities. Kirkland and Spokane are great examples in the Washington area. So we’re moving very quickly, and we see partnerships emerging to deliver over the top TV services in addition to our mobility services. The beauty about being on the leading edge of technology is you have a lot of friends, and we’re in that phase right now, so we’re feeling very good. 
+ GW: Where do your TV plans stand currently? 
+ McAdam:  Well, we’ve said that we’re not going to expand FiOS in its current model. In the past we built a network for our enterprise group, a network for our wireless group, and a network for our land line TV. The new architecture that we’re building is multi-use. The bits don’t care whether it’s a TV or it’s a voice circuit as you know. So we’re building these multi-purpose networks, and if you look at the traditional linear TV model, we’re not big fans of jumping into that pool. We could easily go out and buy a content company. We could easily go out and start buying up smaller or larger cable companies. We think the world is moving toward big pipes, which is the fiber, and then 5G providing gigabit and higher services to the enterprise and to the consumer. That’s where we’re headed, so purpose built networks and platforms that can’t be modified to do that gigabit delivery in a very cost effective way are going to be under tremendous pressure going forward. 
+ GW: So for now no plans to acquire Charter? 
+ McAdam:  No. 
+ GW: It’s been fascinating to watch  AT&T’s attempt to acquire Time Warner , because that is a  vertical integration , and here you’ve got T-Mobile and Sprint as a horizontal merger between competitors. How do you feel the regulatory environment is shaping up, and if AT&T and Time Warner is ultimately blocked by the judge as a vertical merger, could that set some precedent that would prevent you from doing the kinds of deals you want to do in the future? 
+ McAdam:  Sure. I think everybody is watching what Judge Leon does. No one would have questioned that it would have been approved a year ago. The regulatory environment right now in a lot of ways is moving in the right direction. The FCC is streamlining things like access to infrastructure, and however you feel about the Trump administration, at least from a business perspective we’re seeing more logic in the regulatory side. 
+ But mergers are very different. Every animal gets treated differently. We’re going to have to see what happens. I think the Disney/Fox deal … It’s going to be interesting to see how that plays out. The UK is about to make a decision around Sky. I think that will be used as a precedent. Once AT&T is done, Comcast is probably going to make up their mind  whether they jump into Fox/Disney or not , so you’re going to see the elephants moving around here. 
+ But our view is content and linear TV is not the future. If you’re going to play in content, you better be a really big content player. That’s not our strength, so we’re not going to jump into that pool. We’re not going to expand linear TV on our own. We’re all about big connectivity pipes and the applications … Some applications that support that. 
+ GW: When you look at the media side of your business, AOL, Oath, Yahoo, there’s been a huge discussion about privacy and the use of personal data over the past few months, driven by Facebook. How does that impact what you’re able to do and the value you’re able to provide to marketers and advertisers? 
+ McAdam : We’ve been pretty clear from the very beginning when we bought AOL and then bought Yahoo that we knew privacy was going to be very important, and we make it very transparent to customers where we use data and where we don’t, and we don’t sell data to other people. Our view is if we can use the data to provide our customer an even better service, and by that I mean we provide it, not somebody else, and we tell them how we’re going to use it, to make recommendations and that sort of thing, and then let people opt in or opt out of it. If we’re very transparent about it, then we can give them the best service. 
+ But we know that that can be a competitive advantage, to protect people’s privacy, so we’re going to be using that. We use it today and we’re going to be using it even more as we go forward. 
+ GW: On this topic of net neutrality, Washington state has been at the forefront in forging a state’s solution to replace what the FCC repealed. I know Verizon has asked the FCC to override what the states are doing. Where are you on that? 
+ McAdam:  I want to be clear, because with a big company that operates around the world or operates across the country, the more consistency you have the better you can provide customers services. Just as an example, in the healthcare area one thing that will hold us back, our 5G example, is the ability to transmit records across state boundaries. So today every state has their own rules, and it really holds back your ability to provide customers valuable services that they would want. So our view with the FCC is to try the states aligned as much as you can. We’re very happy with the Washington bill. 
+ GW: Really? 
+ McAdam : We really are. 
+ GW: That surprises me. Why? 
+ McAdam : If you go back and look at the statements that we have made about net neutrality on our website for everyone to see, there isn’t one thing in the Washington bill that would make us change the way we do business. We have always said we’re never going to block your access to a website, we’re never going to provide paid prioritization. We’re doing just normal network management services. If that became the law of the land, Verizon would just sit here and say it’s about time you caught up. We’ve been there for five years. 
+ We would just love it to be consistent. Washington is the first. Okay, well now California wants to show that they can be tougher, and then another state, and then as a carrier that’s trying to provide consistent service for a consumer, that does become difficult. So that’s the only concern we have. 
+ PREVIOUSLY:  Verizon CEO brushes off T-Mobile’s Sprint merger: ‘We don’t care, is the answer to that’   
+ 
+ Todd Bishop is GeekWire's co-founder , a longtime business and technology journalist who covers topics including Amazon, Microsoft, startups, AI, the cloud and health tech, and  hosts GeekWire's weekly podcast . Follow him  @toddbishop .   
+  Share  21 
+  Tweet 
+  Share 
+  Reddit 
+  Email 
+ 
+ 
+ 
+ 
+ Previous Story Welcome to Holodome, Paul Allen’s beautiful first step into the future of shared immersive reality   
+ 
+ Next Story Police body cam maker Axon buys Vievu, ending competition between rivals   
+ 
+  Filed Under:  Tech    Tagged With:  5G  •  Lowell McAdam  •  Sprint  •  Verizon 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GeekWire Newsletters 
+ 
+ Subscribe to GeekWire's free newsletters to catch every headline 
+ 
+ 
+ 
+ 
+ Email address 
+ 
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ GeekWire Daily  - Top headlines daily
+                                     
+ 
+ 
+ 
+ 
+ GeekWire Weekly  - Most-read stories of the week, delivered Sunday
+                                     
+ 
+ 
+ 
+ 
+ Breaking News Alerts  - Important news as it happens
+                                     
+ 
+ 
+ 
+ 
+ GeekWire Startups  - News, analysis, insights from the Pacific Northwest startup ecosystem, delivered Friday
+                                     
+ 
+ 
+ 
+ 
+ GeekWire Podcasts  — Weekly update with our latest audio episodes
+                                     
+ 
+ 
+ 
+ 
+ GeekWire Mid-week Update  — Most-read stories so far this week, delivered Wednesday
+                                     
+ 
+ 
+ 
+ 
+ GeekWire Local Deals  — Special offers for Pacific Northwest area readers
+                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Send Us a Tip 
+ Have a scoop that you'd like GeekWire to cover? Let us know. 
+ 
+ Send Us a Tip 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

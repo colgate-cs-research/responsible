@@ -1,0 +1,30 @@
+##LINK: https://www.nluug.nl/events/nj11/index.html
+##KEYWORDS: open Internet
+##TITLE: Networking: IPv6 en de restâ¦
+##METHOD: paragraphs
+
+In de dagelijkse realiteit zijn netwerken bijna niet meer weg
+te denken. Onze levens zijn in hoge mate veranderd door communicatie
+technieken. Browsen, pinnen of mobiel bellen zouden niet mogelijk zijn
+zonder netwerken. Ons moderne leven wordt in hoog tempo steeds verder
+afhankelijk van snelle, maar bovenal betrouwbare, netwerken.
+Beschikbaarheid, betrouwbaarheid en groei zullen een steeds grotere
+rol in het ontwerp en beheer van onze netwerken in gaan nemen. IPv6,
+DNSSec, Next-Generation Firewalls en 4G zijn slechts een aantal
+voorbeelden van de grote veranderingen die ons de komende jaren te
+wachten staan op het gebied van netwerken.
+De keynote "IPv6 -- Open Internet for Open Source" zal gegeven worden door
+Owen DeLong CTO van Hurricane Electric, de grootste IPv6-provider van de VS. Maar ook de rest van de lezingen mag er zijn. Er zal
+uitgebreid aandacht zijn voor IPv6 maar ook andere thema's komen aan bod.
+
+
+Sponsors:
+
+
+
+
+
+
+
+Media-sponsors:
+

@@ -1,0 +1,80 @@
+##LINK: https://gamingbolt.com/xbox-one-list-of-errors-fixes-update-issues-install-times-bricking-green-screen
+##KEYWORDS: open Internet
+##TITLE: Xbox One: List of Errors & Fixes, Update Issues, Install Times, Bricking & Green Screen
+##METHOD: paragraphs
+
+Posted By Rashid Sayed | On 22nd, Nov. 2013
+This is a complete guide for the Xbox One. Just like with every other consumer electronic products, Microsoft’s Xbox One is also facing a few errors and issues. In this guide you will be able to find the list of errors and fixes, upgrading your HDD, disc drive issues, Xbox One bricking, Xbox One does not start/boot/hangs, Xbox One Green signal of death, Kinect not working, Xbox One getting hanged, slow install times of games, switching cross game party system, Ban after using Emergency offline update, getting Xbox One MAC address, ban after Emergency offline update [EOU], slow & laggy UI, controller disconnection issue and more.
+Please be advised that the following methods are to be used at the sole discretion of the platform owner. GamingBolt or its staff members take no responsibility for problems that may arise or issues that may occur from trying the below. Always remember that official support is always the best support.
+How to replace or upgrade your Xbox One hard drive: [Warning: You will be voiding your warranty since Microsoft does not officially supports replacing the hard drive yet]
+You need to make sure that the your hard drive fulfills the following specifications [credit Ifixit Xbox One Tear down]:
+Once you have the desired hard disk, it’s time to replace it with the one inside the box. The video guide below will show you how it needs to be done.
+Error Codes:
+Error Code 8b050033: Update not available.
+This code indicates that the Xbox One needs an update but it is not currently available. This is mostly a server issues and your best bet is to try again later.
+Error Code E101 xxxxxxxx xxxxxxxx: Emergency Offline Update Issue
+This happens when there was an error when you tried to perform an  emergency offline update. You need to contact your local Xbox Support for this issue.
+Error Code E100 xxxxxxxx xxxxxxxx: Hardware Issue
+Your Xbox One hardware has been damaged while updating. You would need to submit your console for repair. Contact your local Xbox Support for this issue.
+This error might also cause your Xbox One to get bricked.
+Error Codes 80072xxx, 87ddxxxx, 8007019x, 8019019x: Network Issues
+You need to check your internet connection for this error. If you are using a wireless connection, check if the connection is alright. If that does not work you need to have a wired connection. Even if this method does not work, you then need to select ‘Start Update’ again, if you see the error again, press the Xbox button on the front of the console for 5 seconds. The console will shut down.  Unplug the power cord for 30 seconds. This will reset the console’s cache. Turn up your Xbox One again and select ‘Start Update’. If this does not work you need to contact your local Xbox support.
+Error Code E203 xxxxxxxx xxxxxxxx
+There are no details on this error. Your best course of action is to contact your local Xbox support.
+Error Code E200 00000116 00000000
+This might happen after you are done installing the game. You might need to uninstall the game and turn off the router. Install the game and turn on the router and try again.
+Error Code 8000001f
+This error pops up when Xbox One SmartGlass on Android won’t connect. You might need to connect both devices on the same network.
+Error Code 0x87DD0006
+This error is due to sign in issues. This error might resolve on its own as it seems to be related to the Xbox Live servers.
+Problem while updating the Xbox One:
+Some users might face issues while updating the Xbox One. Following the steps below might help you out:
+Disc Drive Issues:
+Positioning your Xbox One vertically is not the correct way. You need to place it horizontally. Placing it vertically may damage its Disc Drive.  If you have already damaged your Xbox One’s disc drive then we suggest contacting your local Xbox One support.
+Slow Install Times For Games:
+If your Xbox One games are taking a lot of time to install then you need to be patient. Don’t remove the disc and instead stop the install first. After stopping the install, remove the disc, shut down your Xbox One completely, unplug the console. This will make sure that the console’s cache is cleared. Turn on the console and try installing the disc again.
+Here is another method for game installs stuck at 0%:
+Hanging Load Screen:
+This is a normal loading screen but it some cases the screen may remain there forever. You need to be patient as the Xbox One is still working.
+Kinect not working:
+If it still does not work, you need to check out with support.
+How do I find the MAC address of the Xbox One:
+ Xbox One reboots/restarts:
+Certain players might experience Xbox One restarting when playing a game.
+If issue persists please contact Xbox support.
+Cross Game Party System is off by default, here is how you can switched it on:
+The Xbox One controller may not be turned on after initial update:
+Switch off the Xbox One and turn it on.
+Ban after using Emergency offline update:
+The emergency offline update is not ready yet. If you install it by mistake your Xbox One might get banned. Hopefully Microsoft will fix it soon. Unfortunately, a user got banned and has shared his experience below.
+Xbox One Dashboard Tiles Images Not Loading:
+It might happen that the images on Xbox One’s Dashboard Tiles won’t load. In order to fix the issue, follow the steps below:
+Note: This works with British Telecom in UK. And this solution may or may not vary for different Internet Service Providers.
+Green Screen of Death
+Many users are reporting that they are getting a ‘Green screen of death’ wherein the Xbox One just hangs on the screen with its logo.  Some users have escaped by simply switching off the consoles off and then turning it on. Unfortunately there is no official word from Microsoft on this. However there are a couple of things you can consider in order to avoid this:
+Xbox One controller disconnection issues:
+For users facing frequent Xbox One controller disconnection issues, follow the steps below:
+Xbox One Slow/Laggy UI:
+This happens due to a memory dump issue. You can temporary fix it by holding the power button for 10 seconds.
+This guide was last updated on 31st December 2013.
+Note: This guide will updated once we have more information.
+Follow us:
+Publisher:Bethesda Softworks
+Developer:Arkane Studios
+Platforms:Xbox Series X, PC
+View More
+Publisher:Microsoft
+Developer:Playground Games
+Platforms:Xbox Series X, Xbox One, PC
+View More
+Publisher:EA Sports
+Developer:Codemasters
+Platforms:PC, PS4, PS5, Xbox One, Xbox Series X
+View More
+Players will be able to buy PSP games, but no longer be able to purchase content for the PSP through the in-ga... 
+The first entry in Nintendo's new interview series, known as Ask the Developer, focuses on the recent Game Bui... 
+PlayerWON has recently announced what might be the first in a line of a multitude of partnerships for it's in-... 
+A new update for Mario Kart Live: Home Circuit adds a brand-new Mario cup and a trio of new race courses, maki... 
+id Software took to Twitter to announce the cancellation of the upcoming Invasion Mode for DOOM Eternal, and a... 
+A new commercial trailer for The Legend of Zelda: Skyward Sword HD surfaces, giving a brief look at the upcomi... 
+View More 

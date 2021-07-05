@@ -1,0 +1,55 @@
+##LINK: https://www.publicknowledge.org/blog/sorry-att-title-ii-would-not-require-paid-prioritization/
+##KEYWORDS: paid prioritization
+##TITLE: Sorry AT&T, Title II Would Not “Require” Paid Prioritization. | Public Knowledge : Public Knowledge
+##METHOD: article 1
+
+
+
+ 
+ Post 
+ 
+ 
+							Sorry AT&T, Title II Would Not “Require” Paid Prioritization.						 
+ 
+ 
+ 
+		By					 
+ 
+				Harold Feld			 
+				 
+	 
+ 
+ 
+ October 8, 2010 
+ AT&T ,  Broadband ,  FCC ,  Network Neutrality ,  Wireline 
+ 
+ 
+ 
+ 
+ AT&T has raised a bit of buzz recently with  claims from their policy folks  that under Title II, AT&T could still do paid prioritization (aka “fast lanes,” “toll lanes,” or, as I like to call it in honor of the man who so clearly laid out the concept “ Whitacre Tiering ” — but that one sadly never caught on). The implication of these recent statements apparently being that (a) Title II is therefore sooooooo not worth it; and, (b) the demand by whacky-crazy-socialist-radicals to prohibit paid prioritization is just more whacky-crazy-radical-socialist stuff, so pay it no mind. 
+ One might ask, if so, why AT&T has invested so much money in demonizing Title II when it supposedly would  require  the Federal Communications Commission (FCC) to allow paid prioritization, but I digress. Instead, let’s play stupid fun lawyer games and try some legal analysis. Ooooooohhhh!!! I love that game! It makes me all nostalgic for a time when we actually filed pleading at the FCC and debated these issues before agencies in a public record rather then in blogs (which tells you how pathetically old I am). Besides, all kidding aside, debating actual law and precedent with with some of the other lawyer types willing to play law games is one of the few intellectual pleasures remaining to me in Policyland these days, given the way this usually degrades to blah blah Socialist blah blah. Heck, I may even see  some substantive reply . 
+ My short answer is that while Title II would  allow  the FCC to permit paid prioritization, in a non-discriminatory manner, it does not  compel  the FCC to permit paid prioritization. Further, while Title II would not require the FCC to prohibit paid prioritization, it would give the FCC authority to prohibit paid prioritization. Indeed, I first addressed this  back when FCC Chairman Julius Genachowski announced his “3rd Way” proposal . At this point, the more results oriented can skip directly to the comments to tell me how socialist stupid I am, or describe how evil AT&T is (depending on your preference). Those interested in a little law and policy, read on. 
+ Who Has Better Precedent? And How Do You Tell? 
+ The actual statute, Sec.  201  and  202  of the Communications Act of 1934, as amended, delegate broad power to the FCC to determine whether any rates, practices, or discrimination are “unjust” or “unreasonable.” AT&T Senior VP Bob Quinn, in  this blog post , argues that because the FCC has found that “Quality of Service” (QoS) guarantees are permissible, the FCC would have no choice but to permit paid prioritization. Quinn cites a few examples (sadly, no legal cites, but it is only a blog post after all), concluding that: “I have never seen a circumstance where the FCC prohibited any carrier, dominant or otherwise, from providing customers the option of purchasing a higher quality of service.” 
+ The problem with this argument is that for precedent to bind the agency, it has to be applicable.  i.e.  The matter in front of the agency has to be exactly like the previous matter decided in every relevant way. The greater the difference between the precedent cited and the facts of the specific case, the more the precedent in question is merely informative of a general principle rather than binding. So the best AT&T can do, unless it finds a case sufficiently identical to broadband access provided to residential customers, is argue that the FCC has authority and ought to follow the same precedent. Meanwhile, those arguing for a different rule, such as PK, will cite other precedents where the FCC said practices were inherently unjust or unreasonable and flat out banned them. We will then argue that our precedents are the obviously relevant ones and the AT&T ones are not relevant or are “distinguishable” (which is lawyer talk for saying “close, but not quite”). 
+ For example, just because AT&T calls something a “quality of service guarantee” or a “higher level of service” does not magically make it so. The agency must determine whether the described “quality of service guarantee” is just a code word for an unreasonable or discriminatory practice. If this were not the case, the law banning unreasonable or discriminatory practices would have no meaning. 
+ Lets apply this to existing services clearly covered by Title II. Verizon offers me a choice of two Title II voice services on my landline, analog voice and digital voice. Digital voice is a higher level of service and costs more, in that ( Verizon tells me ) the sound quality is better and it comes with many more exciting features. That’s clearly a “higher level of service” in the same way that buying a 5 mbps down pipe is a “higher level of service” than buying a 1 mbps down pipe, and Verizon may properly charge me more for it. That hardly counts as precedent for Verizon to start selling me Domino’s Pizza “priority service” so that my calls to them go through 100% of the time crystal clear, while my calls to Joe’s Local Pizzeria drop on occasion and when they go through, the line has all kinds of annoying static. Similarly, it doesn’t count as precedent for AT&T selling me super swift access to Hulu while (comparatively) degrading my access to Youtube — whether they are charging me, charging Hulu, or charging both of us the “QoS fee.” 
+ Meanwhile, I can cite plenty of precedent for cases where the FCC has prohibited carriers (dominant or otherwise) from engaging in a particular practice as inherently unreasonable. Two familiar to most readers come immediately to mind. In the  Carterfone case , the FCC found that prohibiting a device that did not harm the network from attaching to the network was inherently unreasonable. No, a carrier could not sell an improved service that let devices connect “better.” Any discrimination among devices that did not harm the network was absolutely verboten. Similarly, in the FCC’s  Computer II Proceeding , the FCC held that it would not allow carriers to offer “enhanced services” (the precursor to information services) directly. Why? Because that would make it effectively impossible for the FCC to monitor whether the carrier was favoring its own services over rivals and would make enforcement impossible. So the FCC required any carrier wanting to offer enhanced services to do so through a separate affiliate. In other words, because the FCC decided it was inherently impossible for it to determine if a carrier would be engaging in unjust and unreasonable discrimination by favoring itself, it completely prohibited carriers from offering the service directly to consumers. (Later, in Computer III and subsequent proceedings, the FCC relaxed this rule because carriers promised, with great big cross-your-heart pinkie swears, to play fair. As we all know, this worked so well the FCC ultimately decided to eliminate all the protections for competitors, which is why we have such a robust and independent ISP market to this day.) 
+ So under Title II, the FCC has to decide what precedents are relevant – and whether they make sense to apply today. Because even if a precedent is relevant, the agency always has the ability to say “yeah, that was the right answer when we decided it, but we think we’d be better off with a different answer here for the following reasons.” (Mind you, AT&T doesn’t agree with me on that one either; as evidenced by our fights on ‘when the FCC gets to change its mind’ in the underlying battle over whether the FCC can reclassify broadband access service back from Title I to Title II.) 
+ The Morning After The FCC Reclassifies 
+ So lets pretend we’re living now in the happy land where Genachowski has reclassified broadband access as a Title II service and the FCC is now trying to decide what actual rule to adopt for network neutrality. AT&T will show up with its precedents and say “Yo! FCC! See all these precedents? That means you need to let me do paid prioritization.” And I will show up and say “Yo, FCC, AT&T’s precedents are not in the least relevant to the actual technology or market situation applicable here. My precedents, requiring a complete ban on paid prioritization as inherently unfair and/or too hard to monitor for fairness are much more relevant. And besides, allowing paid prioritization would be bad policy.” (I expect to have more of them if we ever reach that point. Remember, this is a blog post.) Bob Quinn and his buddies, being good lawyers, will come back and reply: “Harold is so wrong. Not only are our precedents directly applicable and relevant, but his are utterly irrelevant and totally not applicable. And besides, Harold’s rule would be bad policy.” And we’ll go back and forth and eventually the FCC will make a decision, one of us will lose and will file an appeal, where we will get to argue whether the FCC did a good job and explained itself in a coherent way given the deference the court is supposed to show the agency. Unless the DC Circuit gets ahold of it, in which case they will just ask which side AT&T is on and go with them. 
+ So the bottom line is that when AT&T says that Title II does not prevent the FCC from allowing paid prioritization – they’re right. The FCC has a lot of discretion. But when AT&T says that under Title II the FCC must allow paid prioritization, they are dead wrong. No doubt, being good advocates, they think the same for me. Personally, I hope we get a chance to find out which one of us is right – after the FCC reclassifies broadband access as Title II. 
+ 
+ 
+ Harold Feld   
+ 
+ 
+ 
+ About Harold Feld 
+ 
+ 
+								Harold Feld is Public Knowledge’s Senior Vice President and author of “The Case for the Digital Platform Act,” (Public Knowledge & Roosevelt Institute 2019) a guide on what government can do to preserve competition and empower individual users in the huge swath of our economy now referred to as “Big Tech.” Former FCC Chairman Tom Wheeler described this book as, “[...] a tour de force of the issues raised by the digital economy and internet capitalism.”
+
+For more than 20 years, Feld has practiced law at the intersection of technology, broadband, and media policy in both the private sector and in the public interest community. Feld has an undergraduate degree from Princeton University, a law degree from Boston University, and clerked for the D.C. Circuit Court of Appeals.
+
+Feld also writes “Tales of the Sausage Factory,” a progressive blog on media and telecom policy. In 2007, Illinois Senator Dick Durbin praised him and his blog for “[doing] a lot of great work helping people understand how FCC decisions affect people and communities on the ground.”							 

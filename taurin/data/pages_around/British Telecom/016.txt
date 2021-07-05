@@ -1,0 +1,22 @@
+##LINK: https://www.telecomramblings.com/2009/06/video-follies-in-the-uk/
+##KEYWORDS: net neutrality
+##TITLE: Video Follies in the UK | Telecom Ramblings
+##METHOD: paragraphs
+
+If you want a preview of what battles over net neutrality in the USA may evolve into, you need only look at the UK.  In a Financial Times article, British Telecom (NYSE:BT, news, filings) complains loudly about the demands caused by rising video usage.  As usual, thinkbroadband has good material on the subject.  While the BBC's iPlayer is the primary 'culprit', pretty much all sites specializing in video are now being deemed freeloaders.  BT wants them to pay for the extra costs, assessing some sort of licensing fee to deliver content to its customers.  What a mess that would be.
+As usual of course, the root of the problem is that BT and nearly all other providers overpromise.  They offer blazing speeds of 8Mbps or more, but they depend on the fact that you won't actually use it all.  In fact they depend on the fact that you won't use more than a small fraction of it.  It's almost comical how little they expect you to use.  Apparently BT Option 1's limit is 10Gb/month, less than 1% of the theoretical maximum usage at 8Mbps.  And when their assumptions turn out to be wrong, it's everyone else's fault.
+The freeloading argument isn't a new one of course, but of course all content providers already pay for access to the internet.  Sometimes it's via a CDN and sometimes it's via IP transit, but they already pay and they pay market prices just like everyone else.  BT even gets paid for it if it comes in over a transit connection, but of course most of it enters their network over unpaid peering connections which BT.  So the BBC pays for every bit the iPlayer sends to or receives from the internet, and it does so according to market prices.  The BBC's CDN and IP transit providers then have a peering or transit relationship with BT - also determined by the market.  And finally BT gets paid market prices for every bit it sends to and receives from its customers on both ends.  BT's problem is not the content providers.  BT's problem is that the prices it offers its customers (both consumers and peering/transit customers) somehow do not reflect the costs of its services.   
+To put it another way, they're demanding more money because their own business model is poorly designed.  It's not just BT, it's most last mile providers - both wireless and wireline - that must eventually face this problem.  If you promise people raw speed, depend implicitly on them rarely using it, and then call everyone freeloaders when your own assumptions turn out to be wrong...  guess whose fault that is?
+ If you haven't already, please take our Reader Survey! Just 3 questions to help us better understand who is reading Telecom Ramblings so we can serve you better!
+You may Log In to post a comment, or fill in the form to post anonymously.
+© 2008–2015 
+
+		Telecom Ramblings — 
+
+				
+		—
+				Sitemap  — 
+
+		Partners  — 
+
+		Privacy Policy

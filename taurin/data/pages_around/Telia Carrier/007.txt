@@ -1,0 +1,17 @@
+##LINK: https://datacenternews.asia/story/telia-carrier-selects-ciena-to-boost-european-capacity
+##KEYWORDS: open Internet
+##TITLE: Telia Carrier selects Ciena to boost European capacity
+##METHOD: paragraphs
+
+Telia Carrier has plans to increase capacity in its European footprint, thanks to a partnership with Ciena.
+Ciena will now supply a new Open Optical Line System (O-OLS) in Europe. The system will be deployed from the beginning of 2020 and will provide increased capacity across the European FLAP (Frankfurt, London, Amsterdam and Paris) markets, as well as linking-up additional key locations in the Telia Carrier network, to create a European Express Network.
+“The new O-OLS from Ciena provides great flexibility and scalability, enabling us to strengthen our European network within our core transport infrastructure as the demand for high-performance capacity services in this region continues to grow,” comments Telia Carrier chief executive officer Staffan Göjeryd.
+Telia Carrier will also deploy Ciena’s Waveserver transponders, powered by Wavelogic Ai and WaveLogic 5 Extreme coherent optics, which can be deployed not only in the new O-OLS in Europe, but also in other existing Line Systems in the Telia Carrier network, in both Europe and the United States.
+Telia Carrier says this arrangement further strengthens Telia Carrier’s position as one of the first Tier 1 operators to push for true openness and the ability to run alien wavelengths within its infrastructure on both sides of the Atlantic.
+“Europe is an important market for long-haul fiber connectivity so being able to deploy and maintain a scalable and adaptive network is key,” says Ciena EMEA vice president and general manager Jamie Jefferies.
+“Working with industry leaders like Telia Carrier supports our relentless pursuit of network innovation, enabling network providers to deliver richer, more connected experiences for their customers.”
+Telia Carrier was recently awarded the 2019 Best Wholesale Operator Award at the World Communication Awards.
+It is the seventh time Telia Carrier has taken home the award, demonstrating the company’s sustained focus on delivering industry-leading services and a first-rate customer experience.
+“We are immensely proud of this achievement, especially since delivering exceptional connectivity with premium customer experience is our main proposition,” comments Göjeryd.
+“Whilst customer centricity has always been part of our DNA, during recent years we have focused relentlessly on systematic improvements to our processes and tools - based directly on customer feedback. I believe this award is testament to our culture of continuous improvement and a fantastic team of people that put service and customer excellence at the forefront of everything they do.”
+The World Communication Awards (WCA) were established in 1999 to recognize excellence amongst global telecom operators. The WCA is organized by Total Telecom and its parent company Terrapinn.

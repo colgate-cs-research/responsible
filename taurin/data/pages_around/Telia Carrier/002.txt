@@ -1,0 +1,23 @@
+##LINK: https://www.teliacompany.com/en/news/news-articles/2017/podcasthow-the-internet-works/
+##KEYWORDS: net neutrality
+##TITLE: Podcast: How the internet works - Telia Company
+##METHOD: article 1
+
+
+
+ Podcast: How the internet works 
+ 
+ 
+ 2017-10-31 
+ 
+ The Fast Forward podcast looks under the hood of the internet and talks about pipes and cables, access and speed with one of the people who make the internet run. 
+ 
+ 
+ When your monthly internet quota has run out, you still can surf certain sites, but can’t access others. Why is that? 
+ One part of the answer is the tiered internet service – the setup where some companies own, maintain and develop enormous networks of fiber cable. They connect internet users and make the world go round. Celebrated tier 1 provider Telia Carrier owns and operates one of the world's most extensive fiber networks, 65 000 kilometers of cable from California to Russia, providing internet access to the largest content providers in the world. 
+ Why is the internet infrastructure planned this way? And what does it mean to the regular user? Fast Forward talks to one of the people who make the internet run for you, Mattias Fridström, Chief Evangelist at Telia Carrier. We also discuss interconnection in the context of net neutrality, the idea that providers should not discriminate one kind of content over another, with Erka Koivunen, Chief Information Security Officer at F-Secure. 
+ Like, listen, share and subscribe to “Fast Forward” Hosted by Swedish journalists Mattias Bergman and Andreas Utterström, Telia Company’s podcast “Fast Forward” describes and explores digitalization beyond the buzzwords. 
+ Iphone: Go to your Podcaster app, search for “Fast Forward”, click on the avatar and choose subscribe.  Link for desktop  https://itunes.apple.com/se/podcast/fast-forward/id1254388034?mt=2 
+ If you use the Acast app: Search for “Fast Forward” and subscribe. Link for desktop   
+ 
+ 

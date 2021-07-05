@@ -1,0 +1,36 @@
+##LINK: https://specure.com/german-supreme-administrative-court-bans-dts-stream-on-service-2/
+##KEYWORDS: net neutrality,zero-rating
+##TITLE: German Supreme Administrative Court bans DT’s Stream-On service - Specure GmbH
+##METHOD: article 1
+
+
+
+ 
+ 
+   
+ 
+ German Supreme Administrative Court bans DT’s Stream-On service   
+ 28. November 2019   by  Jozef Svrcek   
+ 
+ 
+ In mid-July, the German Supreme Administrative Court decided that the zero-rated offering of Deutsche Telekom – Stream-On – violates net neutrality principles. The operator has to either alter the offer or withdraw it from the market. 
+ 
+ Stream-On service is one of the many so-called zero-rated services introduced by several other operators in Europe, including DT’s subsidiaries. This is an add-on option available to customers of mobile tariffs who prefer a certain specific type of data services, e. g. video, music, games or archived TV content, for which the operator does not charge the data transfer. 
+ The zero rating has simultaneously raised concerns with several regulators after the adoption of the net neutrality principles in Europe. These require  inter alia  non-discriminatory handling of the data services by operators.  
+ Although there is this general rule, as it happens the devil is in details. In case of Deutsche Telekom, the problem was that in some tariffs the operator throttled the data traffic, so customers could watch a content on the go only in the lower resolution (SD), reported Die Zeit. Another issue was that the service was available exclusively within the country borders; when abroad the data transfer is charged extra on top of the subscription. 
+ At the end of 2017, the German regulator BNetzA forbade the operator to introduce the service in such form that would violate the net neutrality principles. Also the zero-rated offer should not violate the EU roaming rules, which as a rule do not allow operators to apply surcharges when the customer uses roaming services abroad within the EU. 
+ Telekom appealed, however it failed at the Administrative Court in Cologne. The rejection of Telekom’s complaint by the Supreme Administrative Court followed suit and the decision is final. 
+ Photo Copyright: Adobe Stock | David Carillet 
+ 
+ 
+ 
+ 
+ Categories  Blog ,  Nettest   
+ Post navigation 
+ 
+ 
+ Slovenians choose quadruple-play services 
+ 
+ Ofcom gives up 5G coverage obligations in revised auction proposal   
+ 
+ 

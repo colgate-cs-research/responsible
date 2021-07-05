@@ -1,0 +1,52 @@
+##LINK: https://www.aei.org/technology-and-innovation/telecommunications/zero-rating-narrowing-digital-divide-mobile-broadband-market/
+##KEYWORDS: zero-rating
+##TITLE: Zero rating: Narrowing the digital divide in the mobile broadband market | American Enterprise Institute - AEI
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog Post  
+ Zero rating: Narrowing the digital divide in the mobile broadband market 
+ 
+ AEIdeas 
+ 
+ 
+ 
+ Technology and Innovation Telecommunications   
+ 
+ 
+ 
+ 
+ Daniel Lyons 
+  @ProfDanielLyons   
+ 
+ January 12, 2015 
+ 
+ 
+ 
+ The tech policy world is once again atwitter about sponsored data and other initiatives that offer consumers free access to Internet-based content and services. Last week, Professor Susan Crawford  described  such arrangements as “pernicious,””dangerous,”and “malignant.”Our own Bret Swanson offered an excellent response  here  that counters many of Professor Crawford’s assertions. This post offers additional support for the seemingly obvious proposition that we should encourage initiatives that reduce the cost to consumers of accessing the goods and services they desire. 
+ Professor Crawford’s argument is premised on the notion that consumers need access to all Internet content at all times on all devices at the same price. But as she seems to acknowledge, this homogenized view of broadband access is increasingly at odds with how consumers are using the Internet. Internationally, numerous wireless carriers offer social media plans that include talk, text, and access to selected sites such as Facebook and Twitter for a lower price than a traditional data plan. These plans have proven incredibly popular: Turkcell, for example, reports that it sold 600,000 subscriptions to its Facebook social media package in the first four months alone, which it credits with helping spark an 820% increase in mobile Facebook use among the company’s customer base.  Other companies bundle wireless access with free streaming music. As we’ve discussed  before , Sprint and T-Mobile are moving to bring these innovative wireless products to US consumers as well. 
+ Any MBA student would recognize such offers as classic niche strategies that allow small carriers to satisfy consumer needs. Sprint and T-Mobile lack the scale and spectrum holdings they would need to compete head-on with Verizon and AT&T. Instead, each is introducing a differentiated product to appeal to customers who are not satisfied with traditional wireless broadband plans. Sprint’s social media plans target cost-conscious customers who want to access Facebook or Twitter on-the-go, but who are unwilling or unable to pay for full mobile Internet access. Similarly, T-Mobile’s streaming audio bundle appeals to heavy music consumers who would otherwise have to purchase larger data bundles or forego mobile music altogether on the larger carriers’ plans. A ban on zero-rated data would prevent carriers from creating differentiated offerings to fit niche consumers, ultimately eliminating a plane of competition among providers. Sprint and T-Mobile would go back to competing with the larger carriers solely on price and quality for a homogenized broadband product – which is a narrower competitive playing field tilted significantly against them. 
+ Crawford worries that zero rating can distort competition among edge providers, but this concern also misses the mark. Partnerships with carriers can help edge providers, especially startups, to gain market share and reduce the cost of delivering their products to consumers. They are the Internet-age equivalent of  coupons  or free shipping promotions.  Syntonic Wireless , which facilitates sponsored data access for edge providers through its Freeway app and Freeway SDK, counts among its clients both well-known services like Expedia and startups like BBA Studios. These agreements can help a company stand out among competitors and help new business models challenge existing titans. Co-blogger Roslyn Layton  notes  that in Denmark, each mobile operator offers a different streaming music bundle. These agreements reduce the consumer’s cost of streaming and leverage the carrier’s distribution platform and billing services, which has allowed streaming music to challenge traditional CDs and download services such as iTunes. Denmark’s first streaming music service was launched in 2008, but today the sector accounts for 63% of the nation’s recorded music revenue. 
+ But most importantly, zero-rated data plans benefit consumers. As  Bret’s post noted , sponsored data enhances the value of every wireless subscription. A nationwide promotion to zero-rate ESPN means my 1GB data plan now includes 1GB of data and also ESPN, at the same price. Differentiated offerings like Sprint’s proposed social media packages or T-Mobile’s streaming media service help niche consumers find a service better tailored to their needs. As noted above, Sprint has targeted customers who are willing to pay $12/month for mobile Facebook access but would prefer not to pay $60/month or more for a traditional wireless broadband plan – perhaps because they see such plans as largely redundant of services they already have at home or work. Eliminating this plan forces those customers to choose between two suboptimal choices: either pay a higher price to get services the customer is uninterested in purchasing, or go without the service the customer wants to buy. 
+ Zero-rated data and voice-plus plans can also help narrow the digital divide by reducing consumers’ Internet access costs. Offering a talk-plus-Facebook plan at a lower price will help get some consumers online who cannot afford the higher price of a traditional wireless broadband plan. One might think of it as the two-door coupe for those who cannot afford to buy a luxury sedan. While the luxury model may offer more bells and whistles, the coupe may be sufficient for a wide range of consumers. Removing the coupe from the marketplace would not assure everyone gets a luxury car; it would mean more people would be left without a car at all. In the developing world, where prepaid plans are the norm and few have traditional broadband access, zero-rated data offerings such as Facebook Zero have brought Internet-based services to even basic wireless customers at no cost. 
+ Ultimately, it is consumers who should command policymakers’ attention – not the hypothetical “next Facebook”about which Professor Crawford and others often fret. Like all vertical combinations, zero-rated data has the potential for anticompetitive abuse (which is a good reason not to  strip  the FTC of jurisdiction over broadband providers by reclassifying them under Title II). But most plans are procompetitive and reduce consumers’ costs of Internet access. As I’ve said before, we should encourage innovation that helps improve the way that consumers access the Internet-based content they desire – no matter where that innovation occurs in the Internet ecosystem. This post was originally published on TechPolicyDaily. 
+ 

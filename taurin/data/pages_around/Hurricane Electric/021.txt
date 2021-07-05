@@ -1,0 +1,427 @@
+##LINK: https://ipv6.rmutp.ac.th/
+##KEYWORDS: open Internet
+##TITLE: IPv6 @ Rajamangala University of Technology Phra Nakhon – Just another WordPress site
+##METHOD: article 11
+
+
+
+       
+ Posted on   May 16, 2012 May 17, 2012 World IPv6 Launch – The Future is Forever 6 JUNE 2012   
+ 
+ 
+   
+ 
+ 
+ World IPv6 Launch Solidifies Global Support for New Internet Protocol 
+ Top websites, Internet service providers, and home networking equipment manufacturers commit to largest transition in the Internet’s history 
+ [Washington, D.C., USA and Geneva, Switzerland] – 17 January 2012 – Major Internet service providers (ISPs), home networking equipment manufacturers, and web companies around the world are coming together to permanently enable IPv6 for their products and services by 6 June 2012. 
+ Organized by the Internet Society, and building on the successful one-day World IPv6 Day event held on 8 June 2011, World IPv6 Launch represents a major milestone in the global deployment of IPv6. As the successor to the current Internet Protocol, IPv4, IPv6 is critical to the Internet’s continued growth as a platform for innovation and economic development. 
+ “The fact that leading companies across several industries are making significant commitments to participate in World IPv6 Launch is yet another indication that IPv6 is no longer a lab experiment; it’s here and is an important next step in the Internet’s evolution,” commented Leslie Daigle, the Internet Society’s Chief Internet Technology Officer. 
+ “And, as there are more IPv6 services, it becomes increasingly important for companies to accelerate their own deployment plans.” 
+ ISPs participating in World IPv6 Launch will enable IPv6 for enough users so that at least 1% of their wireline residential subscribers who visit participating websites will do so using IPv6 by 6 June 2012. These ISPs have committed that IPv6 will be available automatically as the normal course of business for a significant portion of their subscribers. Committed ISPs are: 
+ ●      AT&T 
+ ●      Comcast 
+ ●      Free Telecom 
+ ●      Internode 
+ ●      KDDI 
+ ●      Time Warner Cable 
+ ●      XS4ALL 
+ Participating home networking equipment manufacturers will enable IPv6 by default through the range of their home router products by 6 June 2012. Committed equipment manufacturers are: 
+ ●      Cisco 
+ ●      D-Link 
+ Web companies participating in World IPv6 Launch will enable IPv6 on their main websites permanently beginning 6 June 2012. Inaugural participants are: 
+ ●      Facebook (www.facebook.com) 
+ ●      Google (www.google.com)    Official Google announcement 
+ ●      Microsoft Bing (www.bing.com) 
+ ●      Yahoo! (www.yahoo.com) 
+ Content delivery network providers Akamai and Limelight will be enabling their customers to join this list of participating websites by enabling IPv6 throughout their infrastructure. 
+ As IPv4 addresses become increasingly scarce, every segment of the industry must act quickly to accelerate full IPv6 adoption or risk increased costs and limited functionality online for Internet users everywhere. World IPv6 Launch participants are leading the way in this effort. 
+ For more information about World IPv6 Launch, products, and services covered, as well as links to useful information for users and information about how other companies may participate, visit: http://www.worldipv6launch.org 
+About the need for IPv6 
+ IPv4 has approximately four billion IP addresses (the sequence of numbers assigned to each Internet-connected device). The explosion in the number of people, devices, and web services on the Internet means that IPv4 is running out of space. IPv6, the next-generation Internet protocol which provides more than 340 trillion, trillion, trillion addresses, will connect the billions of people not connected today and will help ensure the Internet can continue its current growth rate indefinitely. 
+About the Internet Society 
+ The Internet Society is the world’s trusted independent source of leadership for Internet policy, technology standards and future development. Based on its principled vision and substantial technological foundation, the Internet Society works with its members and Chapters around the world to promote the continued evolution and growth of the open Internet through dialog among companies, governments, and other organizations around the world. For more information, see: www.internetsociety.org 
+ 
+
+
+ 
+ Posted on   May 16, 2012 May 17, 2012 Hurricane Electric IPv4 Exhaustion Counters   
+ 
+ ดาวน์โหลดข้อมูลสถิติ IPv4และIPv6ได้ที่นี่ 
+ iPhone / iPad / iPod Touch App 
+ Download: 
+ iOS App Store 
+Additional Notes: 
+Includes maps of Hurricane Electric locations and links to additional IPv6 resources. 
+ Android Application 
+ Download: 
+ Android Market 
+Additional Notes: 
+Includes maps of Hurricane Electric locations and links to additional IPv6 resources.\ 
+ Webpage Widget 
+Install: 
+Copy the following into your webpage: 
+ <script type=”text/javascript” src=”http://ipv6.he.net/v4ex/sidebar.js”></script> 
+ iGoogle Gadget 
+ Install: 
+ 
+ Google Desktop Gadget 
+ Download: 
+ Download for Google Desktop 
+ Windows Vista / 7 Gadget 
+ Download: 
+ Download for Windows Vista / 7 
+ Mac OS X Dashboard Widget 
+ Updated: Dec-10-2010 – v1.4 
+Download: 
+ Download Mac OS X Dashboard Widget 
+ 
+
+
+ 
+ Posted on   May 16, 2012 May 17, 2012 เมื่อไหร่เราจะต้องเริ่มใช้ IPv6   
+ 
+ 
+   
+ 
+ 
+ 
+ ความจริงแล้วส่วนประกอบหลักๆ ของโพรโตคอล IPv6 ได้ถูกกำหนดขึ้นเรียบร้อยและออกเป็น RFC (Request For Comments) 
+อย่างสมบูรณ์ตั้งแต่ปี ค.ศ. 1998 แล้ว ยังคงเหลือในส่วนความสามารถและคุณลักษณะปลีกย่อย เช่น การจัดสรรชุดหมายเลข IPv6 การ 
+ทำ multi-homing หรือการทำ network management ที่ยังต้องรอการกำหนดมาตรฐาน แต่ในส่วนนี้ไม่น่าจะทำให้เกิดการเปลี่ยน 
+แปลงในฮาร์ดแวร์ หรือ ซอฟท์แวร์มากนัก 
+ จะว่าไปแล้ว IPv6 ถูกเริ่มใช้มาเป็นเวลาหลายปีแล้ว เพียงแต่ไม่ได้ใช้กันอย่างแพร่หลาย ในต่างประเทศ เช่น เกาหลี และญี่ปุ่น ได้ 
+มีการใช้ IPv6 ในเครือข่าย ISP หลายแห่ง ในประเทศไทยยังไม่มีการใช้ IPv6 ในเชิงพาณิชย์ มีแต่ในเครือข่ายทดสอบของหน่วยงาน 
+วิจัยและมหาวิทยาลัยต่างๆ 
+ หากจะถามว่าเมื่อไหร่จึงจะต้องเริ่มใช้ IPv6 คำตอบนั้นขึ้นอยู่กับความจำเป็นในด้านต่างๆ ของผู้ใช้และผู้ให้บริการเอง ความจำเป็น 
+ประการแรกคือการขาดแคลนหมายเลข IP address สิ่งนี้น่าจะเป็นองค์ประกอบสำคัญสำหรับประเทศในเอเชียเช่น เกาหลี และญี่ปุ่น 
+ซึ่งมีจำนวนผู้ใช้อินเทอร์เน็ตสูงกว่าหมายเลข IPv4 address ที่ได้รับจัดสรรมาก สำหรับประเทศในทวีปอเมริกาเหนือ ความจำเป็น 
+ด้านนี้ยังไม่สูงมากเนื่องจากยังมีหมายเลข IPv4 address เหลืออยู่อีกเป็นจำนวนมาก ความจำเป็นประการที่สอง ได้แก่ ความต้องการ 
+บริการหรือแอพพลิเคชั่นชนิดใหม่ที่ต้องใช้หมายเลข IPv6 address ตัวอย่างเช่น การให้บริการโทรศัพท์เคลื่อนที่ยุคที่ 3 (Third 
+Generation Mobile Phone) หรือการใช้แอพพลิเคชั่นแบบ peer-to-peer อย่างไรก็ตาม ในส่วนของผู้ให้บริการ การรอจนกระทั่ง 
+ความจำเป็นดังกล่าวมาถึง โดยไม่ได้มีการวางแผนการปรับเปลี่ยนเครือข่ายล่วงหน้า อาจทำให้สิ้นเปลืองค่าใช้จ่ายและเสียโอกาสการ 
+แข่งขันทางธุรกิจได้ 
+ ที่มา : http://www.ipv6.nectec.or.th/faq.php#ans3 
+ 
+
+
+ 
+ Posted on   May 16, 2012 May 17, 2012 ไทยก้าวสู่เครือข่ายอินเตอร์เน็ตใหม่ IPv6   
+ 
+ 
+   
+ 
+ 
+ ประเทศไทยก้าวสู่ระบบเครือข่ายอินเตอร์เน็ตใหม่ IPv6 (Internet Protocal version 6)กระทรวงเทคโนโลยีสารสน เทศและการสื่อสาร (ไอซีที) ประกาศพาประเทศไทยก้าวเข้าสู่ IPv6 อย่างเป็นทางการในวันที่ 27 พ.ค. 54 โดย รศ.ดร.สินชัย กมลภิวงศ์ ภาควิชาวิศวกรรมคอมพิวเตอร์ มหาวิทยาลัยสงขลานครินทร์ รับตำแหน่งนายกสมาคม IPv6 ประเทศไทย แม้เรื่อง IPv6 (Internet Protocal version 6) หรือการระบุหมายเลขอินเทอร์เน็ต จะพูดกันมาราว 10 ปีว่าต้องเปลี่ยนผ่านการใช้งานจาก IPv4 สู่ IPv6 เนื่องจากการใช้งานเครือข่ายอินเทอร์เน็ตเชื่อมต่อกับอุปกรณ์อิเล็กทรอนิกส์มีการเติบโตและขยายตัวอย่างรวดเร็ว ส่งผลให้ปริมาณเลขหมาย IPv4 ซึ่งมีอยู่ประมาณ 4 พันล้านเลขหมายที่ใช้งานทั่วโลกหมดลง ดังนั้นถึงเวลาที่ต้องเปลี่ยนผ่านการใช้งานเข้าสู่ระบบใหม่ที่เรียกว่า IPv6 ที่รองรับการใช้งานได้มากกว่า IPv4 ถึง 2 ยกกำลัง 96 เท่า หากจะเปรียบให้เห็นภาพปริมาณเลขหมายของ IPv6 ว่ามีจำนวนมากมายเพียงใด ก็คงเทียบกับเม็ดทรายทุกเม็ดบนโลกสามารถเชื่อมต่ออินเทอร์เน็ตผ่าน IPv6 ได้ นอกจากนี้จุดเด่นของ IPv6 คือ รองรับการรับ-ส่งข้อมูล และดูข้อมูลมัลติมีเดียได้ดีกว่า IPv4 
+ สำหรับประเทศไทย กระทรวงเทคโนโลยีสารสน เทศและการสื่อสาร (ไอซีที) ประกาศพาประเทศไทยก้าวเข้าสู่ IPv6 อย่างเป็นทางการในวันที่ 27 พ.ค. 54 
+ นางจีราวรรณ บุญเพิ่ม ปลัดกระทรวงไอซีที กล่าวว่า การพาประเทศไทยก้าวสู่การใช้งาน IPv6 กระทรวงไอซีทีเตรียมการมาตั้งแต่ปี 2551 โดยตั้งคณะทำงานส่งเสริมนโยบาย IPv6 ซึ่งมีผู้แทนจากหลายภาคส่วนมาร่วมพิจารณาการดำเนินการใช้ IPv6 ของประเทศไทย โดยกำหนดแนวทางการดำเนินการเตรียมความพร้อมเครือข่าย IPv6 สำหรับภาครัฐเป็นการนำร่อง เริ่มจากงานด้านรัฐบาลอิเล็กทรอนิกส์ (e-Government) ด้วยโครงข่ายการเชื่อมโยงข้อมูลภาครัฐ (GIN) ของกระทรวงไอซีที ซึ่งมีสำนักงานรัฐบาลอิเล็กทรอนิกส์ (องค์การมหาชน) เป็นหน่วยงานรับผิดชอบ 
+ “การพาประเทศไทยก้าวเข้าสู่การใช้งาน IPv6 นี้ จะเริ่มที่โครงข่ายเชื่อมโยงข้อมูลภาครัฐ คาดว่าปี ค.ศ. 2015 จะใช้ IPv6 ได้ครอบคลุม” 
+ ตามแผนแม่บทเทคโนโลยีสารสน เทศและการสื่อสาร (ฉบับที่ 2) ของประเทศ ไทย พ.ศ. 2552-2556 ในส่วนของยุทธศาสตร์ที่ 3 การพัฒนาโครงสร้างพื้นฐานเทคโนโลยีสารสนเทศและการสื่อสาร ได้กำหนดให้เริ่มพิจารณาวางแผนการสร้างโครงข่ายการสื่อสารยุคใหม่ หรือ Next Generation Network : NGN รวมถึงองค์ประกอบสำหรับขยายขอบข่ายของบริการอินเทอร์เน็ตในปัจจุบันไปสู่บริการอินเทอร์เน็ตยุคใหม่ หรือ IPv6 ให้เป็นผลสำเร็จ ตลอดจนได้มีการวางแผนการใช้งาน IPv6 ในโครงการบรอดแบนด์แห่งชาติไว้ด้วย ซึ่งทั้งภาครัฐและภาคเอกชนได้เตรียมการเพื่อปรับเปลี่ยนไปสู่ IPv6 มาระยะหนึ่งแล้ว โดยเฉพาะอย่างยิ่งภาคเอกชน และองค์กรหลาย ๆ แห่งก็ได้มีการดำเนินการในเรื่องนี้ 
+ ดร.ศักดิ์ เสกขุนทด ผู้อำนวยการสำนักงานรัฐบาลอิเล็กทรอนิกส์ (องค์การมหาชน) กล่าวว่า สำหรับการนำร่อง IPv6 ในโครงข่ายเชื่อมโยงข้อมูลภาครัฐจะเริ่มที่การบริหารจัดการเลขหมาย IPv6 ในโครงข่าย และทดสอบการใช้งานร่วมกันระหว่าง IPv4 และ IPv6 รวมทั้งอบรมเจ้าหน้าที่ด้านไอทีของภาครัฐเพื่อให้เกิดความเข้าใจเกี่ยวกับ IPv6 ซึ่งปัจจุบันหน่วยงานภาครัฐมีเจ้าหน้าที่ด้านไอทีประมาณ 2-3 พันคน 
+ รศ.ดร.สินชัย กมลภิวงศ์ นายกสมาคม IPv6 ประเทศไทย กล่าวว่า ปริมาณเลขหมายอินเทอร์เน็ตของ IPv4 หมดแล้วตั้งแต่เดือน ก.พ. ที่ผ่านมา แต่การก้าวเข้าสู่การใช้งาน IPv6 อย่างเต็มรูปแบบของประเทศไทยคงต้องใช้เวลานับ 10 ปี ทว่าช่วงเปลี่ยนผ่านยังคงต้องใช้งานควบคู่กันไประหว่าง IPv4 และ IPv6 ซึ่งขณะนี้ประเทศที่มีการใช้งาน IPv6 อย่างสมบูรณ์แล้วคือ อเมริกา เกาหลี ไต้หวัน และประเทศแถบยุโรป ส่วนในประเทศแถบเอเชียตะวันออกเฉียงใต้ที่ก้าวสู่การใช้งาน IPv6 แล้ว คือ อินโดนีเซีย และสิงคโปร์ ส่วนไทยอยู่ในอันดับที่ 10 ของเอเชียในการเตรียมความพร้อมก้าวสู่ IPv6 
+ “การเปลี่ยนผ่านจาก IPv4 สู่ IPv6 ประชาชนผู้ใช้งานอินเทอร์เน็ตไม่สนใจว่าการเปลี่ยนผ่านจะเป็นอย่างไร เพียงขอให้ใช้งานได้ก็พอ หากแต่การเปลี่ยนผ่านจาก IPv4 สู่ IPv6 อาจทำให้การเข้าเว็บไซต์ต่าง ๆ ช้าลงบ้าง แต่ไม่กระทบอะไร” 
+ ทั้งนี้ ทั่วโลกกำหนดให้วันที่ 8 มิ.ย. 54 เป็นวัน World IPv6 DAY (เวิลด์ ไอพีวี6 เดย์) ที่ทั่วโลกพร้อมกันทดสอบการใช้งาน IPv6 เป็นระยะเวลา 24 ชั่วโมง ซึ่งทำการทดสอบและตรวจสอบการใช้งานร่วมกันระหว่าง IPv4 และ IPv6 สามารถดูรายละเอียดเพิ่มเติมได้ที่ http://isoc.org/wp/worldipv6day/ 
+ อยากร่วมเป็นส่วนหนึ่งของการทดสอบการใช้งานการเปลี่ยนผ่านจาก IPv4 สู่ IPv6 ดูรายละเอียดได้เลย. 
+ ทำไมไม่มี IPv5 
+ ตามมาตรฐานด้านอินเทอร์เน็ตโพรโตคอล จะมีการระบุส่วนที่เป็นรุ่นของ อินเทอร์เน็ตเวิร์ก เจเนรัล โพรโตคอล (Internetwork general protocol) ซึ่งเป็นเวอร์ชั่น เบอร์ 4 โดยถูกระบุให้เป็นอินเทอร์เน็ตโพรโตคอล ส่วนเวอร์ชั่น เบอร์ 5 ถูกนำไปใช้แล้วและระบุให้เป็น ST Datagram Mode (ST) เกี่ยวข้องกับ Internet Stream Protocol ดังนั้นในการพัฒนาอินเทอร์เน็ตโพรโตคอลรุ่นใหม่ จึงต้องใช้เวอร์ชั่น เบอร์ 6 หรือ IPv 6 
+ 
+ ที่มา : http://www.psu.ac.th/node/3321 
+ 
+
+
+ 
+ Posted on   May 16, 2012 May 17, 2012 IPv6 คืออะไร   
+ 
+ 
+   
+ 
+ 
+ IPv6 (Internet Protocol version 6) เป็นเวอร์ชันล่าสุดของ Internet Protocol และได้รวมผลิตภัณฑ์ที่สนับสนุน IP มาเป็นส่วนหนึ่งด้วย รวมถึงระบบปฏิบัติการหลัก IPv6 ได้รับการเรียกว่า “IPng” (IP Next Generation) โดยปกติ IPv6 เป็นกลุ่มของข้อกำหนดจาก Internet Engineering Task Force (IETF) โดย IPv6 ได้รับการออกแบบให้ปฏิรูปกลุ่มของการปรับปรุง IP เวอร์ชัน 4 โดย host ของเครือข่ายและ node แบบ intermediate ซึ่ง IPv4 หรือ IPv6 สามารถดูแลแพ็คเกตของ IP เวอร์ชันอื่น ผู้ใช้และผู้ให้บริการสามารถปรับรุ่นเป็น IPv6 โดยอิสระ 
+ การปรับปรุงที่ชัดเจนของ IPv6 คือความยาวของ IP address เปลี่ยนจาก 32 เป็น 128 การขยายดังกล่าวเพื่อรองรับการขยายของอินเตอร์เน็ต และเพื่อหลีกเลี่ยงการขาดแคลนของตำแหน่งเครือข่าย 
+ IP v6 ได้กำหนดกฎในการระบุตำแหน่งเป็น 3 ประเภทคือ unicast (host เดี่ยวไปยัง host เดี่ยวอื่น ๆ) anycast (host เดี่ยวไปยัง host หลายตัวที่ใกล้ที่สุด) multicast (host เดี่ยวไปยัง host หลายตัว) ส่วนเพิ่มที่พิเศษของ IPv6 คือ 
+ – ตัวเลือกในการระบุส่วนขยายของส่วนหัว ได้รับการตรวจสอบเฉพาะจุดหมาย ดังนั้นความเร็วของระบบเครือข่ายสูงขึ้น 
+ – ตำแหน่ง anycast ทำให้มีความเป็นไปได้ของการส่งข้อความไปยังหลาย ๆ gateway ที่ใกล้ที่สุดด้วยแนวคิดว่าให้บุคคลใด ๆ บริหารการส่งแพ็คเกตไปยังบุคคลอื่น anycast สามารถใช้ในการปรับปรุงตาราง routing ตลอดเส้นทาง 
+ – แพ็คเกตได้รับการระบุให้มีการไหลชนิดพิเศษได้ ทำให้แพ็คเกตที่เป็นส่วนของมัลติมีเดียที่ต้องการ นำเสนอแบบ real time สามารถมีคุณภาพการให้บริการที่สูง 
+ – ส่วนหัวของ IPv6 รวมถึงส่วนขยายยินยอมให้แพ็คเกตระบุกลไกแหล่งต้นทาง สำหรับการรวมข้อมูล และรักษาความลับ 
+ ที่มา :  http://en.wikipedia.org/wiki/IPv6  ,  http://th.wikipedia.org/wiki/เลขที่อยู่ไอพี  ,  http://guru.google.co.th/guru/thread?tid=06349495e7d69b45 
+ 
+
+
+ 
+ Posted on   May 16, 2012 May 17, 2012 ความรู้เรื่อง IPv6   
+ 
+ 
+   
+ 
+ 
+ ไอพีเวอร์ชันที่ 6 (IPv6) ถูกพัฒนาขึ้นมาด้วยจุดประสงค์หลักในการแก้ปัญหาการขาดแคลนจำนวนหมายเลขไอพี ซึ่งกำหนดโดยมาตรฐานไอพีเวอร์ชันที่ 4 ซึ่งในมาตรฐานของเวอร์ชัน 6 นี้จะใช้ระบบ 128 บิตในการระบุหมายเลยไอพี 
+IPv6 (Internet Protocol version 6) เป็นเวอร์ชันล่าสุดของ Internet Protocol และได้รวมผลิตภัณฑ์ที่สนับสนุน IP มาเป็นส่วนหนึ่งด้วย รวมถึงระบบปฏิบัติการหลัก IPv6 ได้รับการเรียกว่า “IPng” (IP Next Generation) โดยปกติ IPv6 เป็นกลุ่มของข้อกำหนดจาก Internet Engineering Task Force (IETF) โดย IPv6 ได้รับการออกแบบให้ปฏิรูปกลุ่มของการปรับปรุง IP เวอร์ชัน 4 โดย host ของเครือข่ายและ node แบบ intermediate ซึ่ง IPv4 หรือ IPv6 สามารถดูแลแพ็คเกตของ IP เวอร์ชันอื่น ผู้ใช้และผู้ให้บริการสามารถปรับรุ่นเป็น IPv6 โดยอิสระ การปรับปรุงที่ชัดเจนของ IPv6 คือความยาวของ IP address เปลี่ยนจาก 32 เป็น 128 การขยายดังกล่าวเพื่อรองรับการขยายของอินเตอร์เน็ต และเพื่อหลีกเลี่ยงการขาดแคลนของตำแหน่งเครือข่ายIP v6 ได้กำหนดกฎในการระบุตำแหน่งเป็น 3 ประเภทคือ unicast (host เดี่ยวไปยัง host เดี่ยวอื่น ๆ) anycast (host เดี่ยวไปยัง host หลายตัวที่ใกล้ที่สุด) multicast (host เดี่ยวไปยัง host หลายตัว) ส่วนเพิ่มที่พิเศษของ IPv6 คือ- ตัวเลือกในการระบุส่วนขยายของส่วนหัว ได้รับการตรวจสอบเฉพาะจุดหมาย ดังนั้นความเร็วของระบบเครือข่ายสูงขึ้น – ตำแหน่ง anycast ทำให้มีความเป็นไปได้ของการส่งข้อความไปยังหลาย ๆ gateway ที่ใกล้ที่สุดด้วยแนวคิดว่าให้บุคคลใด ๆ บริหารการส่งแพ็คเกตไปยังบุคคลอื่น anycast สามารถใช้ในการปรับปรุงตาราง routing ตลอดเส้นทาง – แพ็คเกตได้รับการระบุให้มีการไหลชนิดพิเศษได้ ทำให้แพ็คเกตที่เป็นส่วนของมัลติมีเดียที่ต้องการ นำเสนอแบบ real time สามารถมีคุณภาพการให้บริการที่สูง – ส่วนหัวของ IPv6 รวมถึงส่วนขยายยินยอมให้แพ็คเกตระบุกลไกแหล่งต้นทาง สำหรับการรวมข้อมูล และรักษาความลับ 
+IETF ใช้เวลากว่าสามปีในการพัฒนาจนได้โพรโตคอล IPng (IP Next Generation) โดยมีความเป็นมาโดยสังเขปดังนี้ 
+ช่วงปลายปี 1992 มีการยื่นข้อเสนอในการพัฒนาโพรโตคอลดังกล่าวทั้งหมด 4 ฉบับ อันได้แก่ CNAT, IP Encaps, Nimrod และSimple CLNP ต่อมาในเดือนธันวาคมปี 1992 มีการส่งข้อเสนอเพิ่มอีก 3 ฉบับคือ The P Internet Protocol (PIP), The SimpleInternet Protocol (SIP) และ TP/IX หลังจากนั้นฤดูใบไม้ผลิในปี 1992 ข้อเสนอที่ชื่อว่า Simple CLNP ได้เปลี่ยนชื่อมาเป็น TCPand UDP with Bigger Addresses (TUBA) และ IP Encaps เปลี่ยนเป็น IP Address Encapsulation (IPAE) 
+ในปี 1993 IPAE ได้รวมเข้ากับ SIP โดยยังคงใช้ชื่อว่า SIP ซึ่งต่อมากลุ่มนี้ได้รวมกับกลุ่ม PIP กลายเป็นคณะทำงานที่เรียกตัวเองว่า Simple Internet Protocol Plus (SIPP) โดยในเวลาเดียวกันนั้นกลุ่มคณะทำงาน TP/IX ได้เปลี่ยนชื่อใหม่เป็น CommonArchitecture for the Internet (CATNIP)กล่าวได้ว่า ณ เวลานั้น มีข้อเสนอ 3 ชุดที่ถูกนำมาทำการคัดเลือกตามเกณฑ์ที่กำหนดไว้ในเอกสาร RFC1726 อันได้แก่ CATNIP 
+ TUBA และ SIPP 
+1. CATNIP (Common Architecture for Next Generation Internet Protocol) ได้ทำการสร้างความเป็นสามัญระหว่าง Internet (IPv4, TCP, UDP), OSI (CLNP, TP4, CLTP) และโพรโตคอล Novell (IPX, SPX) 
+2. TUBA (TCP and UDP with Bigger Addresses) ได้แทนที่เน็ตเวิร์คเลเยอร์ด้วย ISO’s CNLP ซึ่งประกอบไปด้วยชุดหมายเลขแอดเดรสที่มีขนาดใหญ่กว่าในขณะที่ TCP/UDP สามารถใช้งานได้โดยไม่ต้องทำการปรับปรุง ทั้งยังทำงานร่วมกับ IDRP,IS-IS และ ES-IS ได้ 
+3. SIPP (Simple Internet Protocol Plus) ได้นำคุณลักษณะบางอย่างใน IPv4 ที่คิดว่าไม่เหมาะสมออก และทำการปรับปรุงส่วนหัวของโพรโตคอลเสียใหม่ให้มีประสิทธิภาพมากยิ่งขึ้น และทำการเพิ่มขนาดของแอดเดรสจากเดิม 32 บิตเป็น 64 บิต (ซึ่งต่อมาได้พัฒนาเป็นรุ่น 128 บิต ในเดือนกรกฎาคม 1994 กุล่มผู้บริหารโครงการ IPng Area (คณะทำงานที่ถูกแต่งตั้งโดย Internet Engineering Task Force 
+IETF ในปี 1993 เพื่อทำหน้าที่ในการประเมินเลือกสรรข้อเสนอ IPng ได้สรุปผลการประเมินทั้งสามข้อเสนอรวมถึงคำแนะนำ และแนวทางในการพัฒนา IPv6 อย่างเป็นทางการไว้ในเอกสาร RFC 1752 โดยมีประเด็นสำคัญดังนี้ 
+– นโยบายการแบ่งสรรหมายเลขไอพีแอดเดรส (รุ่นที่ 4) ที่ใช้ในขณะนั้นสามารถใช้งานต่อไปได้แล้ว 
+– ไม่มีความจำเป็นที่จะต้องเรียกคืนชุดหมายเลขไอพีรุ่นที่ 4 ที่มีการใช้ประโยชน์ต่ำกว่าเกณฑ์กลับคืนมา 
+– ไม่มีความจำเป็นจะต้องทำการเปลี่ยนแปลงชุดหมายเลขไอพี (Renumber) ที่ถูกใช้งานอยู่ในอินเทอร์เน็ตเสียใหม่ 
+– ให้ใช้หลักการแบ่งสรรหมายเลขไอพีคลาส A ที่เหลืออยู่แบบ CIDR 
+– ข้อกำหนด “Simple Internet Protocol Plus (SIPP) Spec. (128 bit ver)” จะถูกเลือกให้เป็นต้นแบบพื้นฐานสำหรับการพัฒนา 
+IPng 
+– คณะทำงาน IPng ถูกก่อตั้งขึ้นโดย Steve Deering และ Ross Callon 
+– คณะทำงาน Address autoconfiguration ถูกก่อตั้งและนำทีมโดย Dave Katz ร่วมกับ Sue Thomson 
+– คณะทำงาน IPng Transition ถูกก่อตั้งและนำทีมโดย Bob Gilligan 
+– จะต้องมีการพัฒนาการใช้งานแอดเดรสของ non-IPv6 ในสภาพแวดล้อมของ IPv6 และในทางกลับกันการใช้งานไอพีแอดเดรส 
+IPv6 ภายใต้สภาพแวดล้อมของ non-IPv6 
+-โครงการ IPng Area จะสิ้นสุดลงเมื่อมีการเสนอมาตรฐานสำหรับโพโตคอลดังกล่าวออกมาในปลายปี 1994 
+– ให้มีการพัฒนา Informational RFCs ที่บรรยายถึงคุณลักษณะเฉพาะของ IPng APIs 
+– ต้องสนับสนุน Authentication header และ algorithm อย่างเฉพาะเจาะจง 
+– ต้องสนับสนุน Privacy header และ algorithm อย่างเฉพาะเจาะจง 
+– ต้องมีการพัฒนาโครงร่างของระบบ Firewall สำหรับ IPngและในช่วงกลางปี 1994 เช่นกัน IPng ได้รับการกำหนดหมายเลขรุ่นโดยหน่วยงาน Internet Assigned Numbers Authority(IANA) ให้เป็นรุ่นที่ 6 อันเป็นที่มาของ IPv6ต่อมาเอกสาร RFC1752 ชุดนี้ได้ถูกยอมรับและดำเนินการต่อโดยคณะทำงานภายใต้ IETF ที่ชื่อว่า Internet EngineeringSteering Group (IESG) ในที่สุด 
+IPv6 คือ 
+IPv6 ย่อมาจาก “Internet Protocol Version 6” ซึ่งจะเป็น Internet protocol รุ่นต่อไป ออกแบบและคิดค้นโดย IETF เพื่อที่จะนำมาใช้แทน Internet Protocol รุ่นปัจจุบันคือ IP Version 4 (“IPv4”)ปัจจุบันนี้ส่วนใหญ่ เราจะใช้ IPv4 ที่มีอายุเกือบ 20 ปีแล้ว และเริ่มจะมีปัญหาคือ IPv4 addresses กำลังใกล้จะหมด เนื่องจากมีเครื่องคอมพิวเตอร์ใหม่ ๆ ที่ต้องการจะต่อกับ Internet เพิ่มขึ้นทุกวันIPv6 จึงถูกคิดขึ้นมาเพื่อแก้ไขปัญหาที่เกิดใน IPv4 เช่น เพิ่มจำนวน IP address ที่ใกล้จะหมด และได้เพิ่มความสามารถ บางอย่างให้ดีขึ้นกว่า IPv4 ด้วย เช่นความสามารถในด้าน routing และ network autoconfigurationIPv6 ถูกกำหนดให้แทนที่ IPv4 แบบค่อยเป็นค่อยไป คือช่วงระหว่างการเปลี่ยนจาก IPv4 เป็น IPv6 คงใช้เวลาหลายปี จะต้องให้ IP ทั้งสองเวอร์ชั่นทำงานร่วมกันได้ เครื่องไหนเปลี่ยนเป็น IPv6 แล้วก็ต้องให้ IPv4 เข้าใช้บริการได้IPv4 addresses ก่อนIPv4 ที่เราใช้กันอยู่ในปัจจุบัน เช่น 192.168.1.1 หรือ 203.97.45.200 มาจากเลขฐานสอง(มีเลข 1 กับเลข 0 เท่านั้น) จำนวน 32 บิท 
+ ตัวอย่าง  110000001010100000000001000000001 
+ถ้าเป็น IP แบบนี้ IP เดียว คงจะพอจำได้ แต่เวลาอ้างถึง IP คงจะบอกกัน หนึ่ง หนึ่ง ศูนย์ ศูนย์………. เป็นที่ลำบาก ทั้งคนบอกและคนฟัง เพื่อให้สื่อถึงกันได้ง่ายขึ้น จึงใช้วิธีเปลี่ยนเป็นเลขฐานสิบ ที่เราคุ้นเคย แต่ถ้าเปลี่ยนทีเดียวทั้ง 32 บิท เป็นเลขฐานสิบแล้ว ก็ยังเป็นจำนวนสูงมาก ยากที่จะจดจำเช่นกัน จึงใช้แบ่งเลขฐานสอง 32 บิทที่ว่าเป็นช่วง ๆ ช่วงละ 8 บิท 4 ช่วง จากนั้นก็แปลงเลขฐานสอง 8 บิทเป็นเลขฐานสิบแต่ละช่วงคั่นด้วย “.” ตัวอย่าง เช่น 
+ ตัวอย่าง  11000000 10101000 00000001 000000001 = 192.168.1.1 
+สำหรับท่านที่ไม่เคยเรียนวิธีการแปลงฐานเลข อาจจะงง ได้เลข 192.168.1.1 มาอย่างไร มาดูวิธีการแปลงฐานเลข กันสักหน่อยดีไหม สูตรการแปลงฐานเลข (จำไม่ได้เหมือนกัน นึก ๆ เอา ถ้าผิดขออภัย) 
+N*B(x-1) 
+เมื่อ N คือจำนวนเลขที่เราเห็น 0 หรือ 1 สำหรับเลขฐานสอง ถ้าเป็นฐานอื่น ก็จะมีเลชมากกว่านี้ เช่น ฐานแปด ก็จะมีเลข 0 – 7 
+B คือฐานเลข ในที่นี้ เท่ากับ 2 เพราะเป็นฐานสอง ถ้าฐานแปด B ก็จะเท่ากับแปด 
+X เป็นหลักที่เลข N อยู่ 
+11000000 = 1*27 + 1*26 + 0*25+ 0*24 + 0*23 + 0*22 + 0*21 + 0*20 
+= 128 + 64 + 0 + 0 + 0 + 0 + 0 + 0 
+= 192 
+10101000 = 1*27 + 0*26 + 1*25+ 0*24 + 1*23 + 0*22 + 0*21 + 0*20 
+= 128 + 0 + 32 + 0 + 8 + 0 + 0 + 0 
+= 168 
+00000001 = 0*27 + 0*26 + 0*25+ 0*24 + 0*23 + 0*22 + 0*21 + 1*20 
+= 0 + 0 + 0 + 0 + 0 + 0 + 0 + 1 
+= 1 
+พอ ว่าเรื่องการแปลงฐานเลข ทำให้นึกได้ เมื่อก่อนนี้ ไม่เข้าใจเลย เช่น เวลา Network admin ให้มาว่า เน็ตเวอร์กคุณคือ 203.46.246.64/28 นะ เราก็พอรู้ว่า /28 น่ะคือ netmask แล้วมันคือ netmask เท่าไร หาได้อย่างไร ตอนหลังจึงทราบว่า 28 มาจาก mask ตัวเลข 1 ไป 28 บิท(ของ 32 บิท) ที่เหลือเป็น 0 หมด เขียนเป็นเลขฐานสอง 8 บิท 4 ชุดได้ว่า 
+11111111 11111111 11111111 11110000 พอรู็ว่าเป็นแบบนี้ ก็แปลงเป็นฐานสิบจากวิธีการข้างบนได้ว่า 255.255.255.240 
+IPv6 addresses 
+IPv6 ประกอบด้วยเลขฐานสอง จำนวน 128 บิท ถ้าจะคิดว่า จะเป็น IPs ต่าง ๆ กันได้กี่ IPs ก็หาได้จาก 2^128-1: 340282366920938463463374607431768211455คงเป็นไปไม่ได้ ที่ใครจะจำ 128 บิท IPs ได้ ถึงแม้จะแปลงเป็นเลขฐานสิบแล้วก็ตาม เพราะเป็นเลขถึง 39 หลัก ดังนั้นผู้ค้นคิด จึงตัดสินใจใช้เลขฐาน 16 แทน เพราะ 4 บิทของเลขฐานสอง แปลงเป็นเลขฐาน 16 ได้ 1 หลักพอดี คือ 0-9 จากนั้นก็ใช้ a-f แทน 10-15 (ถ้าใครไม่รู้จักเลขฐาน 16 ก็คือหนึ่งหลักมีเลขเริ่มต้นจาก 0 1 2 3 4 5 6 7 8 9 a b c d e f) ดังนั้นเลข ip ก็จะเป็นเลขฐาน 16 จำนวน 32 หลัก (128/4) 
+fffffffffffffffffffffffffffffff 
+ซึ่งก็ยังจำและเขียนยากอยู่ดี หรือว่าเขียน ตกไปหนึ่งตัว ก็จะทำให้ผิดความจริงไปได้ เพื่อให้สังเกตุเห็นได้ง่าย ผู้ค้นคิดจึงกำหนดให้ใช้ “:” ขั้น แต่ละ 16 บิท(ฐานสอง) หรือ 4 หลักของเลขฐาน 16 ได้ผลเป็น ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff 
+ตัวอย่าง IPv6 address 
+3ffe:ffff:0100:f101:0210:a4ff:fee3:9566 
+เลข 0 ที่นำหน้า ของแต่ละ 16 บิท สามารถละไว้(ไม่ต้องเขียน)ได้ 
+3ffe:ffff:0100:f101:0210:a4ff:fee3:9566 -> 3ffe:ffff:100:f101:210:a4ff:fee3:9566 
+ใน แต่ละ 16 บิทบล็อค ถ้ามีแต่เลข 0 สามารถแทนด้วย “::” แต่ห้ามเขียนแบบนี้ “:::” 3ffe:ffff:100:f101:0:0:0:1 -> 3ffe:ffff:100:f101::1 
+การลดรูปมากที่สุดก็คือlocalhost address 
+0000:0000:0000:0000:0000:0000:0000:0001 -> ::1 
+IPv4 แล้วทำไมถึงเป็น IPv6 ทำไมไม่เป็น IPv5 
+4 บิทแรกของ IP header จะถูกกันไว้เป็นตัวบอกเวอร์ชั่นของ IP ดังนั้นเวอร์ชั่นของ IP ที่จะเป็นได้คือ 0 – 15 
+– 4 ถูกนำมาใช้แล้ว สำหรับ IPv4 ในปัจจุบัน 
+– 5 สำรองไว้ใช้สำหรับ Stream Protocol (STP, RFC 1819 / Internet Stream Protocol Version 2) ซึ่งจริง ๆ แล้วก็ยังไม่ได้นำมาใช้งาน ดังนั้นเลขที่เหลือตัวต่อไปก็คือ 6 ด้วยเหตุนี้ จึงเป็น IPv6 
+ทำไม IPv6 จึงใช้ถึง 128 บิท มากเหลือเกิน ?ตอนออกแบบ IPv4 ผู้คนก็พากันคิดว่า 32 บิทนะพอแล้ว พอใช้งานแน่ ๆ ถ้าเราดูกันจริง ๆ แล้ว 32 บิทน่ะก็พอใช้งานจนถึงปัจจุบัน และก็คงพอใช้งานไปอีกสัก 2-3 ปีข้างหน้า แต่จะไม่พอใช้งาน ในอนาคตอันใกล้นี้ เพราะต่อไปข้างหน้า อุปกรณ์หลาย ๆ ชนิด จะต้องใช้ IP กันแล้ว เช่น โทรศัพท์มือถือ, รถยนต์ รวมทั้งอุปกรณ์ electronics ในรถ, เตาอบ, ตู้เย็น ฯลฯดังนั้น ผู้ออกแบบจึงเลือก 128 บิท บิทมากกว่าเดิม 4 เท่า และมี IP มากกว่า IPv4 เดิม 2^96 IPsแต่ IPs ที่ใช้งานได้จริง จะน้อยกว่าจำนวนที่เห็น (2^128) เพราะการกำหนด address จะใช้แค่ 64 บิท ส่วนอีก 64 บิทที่เหลือ จะกำหนดเป็น routing ดังนั้น 128 บิทนี่ก็มีโอกาสจะไม่พอใช้ในวันข้างหน้า แต่หวังว่าจะไม่ใช่เร็ว ๆ นี้Address Typeเช่นเดียวกับ IPv4, IPv6 address ก็แบ่งออกเป็นส่วน network และ host โดยใช้ subnet masks.IPv6 จะแบ่ง 64 bits แรกเป็น network part และ 64 bits หลังเป็น host part Addresses without a special prefix 
+IPv6 address ที่ไม่มีส่วนกำหนด network มีสองชนิดคือ 
+Localhost address 
+เป็น address ที่ใช้สำหรับ loopback interface, ถ้าเป็น IPv4 ก็คือ “127.0.0.1” แต่ถ้าเป็น IPv6 localhost address จะเขียนแบบนี้ 0000:0000:0000:0000:0000:0000:0000:0001 หรือเขียนแบบย่อจะได้ ::1Packets ที่มี source หรือ destination เป็น address นี้ จะไม่มีทางออกจากเครื่องที่ส่งไปยังเครื่องอื่น ๆ ได้Unspecified address คือ address ที่หมายถึง “any” หรือ “0.0.0.0” ใน IPv4 สำหรับ IPv6 เขียนเป็น0000:0000:0000:0000:0000:0000:0000:0000 หรือเขียนแบบย่อ :: address นี้ ส่วนมากเราจะเห็นหรือใช้ใน socket binding (to any IPv6 address) หรือใน routing tables. Note: unspecified address ไม่สามารถใช้เป็น destination address ได้Network part หรือเรียกอีกอย่างหนึ่งว่า prefixเรามาดู prefix ชนิดต่าง ๆ กันดีกว่า ว่ามีอะไรกันบ้าง ในปัจจุบัน (อาจจะมีเพิ่มขึ้นอีกในอนาคต) 
+ ที่มา : http://sakon-pin.blogspot.com/2009/11/ipv6-internet-protocol-version-6_04.html 
+ 
+
+
+ 
+ Posted on   May 16, 2012 May 17, 2012 ข้อดี – ข้อเสีย ของ IPv6   
+ 
+ 
+   
+ 
+ 
+ ข้อดี 
+1 มีหมายเลข IP Address มากกว่าเดิมมาก ทำให้เพียงพอต่อความต้องการของผู้ใช้ 
+เครือข่ายมีความน่าเชื่อถือมากขึ้นกว่าเดิม เพราะเป็นการใช้งาน IP จริงทั้งหมด ต่างจากแต่ก่อนที่ไม่สามารถใช้งานได้ทุกเบอร์ 
+2 มีระบบรักษาความปลอดภัยที่ดี 
+3 เครือข่ายมีการทำงานแบบ Real Time Processing จึงทำงานได้เร็วขึ้นและมีประสิทธิภาพมากขึ้น 
+4 ลดภาระในการทำงานของผู้ดูแลระบบด้านการบริหารจัดการ เนื่องจากมีการปรับแต่งระบบอัตโนมัติ 
+5 มีการใช้งานอินเทอร์เน็ตแบบเคลื่อนที่ (Mobile IP) 
+ ข้อเสีย 
+1 การใช้ IPv6 แทน IPv4 เป็นเรื่องที่ซับซ้อนและทำได้ยาก ต้องมีการเปลี่ยนแปลงอย่างค่อยเป็นค่อยไปและถูกวิธี 
+2 ประเทศไทยยังมีการติดตั้งเครือข่าย IPv6 ไม่มากนัก จะเกิดขึ้นกับคนบางกลุ่มหรือกับผู้ให้บริการรายใหญ่ๆเท่านั้น 
+3 ในประเทศไทยประชาชนส่วนใหญ่ยังขาดความรู้ความเข้าใจในเรื่องนี้ จึงไม่ตื่นตัวหรือสนใจที่จะใช้ IPv6 ซึ่งเป็นสิ่งจำเป็นในอนาคต 
+ 
+
+
+ 
+ Posted on   May 16, 2012 May 17, 2012 10 things you should know about IPv6 addressing   
+ 
+ 
+   
+ 
+ 
+ 1: IPv6 addresses are 128-bit hexadecimal numbers 
+ The IPv4 addresses we are all used to seeing are made up of four numerical octets that combine to form a 32-bit address. IPv6 addresses look nothing like IPv4 addresses. IPv6 addresses are 128 bits in length and are made up of hexadecimal characters. 
+ In IPv4, each octet consists of a decimal number ranging from 0 to 255. These numbers are typically separated by periods. In IPv6, addresses are expressed as a series of eight 4-character hexadecimal numbers, which represent 16 bits each (for a total of 128 bits). As we’ll see in a minute, IPv6 addresses can sometimes be abbreviated in a way that allows them to be expressed with fewer characters. 
+2: Link local unicast addresses are easy to identify 
+ IPv6 reserves certain headers for different types of addresses. Probably the best known example of this is that link local unicast addresses always begin with FE80. Similarly, multicast addresses always begin with FF0x, where the x is a placeholder representing a number from 1 to 8. 
+3: Leading zeros are suppressed 
+ Because of their long bit lengths, IPv6 addresses tend to contain a lot of zeros. When a section of an address starts with one or more zeros, those zeros are nothing more than placeholders. So any leading zeros can be suppressed. To get a better idea of what I mean, look at this address: 
+ FE80:CD00:0000:0CDE:1257:0000:211E:729C 
+ If this were a real address, any leading zero within a section could be suppressed. The result would look like this: 
+ FE80:CD00:0:CDE:1257:0:211E:729C 
+ As you can see, suppressing leading zeros goes a long way toward shortening the address. 
+4: Inline zeros can sometimes be suppressed 
+ Real IPv6 addresses tend to contain long sections of nothing but zeros, which can also be suppressed. For example, consider the address shown below: 
+ FE80:CD00:0000:0000:0000:0000:211E:729C 
+ In this address, there are four sequential sections separated by zeros. Rather than simply suppressing the leading zeros, you can get rid of all of the sequential zeros and replace them with two colons. The two colons tell the operating system that everything in between them is a zero. The address shown above then becomes: 
+ FE80:CD00::211E:729C 
+ You must remember two things about inline zero suppression. First, you can suppress a section only if it contains nothing but zeros. For example, you will notice that the second part of the address shown above still contains some trailing zeros. Those zeros were retained because there are non-zero characters in the section. Second, you can use the double colon notation only once in any given address. 
+5: Loopback addresses don’t even look like addresses 
+ In IPv4, a designated address known as a loopback address points to the local machine. The loopback address for any IPv4-enabled device is 127.0.0.1. 
+ Like IPv4, there is also a designated loopback address for IPv6: 
+ 0000:0000:0000:0000:0000:0000:0000:0001 
+ Once all of the zeros have been suppressed, however, the IPv6 loopback address doesn’t even look like a valid address. The loopback address is usually expressed as ::1. 
+6: You don’t need a traditional subnet mask 
+ In IPv4, every IP address comes with a corresponding subnet mask. IPv6 also uses subnets, but the subnet ID is built into the address. 
+ In an IPv6 address, the first 48 bits are the network prefix. The next 16 bits are the subnet ID and are used for defining subnets. The last 64 bits are the interface identifier (which is also known as the Interface ID or the Device ID). 
+ If necessary, the bits that are normally reserved for the Device ID can be used for additional subnet masking. However, this is normally not necessary, as using a 16-bit subnet and a 64-bit device ID provides for 65,535 subnets with quintillions of possible device IDs per subnet. Still, some organizations are already going beyond 16-bit subnet IDs. 
+7: DNS is still a valid technology 
+ In IPv4, Host (A) records are used to map an IP address to a host name. DNS is still used in IPv6, but Host (A) records are not used by IPv6 addresses. Instead, IPv6 uses AAAA resource records, which are sometimes referred to as Quad A records. The domain ip6.arpa is used for reverse hostname resolution. 
+8: IPv6 can tunnel its way across IPv4 networks 
+ One of the things that has caused IPv6 adoption to take so long is that IPv6 is not generally compatible with IPv4 networks. As a result, a number of transition technologies use tunneling to facilitate cross network compatibility. Two such technologies are Teredo and 6to4. Although these technologies work in different ways, the basic idea is that both encapsulate IPv6 packets inside IPv4 packets. That way, IPv6 traffic can flow across an IPv4 network. Keep in mind, however, that tunnel endpoints are required on both ends to encapsulate and extract the IPv6 packets. 
+9: You might already be using IPv6 
+ Beginning with Windows Vista, Microsoft began installing and enabling IPv6 by default. Because the Windows implementation of IPv6 is self-configuring, your computers could be broadcasting IPv6 traffic without your even knowing it. Of course, this doesn’t necessarily mean that you can abandon IPv4. Not all switches and routers support IPv6, just as some applications contain hard-coded references to IPv4 addresses. 
+10: Windows doesn’t fully support IPv6 
+ It’s kind of ironic, but as hard as Microsoft has been pushing IPv6 adoption, Windows does not fully support IPv6 in all the ways you might expect. For example, in Windows, it is possible to include an IP address within a Universal Naming Convention (\\127.0.0.1\C$, for example). However, you can’t do this with IPv6 addresses because when Windows sees a colon, it assumes you’re referencing a drive letter. 
+ To work around this issue, Microsoft has established a special domain for IPv6 address translation. If you want to include an IPv6 address within a Universal Naming Convention, you must replace the colons with dashes and append .ipv6.literal.net to the end of the address — for example, FE80-AB00–200D-617B.ipv6.literal.net. 
+ ที่มา : http://www.techrepublic.com/blog/10things/10-things-you-should-know-about-ipv6-addressing/1893 
+ 
+
+
+ 
+ Posted on   May 16, 2012 May 17, 2012 IPv6 Articles   
+ 
+ 
+   
+ 
+ 
+ 
+ การเตรียมความพร้อมในการเชื่อมต่อเข้าสู่อินเทอร์เน็ตยุคหน้า   
+ ความรู้เบื้องต้นเกี่ยวกับ IPv6 สำหรับผู้ใช้งานทั่วไป   
+ โครงสร้างอินเทอร์เน็ตโพรโตคอลรุ่นที่ 6 
+ แผนภาพแสดงการปรับเปลี่ยนระบบจาก IPv4 ไปสู่ IPv6 
+ หลักการพื้นฐานเทคนิค 6to4 
+ All IPv6-related RFCs in English and Chinese  
+ 
+ IPv6 Standards 
+ 
+ Internet Protocol, Version 6 (IPv6) Specification [ RFC 2460 ] 
+ 
+ 
+ Dynamic Host Configuration Protocol for IPv6 (DHCPv6) [ RFC 3315 ] 
+ 
+ IPv6 Transition Techniques 
+ 
+ Transition Mechanisms for IPv6 Hosts and Routers [ RFC 1933 ] 
+ 
+ 
+ IPv6-over-IPv4 Configured and Automatic Tunneling [ RFC 2893 ] 
+ 
+ 
+ 6to4 Tunneling [ RFC 3056 ] 
+ 
+ 
+ Tunnel Broker [ RFC 3053 ] 
+ 
+ 
+ 6over4 Tunneling [ RFC 2529 ] 
+ 
+ 
+ Intra-Site Automatic Tunnel Addressing Protocol (ISATAP) 
+ 
+ 
+ Network Address Translation – Protocol Translation (NAT-PT) [ RFC 2766 ] 
+ 
+ 
+ Stateless IP/ICMP Translator (SIIT) [ RFC 2765 ] 
+ 
+ 
+ Bump-in-the-stack (BIS) [ RFC 2767 ] 
+ 
+ 
+ Bump-in-the-API (BIA) [ RFC 3338 ] 
+ 
+ 
+ TCP-UDP Relay [ RFC 3142 ] 
+ 
+ 
+ SOCK Gateway [ RFC 3089 ] 
+ 
+ Mobile IPv6 
+ 
+ Mobility Support for IPv6 [ RFC 3775 ] 
+ 
+ 
+ Using IPsec to Protect Mobile IPv6 Signaling Between Mobile Nodes and Home Agents [ RFC 3776 ] 
+ 
+ 
+ Authentication Protocol for Mobile IPv6 
+ 
+ 
+ Mobile IP version 6 Route Optimization Security Design Background 
+ 
+ 
+ Extension to Sockets API for Mobile IPv6 
+ 
+ IPv6 Security 
+ 
+ Security Architecture for the Internet Protocol [ RFC 1825 ] 
+ 
+ 
+ IP Authentication Header [ RFC 1826 ] 
+ 
+ 
+ IP Encapsulating Security Payload (ESP) [ RFC 1827 ] 
+ 
+ Presentations by our staffs 
+ Passkon Prathombutr, “ เตรียมการรับมืออินเทอร์เน็ตยุคหน้า IPv6 และ Applications “, MedIT 2004, December 17, 2004 
+Panita Pongpaibool, “ IPv6 Transition Technologies “, MedIT 2004, December 17, 2004 
+Panita Pongpaibool, “ อนาคตโลกอินเทอร์เน็ต “, บรรยายแก่นักศึกษาปริญญาโท สาขาบริหารการศึกษา มหาวิทยาลัยราชภัฏ 
+ภูเก็ต, January 11, 2005 
+ Seminar and Workshop Documents 
+ เอกสารงานสัมมนา “IPv6 Technology Forum”, 26 กรกฎาคม 2548 
+ เอกสาร “การฝึกอบรมเชิงปฏิบัติการ IPv6”, 18-20 พฤษภาคม 2548 
+ ที่มา :  http://www.ipv6.nectec.or.th/articles.php 
+ 
+
+
+ 
+ Posted on   May 16, 2012 May 17, 2012 การใช้งาน IPv6 (Internet Protocol version 6)   
+ 
+ 
+   
+ 
+ 
+ การนำ IPv6 มาใช้ ควรจะเป็นไปอย่างค่อยเป็นค่อยไป เนื่องจากการปรับเปลี่ยนอินเทอร์เน็ตโพรโตคอลจะส่งผลกระทบต่อเครือข่ายทั่วโลกที่เชื่อมต่อกันอยู่ ดังนั้นการปรับเปลี่ยนไปสู่เครือข่าย IPv6 ล้วน อาจใช้ระยะเวลาเป็นปี เพราะเหตุนี้ ทาง IETF จึงเสนอทางออกเพื่อช่วยในการทำงานร่วมกันระหว่าง IPv4 และ IPv6 ในระหว่างที่เครือข่ายบางแห่งเริ่มมีการปรับเปลี่ยน 
+ในช่วงแรก การใช้งาน IPv6 อาจอยู่ในวงแคบ ดังนั้นเราต้องการเทคนิคเพื่อเชื่อมต่อเครือข่ายที่เป็น IPv6 เข้ากับเครือข่าย IPv4หรือเครือข่าย IPv6 อื่น เทคนิคการทำงานร่วมกันระหว่าง IPv4 และ IPv6 แบ่งออกเป็น 3 ประเภทด้วยกันคือ 
+1. การทำ dual stack—เป็นวิธีพื้นฐานที่สุด ทำงานโดยใช้ IP stack สองอันคือ IPv4 stack และ IPv6 stack ทำงานควบคู่กัน เมื่อใดที่แอพพลิเคชั่นที่ใช้เป็น IPv4 ข้อมูลแพ็กเก็ตก็จะถูกส่งออกผ่านทาง IPv4 stack เมื่อใดที่แอพพลิเคชั่นที่ใช้เป็น IPv6 ข้อมูลแพ็กเก็ตก็จะถูกส่งออกผ่านทาง IPv6 stack การทำ dual stack เป็นทางออกที่ง่ายที่สุดแต่ไม่ใช่ long term solution เนื่องจากยังจำเป็นต้องใช้ IPv4 address ที่โฮสต์หรือเร้าท์เตอร์ที่ใช้ dual stack นั้น 
+2. การทำ tunneling—เป็นอีกวิธีที่ใช้กันแพร่หลายเพราะเหมาะสมกับการสื่อสารระหว่างเครือข่าย IPv6 ผ่านเครือข่าย IPv4 การส่งข้อมูลทำได้โดยการ encapsulate IPv6 packet ภายใน IPv4 packet ที่ tunneling gateway ก่อนออกไปยังเครือข่าย IPv4 ที่ปลายทาง ก่อนเข้าไปสู่เครือข่าย IPv6 ก็จะต้องผ่าน tunneling gateway อีกตัวซึ่งทำหน้าที่ decapsulate IPv6 packet และส่งต่อไปยังจุดหมายปลายทาง จะเห็นได้ว่าการทำ tunneling นี้จะใช้ไม่ได้สำหรับการสื่อสารโดยตรงระหว่างเครื่องในเครือข่าย IPv6 และเครื่องในเครือข่าย IPv4 
+3. การทำ translation—การทำ translation จะช่วยในการสื่อสารระหว่างเครือข่าย IPv6 และ IPv4 เทคนิคการทำ translationมีสองแบบ แบบแรกคือการแปลที่ end host โดยเพิ่ม translator function เข้าไปใน protocol stack โดยอาจอยู่ที่ network layer,TCP layer, หรือ socket layer ก็ได้ แบบที่สองคือการแปลที่ network device โดยจะต้องใช้ gateway ทำหน้าที่เป็น IPv6-IPv4และ IPv4-IPv6 translator อยู่ที่ทางออกที่มีการเชื่อมต่อระหว่างเครือข่าย IPv6 และ IPv4 
+ทั้งนี้หลังจากการปรับเปลี่ยนเสร็จสมบูรณ์ เมื่อเครือข่ายต้นทาง กลางทาง และปลายทาง เป็น IPv6 ทั้งหมด เราสามารถทำการสื่อสาร โดยใช้โพรโตคอล IPv6 โดยตรง ซึ่งเราเรียกการสื่อสารลักษณะนี้ว่า native IPv6 network 
+การประยุกต์ใช้งาน IPv6 จะสามารถใช้งานในรูปแบบที่แตกต่างกันไปขึ้นอยู่กับความต้องการของผู้ใช้ ผู้พัฒนาก็สามารถตอบสนอง ให้เป็นไปในสิ่งที่ผู้ใช้ต้องการ ถ้าIPv4 สามารถทำได้ IPv6 ก็สามารถทำได้ และประสิทธิภาพในการสื่อสารต้องดีกว่า IPv4 ซึ่งหนึ่งในนั้นก็คือการนำเอา IPv6 มาทำการเคลื่อนที่เหมือน IPv4 แต่จะลด Overhead และเพิ่มประสิทธิภาพของความปลอดภัยทำให้การทำงานดีขึ้นเมื่อย้ายไปเครือข่ายอื่นๆจนสามารถกลับมาเครือข่ายเดิมของตัวเอง ตลอดการเชื่อมต่อโดยผู้ใช้ไม่ต้องมาติดตั้งหรือเปลี่ยนแปลงค่าใหม่ตามเครือข่ายนั้นๆ 
+Mobile IPv6 
+Mobile IPv6 คือ การใช้งานอินเตอร์เน็ตแบบเคลื่อนที่บนเครือข่าย IPv6 โดยปกติคอมพิวเตอร์พกพาหรือโน็ตบุคสามารถใช้งานตามที่ต่างๆ คล้ายกับการใช้งานโทรศัพท์เคลื่อนที่เพียงแต่คอมพิวเตอร์จะใช้ IP address แทนหมายเลขโทรศัพท์ ทีนี้ทำอย่างไรให้ IP address ของเราติดไปกับเครื่องคอมพิวเตอร์ เหมือนหมายเลขโทรศัพท์เวลาเราย้ายเครือข่าย มาตราฐาน Mobile IPv6 จึงถูกกำหนดขึ้นมาโดยให้เครื่องคอมพิวเตอร์มี IP address สองชุด ชุดแรกเป็นเสมือน บ้านเลขที่เดิมเรียกว่า Home Address ชุดที่สองเป็นเสมือนเลขที่ชั่วคราวซึ่งได้มาเวลาย้ายเครือข่ายเรียกว่า Care-of address จากนี้ทุกการติดต่อกับ Home Address ก็จะถูกส่งต่อโดยตัวกลางหรือ Home Agent มายัง Care-of address โดยไม่สะดุดคือทั้งผู้รับและผู้ส่งไม่ต้องเปลี่ยนแปลง IP address ใดๆด้วยตนเอง 
+ ที่มา : http://sakon-pin.blogspot.com/2009/11/ipv6-internet-protocol-version-6_04.html 
+ 
+
+
+ 
+ Posted on   May 16, 2012 May 17, 2012 ประโยชน์และการนำไปใช้ในเชิงสร้างสรรค์   
+ 
+ 
+   
+ 
+ 
+ ในอนาคต โลกอินเทอร์เน็ตจะเข้ามามีบทบาทกับชีวิตเรามากขึ้น ทำให้เกิดแนวโน้มของการพัฒนาอุปกรณ์อิเล็กทรอนิกส์มากมาย อุปกรณ์เหล่านั้นต่างต้องการมี IP Address เป็นของตนเอง เพื่อให้สามารถส่งข้อมูลได้อย่างรวดเร็วในการสื่อสาร และเชื่อมต่อกับอินเทอร์เน็ตได้เหมือนคอมพิวเตอร์ โดยที่ไม่ต้องผ่านระบบใดๆ ตัวอย่างของการนำไปใช้กับอุปกรณ์ต่างๆ อาทิ 
+1. การใช้ระบบระบุตำแหน่งหรือติดตามอุปกรณ์ต่างๆ เช่น รถยนต์ เครื่องใช้ไฟฟ้าในบ้าน หรือโทรศัพท์มือถือ 
+2. การผลิตตู้เย็นที่รองรับการใช้ IPv6 ที่ทำให้ตู้เย็นสามารถแสกนได้ว่าอาหารใดที่กำลังจะหมด และเชื่อมต่ออินเทอร์เน็ตไปยังร้านค้าเพื่อสั่งซื้อสินค้าโดยตรง 
+3. การใช้ IPv6 ร่วมกับเทคโนโลยีบางอย่างที่ใช้ตรวจสอบสภาพแวดล้อม เพื่อตรวจสอบสภาพมลพิษในที่ต่างๆ 
+4. โทรทัศน์ในอนาคตอาจเป็นแบบที่สามารถโต้ตอบกับคนดูได้ หรือเครื่องเล่น CD ที่สามารถดาวน์โหลดภาพยนตร์มาได้โดยตรงจากอินเทอร์เน็ต 
+5. ใช้ IPv6 ช่วยควบคุมการใช้พลังงานหรือก๊าชหุงต้มในองค์กรหรือครัวเรือน 
+6. การใช้เป็นอุปกรณ์พกพา เช่น โทรศัพท์มือถือที่สามารถเล่นอินเทอร์เน็ตได้แม้ในขณะที่รถกำลังเคลื่อนที่ โดยไม่เกิดปัญหา 
+7. อุปกรณ์ทางการแพทย์ที่มีการใช้งาน IPv6 สามารถรายงานสภาวะต่างๆของผู้ป่วย อาทิ ความดันโลหิต การเต้นของหัวใจ โดยติดตั้งอุปกรณ์นี้ไว้ที่บ้านโดยที่ไม่ต้องมาพบแพทย์ เป็นต้น 
+ ที่มา : http://sakon-pin.blogspot.com/2009/11/ipv6-internet-protocol-version-6_04.html 
+ 

@@ -1,0 +1,182 @@
+##LINK: https://arstechnica.com/tech-policy/2018/02/att-claims-that-paid-prioritization-wont-create-slow-lanes/
+##KEYWORDS: paid prioritization
+##TITLE: AT&T describes post-net neutrality plans for paid prioritization | Ars Technica
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+      Restoring fast lane freedom    —
+ 
+ AT&T describes post-net neutrality plans for paid prioritization 
+ "AT&T is not interested in creating fast lanes and slow lanes," ISP claims. 
+ 
+ 
+ Jon Brodkin 
+    -   Feb 27, 2018 6:12 pm UTC 
+ 
+   
+ 
+ 
+ Enlarge Getty Images | Anders Clark | EyeEm 
+ reader comments 
+ 211 
+  with 118 posters participating 
+ 
+ 
+ Share this story 
+ Share on Facebook 
+ Share on Twitter 
+ Share on Reddit 
+ 
+ AT&T is talking up the benefits of paid prioritization schemes in preparation for the death of net neutrality rules while claiming that charging certain content providers for priority access won't create "fast lanes and slow lanes." 
+ "[T]he issue of paid prioritization has always been hazy and theoretical," AT&T Senior VP Bob Quinn wrote in a  blog post  today. But that's about to change, because "business models for services that would require end-to-end management" have begun to come into focus, he wrote. 
+ "The rhetoric of this debate has centered on the concept of prohibiting fast lanes and slow lanes on the Internet," he wrote. "Let me clear about this—AT&T is not interested in creating fast lanes and slow lanes on anyone's Internet." Further Reading When AT&T promises broadband—but delivers only 300kbps 
+ But AT&T does care about "enabling innovative new technologies like autonomous cars, remote surgery, enhanced first responder communications, and virtual reality services," he wrote. 
+ These "are real-time interactive services that require end-to-end management in order to make those services work for consumers and public safety," he wrote. Paid prioritization is necessary because Internet traffic "directing autonomous cars, robotic surgeries, or public safety communications must not drop." 
+ Although these services would be given faster access to consumers in exchange for payments to AT&T, the ISP doesn't seem to think this type of priority constitutes a "fast lane." 
+ FCC already allowed some forms of prioritization 
+ What Quinn did not mention is that the net neutrality rules have a specific carve-out that already allows such services to exist. The Federal Communications Commission's 2015  net neutrality order  lets ISPs carve out isolated network capacity for certain applications without violating the paid prioritization ban. 
+ Telemedicine, automobile telematics, and school-related applications and content are among the services that can be given isolated capacity, the net neutrality order says. The key is that the FCC maintained the right to stop ISPs from using this exception to violate the spirit of the net neutrality rules. The FCC said it would take enforcement action only if ISPs use this exception to provide the "functional equivalent" of broadband Internet access service or to "evade the protections set forth in these rules."   
+ Advertisement  
+ 
+ 
+ In contrast, AT&T wants total control over which services are allowed to get priority. 
+ "One problem with the 2015 FCC decision was that the regulations appeared to capture services like these managed end-to-end services and required innovators and Internet providers to seek government permission to make sure these services would not run afoul of the ban on paid prioritization," Quinn wrote. 
+ AT&T won't face any such restrictions soon enough. The Federal Communications Commission voted to repeal its net neutrality rules in December 2017, though  we still don't know  exactly when the rules will come off the books. 
+ While AT&T pledges that it won't create fast lanes and slow lanes, in reality many of its customers are already getting a slow lane for all Internet content. AT&T provides only DSL service in many rural areas, with speeds of just a few megabits per second or even  less than a megabit . AT&T has a new  fixed wireless service  for some rural areas, but the 10Mbps download speeds fall well short of the federal broadband standard of 25Mbps. 
+ In areas where AT&T has brought fiber to each home, the company might be able to implement paid prioritization and manage its network in a way that prevents most customers from noticing any slowdown in other services. Customers are more likely to suffer in areas where bandwidth on the AT&T network is already scarce. 
+ The soon-to-be-repealed net neutrality rules don't require ISPs to offer a minimum speed, but they do require fair treatment of all applications delivered over the network. 
+ Democrats fight for net neutrality rules 
+ Net neutrality advocates and Democratic lawmakers are trying to stop the repeal from taking effect.  Legislation  sponsored by Democrats would reverse the FCC's repeal and ensure that the net neutrality rules remain fully in force. 
+ AT&T's blog post criticized that effort, but it said the company would support legislation that outlaws blocking and throttling. 
+ "[T]here has been relative agreement over what those rules should be: don't block websites; censor online content; or throttle, degrade or discriminate in network performance based on content; and disclose to consumers how you manage your network to make that happen," AT&T said. "AT&T has been publicly committed to those principles almost since this debate began and has continually asked Congress to enact legislation which covers all of those points." 
+ 
+ 
+ Promoted Comments 
+ 
+ 
+ 
+ 
+ ten91 
+ Ars Praetorian 
+ 
+ 
+ 
+ jump to post 
+ 
+ 
+ 
+ Quote: AT&T is talking up the benefits of paid prioritization schemes in preparation for the death of net neutrality rules while claiming that charging certain content providers for priority access won't create "fast lanes and slow lanes." "We're making corridors. Yeah. Corridors. Or maybe channels. We've also been calling them marked areas of transit. But they are absolutely not lanes." -AT&T spokeman
+      
+     
+ 
+ 
+ 
+ 
+ 
+ 4178 posts | registered  1/26/2016 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ reader comments 
+ 211 
+  with 118 posters participating 
+ 
+ 
+ Share this story 
+ 
+ Share on Facebook 
+ Share on Twitter 
+ Share on Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jon Brodkin 
+      Jon is Ars Technica's senior IT reporter, covering the FCC and broadband, telecommunications, tech policy, and more.     
+ 
+ Email   jon.brodkin@arstechnica.com 
+ // 
+ Twitter   @JBrodkin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advertisement  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ You must  login or create an account  to comment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Channel  Ars Technica 
+ 
+ 
+ 
+ 
+ ←  Previous story   Next story  → 
+ 
+ 
+ 
+ 
+ Related Stories 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Today on Ars 
+ 
+ 
+ 
+ 
+ 
+ 

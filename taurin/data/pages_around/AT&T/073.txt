@@ -1,0 +1,141 @@
+##LINK: https://about.att.com/csr/home/reporting/indexes/sasb.html
+##KEYWORDS: zero-rating
+##TITLE: AT&T Index: Sustainability Accounting Standards Board
+##METHOD: paragraphs
+
+ 
+ 
+
+ 
+ 
+The Sustainability Accounting Standards Board (SASB) provides a collection of industry-specific standards to help measure and communicate performance on environmental, social and corporate governance (ESG) topics. The content index below provides AT&T’s reporting for 2 industries that align to our business: Telecommunication Services and Media & Entertainment.
+Inclusion of information in this index should not be construed as a characterization of the materiality or financial impact of that information. Please see our Corporate Annual Report or Form 10-K for the year ended December 31, 2020 and other publicly-filed documents available at the AT&T Investor Relations website.
+In May 2021, we entered into an agreement to combine our WarnerMedia segment, subject to certain exceptions, with a subsidiary of Discovery, Inc. The transaction is subject to approval by Discovery shareholders and customary closing conditions, including receipt of regulatory approvals. In February 2021, we agreed to contribute our North America video business – including DIRECTV, AT&T TV and U-verse – to form a new company with TPG Capital. The transaction is pending customary closing conditions.
+Global Reporting Initiative (GRI)  Task Force on Climate-related Financial Disclosures (TCFD)  U.N. Global Compact (UNGC)  U.N. Sustainable Development Goals (UNSDGs) 
+ 
+ 
+SASB Code(s)
+SASB Requested Metric(s)
+AT&T Response
+TC-TL-000.A
+Wireless subscribers
+Total N. America wireless customers: 201.501 million
+Please see our Q4 2020 Investor Briefing and our 2020 Corporate Annual Report.
+TC-TL-000.B
+Wireline subscribers
+Total voice connections: 11.079 million
+Please see our Q4 2020 Investor Briefing.
+TC-TL-000.C
+Broadband subscribers
+Global broadband subscribers: 15.384 million
+Please see our Q4 2020 Investor Briefing.
+TC-TL-000.D
+Our advanced network carries more than 468 petabytes of traffic on an average business day.
+AT&T is not able to provide further breakdown of this data as requested, as it is proprietary and confidential.
+For more information, please see our Network Quality & Reliability issue brief.
+TC-TL-130a.1
+AT&T is one of the largest corporate purchasers of renewable energy in the U.S. and we’ll continue to expand our portfolio, where feasible. As part of our previous commitment to purchase more than 1.5 gigawatts of renewable energy capacity domestically, in 2020 we announced an agreement representing 500 megawatts of solar energy – the largest U.S. corporate solar energy deal to date.
+The estimated energy production of our domestic renewable energy portfolio is more than 2.3 GWh annually, with more than 4.7 million kWh coming from on-site sources and more than 2.31 billion kWh from our off-site solar and wind contracts currently in production.
+In Argentina, we’ve reached a 1,200 MWh/year agreement to contribute renewable energy to the grid supporting our DIRECTV central office through 2025. And in Mexico, we’re implementing a 40 GWh/year agreement to supply renewable energy to approximately 1,200 network sites.
+For more information on AT&T’s energy use and programs, visit our Energy Management issue brief.
+
+TC-TL-220a.1
+Description of policies and practices relating to behavioral advertising and customer privacy
+AT&T privacy policies associated with the company’s apps and services are accessible directly from within those apps and through other appropriate means, such as the website of the service. Through these policies, consumers can learn about their choices for opting out of certain data collection and marketing programs, such as behavioral advertising. Consumers can view the AT&T Privacy Center, WarnerMedia Privacy Center, Warner Bros. Privacy Center and the Xandr Privacy Center online. Also, consumers can send questions or feedback on our privacy policies at any time, either by emailing privacypolicy@att.com or writing us at AT&T Privacy Policy, Chief Privacy Office, 208 S. Akard St., Room 2100, Dallas, TX 75202. Likewise, when we make material updates to our privacy policies, we notify our consumers (via their bill, direct mail, email and text) and provide them with resources to understand the changes made.
+AT&T is committed to compliance with all privacy laws and regulations in domestic and international markets where we operate. Our Privacy Center includes a Global Approach section, with links to details about our compliance with regulations in different geographic areas, such as the European Union, Brazil and New Zealand. This section is updated regularly when new privacy laws are enacted.
+WarnerMedia’s advertising unit, Xandr, optimizes media spend across TV and digital properties, for buyers and sellers. As part of our efforts to boost transparency, we offer an Online Advertising & Ad Tech Glossary to educate consumers on the advertising industry’s many technical terms. We ensure the data Xandr collects does not reflect names, email addresses or other information that directly identifies a user.
+For more information on AT&T’s data protection and security practices, please see our Privacy issue brief.
+TC-TL-220a.2
+Percentage of users whose customer information is collected for secondary purposes
+ 
+AT&T is not able to provide this data, as it is proprietary and confidential.
+TC-TL-220a.3
+Total amount of monetary losses as a result of legal proceedings associated with customer privacy
+AT&T is not able to provide this data, as it is proprietary and confidential.
+TC-TL-220a.4
+Twice a year, we issue a Transparency Report listing the number and types of government and law enforcement demands received during the prior 6 months.
+The report includes U.S. and international requests and lists the number and types of demands to which we responded, and for which no data was provided.
+AT&T does not currently disclose the number of individual customers whose records were requested.
+Reports from 2014 forward are published online, and since July 2017 have been made available in English, Spanish and Portuguese.
+TC-TL-230a.1
+We work hard to safeguard the privacy of consumer and employee information. However, there are occasions when unauthorized parties attempt to gain access to our consumers’ or employees’ information. In partnership with stakeholders such as the AT&T Chief Security Office, our Corporate Compliance Office provides consistent oversight and guidance of privacy incidents, including periodic testing of incident response plans. The AT&T incident response teams follow a carefully designed governance structure and response process for these incidents, investigating suspected breaches and evaluating their potential impact. If we determine that a data breach has occurred, we will notify affected consumers and authorities as required by applicable law.
+For more information on AT&T’s data protection and security practices, please see the AT&T Privacy Center website and our Privacy issue brief.
+TC-TL-230a.2
+Description of approach to identifying and addressing data security risks, including use of third-party cybersecurity standards
+AT&T has developed and maintains the AT&T Security Policy and Requirements (ASPR), a set of security control standards based in part on leading industry standards such as ISO/IEC 27001:2013. ASPR aligns to laws and standards such as the National Institute of Standards and Technology (NIST) Cybersecurity Framework and NIST 800-53, as well as the European Union’s General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA) and Criminal Justice Information Services (CJIS).
+AT&T also performs annual third-party certifications/audits – such as those for the payment card industry, Sarbanes-Oxley Act (SOX) and SSAE 18/ISAE 3402 (SOC) – to demonstrate compliance to our customers and our stakeholders.
+AT&T maintains 2 global ISO 27001 certifications. The scope of these certifications covers the AT&T global IP infrastructure and certain customer-facing products and services.
+For details on our managerial approach to security, please see our Network & Data Security issue brief.
+TC-TL-440a.1
+Materials recovered through take-back programs, percentage of recovered materials that are:
+Materials from take-back programs:
+To ensure responsible recycling, all our device recycling and salvage vendors in the U.S. are R2 certiﬁed. In Latin America, we have supported the training and certification of 4 e-waste recycling vendors on the R2 Standard, and 3 of those vendors were the first certified plants in their countries – helping raise the bar for the e-waste recycling industry in the region. The R2 Standard for electronics recycling and refurbishment facilities covers areas such as worker health and safety, environmental protection, chain-of-custody reporting and data security.
+AT&T works with Sustainable Electronics Recycling International (SERI), the housing body for the R2 Standard. We participate on SERI’s R2 Technical Advisory Committee, which works to develop standards updates that maintain leadership in the electronics recycling value chain.
+For more information, please visit our Product Life Cycle and Waste Management issue briefs.
+TC-TL-520a.1
+Total amount of monetary losses as a result of legal proceedings associated with anticompetitive behavior regulations
+For the fiscal year 2020, AT&T had no material losses related to litigation or to non-appealable regulatory decisions involving anti-competitive behavior.
+TC-TL-520a.2
+AT&T does not favor certain websites or internet applications by blocking or throttling lawful internet traffic on the basis of content, application, service, user or use of nonharmful devices on its broadband internet access services.
+In the provisioning of broadband internet access services, AT&T does not directly or indirectly favor some traffic over other traffic in exchange for consideration from a third party or to benefit an affiliate, except to address the needs of emergency communications, law enforcement, public safety (including FirstNet) or national security authorities, consistent with or as permitted by applicable law.
+For more information on our approach to network traffic management, see the AT&T Broadband Information: Network Practices webpage.
+For information on the expected and actual performance of our wireline and mobility network services, see the AT&T Broadband Information: Performance Characteristics webpage.
+TC-TL-520a.3
+Discussion of risks and opportunities associated with net neutrality, paid peering, zero rating and related practices
+For information on the topics, see AT&T’s public policy statements about net neutrality and network-to-network connections on the AT&T Public Policy Blog, and the AT&T Global IP Network Peering Policy.
+TC-TL-550a.1
+TC-TL-550a.2
+Description of systems to provide unimpeded service during service interruptions
+At AT&T, we design our network and operations to be resilient – so we’re prepared to provide essential communications and data connectivity for our customers and communities, even before disaster strikes. Our global team of certified and experienced business continuity experts, led by our President of Technology and Operations, works to maintain operations of key business processes by utilizing documented business continuity strategies, plans and procedures that are updated and exercised on an annual basis. Regular reports on our business continuity efforts are shared with the Audit Committee of the AT&T Board of Directors.
+The AT&T Business Continuity Management Program is certiﬁed to the international business continuity standard, ISO 22301:2012. It is also aligned with the Disaster Recovery Institute International (DRII) Professional Practices, Business Continuity Institute Good Practice Guidelines, Department of Homeland Security National Incident Management System and ISO 31000. Our alignment with these standards demonstrates our ability to resume business operations and deliver customer service in the vital hours and days after a disaster.
+We collect billions of service-assurance measurements across our wired and wireless network every hour and make adjustments as needed to improve service. We aggregate and analyze this data in near real-time to derive insights that help manage our network and improve customer experience. To learn about our network management policies, see our Network Practices.
+If disruption occurs, network technicians – and if needed, our Network Disaster Recovery personnel and fleet – are deployed to rapidly restore communications to affected areas.
+For additional details on our managerial approach, please see our Network Quality & Reliability issue brief.
+SASB Code(s)
+SASB Requested Metric(s)
+AT&T Response
+SV-ME-000.A
+Total video connections: 28.103 million
+Subscribers to cable networks:
+HBO (including HBO Max): 60.613 million globally
+For more information, please see our Q4 2020 Investor Briefing and our 2020 Corporate Annual Report.
+Circulation for magazines and newspapers is not applicable to AT&T.
+SV-ME-000.B
+Total number of media productions and publications
+Warner Bros. library includes more than 120,000 hours of programming:
+For more information, please see our 2020 10-K.
+SV-ME-260a.1
+For a breakout of this data for U.S. management and front-line employees, please see our Diversity & Inclusion website.
+SV-ME-260a.2
+Description of policies and procedures to ensuring pluralism in news media content
+The AT&T Human Rights Policy states, “The role of a free press is fundamental to ensuring the security of human rights. At AT&T we consider the commitment to a free press to be a core value that is central to our mission. We will safeguard editorial independence and we will support efforts to ensure and advance freedom of expression across our platforms around the world.”
+Our news organization, CNN, is committed to diversity across all screens and behind-the-scenes, and we actively invest in diversity recruiting and development programs. As demonstrated by our varied team of anchors, correspondents, producers, editors, contributors and guests around the globe, we know that to report the facts and uncover the truth, diverse perspectives are essential.
+At CNN, we do not appeal to a specific point of view or political constituency. To the contrary, our reporters, producers, editors and writers aim for comprehensive journalism which is enriched by the diversity of our employees. In our news coverage, we strive to present the whole story, fairly and completely, so that readers and viewers may come to their own conclusions. And in our presentation of opinion and analysis, we strive to represent a range of viewpoints.
+Our CNN website clearly identifies CNN’s parent company, WarnerMedia, a subsidiary of AT&T. And when CNN covers stories addressing AT&T, WarnerMedia or sister brands, we clearly disclose such relationships.
+For more information, please see our Media Pluralism, Ethics & Integrity issue brief.
+SV-ME-270a.1
+Total amount of monetary losses as a result of legal proceedings associated with libel or slander
+AT&T is not able to provide this data, as it is proprietary and confidential.
+SV-ME-270a.2
+Revenue from embedded advertising
+AT&T is not able to provide this data, as it is proprietary and confidential.
+Periodically, third-party branded products and/or services may appear or be referenced in WarnerMedia productions. In some cases, they are added by the content creators as organic set elements relative to the environment or storyline. This brand inclusion generally does not involve compensation or consideration from the brand. In other instances, either the content creator or WarnerMedia may enter into a brand partnership with an advertiser and incorporate a product and/or service within a relevant storyline.
+In certain instances, these brand placements may be part of a larger media purchase. When done thoughtfully, the inclusion of brands in content can benefit multiple parties:
+SV-ME-270a.3
+Our commitment to responsible, fair and accurate journalism guides our news business. At CNN, we practice and defend the highest principles of journalistic integrity and ethical standards. In our news coverage, our journalists present the story fairly and completely so readers and viewers can make informed decisions. This commitment reﬂects one of our core company values – to embrace freedom – which we apply to press, speech and beliefs. The Executive Vice President of Standards and Practices at CNN Worldwide is responsible for ensuring reporting is fair and accurate, and reports directly to the President of CNN Worldwide, who is also the Chairman of WarnerMedia News and Sports.
+Our reporters, producers, writers and editors work to conﬁrm the facts before publishing articles on CNN digital or airing stories on CNN television. Fairness, integrity, diversity and accuracy are of the utmost importance to the CNN brand, and systems are in place to maintain them. Producers and editors thoroughly review stories, and those involving particularly sensitive topics are further reviewed by a team of senior editors, standards and practices executives, and attorneys before broadcast or publishing. In all cases, we hold our journalists to the highest standards of ethics, accuracy and integrity.
+Responsible and ethical journalism means that the CNN editorial staff maintains full editorial decision-making for any segments or programs that our advertisers sponsor. Our journalists also report on and scrutinize our advertisers, other business partners and our parent company as they would for any other company.
+CNN conducts extensive and ongoing training to ensure employees connected to news gathering and reporting are fully aware of the scope and complexity of privacy law and the associated obligations toward confidentiality of news sources. Each news topic or situation involves unique circumstances that are addressed individually in connection with our legal and ethics teams.
+For more information, please see our Media Pluralism, Ethics & Journalistic Integrity issue brief the WarnerMedia Standards of Business Conduct.
+SV-ME-520a.1
+Description of approach to ensuring intellectual property (IP) protection
+AT&T’s patent portfolio is regularly regarded as one of the strongest in the world, and through our WarnerMedia division we own a library of audiovisual content widely considered among the most valuable in the entertainment industry.
+We create, own, and distribute intellectual property, including material protected by copyrights, registered or unregistered trademarks, trade names, patents, trade secrets or other proprietary rights (“Intellectual Property”). To protect this Intellectual Property, we rely on a combination of laws, license agreements, robust registration and enforcement, and the responsible actions of our employees.
+For more information about AT&T’s Intellectual Property portfolio and approach, please visit the AT&T Intellectual Property website, the AT&T Code of Business Conduct, and the WarnerMedia Standards of Business Conduct.
+
+ 
+ 
+ 
+ 
+ 
+We want to hear from you!

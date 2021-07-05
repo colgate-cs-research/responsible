@@ -1,0 +1,203 @@
+##LINK: https://www.zdnet.com/article/the-real-purpose-of-net-neutrality/
+##KEYWORDS: net neutrality
+##TITLE: The real purpose of net neutrality | ZDNet
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        By
+                                 
+ Dana Blankenhorn 
+ 
+            
+                    
+                    for  Linux and Open Source 
+        
+        
+                                                        
+                                                    |                 November 22, 2010 -- 06:10 GMT (22:10 PST) 
+            
+                                        | Topic:  Telcos 
+ 
+ 
+ 
+ 
+ 
+ Zach Whittaker is  very upset  over the possible  end of net neutrality in the UK .
+ 
+ But America is not  England .
+ 
+ Unlike America's carriers, British Telecom  wholesales  its capacity to others. This gives consumers a choice among ISPs using the phone lines.
+ 
+ Wholesaling was one intent of the 1996 Telecommunications Act, but that act was tossed in the dustbin by carrier lobbying over the last decade. So if an American wants Internet service over their phone line they have one choice. Same if you want it over your cable. Carriers here have a bottleneck on the last mile.
+ 
+ The result is a duopoly, in areas without cable service a monopoly. An end to network neutrality here would put carriers in the position of railroads back in the 1880s, which could strangle producers or whole towns by manipulating rates, and did.
+ 
+ Back in the 20th century, of course, we had many, many choices for ISP service. Some emphasized speed. Others emphasized value. Still others sold censorship.
+ 
+ That's right. There was a market out there for censored ISP content. Religious groups, and folks affiliated with them, wanted someone to maintain a content filter for them. So there were companies that wholesaled Internet capacity from the Bells, filtered out the rough stuff, and resold it.
+ 
+ 
+ 
+ 
+ 
+ Such was never my cup of bits, but if that's what you want I don't think the market should deny it to you. So long as you have other choices it's a good thing.
+ 
+ If American regulators simply demanded wholesaling by phone and cable operators, as well as wireless companies, it would not have to  act on net neutrality . (If you get your cellular service from  Virgin Mobile , you're using a re-seller.) The market would do the job.
+ 
+ If a company like Fox then wanted to offer itself as an ISP, re-selling phone or cable capacity and favoring its programs over others, I would be all in favor of it. If companies were free to wholesale the Bells' and cable operators' wires, I suspect the Bells and cable companies would actually make more money. I think there's an unmet demand here for differentiated services of all sorts, one we should test.
+ 
+ But that's not how it works here. It's how it works there.
+ 
+ So if you give me Britain's present situation and say, "no network neutrality," I'm going to cheer. Bring it to America, guys. Let's have an open, competitive market for bits, one in which ISPs and customers are free to shape services as they see fit.
+ 
+ But first, require wholesaling.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Topics: 
+ 
+                    Security
+                 
+ 
+                    Tech Industry
+                 
+ 
+                    Networking
+                 
+ 
+                    NBN
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        By
+                                 
+ Dana Blankenhorn 
+ 
+            
+                    
+                    for  Linux and Open Source 
+        
+        
+                                                        
+                                                    |                 November 22, 2010 -- 06:10 GMT (22:10 PST) 
+            
+                                        | Topic:  Telcos 
+ 
+ 
+ 

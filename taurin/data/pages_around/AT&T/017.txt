@@ -1,0 +1,196 @@
+##LINK: https://www.networkworld.com/article/2302490/at-t-pledges-net-neutrality-to-seal-bellsouth-deal.html
+##KEYWORDS: net neutrality
+##TITLE: AT&T pledges net neutrality to seal BellSouth deal  | Network World
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Data Center 
+ Servers 
+ 
+ 
+ 
+ AT&T pledges net neutrality to seal BellSouth deal  
+ 
+ 
+ The long awaited $86 billion deal is complete… so what now? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By  Denise Pappalardo 
+ 
+ 
+ Network World   | 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AT&T  finally completed its $86 billion acquisition of  BellSouth  after receiving long-delayed  FCC approval in late December.  But the deal didn’t get the final nod without a lot of concessions from AT&T -- concessions that have implications for enterprise customers and the industry at large. Read on for answers to some common questions surrounding the deal and potential fallout. Also,  check out our related story  for details about the contents of AT&T’s 20-page concession document. What’s the big deal about the concessions AT&T voluntarily made to the FCC? 
+ The most notable of AT&T’s many concessions are related to net neutrality. The carrier essentially agreed not to charge content providers such as eBay, Amazon or  Google  a premium to carry their content. AT&T also committed to not treat packets traveling to or from certain Web sites differently than other packets on its network. These concessions go along with principles the FCC set forth in fall of 2005. How might AT&T’s concessions affect the rest of the industry? Industry watchers believe other ISPs will have to follow AT&T's lead. The FCC could hold other ISPs to the standard set by AT&T over the next three years.   What are FCC Chairman Kevin Martin’s views regarding net neutrality? 
+ Martin and Commissioner Deborah Taylor Tate  issued a joint statement  following the FCC approval of AT&T’s merger.   Not only does Martin believe “the conditions regarding net neutrality have very little to do with the merger at hand,” he and Tate say the concessions “very well may cause greater problems than the speculative problems they seek to address.” Essentially, Martin says there isn’t a net neutrality issue. He calls net neutrality an “ill-defined problem.” Beyond net neutrality, what other concessions are significant? AT&T agreed not to raise T-1 and T-3 prices in BellSouth territories for two years. The carrier also says it will offer DSL services to new customers at reduced prices starting at $10 per month. What happens to Cingular Wireless?   AT&T is now full owner of the largest wireless service provider in the United States. Cingular was jointly owned by AT&T and BellSouth. The carrier says it will immediately start selling bundled wireless and wireline services to customers. What happens to the BellSouth and Cingular brands? AT&T says BellSouth will be known as AT&T Southeast. Cingular branding will be announced at a later date, the carrier says. But it’s likely Cingular will become AT&T Wireless, again. How big is AT&T post-merger?   The carrier says its revenue will be about $29.3 billion based on third quarter 2006 figures for all divisions. Cingular has 58.7 million subscribers; AT&T has 67.5 million access lines in service and says it has data service revenues of $5.86 billion. AT&T also says its business customer base represents users from all Fortune 1000 companies. What happens to Duane Ackerman, CEO at BellSouth? Ackerman will serve as chairman emeritus for a period of time to help with the transition. Edward Whitacre will remain chairman and CEO of AT&T. Learn more about this topic AT&T's big buy could mean new bundles 01/02/07 Is the FCC pining for the good old days? 01/02/07 AT&T offers more concessions for BellSouth acquisition 12/29/06 With FCC approval, AT&T closes BellSouth acquisition 01/02/07 AT&T to buy BellSouth in $67 billion deal 03/06/06   
+ 
+ 
+ Join the Network World communities on  Facebook  and  LinkedIn  to comment on topics that are top of mind.   
+ 
+ 
+ 
+ 
+ Related:  
+ 
+ Server 
+ Mergers and Acquisitions 
+ Regulation 
+ Internet Service Providers 
+ AT&T 
+ 
+ 
+ 
+ 
+ Denise Pappalardo is a Senior Editor at Network World covering service providers. 
+ 
+ 
+ Follow 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2007  IDG Communications, Inc. 
+ 
+ 
+ 
+ 
+ 
+   Learn how IT leaders are building cyberdefenses. Attend CSO's Future of Cybersecurity & Trust Summit-7/20-7/22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		 
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

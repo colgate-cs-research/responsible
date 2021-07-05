@@ -1,0 +1,27 @@
+##LINK: https://hightechforum.org/californias-unlawful-net-neutrality-law/
+##KEYWORDS: open Internet,zero-rating
+##TITLE: California's Unlawful Net Neutrality Law - High Tech Forum
+##METHOD: paragraphs
+
+You can't regulate what you don't understand
+It’s hard for state legislators to get attention from the voters. Most Americans can’t name the people who represent us in Congress, and almost nobody can name their state legislators. With term limits in effect in fifteen states, state legislators have an increased need to seek higher office but no name recognition to run on.
+Add in the need to identify as part of the Trump Resistance in blue states, and it becomes clear that legislatures can’t always be concerned with such niceties as constitutional limits on their authority. Policy reasons aside, these two facts alone explain why term limited legislatures would want to enact symbolic measures that grab headlines for their authors.
+California hopped aboard the Resistance bandwagon last Sunday when governor Brown signed his legislature’s net neutrality bill despite its dubious effect on consumers and its apparent illegality. California is a wonderful place, but its legislature does not have the authority to ignore the U. S. Constitution’s Commerce and Supremacy Clauses.
+The Internet is obviously intertwined with interstate (and even global) commerce. Amazon and Walmart are enormous retail powers, and they both engage in commerce in every part of the US through the Internet. Similarly, Google and Facebook sell Internet ads to business across the nation and Apple and Microsoft sell Internet-oriented products all over the world.
+Telecommunications is a global business, and so is broadband Internet service. Consequently, the regulation of ISPs is a federal prerogative delegated to the FCC by the 1934 Communications Act.
+The FCC updated its Internet regulations in December, and in so doing it expressly forbade states from enacting their own regulations on ISPs. Proponents of the California law are telling journalists they’ve found a loophole that devolves regulatory power to the states, but no such loophole exists.
+The California law was largely written by Professor Barbara van Schewick, director of the Silicon Valley-based Stanford Center for Internet and Society. Her defense of the law lacks conviction:
+Faced with the fact that Section 706(a) of the Communications Act gives the FCC authority to preempt state laws that impose unnecessary regulations on the Internet economy, van Schewick and other supporters of the California law claim that case law supports their position: “Courts have consistently held that when the federal government lacks authority to regulate, it cannot preempt states from regulating.”
+But the RIF order had no impact in the FCC’s authority to regulate the Internet or to choose a fundamentally deregulatory policy for it. In either case, states are required to abide by its regulations as long as they are in effect. This displeases the Resistance, so they’re looking for ways to hedge.
+Congresswoman Eshoo and others have claimed the FCC created a void that must be filled by the states:
+The void created by the FCC when the Commission walked away from net neutrality is vast and we’ve already witnessed examples of some of the worst practices that can take place without clear Net Neutrality laws, including the throttling of Santa Clara County Fire’s data services during the largest fire in California history.- Eshoo
+The Trump administration’s decision to sue the state of California just for stepping in to fill the void created when Ajit Pai wrongly took away these congressionally granted rights is unfortunate and hypocritical in the extreme. – Matt Wood, Free Press
+Gigi Sohn also claims that California simply reinstated the 2015 Open Internet order when it actually went far beyond it:
+[SB 822] completely reinstates the 2015 Open Internet Order, including protections for interconnection and against anticompetitive and anti-consumer zero rating practices.
+In fact, the provisions requiring free interconnection, favored by transit operator Cogent Communications, and banning free data were not parts of the 2015 Order and are neither favored by nor beneficial to consumers. All of this is simply unlawful.
+California’s SB 822 net neutrality law is a symbolic measure that doesn’t stand a chance in court. If this were not the case, advocates would be happy to cite specific case law that supports their positions.
+Instead, they prefer to misstate the terms of the RIF order and tout the claim that most consumers are overjoyed with California’s legislative action. The Justice Department has already filed suit to block the law, so this is the time for supporters to bring forward the case law they claim supports their position.
+Don’t hold your breath waiting for that.
+ 
+Editor, High Tech Forum
+Never miss a post! Enter your email address to receive a biweekly newsletter of the latest HTF updates.

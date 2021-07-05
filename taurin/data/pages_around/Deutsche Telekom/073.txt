@@ -1,0 +1,53 @@
+##LINK: https://zerorating.wordpress.com/germany/
+##KEYWORDS: zero-rating
+##TITLE: Germany – Zero Rating
+##METHOD: article 1
+
+
+
+ 
+ Germany   
+ 
+ Is there net neutrality regulation?  
+ Yes. See EU Regulation 2015/2120  http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120  and BEREC Guidelines on the Implementation by National Regulators of European Net Neutrality Rules  http://berec.europa.eu/eng/document_register/subject_matter/berec/download/0/6160-berec-guidelines-on-the-implementation-b_0.pdf 
+ Has any national regulator issued any regulation regarding zero rating?  
+ No. ‘BNetzA is validating the offers from Telekom and Vodafone On 16 May 2017 the German regulator (Bundesnetzagentur) opened an investigation to assess the compatibility of a wide range of music and video zero-rated offerings with Regulation 2120/2015  https://www.golem.de/news/zero-rating-bundesnetzagentur-beginnt-pruefung-von-telekoms-streamon-1705-127848.html 
+ Is zero rating permitted by the national regulation or tolerated by the national regulator?  
+ Yes. 
+ Name of the operators implementing zero rating offerings: 
+ Deutsche Telekom; Vodafone. 
+ Are the operators zero-rating specific services (e.g. only Whatsapp) or classes of services (e.g. all instant messaging apps)? 
+ Deutsche Telekom – 
+  all video applications; 
+ Vodafone – 
+ Specific classes of services. 
+   In case only specific services are zero rated, what are the zero rated services? 
+ Deutsche Telekom – 
+  all video applications; 
+ Vodafone – 
+ four categories: Chat, Social, Music, Video. 
+ Is the zero-rated service throttled or blocked after the data volume is exceeded? 
+ Deutsche Telekom and Vodafone – 
+ Services keep being zero rated after data cap is reached 
+ Is the user signing up for free (e.g. zero rated services are bundled with specific offerings) or is the zero rating offering? 
+ Deutsche Telekom – 
+ it is coming with a cost 
+ Vodafone – 
+ first class is free, each other class cost 5€/month 
+ Is the Content of Application  Provider paying to be zero-rated? 
+ — 
+ Is the zero rating offering time-limited? 
+ — 
+ Internet penetration level: 
+ In Oct/2019, 96.0% per IWS  https://www.internetworldstats.com/stats4.htm 
+ Is there data protection regulation in the country? 
+ Yes.  General Data Protection Regulation  (EU) 2016/679 (“GDPR”)  https://eur-lex.europa.eu/eli/reg/2016/679/oj 
+ Name of the person providing information (optional): 
+ — 
+   
+ 
+ 
+   
+ Compartilhe isso: Twitter Facebook Like this: Like   Loading...   
+ 
+ 

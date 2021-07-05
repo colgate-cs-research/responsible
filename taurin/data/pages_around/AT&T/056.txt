@@ -1,0 +1,219 @@
+##LINK: https://www.computerworld.com/article/2766983/at-t-offers-new-position-on-net-neutrality.html
+##KEYWORDS: open Internet
+##TITLE: AT&T offers new position on net neutrality | Computerworld
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ IT Leadership 
+ 
+ 
+ News 
+ AT&T offers new position on net neutrality 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By  Grant Gross 
+ 
+ 
+						
+							Senior Editor, 
+								
+									
+								
+
+
+
+
+
+
+
+
+
+
+
+
+ IDG News Service   | 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The U.S. Federal Communications Commission should back away from creating strict nondiscrimination rules requiring broadband service providers to carry all Internet content and applications, because such net neutrality rules could hurt investment in networks, AT&T told the FCC Tuesday. AT&T, a longtime opponent of strong net neutrality rules, nevertheless suggests in  a letter to the FCC  that "preserving the open character of the Internet is critically important to ensuring that all consumers have the opportunity to be creators of content and innovators from their homes or their garages." However, the FCC shouldn't prohibit broadband providers from entering into commercial agreements in which they provide "value-added" broadband services to some Internet companies, AT&T said.  
+ And the agency should balance the open Internet principles with policies that "preserve and expand incentives that drive the substantial private investment necessary so that the promise of the Internet is fully realized and maximally available," wrote James Cicconi, AT&T's senior executive vice president for external and legislative affairs.  The FCC in October voted to open a rulemaking process that would create formal net neutrality rules. While AT&T's letter appears to be a new approach for the company, some net neutrality supporters said the letter doesn't outline a major change in the company's position. In the letter, AT&T says the FCC would focus on "unreasonable and anticompetitive" forms of Internet content discrimination, instead of enforcing broad rules prohibiting discrimination against Web content and applications, Cicconi wrote. "A strict nondiscrimination rule could inadvertently limit the availability of creative and innovative services that consumers may want to purchase," he added. "Worse still, a strict nondiscrimination rule would completely ban voluntary commercial agreements for the paid provision of certain value-added broadband services."   Ben Scott, policy director at advocacy group Free Press, called the AT&T proposal an attempt to "cajole a toothless" net neutrality rule out of the FCC. 
+ "After leading a rabid anti-net neutrality lobbying campaign for years, AT&T now submits a letter to the Federal Communications Commission purporting to offer common ground," Scott said in a statement. "What they are proposing would allow them to violate the core principle of Net Neutrality -- letting them control the Internet by picking winners and losers in a pay-for-play scheme. That would destroy the free and open Internet, and the FCC should reject this false compromise out of hand."   Public Knowledge, another group supporting net neutrality rules, also discounted the AT&T letter.  "AT&T has tried to draw what is an imaginary line among types of discrimination," Gigi Sohn, president of Public Knowledge, said in a statement. "The company advised the FCC that while 'unreasonable' discrimination can be banned, any discrimination caused by 'voluntary commercial agreements' is just fine because the parties involved agreed to it. That is nonsense." Those kinds of "side deals" between broadband providers and content providers would take control of the Internet experience out of the hands of consumers, Sohn added. 
+ 
+ 
+ 
+ 
+ 
+ Related:  
+ 
+ IT Leadership 
+ Networking 
+ Computers and Peripherals 
+ 
+ 
+ 
+ 
+ Grant Gross edits and assigns stories and writes about technology and telecom policy in the U.S. government for the IDG News Service. He is based outside of Washington, D.C. 
+ 
+ 
+ Follow 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2009  IDG Communications, Inc. 
+ 
+ 
+ 
+ 
+ 
+   Learn how IT leaders are building cyberdefenses. Attend CSO's Future of Cybersecurity & Trust Summit-7/20-7/22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		 
+		 
+ 
+ 
+ 
+ Shop Tech Products at Amazon 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

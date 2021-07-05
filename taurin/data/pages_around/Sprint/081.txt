@@ -1,0 +1,173 @@
+##LINK: https://boingboing.net/2016/05/24/as-mobile-carriers-ramp-up-bri.html
+##KEYWORDS: zero-rating
+##TITLE: As mobile carriers ramp up bribery program, Internet coalition says no to "zero rating" | Boing Boing
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ As mobile carriers ramp up bribery program, Internet coalition says no to "zero rating" 
+ 
+ 
+Cory Doctorow 
+ 
+ 
+10:44 am Tue  
+ 
+May 24, 2016  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"Zero rating" is a widely practiced business among mobile carriers: they solicit bribes from Internet companies in return for their services being exempted from the carriers' data-caps — products from companies that pay the bribes can be used for free, while a billing meter ticks for every bit downloaded from their competitors. 
+ 
+The FCC has banned this practice under its rules for landline ISPs, but the regulation is less clear in the world of mobile data. Sprint is the latest carrier to jump on the bribery bandwagon, announcing that videos from FuboTV, a subscription soccer service, will not count against its customers' data budgets. Sprint joins Verizon and AT&T in soliciting bribes for preferential carriage on its networks. 
+ 
+Perhaps not coincidentally, more than 50 technology companies and public interest groups, including Medium, Mozilla, Tumblr and Kickstarter, have sent  an open letter to the FCC  decrying the practice as both unethical and illegal. 
+ 
+The fight echoes the all-out policy war over Zero Rating in India, where Facebook argued that its policy of bribing carriers to deliver services of its choosing for free would benefit poor people. Net neutrality advocates disagreed, calling this  a poor Internet for poor people . They prevailed. 
+ 
+ 
+Open internet advocates argue that zero-rated wireless plans disproportionately affect low-income communities and communities of color, who are more likely to rely on mobile networks to access the internet. In other words, to the extent that zero-rating harms internet openness, the effect of those harms will be felt most acutely by poor people. 
+ 
+"Poor people, communities of color, and people who have been pushed to the margins of society need equal and affordable access to the whole internet, not just these companies' preferred portions of it," Malkia Cyril, co-founder and director of the Center for Media Justice, told Motherboard in a recent interview. 
+ 
+The FCC has been holding discussions with some of the nation's largest broadband companies about their zero-rating practices, but the agency has thus far been tight-lipped about what action, if any, it will take to address the concerns of open internet advocates.
+ 
+ Medium, Mozilla, and Kickstarter Signed a Letter Against Zero-Rating 
+  [Sam Gustin/Motherboard]  
+ 
+ Sprint now zero-rating some video, joining AT&T, Verizon, and T-Mobile 
+  [Jon Brodkin/Ars Technica] 
+ 
+( Image:  Did You Say "Bribe"? ,  Stockmonkeys , CC-BY ) 
+ 
+ 
+ 
+ 
+ TWEET 
+ 
+  COMMENTS   
+ 
+ cable company fuckery 
+ mobile 
+ mozilla 
+ new neutrality 
+ picks 
+ poor internet for poor people 
+ zero rating 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TRUMP IMPEACHED for historic 2nd time, majority of House votes to impeach on 'incitement of insurrection'  
+ 
+ 
+ 
+ 
+ 
+ 
+PRESIDENT TRUMP IMPEACHED FOR INCITING 1/6 CAPITOL RIOT A majority of the U.S. House of Representatives has voted to impeach President Donald J. Trump a historic second time, on charges of 'incitement of insurrection.' The final vote was 232 for and 197 against impeachment with five not voting. 222 Democrats and 10 Republicans voted for…  READ THE REST 
+ 
+ 
+ 
+ 
+ 
+ 
+Judiciary Committee report on impeachment argues for charging Trump with 'willful incitement of insurrection' [READ IT]  
+ 
+ 
+ 
+ 
+ 
+ 
+The House Judiciary Committee released a staff report on impeachment late on Tuesday, which details the factual and constitutional case for charging President Donald J. Trump with "willful incitement of insurrection." Here is the report [https://judiciary.house.gov]. Excerpt: President Trump invited his political supporters to Washington, D.C. on January 6, 2021, the day fixed by law…  READ THE REST 
+ 
+ 
+ 
+ 
+ 
+ 
+GOP Rep. Adam Kinsinger of Illinois will vote to impeach Trump, 3rd Republican House member to commit  
+ 
+ 
+ 
+ 
+ 
+ 
+"I will vote in favor of impeachment." Another one. Adam Kinzinger (R-Illinois) will vote for impeachment. "If these actions–the Article II branch inciting a deadly insurrection against the Article I branch–are not worthy of impeachment, then what is an impeachable offense?," asks Republican @RepKinzinger. "I will vote in favor of impeachment." Previously: Liz Cheney. Rep.…  READ THE REST 
+ 
+ 
+ 
+ 
+ 
+ 
+Babbel isn't just learning a new language. It's learning something new about your world.  
+ 
+ 
+ 
+ 
+ 
+ 
+Learning a foreign language has become a lost art in the U.S. Only 20 percent of K-12 students in America study a language other than English, and learning a foreign language is a graduation requirement in only 10 states. Meanwhile, more than 92 percent of Europe's kids are bilingual, trilingual, or just full-on polyglots. If…  READ THE REST 
+ 
+ 
+ 
+ 
+ 
+ 
+Get your dog started on a plant-based dog food they'll actually love for just $5  
+ 
+ 
+ 
+ 
+ 
+ 
+With everyone doing their best to look out for our planet and buy eco-friendly products, you might be surprised at the role another member of your family could be playing in that more sustainable future. Yep, your dog could be doing a lot more to help the push to a greener world. Hey, we're gonna assume…  READ THE REST 
+ 
+ 
+ 
+ 
+ 
+ 
+The Aeva hydroponic grow system is holistic, eco-friendly, classy, and artistic all at once  
+ 
+ 
+ 
+ 
+ 
+ 
+For centuries, humans have grown food under one basic principle: so long as the ground is fertile, we can produce and thrive. The viability of soil for growing food crops and other basic necessities is universal and has guided choices about where people should settle, which communities grew and which were abandoned, and set the…  READ THE REST 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 

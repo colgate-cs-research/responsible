@@ -1,0 +1,452 @@
+##LINK: https://www.vox.com/2018/1/24/16925538/att-net-neutrality-ads-letter-congress-tech-fast-lanes-paid-prioritization
+##KEYWORDS: net neutrality,paid prioritization
+##TITLE: AT&T says it supports net neutrality — but it’s staying quiet on whether it could charge more for faster access - Vox
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ AT&T says it supports net neutrality — but it’s staying quiet on whether it could charge more for faster access 
+ 
+ It’s part of a new ad blitz, as the company suggests new regulation should target tech giants. 
+ 
+ 
+    
+      By
+       
+ Tony Romm @TonyRomm 
+ 
+ 
+ 
+          Jan 24, 2018, 12:01am EST
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this story 
+ 
+ 
+ 
+ 
+ Share this on Facebook 
+ 
+ 
+ 
+ 
+ 
+ Share this on Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options for: 
+ AT&T says it supports net neutrality — but it’s staying quiet on whether it could charge more for faster access 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pocket 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flipboard 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amir Levy / Getty 
+ 
+ 
+ 
+ 
+ This story is part of a group of stories called  
+ 
+ 
+ 
+ 
+ 
+    Uncovering and explaining how our digital world is changing — and changing us.
+   
+ 
+ 
+ AT&T embarked on a major ad blitz on Wednesday to stress its support for net neutrality, promising it would not block websites or degrade speeds based on the content that its customers consume. 
+ But the wireless giant’s pledge — appearing in major newspapers like the New York Times and the Washington Post — stayed mum on whether it might someday charge startups, tech giants and others for faster delivery of their sites and services, though AT&T has avoided such an idea in the past.  
+ And the company’s chief executive, Randall Stephenson, even suggested that any new regulations should target telecom giants as well as their tech counterparts, potentially including companies like Facebook, Google and Twitter — an idea likely to draw a sharp rebuke in Silicon Valley. 
+ AT&T’s public commitments follow roughly one month after the Trump administration quashed rules that required internet providers to treat all web traffic equally. Like its peers in the telecom industry, AT&T has maintained that it supported net neutrality — but always felt that federal regulations adopted under former President Barack Obama were too heavy-handed and crimped investment. 
+ For the moment, the FCC is finalizing its repeal, while court challenges — led by tech giants and consumer advocates — are beginning to materialize. In the meantime, though, AT&T said Wednesday in its open letter that it is still “committed to an open internet.” 
+ As Stephenson defined it: “We don’t block websites. We don’t censor online content. And we don’t throttle, discriminate or degrade network performance based on content. Period.” 
+ Absent from the company’s fresh pledge, however, was any explicit mention of “paid prioritization” — the idea that an internet service provider might offer or require tech giants and startups alike to pay for faster delivery of their streaming music, movies or other sites and services. Strong supporters of net neutrality long have derided these arrangements as “online fast lanes.” And some have feared that telecom giants like AT&T would pursue those deals in the coming months in the wake of FCC Chairman Ajit Pai’s repeal. 
+ Asked about the omission, a spokesman for AT&T pointed  Recode  to the company’s comments dating back to 2014, when it said it wanted to  ban some paid prioritization .  
+ Then, the only kinds of fast lanes that AT&T endorsed were those elected by consumers. It never panned out, but its  unique proposal at the time  might have allowed wireless customers to elect to receive their movies streamed faster than their music. Otherwise, AT&T and the rest of the telecom industry have always said that some paid prioritization is necessary, such as in the context of telemedicine. 
+ Meanwhile, Stephenson also on Wednesday called for Congress to write a new law governing net neutrality, putting an end to the bitter war at the FCC and in the federal court system over the agency’s authority to oversee the internet. Already, tech giants in Silicon Valley have filed or pledged to support a number of legal challenges in a bid to restore the agency’s net neutrality protections. 
+ But AT&T took aim at some of those very companies, suggesting that any new net neutrality law should govern not only telecom giants, but perhaps tech platforms, too. 
+ “Congressional action is needed to establish an ‘Internet Bill of Rights’ that applies to all internet companies and guarantees neutrality, transparency, openness, non-discrimination and privacy protection for all internet users,” Stephenson wrote.  
+ The AT&T executive did not mention any tech companies by name, but he added: “Legislation would not only ensure consumers’ rights are protected, but it would provide consistent rules of the road for all internet companies across all websites, content, devices and applications.” 
+ In recent months, conservatives around the country — including the likes of Republican Sen. Ted Cruz on Capitol Hill — have fumed at reports that they see as evidence that Silicon Valley is biased against them. Meanwhile, tech giants like Facebook, Google and Twitter certainly support net neutrality, but oppose any regulation of the content that appears on their sites and services.  
+ AT&T’s political salvo on Wednesday comes as the company continues to war with the Justice Department, which is challenging the wireless giant’s proposed merger with Time Warner. The deal, if it is allowed to proceed,  would greatly expand AT&T’s content offerings. 
+ 
+ This article originally appeared on Recode.net. 
+ 
+ 
+ Will you support Vox’s explanatory journalism? 
+ 
+    Millions turn to Vox to understand what’s happening in the news. Our mission has never been more vital than it is in this moment: to empower through understanding. Financial contributions from our readers are a critical part of supporting our resource-intensive work and help us keep our journalism free for all.  Please consider making a contribution to Vox today from as little as $3 .
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Next Up on
+    
+         Recode 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          The Latest
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Trump is nowhere to be found on the Twitter clone his former spokesperson launched 
+ Jason Miller’s new Gettr app has some issues. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Florida’s social media free speech law has been blocked for likely violating free speech laws 
+ The Florida law prevented certain platforms from banning political candidates. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How big business exploits small business 
+ Companies like Facebook and Uber say they’re supporting small businesses while squashing them. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Why some biologists and ecologists think social media is a risk to humanity 
+ One challenge is how little we know about the dangers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Worldcoin wants to give you cryptocurrency — in exchange for scanning your eyeballs 
+ Privacy experts aren’t so keen on the idea. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ More in The Latest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Latest on Vox 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Play 
+ 
+ 
+ 
+ 
+ How sperm got all the credit in the fertilization story 
+ 
+ 
+    
+      By
+       
+ Edward Vega 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ It’s incredibly hard to get a rape conviction. Bill Cosby’s release makes it feel pointless. 
+ 
+ 
+    
+      By
+       
+ Constance Grady 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Robots were supposed to take our jobs. Instead, they’re making them worse. 
+ 
+ 
+    
+      By
+       
+ Emily Stewart 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How to be a good ancestor 
+ 
+ 
+    
+      By
+       
+ Sigal Samuel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Trump is nowhere to be found on the Twitter clone his former spokesperson launched 
+ 
+ 
+    
+      By
+       
+ Shirin Ghaffary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The fascinating, horrifying history behind Steven Soderbergh’s new heist movie 
+ 
+ 
+    
+      By
+       
+ Alissa Wilkinson 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

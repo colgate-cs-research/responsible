@@ -1,0 +1,67 @@
+##LINK: https://www.telecompetitor.com/cogent-traffic-management-revelations-mean-net-neutrality-proposal/
+##KEYWORDS: net neutrality
+##TITLE: What Cogent Traffic Management Revelations Mean for Net Neutrality Proposal - Telecompetitor
+##METHOD: article 4
+
+
+
+ 
+ 
+ 
+ What Cogent Traffic Management Revelations Mean for Net Neutrality Proposal 
+ 
+ Posted on  November 7, 2014  by  Joan Engebretson   
+  Share 
+ 
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+   
+   
+ AT&T Comcast FCC Interconnection Peering Policy Verizon   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Home  »  What Cogent Traffic Management Revelations Mean for Net Neutrality Proposal   
+ While the FCC ponders whether to give itself tighter  control over the connections that Internet providers offer to websites , a kerfuffle involving Cogent Communications this week raises more questions about what the FCC might be taking on. 
+ Cogent VP of IP Engineering Hank Kilmer reportedly wrote in a post within a closed Internet forum that the company’s peering disputes with several consumer broadband providers caused performance to degrade not only for those providers but also for some other network operators. According to a report published by Ars Technica, when Cogent had to drop packets because of congestion on its connections to certain consumer broadband providers earlier this year,  Cogent dropped wholesale customers’ packets  before those of retail customers because retail customers tend to use applications such as VoIP that are most sensitive to delay. 
+ Cogent Traffic Management Revelations 
+Cogent critics say that move amounts to creating a  slow lane and a fast lane , suggesting that it is the exact sort of traffic prioritization that Net Neutrality advocates want to outlaw. On a phone call with Ars Technica Kilmer denied that the company created slow and fast lanes, saying that any dropped packets were promptly re-sent – although some might argue against any type of packet prioritization.   
+ Advertisement 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ Cogent’s congestion problems involving consumer broadband providers such as AT&T, Comcast and Verizon occurred because a key Cogent customer was Netflix, whose streaming media offering caused Cogent to send more traffic to those providers than it received from them. The broadband providers wanted Cogent to pay interconnection fees because of the traffic imbalance – a demand those providers said was standard industry practice in that situation. Cogent refused to do so and as a result, it is widely believed that some of the broadband providers failed to upgrade the speed of their connections to Cogent, thereby creating congestion on those connections. It was during this time that Cogent made the controversial traffic management decisions, according to Kilmer. 
+ It was also around this same time that another network operator that provided connectivity for Netflix – Level 3 – asked the FCC to  impose rules involving interconnection .  Previously Level 3 had argued that for the consumer broadband providers to charge interconnection fees was itself a Net Neutrality violation, but the company dropped that line of argument when a court struck down Net Neutrality rules that had been in place for a few years. 
+ Eventually Netflix negotiated its own deals to interconnect directly with consumer broadband providers that involved Netflix paying for any traffic imbalance – although there has been some more recent  finger-pointing involving congestion  between Netflix and some of the consumer broadband providers apparently related to Netflix not sending all of its traffic to those providers through its own interconnection points with them. 
+ When those flare-ups occurred, the  FCC demanded to see commercial contracts  between Netflix and two of the consumer broadband providers—Verizon and Comcast. But the commission has not yet intervened on the matter – at least not publicly—nor has it taken action on Level 3’s request. 
+ FCC’s Net Neutrality Proposal 
+The Net Neutrality guidelines that FCC Chairman Tom Wheeler reportedly is proposing call for the re-classification of the links that companies like Cogent and Level 3 provide companies like Netflix so that the commission would have tighter control over those connections. That means that if the guidelines are adopted, the FCC could find itself forced to make a judgment about the way Cogent handled traffic congestion. 
+ Wheeler’s proposal reportedly doesn’t reclassify the broadband links that companies such as AT&T, Comcast and Verizon provide to consumers, leaving those links under less tight scrutiny. But we haven’t learned yet what Wheeler’s proposal says about the links between the Level 3s and Cogents of the world and the AT&Ts and Comcasts of the world. And it would appear difficult for the FCC to make a judgment about an issue like Cogent’s traffic congestion practices without also making a judgment about those interconnection arrangements. 
+   
+ 
+ 
+ 
+   

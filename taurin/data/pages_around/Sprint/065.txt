@@ -1,0 +1,841 @@
+##LINK: https://avc.com/2014/07/the-scourge-of-zero-rating/
+##KEYWORDS: zero-rating
+##TITLE: The Scourge Of Zero Rating - AVC
+##METHOD: article 167
+
+
+
+ 
+ 
+James Ferguson @kWIQly  
+ 
+Jul 31, 2014  
+ 
+ 
+ Another tragedy of the commonsIt takes a very small number to break ranks and soon it is the only game in town”pernicious” – Your litter is insignificant – it does no harm- One cigarette will not kill you- Vandalism is just kids blowing off steam- I’m not racist butAnd the big one – If we don’t use additives (sugar colourant, pesticides, salt, fat) we can’t compete.It seems there is space in society for the “moral cartel” -“we the subscribers declare our recognition of mutual benefit through refusing to bow to …. (name your poison)” 
+ 
+
+
+ 
+ 
+awaldstein  
+ 
+Jul 31, 2014  
+ 
+ 
+ I find myself spending too much time on this problem.I’m a naturalist obviously on the purity of food and drink. But am starting to track down thinkers who are addressing the great paradigm shift that is needed to create food naturally in scale.Funny thing is that tech which has screwed stuff up by addressing things like GMOs without control, must be part of the answer. Some interesting work it seems in hydroponics that has some potential. 
+ 
+
+
+ 
+ 
+iggyfanlo  
+ 
+Jul 31, 2014  
+ 
+ 
+ You raise a great point about similarities to cable TV… versus free TV… I would argue that since we pay for the connectivity, the model may be closer to cable… however, in some cases, when we are paying we should get what we want (ad-free premium)… but if the app is paying, they should get what they want (ad-supported network)…To me, this resolves to user choice… if the content is good enough, then we pay to receive it like we do today when we pay a cell bill… if we could get it for free, well, some will choose that even if some of us think that content is sub-par 
+ 
+
+
+ 
+ 
+Donald E. Foss  
+ 
+Jul 31, 2014  
+ 
+ 
+ Thinking about Comcast, how Craptastic they generally are, I do heartily approve of the XFinity and CableWireless SSID’s that I’m finding almost everywhere now. My phone even attaches to some of them while I’m driving which is quite amusing to me (usually–sometimes it’s very frustrating!!). Comcast is making a way for you to not use Cellular wireless data and use your home cable service extended over WiFi to your location as much as it can.I can’t think of many good things to say about Comcast, but this is one. 
+ 
+
+
+ 
+ 
+Donald E. Foss  
+ 
+Jul 31, 2014  
+ 
+ 
+ Truly free markets frequently run amok, or we’d still have the original Ma Bell, Stanford Oil and any number of Ginormous monopolies that grew under semi-unregulated markets (plus some amount of graft and extortion). Truly free markets often go towards a market dictator, which is why *some* regulation, *light* regulation, is unwanted but frankly necessary. It’s also why a “benevolent dictatorship” is often considered the optimum form of government, but it’s hard to enforce benevolence. It’s why the USA is a republic and not a pure democracy. 
+ 
+
+
+ 
+ 
+Liban Mahamed  
+ 
+Jul 31, 2014  
+ 
+ 
+ This is a wise and far sighted observation. Fred, getting rid of net neutrality is a slippery road. You would have done a good job as FCC chairman or maybe Fed Governor.The problem is most people don’t even know what net neutrality is.The regulators will be pressured by politicians who appoint them. Mr. Wheeler, the chairman is on record favoring Comcast position and allowing different pricing and speeds.Another observation I noticed is many politicians including president Obama got dined and wined at Comcast chairman Roberts home in Martha’s Vineyard.I think the train left the station, different pricing and speeds online will be the norm soon.Comcast will carry the day here.  
+ 
+
+
+ 
+ 
+SDB  
+ 
+Jul 31, 2014  
+ 
+ 
+ Sorry Fred, your post seems to be a bit of a whine. There is no discrimination here. It is just business as usual.Advice to app developers… build an app that delivers value and people love to use. TMO and Sprint,etc. may zero rate it for the potential of increasing their sub-base. Great for you. On the other side, many people will still continue using your app on ATT, VzW, etc. because they love it (zero-rated or not.) Also, great for you. 
+ 
+
+
+ 
+ 
+Dean Bubley  
+ 
+Jul 31, 2014  
+ 
+ 
+ I’ve recently written a research report on various types of Non-Neutral business models, and my conclusion was that zero-rating is *mostly* benign. It’s also not new – most carriers zero-rated BlackBerry data traffic in the past, as well as data for MMS and their own portals.I think it needs to be watched closely, but there is less to be concerned about than you suggest. It doesn’t really make any difference if carriers directly zero-rate Spotify traffic, or just offer a “music plan” with Spotify bundled in, but the data not zero-rated. The bundle could always include an extra GB of general-purpose data to offset expected music downloads.The discrimination is in the deal-making ie Spotify winning the bundling deal, rather than XYZ Music Startup inc. Whether the data is zero-rated afterwards is entirely secondary to the upfront business negotiation between carrier & music provider.If you’re interested, I have a presentation on zero-rating here: http://www.slideshare.net/d …and a detailed article here:  https://www.linkedin.com/to …Dean BubleyDisruptive Analysis 
+ 
+
+
+ 
+ 
+William Mougayar  
+ 
+Jul 31, 2014  
+ 
+ 
+ Yesterday it was also reported that “FCC Chairman: Verizon Uses a ‘Disturbing’ Loophole to Throttle Unlimited Data”  http://motherboard.vice.com …My ISP (Xplornet) has a “dynamic congestion policy”, …”identifying the top 10% of users in that part of the network who are consuming the most bandwidth and reducing their speeds to approximately half their maximum speed for a period of 15 minutes.” That’s like giving you a car that can reach speeds of 140 kms/hour, but if you’re at that speed, you risk going back to no more than half that speed. Either I bought that data and its speed or I didn’t. 
+ 
+
+
+ 
+ 
+Donald E. Foss  
+ 
+Jul 31, 2014  
+ 
+ 
+ I fought AT&T over a similar issue last year. I had unlimited 4G/LTE data. It was great. However, I a) could not use facetime over wireless and b) there was NO way to tether the phone or act as a hotspot to even 1 computer under this plan. I understand B to some limited extent, although I rarely talk on the phone and use it as a hot spot at the same time–it just gets too hot to hold and you can watch the battery drain in real time. But no Facetime over cellular?I gave in and bought a capped plan (I really loathed my weakness) because my daughter would be away at events and want to facetime me and I could only rarely accept her call.I agree @William Mougayar–if I buy data, I want to use it as I see fit. If I pay a premium for unlimited data and don’t typically use an excessive amount, I want to have full use of the unlimited data I purchased and for which I pay a premium. Thus my Sith Lord comments above. 🙂 
+ 
+
+
+ 
+ 
+sigmaalgebra  
+ 
+Aug 1, 2014  
+ 
+ 
+ My theory: AT&T long had rows, columns, and layers of lawyers and economists arguing about the number of words per second over their POTS so that they could go to their economic regulators and get permission to raise their rates, not serve rural areas, … etc.Well, they still have too many lawyers and economists playing with regulations and supply-demand curves and ‘elasticities’ and making themselves look busy and important by cooking up tricky ways to stick people; if AT&T kept things simple, then their lawyers and economists would be out of their jobs. So, with AT&T, things are tricky as they work their fiendish little brains to death working up tricky nonsense, pages of fine print, etc. 
+ 
+
+
+ 
+ 
+William Mougayar  
+ 
+Jul 31, 2014  
+ 
+ 
+ I’d like to better understand the root cause of all this ruckus with the Telcos/ISPs.Are they doing this as pure malice and scheme mongering to get more revenues from users, or are they really being challenged keeping-up with the costs of delivering Internet bandwidth and speeds? I can’t think of other reasons. 
+ 
+
+
+ 
+ 
+Donald E. Foss  
+ 
+Jul 31, 2014  
+ 
+ 
+ William, if you think back to when LTE was first rolling out across the US, Verizon beat AT&T to the punch in most cities. There was a strategy to this and a gamble on AT&T’s part. I’m no AT&T lover and very pro TMo, but Verizon scraped together whatever crap it could find and bonded it together at towers and turned on LTE. It was faster than HSDPA+, but it didn’t rock my world. AT&T instead retrofitted the majority of their hubs and towers with updated fiber and multiplexers to truly handle the demands for LTE and make it work. This was neither a fast or inexpensive plan, but the net result is that for the subscriber numbers that AT&T has, they are now generally faster and more reliable in most metro areas–even mid-sized Richmond, VA where I reside. This was a BHAG & a gamble on AT&T’s part and I compliment them on their success.TMo appears to have done much the same thing, which is why they got LTE rolled out after both Verizon and AT&T, and speed tests on my TMo phone rival or beat AT&T’s when I test from the same location in a fixed area (disclaimer: different phone models. iPhone 5S on AT&T and HTC M8 on TMo). Verizon is a distant third. I hadn’t tried Sprint and I don’t even know anyone in my 1st degree local network who has Sprint so that I can try it out. 
+ 
+
+
+ 
+ 
+Donald E. Foss  
+ 
+Jul 31, 2014  
+ 
+ 
+ @William Mougayar, all that to say that the evil AT&T Sith Lord Randall Stephenson had a real problem with spectrum and backhaul and he and his board took the long term, more expensive route to fix it. As much as I hate to admit it, I can’t call that malice and their current pricing models, which drive me bonkers, are an amortization on that huge investment, which most people didn’t even notice.Now only if AT&T would install about 200 femtocells in Dulles Airport, plus start acting like TMo, I might start liking them again. It’s hard to like a Sith… 
+ 
+
+
+ 
+ 
+sigmaalgebra  
+ 
+Aug 1, 2014  
+ 
+ 
+ I have a theory that the old monopolies, e.g., AT&T and one more I will leave as an exercise, long felt entitled and, then, when they faced the post-monopoly reality and its stresses, they had their entitled feelings seriously hurt, from their long privileged position really no longer knew what to do to be successful, and, thus, were especially willing to shave ethics and nice behavior. 
+ 
+
+
+ 
+ 
+ErikSchwartz  
+ 
+Jul 31, 2014  
+ 
+ 
+ That’s really cool.But is it number of meetings? Of which I assume there are many.Or as a percentage of people who want meetings?From the consumer (entrepreneur) standpoint if you see 5% of spammers getting meetings and 50% of warm intros getting meetings it sure looks like there is a fast lane (I am making these numbers up). 
+ 
+
+
+ 
+ 
+LE  
+ 
+Jul 31, 2014  
+ 
+ 
+ Your first job in VC. Did you get it with an intro or did you get it by cold calling? I seem to remember you cold called from something you wrote.Wow, great that the memory works, here it is:I got a break, the first of many, and convinced a partner in a small venture capital firm in NYC called Euclid Partners to have lunch with me. At the urging of the Gotham Gal, I called Bliss (Bliss McCrum Jr) one friday morning and asked him if he’d meet me. He said he was free for lunch and asked me what kind of sandwich I wanted. Flustered, I said tuna because that was the only thing I could think of. http://avc.com/2008/05/i-go … 
+ 
+
+
+ 
+ 
+LE  
+ 
+Jul 31, 2014  
+ 
+ 
+ it sure looks like there is a fast laneBut once you get money and have to sell your product you will be back to the slow lane anyway, right? (I’m assuming a certain type of product of course with this statement).I’m not a VC. But I’d probably give bonus points to the entrepreneur that got my attention and was able to sell me without the help of an intro thinking “he will be able to cold pitch and sell his product which is what he is going to have to do”. Not saying don’t take the intro if you don’t have it of course. 
+ 
+
+
+ 
+ 
+LE  
+ 
+Jul 31, 2014  
+ 
+ 
+ Not to mention the classic rebuttal for this would be PG constantly dreying you about airbnb and you turning that down. To me that was a good thing not a bad thing. You stuck with your gut. That’s more important than 2nd guessing and making an occasional error. Your gut is what got you where you are. Reading on the internet doesn’t help you develop a gut. 
+ 
+
+
+ 
+ 
+LE  
+ 
+Jul 31, 2014  
+ 
+ 
+ I say if you are an entrepreneur and can’t get on the radar of a VC and “get a meeting” you probably are going to have issues down the road because you aren’t creative enough to be able to sell yourself, your team or your product.Would it be easier if John Doerr forwarded your name? Of course it would. If Mark Cuban? Yes you get the halo which can go a long way no doubt.But here is the thing about sales I learned a long time ago. Knowing someone or having a connection will get someone to listen to you, but that’s about it. You get the audience faster and easier (you don’t have to be creative in trying to get a meeting).Fred in particular is an inveterate meetings guy, right? (He detailed this once in terms of how many meetings he takes). While it’s very likely that those meetings that started by way of a trusted colleague have resulted in a higher percentage of investments I am pretty certain that there have investments he’s done that haven’t come the way of advisers. (If just because it’s not only common sense but wouldn’t explain some of the “marketing” that he does..).One other thing. When someone refers you to someone you have to behave yourself (like a blind date by a friend). When someone doesn’t refer you then the world is your cherry you can take more chances in your approach because you don’t have to worry about something getting back to the person that referred you that is objectionable. 
+ 
+
+
+ 
+ 
+ErikSchwartz  
+ 
+Jul 31, 2014  
+ 
+ 
+ I’ve never had a lot of problems getting meetings. But I went to the right schools and have worked for the right companies.I think Seth Godin made my intro to Fred back in 2005 or 06. When we met I thought it was cool that Fred already knew who I was as a member of the AVC community (such as we were back in 2006). 
+ 
+
+
+ 
+ 
+awaldstein  
+ 
+Aug 1, 2014  
+ 
+ 
+ You are lucky.I didn’t go to the right schools or worked at the right companies actually.But I had some good pedigree of success, knew the VC world on the west coast down cold, had a rich online presence.Getting meeting in tech is just not that hard I think.Other segments, Hollywood especially, much different. 
+ 
+
+
+ 
+ 
+ErikSchwartz  
+ 
+Aug 1, 2014  
+ 
+ 
+ You and I broke into this business in a very different era. There was much less information out there. But there was also less noise. It wasn’t the hip, trendy industry back in the 1980s.Speaking of which, are you watching Halt and Catch Fire on AMC? 
+ 
+
+
+ 
+ 
+awaldstein  
+ 
+Aug 1, 2014  
+ 
+ 
+ Yup, seen lots of changes since I started and still lots all the time. I like the flux of it all actually.Funny, back when when I was selling millions a year through distribution I did all my deals on the golf course. Now my deals are at coffee shops and wine bars.Lianna (her co is in the welllness field) had a meeting with the CEO of large company for a partnership. They did a spin class at SoulCycle, then went to the park, tasted her greens and talked business. Kinda cool how things adapt.Checking out Halt and Catch Fire now. Need a new series. 
+ 
+
+
+ 
+ 
+LE  
+ 
+Jul 31, 2014  
+ 
+ 
+ Common misconception of anyone with regards to any and all gatekeepers is how they “get it wrong! I am really deserving they just don’t see it!”.VC’s need deals like reporters need content. Feed them something that is good for them (help them get pageviews or sell papers) and they will bite.The good news is there are many people with money that can be pitched just like there are many good looking girls that can be pitched and you just need one. It’s not a sale you have to close 5 days a week consistently. As always people just want the easy way out. 
+ 
+
+
+ 
+ 
+LE  
+ 
+Jul 31, 2014  
+ 
+ 
+ In fact you are selling a large portion of the time.In some types of businesses of course this is true. Particularly ones where you are going to lose a boat load of money on a gamble that may not work. So you are constantly raising funds to be able to get “runway” and not go bust. A small segment of the business world that really didn’t exist prior to eyeballs on the internet.But there is also a world of business out there where that isn’t necessarily happening and you only have to convince one person. If just to get your product or service built out enough so that you have something that others are willing to take a chance on. Or to get some expertise or guidance that you don’t have.The other day (on HN) what seemed like some well deserving entrepreneur (with an app) seemed like he had some potential so I asked him “what would you be able to do with some angel money”. Some “newly hatched” replied and corrected me and said something like “angels only invest if there is an exit at some point and there is no way that a simple product like “x” will ever generate profits that would get an exit the investor would never get his money back” (I’ve paraphrased). Thanks I thought. Nice for you to tell me how I can spend my money.The entrepreneur replied that he had two offers from people wanting to by “x” (which wasn’t what I was even asking) but neither amount was high enough for him to sell. So he missed the point of the question as well as the opportunity. (I have people that I have referred interesting opportunities or people to and where I have nothing at all to gain from it..) 
+ 
+
+
+ 
+ 
+christopolis  
+ 
+Jul 31, 2014  
+ 
+ 
+ no its an attempt to point out that people have a right to decide on who uses their product and how. You participate in all kinds of examples of this. To try and use government force to get what you want is wrong. Let people decide what is best for their lives. Stop trying to control people with government force. Its immoral and impractical. 
+ 
+
+
+ 
+ 
+Druce  
+ 
+Jul 31, 2014  
+ 
+ 
+ Using ‘corporate’ force to favor incumbents, and tax startups, and telling people what apps can be on the devices they bought and paid for, is of course moral and good and American as apple pie.Sure, they build the network, but there would be no mobile networks at all if the government didn’t set rules about frequencies and who could use them, they should be available on an equal basis to all comers.That government is best which governs least, but sometimes, it’s best to tell people, everybody should drive on the right side of the road, so you don’t just get the right of the strongest, and nature red in tooth and claw.Of course, some people want the benefits of civilization but think it’s unfair that there should be rules telling them how to act. 
+ 
+
+
+ 
+ 
+christopolis  
+ 
+Jul 31, 2014  
+ 
+ 
+ this is the definition I am using for forcecoercion or compulsion, especially with the use or threat of violence.Verizon has never threatened to imprison or otherwise take the life of anyone. For Fred to get what he wants that is what is needed the threat of violence/imprisonment/confiscation. You can evade that fact all you want but always remember for you to get what you want requires violence. My system substitutes force with voluntary cooperation and abhors and protects people from those who initiate the use of force.The irony of all this is AOL tried this and it didnt work but you still want to use force. It almost seems like people have an appetite for making others do as they wish. Sad. 
+ 
+
+
+ 
+ 
+Druce  
+ 
+Jul 31, 2014  
+ 
+ 
+ Well, I happen to think in a civilized society, the government can create rules and standards, and telling people to drive on the right side of the road and writing a traffic ticket, or in a worst case scenario taking away your license, doesn’t constitute oppression or a threat of violence. But if you think you’re being oppressed because the government says, if you use the airwaves you have to do business on an equal basis with everyone, that’s between you and your psychiatrist. 
+ 
+
+
+ 
+ 
+christopolis  
+ 
+Jul 31, 2014  
+ 
+ 
+ Sorry your example doesn’t hold water. People speeding and driving on the wrong side of the road are threatening innocent people with harm. It is the proper roll of the government to stop them. I did not say that the government has no role in society.What you want is for to government to initiate the use of force on your behalf so you can obtain what you want. That is wrong. Its immoral and its impractical. 
+ 
+
+
+ 
+ 
+Druce  
+ 
+Jul 31, 2014  
+ 
+ 
+ One can view driving a certain way as an act of coercion or violence, I guess, bit of a stretch. The driver could just as easily say, I can drive any way I want as long as I don’t harm someone else, who are you to impose rules of the road?It’s a framing issue, I would say the networks are trying to use the commanding heights of control of the network to extort and coerce everyone else, using the government threat of violence.The network seems quite happy to use the threat of government ‘violence’ on people who don’t use it per the contracts and laws, hack it, ‘steal’ service.It goes both ways, the government polices the airwaves and enforces contracts, they require people to do business in a certain way with everyone to get those benefits.Personally, I think it’s a civilized society that says companies have a commercial code, provide receipts, treat everyone the same, don’t discriminate by race or for other arbitrary reasons.I don’t think the airwaves were made available on that basis, of auctioning the right to start a category of app to the highest bidder. Lots of ways to kill the golden goose of the startup ecosystem and free market but that’s a pretty effective one. 
+ 
+
+
+ 
+ 
+Druce  
+ 
+Aug 1, 2014  
+ 
+ 
+ Meanwhile Verizon wrote the laws so they could send me to jail for having the temerity to unlock the phone I bought. Speaking of people wanting the government to use ‘force’on their behalf. http://www.lightreading.com …I’m all for small government and respect for property but first you have to define it in a way that makes sense. 
+ 
+
+
+ 
+ 
+SubstrateUndertow  
+ 
+Jul 31, 2014  
+ 
+ 
+ Faulty 20th century framing !When your product is a key transmission node in a collaborative global network of interdependent nodes and those nodes are allowed to construct all sort of filtering barriers which erode that networks pivotal network-effect-substrate and thus its universal expansion of tangible social capital there is no “their product”.The fundamental network-effect value that is the internet represent a revolutionary technical leap into an emerging world of gestalt products and processes that pivot around OUR organic interdependencies. Network-synchronicites are inextricably subsuming human culture into a generic living system dynamic.This creates series challenges requiring us to reframe that tired old left vs right, government vs corporate-capital control debate. It forces us to reframing that debate around the new realities of network driven social/commercial interdependencies. Welcome to the information age.That debate in an age of network-effect interdependencies transmutes into the best tipping point between individual-autonomy vs network-interdependent-synchroicities.The old, left vs right, government vs corporate-capital control debate will echo on as wasteful vestigial noise until the workflows that underpin both democratic-governance and competitive-corporate-interplay are reworked around the interdependencies imposed by a social fabric rooted in the organics of the network-effect.That may all sound like airy-fairy pie in the sky but that is where guys like Fred come in. Grinding away financing/organizing trickle-up organic network-effect disruptors that lay the ground work building blocks required for the emergence of higher level network-effect disruptors.Sure Fred is a capitalist out to make money but he exhibits a parallel spirit of purpose that runs far deeper than that! (IMHO) 
+ 
+
+
+ 
+ 
+Vineeth Kariappa  
+ 
+Aug 3, 2014  
+ 
+ 
+ It surely was sarcasm. I did not get your view. All companies protect what they build, 1 way is to make it easier for users to access their products compared to competitors. Why is there a problem with companies discounting time spent by users on their products? You have absolutely no issue with your android phones. ( Google safe guarding mobile search) 
+ 
+
+
+ 
+ 
+andyswan  
+ 
+Jul 31, 2014  
+ 
+ 
+ There is a pizza place here where I am zero-rated. First empty table no matter the wait, never pay for appitizers.Why? Because I am worth far more to them than other customers.Lesson? Spend less energy trying to legislate against others, more time making yourself more valuable to providers than other apps are.The seat at the table is earned. 
+ 
+
+
+ 
+ 
+andyswan  
+ 
+Jul 31, 2014  
+ 
+ 
+ I’m not even commenting today on the validity of your stance. I disagree with most of it… but I respect it and know your motives are true.I’m only commenting on what I think the readers of this blog should be focused on…. getting THEIR seat at the table. 
+ 
+
+
+ 
+ 
+fredwilson  
+ 
+Jul 31, 2014  
+ 
+ 
+ assuming there is a table to sit atthat’s pretty much all i care aboutto make sure others have the opportunity i’ve hadthere was a brief moment in the tech market from 1995 to now where anyone could simply attach a server to the internet and be in businessthat moment is coming to an end for a whole host of reasonsthankfully i made mine during that momentand i am investing a lot back to make sure it doesn’t endbut i think it will because there are a lot of forces at work who want it to end 
+ 
+
+
+ 
+ 
+andyswan  
+ 
+Jul 31, 2014  
+ 
+ 
+ Well if you’re looking for any blog post ideas, I’d love… I mean really love… to read a series that lays out your concerns for the future of the internet… without the baggage of proposing a solution.Let us see your dystopia.I hope this doesn’t come off as sarcastic because it’s not. You know more about this shit than almost anyone and it’s a story I’d love to hear on the back porch over bourbon. 
+ 
+
+
+ 
+ 
+LE  
+ 
+Jul 31, 2014  
+ 
+ 
+ I think part of the problem also is that there is an entire generation that has now been raised associating business and opportunity with only the internet, and marketing by the internet (including social, SEO, viral, kickstarter etc.) And raising VC money and/or getting into an incubator. As such they don’t really have an understanding of how to make a $$ if that didn’t exist. They don’t have the fundamentals. So if those opportunities cease to exist (or are no longer easy or are oversubscribed) they are going to be SOL. I’d be scared if I were them also. They have not learned how to survive in a world where those advantages never existed in the first place. 
+ 
+
+
+ 
+ 
+SubstrateUndertow  
+ 
+ Jul 31, 2014  
+ 
+ 
+ The underlying fabric of the commons may evolve with technology but dismissing its validity seems somewhat tone deaf to reality.Just like all the cells in our bodies our survival rely on the community far more that the community’s survival rely on us.That trajectory is simply in tandem with the social/technical historical evolutionary facts.Balkanized free for alls don’t really work at any level even at the corporate profit level. They ultimately collapse their own field effect.Just taking realistic stock of the world’s present financial/social mess make that abundantly clear! 
+ 
+
+
+ 
+ 
+Pointsandfigures  
+ 
+Aug 2, 2014  
+ 
+ 
+ I try not to count others money. They do make a ton. I’d push to cut their subsidies and tax breaks. Let them feel the full effect of competition.Get rid of their special treatment and cozy regulator relationship and I bet things get a lot more heated. They won’t have the same leverage  
+ 
+
+
+ 
+ 
+Nate Westheimer  
+ 
+Jul 31, 2014  
+ 
+ 
+ You are right if you think of the Internet Fred is talking about as a luxury. Spotify is a terrible example because you’re right – a seat at a restaurant and the “right” to have unchecked streaming of Lady Gaga seem equally silly to protect. If you can afford unlimited music and a eat-out pizza, go fudge yourself – you can deal with a zero-rated tax.But that’s not all that the Internet is and what it can power. The Internet is and should be treated as a public utility – like electricity. Sure electricity powers some silly machines when it gets into your house, but the electric company can’t give you less power if chose to use that utility for fun vs lower-Maslowian needs.Long story short, the Internet (via wired and wireless ISPs) needs to be open because that line between what’s “needed” (and should be protected) and “silly and fun” (and doesn’t deserve to be protected) is quite grey.Twitter seemed a lot more silly when it started than it does now. Today, it’s a critical piece of communication infrastructure that keeps democracies in check and people out of harm’s way.If it were zero-rated when it was just a silly toy, where would we be? 
+ 
+
+
+ 
+ 
+pointsnfigures  
+ 
+Jul 31, 2014  
+ 
+ 
+ Agree that we should keep an eye on (but not regulate)—feels like a marketing play to me and it’s also a “tell”. As you posted a few weeks ago, most people use relatively few apps on their phone. Sprint is appealing to the customers that use Twitter and FB-no surprise that they are dominating. 
+ 
+
+
+ 
+ 
+Mike Volpi  
+ 
+Jul 31, 2014  
+ 
+ 
+ Fred – I generally agree with your posts, but I think it’s important to consider the backdrop of net neutrality in the context of wireline vs wireless operators. Wireline operators (either cable or phone companies) were given monopolistic access to the underlying wires by the government. Cable companies had regional monopolies and the phone companies were created by the consent decree between AT&T and the FTC in 1982. So, in either case, there was government intervention that gave them their monopoly power. Wireless operators, on the other had, were created though a very capitalistic and entrepreneurial process in the 90s. Importantly, they have always *paid* for their underlying asset – the wireless spectrum – in competitive auctions. Unless you argue that the current state of the wireless market is monopolistic (difficult to make the case given there are 4 operators in the US), it would be tough to argue that a company’s asset which was purchased in a competitive process and is being utilized in a competitive market should be regulated in any way. Net neutrality on wireless would be a regulation imposed on a competitive market. Its seems to me like good, old-fashioned capitalism shouldn’t be interfered with. 
+ 
+
+
+ 
+ 
+fredwilson  
+ 
+Jul 31, 2014  
+ 
+ 
+ the only companies that can afford the spectrum are the companies that have the spectrumit’s a classic rich get richer dynamicand they don’t use anywhere near the amount they controlfor the most part its sitting unused being warehoused instead of being utilizedour spectrum policy is probably worse than our wireline policy, which is pretty fucking bad 
+ 
+
+
+ 
+ 
+Mike Volpi  
+ 
+Jul 31, 2014  
+ 
+ 
+ It may, in fact, be the case, that only large companies can afford the spectrum. But, currently there are 4 of them that are battling it out fair and square – look at the recent progress that T-mo has made under John Legere’s leadership. I’m not sure they “warehouse” spectrum. They do have unused spectrum in higher frequency bands (2.4GHz+), but those are not as cheap and useable as the lower frequency stuff. Now, it’s fair game to challenge how license auctions are constructed or to apply limitations to the spectrum when it is auctioned. But, retroactively applying policy to spectrum that has been already sold for billions (unless we are convinced the market is monopolistic) has far reaching implications to the US capitalist system that I wouldn’t feel very comfortable with. 
+ 
+
+
+ 
+ 
+fredwilson  
+ 
+Jul 31, 2014  
+ 
+ 
+ i am not suggesting we take away the spectrum!i agree that would be a horrible ideai do think that changing the way we auction off spectrum going forward and putting more into unlicensed hands so that we can have a hypercompetitive wireless market in the US is a good ideawhat we have in the US is two strong carriers, ATT and Verizon, and two weak ones, Sprint and TMoi could make an argument that we’d be better off with three strong ones than the current dynamicbut they all more or less do the same thingi love most of TMo’s recent moves (not zero rating music), am a customer of theirs, and wish the others would act more like thembut we need new competitors.who is the Google or Apple of wireless? who is going to come in and change the game completely? 
+ 
+
+
+ 
+ 
+Mike Volpi  
+ 
+Jul 31, 2014  
+ 
+ 
+ Yep. Agree that changing auctions going fwd makes sense…. eg. No warehousing unused spectrum or no zero rating on auctioned spectrum… these are very valid constraints when the spectrum is auctioned. I also think that T-mo/Sprint should be one. With Masa & John’s leadership, they could be a real thorn in the side of AT&T & VZ. That merge will happen with time for sure.However, there probably needs to be a different approach as well. For example, if the US government really wanted to encourage competition, it would allocate a much larger swath of unlicensed spectrum and let it be used for WiFi and its descendants. I think this would foster enormous innovation and redefine wireless. Given that the Federal govt needs the auction money, I am doubtful this will happen… but, it would be a good idea…. 
+ 
+
+
+ 
+ 
+Donald E. Foss  
+ 
+Jul 31, 2014  
+ 
+ 
+ Sprint and TMo use different radio technologies. It would be a long and arduous process to either a) have devices which reliably work on both CDMA- and GSM-based tech or b) retrofit all the Sprint towers to support GSM tech (TMo is very international and will never adopt CDMA for mainstream usage). 
+ 
+
+
+ 
+ 
+Donald E. Foss  
+ 
+Jul 31, 2014  
+ 
+ 
+ I too love what TMo is doing and am expanding my usage of it. However when I went camping last weekend, the only people who had any reliable phone/text were verizon customers (there weren’t any Sprint customers among us, which says something too). TMo is doing a great job under Legere and being the “un-carrier”. The issue is that unless you stay in a WiFi zone or in the city, you can’t rely on it. If TMo can get that fixed, they will go from being a 2nd tier carrier to a top tier carrier in a hurry–defined as a year or two. 
+ 
+
+
+ 
+ 
+zackmansfield  
+ 
+Jul 31, 2014  
+ 
+ 
+ Republic Wireless ( https://republicwireless.com/ ) is reducing the dependency on the cell network by leveraging the abundance of Wifi that is around most of us at all times. Is it perfect? No. But it’s a different paradigm (granted, today they piggyback off Sprint spectrum for the cell part of their service). But i believe this WiFi centric model (or something tangential/derivative of it) will emerge in the next decade. 
+ 
+
+
+ 
+ 
+Dean Bubley  
+ 
+Jul 31, 2014  
+ 
+ 
+ WiFi is used for a very broad array of use-cases. Deliberate & integrated “offloading” of traffic from the cellular network is a very long way down the list.The vast majority of WiFi use is based on private choice by the individual concerned, to use a local connectivity source for Internet access.Actually, I’d rate “WiFi neutrality” as of equal importance to Net Neutrality – it is utterly imperative that users’ devices are not limited from accessing non-carrier WiFi, nor that they are “forced” to offload instead of choosing private connectivity. 
+ 
+
+
+ 
+ 
+Thatcher Collins  
+ 
+Aug 4, 2014  
+ 
+ 
+ I use Republic Wireless and love it, the problems are difficulties with multi-factor authentication, poor security of wifi routers, and vendor lock-in (I can only use my phone with Republic). The transparent pricing and money saved make up for all of that right now.I’ve starting beta testing Opera Max ( http://www.opera.com/mobile …, it compresses cell-network data and sends it through their VPN. Perhaps if cell network data use becomes more efficient, then zero-rating deals are less attractive for users. 
+ 
+
+
+ 
+ 
+LE  
+ 
+Jul 31, 2014  
+ 
+ 
+ but they all more or less do the same thingClassic “meet in the Poconos and set pricing for steel”.One airline charges for baggage the rest charge for baggage. One includes something for free the rest match them. Etc. They might as well be meeting in the Poconos.Anytime you have this few competitors this is going to happen. Or if several competitors are large and prominent and can set standards. 
+ 
+
+
+ 
+ 
+Richard  
+ 
+Jul 31, 2014  
+ 
+ 
+  ATT has been screwing customers for almost a century. Pernicious is the norm for these cowards. One of the problems with this wave of innovation is that ATT is riding it and inching closer and closer to the front. They could have been a dinosaur but we let them slip into the game.  
+ 
+
+
+ 
+ 
+LE  
+ 
+Jul 31, 2014  
+ 
+ 
+ ATT has been screwing customers for almost a century.What? Where are you getting that from? Don’t forget who brought us the transistor and other inventions. [1] ATT was a monopoly for a reason and it was a good thing that they were. All that profit not only helped widows and orphans, but led to many great discoveries. ATT is as important in the history of this country as the Russians and all the benefits our conflicts with them brought us. (And the Germans before that..)http://en.wikipedia.org/wik…[1] C language, Unix the list is endless. 
+ 
+
+
+ 
+ 
+Richard  
+ 
+Jul 31, 2014  
+ 
+ 
+ 70 years ago… how about AT&T conspiring with Western Electric to restrain trade in the manufacture, distribution, sale, and installation of all forms of telephone apparatus in violation of the Sherman Antitrust Act. 30 years ago…how about AT&T arguing that end-to-end universal service overseen by one agency best served the public interest? 10 years ago, how about consumer service agreements that required all arbitrations to be kept confidential and was later found to ensure that AT&T could “‘accumulate a wealth of knowledge'” about arbitrators, legal issues, and tactics with consumers being prevented from sharing discovery, fact patterns, or even work product, such as briefing, forcing them to reinvent the wheel in each and every claim.  
+ 
+
+
+ 
+ 
+Richard  
+ 
+Aug 1, 2014  
+ 
+ 
+ In the epic MCI advertisement, a husband asked the wife why she was crying, she replied “I just received my phone bill”… after which an announcer’s voice stated “You’re not talking too much, you’re just paying too much. The ads were created by Ally & Gargano. 
+ 
+
+
+ 
+ 
+Alan W Silberberg  
+ 
+Jul 31, 2014  
+ 
+ 
+ I don’t think this is either new or novel. Many companies offer special deals to special clients or partners. Companies have been offering tiered services in all kinds of industries for decades. But as I pointed out on twitter, I think this hits more on the digital divide issue then net neutrality in that the chasm between service offerings also creates chasms between people with differing levels of information, or ability to get it. Net neutrality may not even matter if someone chooses the bare bone plan with little ability to see beyond what they chose. 
+ 
+
+
+ 
+ 
+jonathan hegranes  
+ 
+Jul 31, 2014  
+ 
+ 
+ I’m not as concerned about zero ratings, because I think the cost of data (price / gb) will keep going down at such a rate that consumers won’t even think about data.Right now I have to make a conscious effort to use as much of my data as I can every month.I can foresee a plan where 50GB costs $10 or less, and don’t think any startup (even with the likes of an uber HD YouTube clone) that would face competitive pressures in that environment to get usage on someone’s phone. 
+ 
+
+
+ 
+ 
+Robert Heiblim  
+ 
+Jul 31, 2014  
+ 
+ 
+ Thank you Fred, a good topic and I applaud you for pointing out the differences in the wireless and wireline operators. It is interesting in that the wired operators mainly paid for their networks while the wireline folks strung them on their own yet the behaviors would suggest the opposite. Who pays for the infrastructure is important, but not enough to allow discrimination. The kind of shell game you point to seems to be a early signal for metering. I am wondering if this is what you see as well. 
+ 
+
+
+ 
+ 
+LE  
+ 
+Jul 31, 2014  
+ 
+ 
+ I strongly encourage policy makers, policy wonks, internet activists, and anyone who cares about protecting an open internet for all to take a hard look at zero rating. Like all the best scourges, it’s a wolf in sheep’s clothing.Totally agree but it is going to be tough. This is the natural evolution of “some animals are more equal than others” for sure in business. It’s survival of the fittest dealmakers to the detriment of anyone trying to get established. 
+ 
+
+
+ 
+ 
+Matt Zagaja  
+ 
+Jul 31, 2014  
+ 
+ 
+ Free is a powerful illusion. Fantastic way to build a moat around a big business. I saw a post yesterday (I don’t recall by whom) that talked about iOS developers and the fact the cost of software was approaching zero. I have many friends who do not install apps or will only install free apps. I think the problem is many apps are competing for a limited pool of people that pay for and install apps when really they need to re-orient themselves to sell to people who do not buy apps and show them that buying (or using or subscribing) to their app is worth it. News sites need to convince users (or advertisers) that paying them is worth it again that currently aren’t paying for it, and some apps will have to convince people that it’s worth paying for that bandwidth. Maybe not an easy mountain to climb but that’s only because the peak is so much higher. 
+ 
+
+
+ 
+ 
+Mike Geer (MG)  
+ 
+Aug 1, 2014  
+ 
+ 
+ Well said, Fred! I’m now helping run  http://anchorfree.com  (main product Hotspot Shield) to help fight internet censorship with mostly our consumer VPN service. However, the reverse method of singling out certain apps for special treatment (as apposed to the standard blocking/censoring of certain sites/apps) is much harder to fight. The larger among us must really stand up to this practice industry wide. 
+ 
+
+
+ 
+ 
+Sean Saulsbury  
+ 
+Aug 1, 2014  
+ 
+ 
+ The government should not interfere with private transaction between consenting parties. This ranges from sexual practices to mobile data plans.Your warning that “soon a startup will have to negotiate a zero rating plan before launching because mobile app customers will be trained to only use apps that are zero rated on their network” has me asking one question: Even if that *is* true (which is questionable), so what?That same line of argument could have been used to stop business from going online in the first place: “Soon a startup will have to have a website to even compete.” You are basically saying “Soon a startup will have to offer *more* value to customers over what they’re already getting.” The is the way it is now. How is taking that away good for anybody, especially consumers?As you even said, for the past twenty years the Internet has worked without regulation (i.e., because of freedom). In fact, it has worked *so* well it has made several business extinct, such as several major music and book store chains. These doomsday predictions are just without merit. 
+ 
+
+
+ 
+ 
+David Hirsch  
+ 
+Aug 1, 2014  
+ 
+ 
+ Two key points:1. It is good for consumers. If app decides to sponsor zero rating, users can enjoy apps without worrying about the cost of mobile data. This opens up mobile internet to host of users who can not afford mobile internet specifically in emerging markets. Apps are already spending money on advertising and promotion and it would be beneficial for users if they shift part of that money for zero rating.2. It creates a level playing field for smaller guys. Big apps like Facebook and Twitter have already used this effectively to acquire users. Now smaller apps can also sponsor zero rating to attract users on apps.If mobile users get used to access apps that are zero rated then the ecosystem has to conform accordingly. Toll-free numbers are very popular because consumers want to interact with businesses via a toll-free number and do not want to pay for calls.  
+ 
+
+
+ 
+ 
+fredwilson  
+ 
+Aug 1, 2014  
+ 
+ 
+ if all mobile carriers offered a self serve platform for app developers to opt into zero rating and anyone could without having to do anything other than opt in and if the prices were transparent and the same for everyone, then i would agree with point #2 
+ 
+
+
+ 
+ 
+David Hirsch  
+ 
+Aug 3, 2014  
+ 
+ 
+  We agree with Your comments and that’s what we are trying build. We are not a carrier but would (and are) working closely with them across the globe.we are building a platform so everyone even the smallest developers can have access to sponsored data capabilities. In terms of pricing it can be transparent. The way I looked at this is the big guys (Facebook, Twitter etc) already do this net neutrality violating or not. We are trying to bring the smaller guys ( end users and business )to a level playing field. We are formally announcing soon but until then the team would be honored to chat with you. These guys are studs. Very experienced around platforms, carriers , data. They are valley based w strong investment Partners and well funded 
+ 
+
+
+ 
+ 
+Michael Elling  
+ 
+Aug 8, 2014  
+ 
+ 
+ What few fully appreciate is that Steve Jobs forced equal access onto the carriers with wifi offload. Had it not been for layer 2 choice the smartphone revolution likely would not have been.On the other hand, the IP stack lacks price signals and incentives to clear marginal supply and demand north-south (apps to infrastructure) and east-west (agents/SPs A to B). Network effect is actually not occurring after the initial impact of the layer 3 “open” addressing network (aka the internet).But bilateral settlements play a very important role in value sharing, harmonization of infrastructures, investment and standards. The effect is stimulative and will work more to democratizing access by driving the absolute costs down, even if relatives still exist.Net neutrality was a fiction conjured up by those who do not recognize data grew out of the competitive voice stack in the core in the 1980s and 1990s. The fact that we had settlement free peering was due to data’s insignificant (and non-temporal aspects which contributed to greater balancing) volumes as compared with voice. Plus the entire model was subsidized by an institutional research core.In addition to low cost core (WAN) transport, all you can eat, flat-rate, or unmetered, or “free” (as people perceived it, even though it wasn’t), dial-up was what put the US ahead of the rest of the world by 5-10 years. This was due to the analog monopoly last-mile’s response to the metered, intelligence, digitized, competitive and super-low-cost, threat to the Bell’s Class 5 hegemond threat.All of these actors, competitive voice and data, were arbitraging inherent inefficiencies in the settlement structures that developed over 70 years as AT&T and regulators tried to keep out competition. The expanded flat-rate calling areas were a normal tool that the monopoly uses to move the WAN/MAN interface to the core. They did it 100 years ago in Kingsbury, and they are doing it today with Netflix.Net neutrality pundits should learn from history and understand the only solution to driving absolute costs down at every layer and boundary point, thereby paving the way for an extremely stimulative and generative information stack, is by mandating interconnect in the lower layers as far down and out in the stack as possible. Given today’s technology and existing supply/demand imbalances, mandated interconnect in COs, head-ends, pedestals, poles, underground conduit and multi-tenant buildings (commercial and residential) suffices.Market-driven balanced settlements at every layer and boundary point will actually explode the markets as 4K VoD, 2-way HD video collaboration, Mobile First, and IoT ecosystems will naturally and rapidly develop. 
+ 
+
+
+ 
+ 
+imthiaz  
+ 
+Aug 1, 2014  
+ 
+ 
+ From an emerging market perspective…this has worked as win win..for app guys, telcos and consumers…in india we (was working with a leading telco then) used this few years back with facebook zero and what we saw was a lot of consumers took to internet…fb and whatsapp are first places to experience internet in emerging economies…the zero rating brings the consumers to try internet and in turn leads to more mobile internet users and hence app developers get more consumers…for a telco increases paid data users… 
+ 
+
+
+ 
+ 
+imthiaz  
+ 
+Aug 1, 2014  
+ 
+ 
+ thanks for sharing this fred…not such healthy financials in indian telcos…with high spectrum costs , lower voice tariff and highly competitive space…i also believe that internet is a great leveller in emerging countries like india..the information arbitrage is huge and internet can have direct correlation to improvement of life and livelihood opportunities… 
+ 
+
+
+ 
+ 
+another cultural landslide  
+ 
+Aug 1, 2014  
+ 
+ 
+ Forgive us for being naive and non-entrpreneurial – but after reading though the comments, we really find it hard to believe that anyone can defend zero-rating as a good thing; this is similar to defending media consolidation as a good thing, broadcast considation as a good thing (and so on) without looking down the road to see where this will all end up.As businesses create a wider have/have-nots margin in information, they fail to see the impact this will have on the society they live in. This isn’t about getting first choice at a restaurant table, or even preferred bandwidth. This is about eventual market Stagnation – with built-in roadblocks to innovation to prevent change within a system.Try to think about the eventual long-term outcome of a chosen path – not just for yourself, but for society.  
+ 
+
+
+ 
+ 
+Mike O'Horo  
+ 
+Aug 1, 2014  
+ 
+ 
+ These comments seem to ignore an important component: Large corporations’ rational self-interest is to protect their position. They already control Congress and, by extension, regulators. (The Citizens United decision assures that that will remain true for the foreseeable future.) They demonstrably use their purchased influence to perpetuate such protections. To believe they would do otherwise is naive. Therefore, it’s hard to imagine that whatever they do, zero-rating or otherwise, is not in furtherance of those protectionist drives. Incumbents do not generally invite or enable disruption of the status quo. Pre-Internet, they controlled all communication. The Internet temporarily interrupted their hegemony. IMHO, they’re simply working their way back to it.Does anyone really think that the Sens and Reps who introduce such corporate-friendly legislation are doing so in response to a groundswell of demand by their citizen constituents? They’re simply dancing to the tune played by their corporate masters.While it’s perhaps a bit overboard to take the stand that “if big corporations want it, it must be bad for the rest of us,” recent history suggests it’s not a bad default position until there’s evidence that it’s specifically wrong in a particular debate. 
+ 
+
+
+ 
+ 
+pbreit  
+ 
+Aug 4, 2014  
+ 
+ 
+ I’m not too worried at this point because I don’t see these types of plans gaining enough users to make a difference. Who wants to knowingly be detached from the world? Cable TV is a bad comparison since no one else cares what channels you have. If you’re cut off from apps your friends use (particularly communications) you’ll be exiled. To save a few bucks every month? No thanks. 
+ 
+
+
+ 
+ 
+Donald E. Foss  
+ 
+Jul 31, 2014  
+ 
+ 
+ Except TMo, at least as I see it. Their plan of buying X amount of the highest speed data and unlimited lower, but still as fast or faster than I had 5-6 years ago, still ranks as brilliant to me. It does take marginal cost into account, while prioritizing their higher paying customers. They also allow me unlimited texting and data in 200+ countries with a relatively cheap voice plan without charging me extra. I couldn’t be happier with them unless they covered some popular rural areas as well as Verizon. 
+ 

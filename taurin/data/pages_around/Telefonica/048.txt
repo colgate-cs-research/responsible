@@ -1,0 +1,10 @@
+##LINK: https://ch.marketscreener.com/kurs/aktie/TELEFONICA-S-A-68962/news/EuGH-Bestimmte-Handytarife-mit-Zero-Rating-versto-en-gegen-EU-Recht-31295895/
+##KEYWORDS: zero-rating
+##TITLE: EuGH: Bestimmte Handytarife mit 'Zero-Rating' verstoßen gegen EU-Recht | MarketScreener
+##METHOD: paragraphs
+
+
+    LUXEMBURG (dpa-AFX) - Handytarife, bei denen bestimmte Dienste etwa für Musik-Streaming nicht auf das Datenvolumen des Kunden angerechnet werden, verstoßen nach einem Urteil des Europäischen Gerichtshofs gegen EU-Recht. Die Anbieter dürften bestimmte Anwendungen nicht bevorzugt behandeln, die Nutzung der übrigen Dienste nach Verbrauch des Datenvolumens hingegen blockieren oder verlangsamen, befanden die Luxemburger Richter am Dienstag (Rechtssachen C-807/18 und C-39/19). Dies verstoße gegen den Grundsatz der Netzneutralität, wonach alle Daten im Internet diskriminierungsfrei gleich behandelt werden müssen.
+    Hintergrund ist ein Fall in Ungarn, ähnliche Tarife werden aber auch in Deutschland angeboten, etwa von der Deutschen Telekom ("StreamOn") oder Vodafone (Video-Pass, Music-Pass). Verbraucherschützer hatten dies bereits kritisiert. Konkret geht es um Tarife mit einem begrenzten Internet-Datenvolumen. Ist dieses Volumen verbraucht, wird der weitere Datenverkehr verlangsamt oder blockiert. Der Datenverkehr bestimmter Dienste wie Video- oder Musikstreaming-Apps wird nicht auf das Volumen angerechnet und ist auch nicht von der Verlangsamung betroffen.
+    Die Luxemburger Richter argumentierten nun, dass solche Tarife die Rechte der Nutzer erheblich einschränken könnten. Sie könnten unter anderem dazu beitragen, dass die Nutzung der bevorzugt behandelten Anwendungen erhöht und der anderen Anwendungen verringert werde./wim/DP/men
+

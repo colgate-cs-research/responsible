@@ -1,0 +1,122 @@
+##LINK: https://www.eff.org/deeplinks/2018/06/while-net-neutrality-fight-continues-congress-and-states-att-and-verizon-are
+##KEYWORDS: net neutrality
+##TITLE: While the Net Neutrality Fight Continues, AT&T and Verizon are Opening a New Attack on ISP Competition | Electronic Frontier Foundation
+##METHOD: article 11
+
+
+
+ 
+ In 1996, Congress passed the Telecommunications Act in order to inject competition into the telephone market and set the stage for a nascent commercial Internet. Last month, US Telecom, the trade association of AT&T and Verizon,  filed a petition  with the Federal Communications Commission (FCC) to repeal one of the central requirements of the ’96 Act that has promoted competition. That requirement being that incumbent telephone companies share their copper line infrastructure at regulated rates with to lower the barrier of entering an incumbent’s market. If granted, incumbent wireline telephone companies will be free to raise prices or simply disconnect competitors’ access to their infrastructure and potentially jeopardize what the small amount of remaining competition that exists in high-speed broadband. 
+ While copper wire infrastructure may strike people as the infrastructure of yesterday, its existence and the legal rights to access it remain essential for competitive entry into the high-speed broadband market. This is because it is one of the only remaining ways a new company can gain customers to then leverage to finance fiber optic deployment. Should the FCC grant the petition, the growing monopolization of high-speed broadband above 25 Mbps where more than half of Americans have only one choice will likely become worse. 
+ Shared Copper Wire Access Promotes Private Competitive Gigabit Fiber Networks 
+ Congress envisioned that forcing incumbent telephone companies to share their infrastructure with new market entrants would spur competition. It worked fairly well in terms of facilitating the creation of hundreds of new companies known as Competitive Local Exchange Carriers (CLECs), but in the years that followed financial shocks (namely the dot-com bubble) and other challenges resulted in many of these companies to go bankrupt. The small number of CLECs that remain continue to rely on these sharing agreements as a means to help finance their growth to compete and most importantly  help finance their own fiber optic deployments . 
+ Compounding the importance access to copper wire infrastructure represents is the fact that the FCC explicitly exempted incumbent fiber optic infrastructure from sharing  requirements in 2005  at the advent of Verizon FIOS. The history that has followed the 2005 decision to exempt fiber optics from infrastructure sharing requirements pretty clearly demonstrates limited success in a handful of urban markets, but ultimately more than half of Americans now with a monopoly choice (which one should mark down as a failure in policy). 
+ How Does Access to Copper Infrastructure Lead to Competitive Fiber Optic Deployment? 
+ Entering into the ISP market is very difficult. This is because deploying the physical infrastructure to create an ISP is expensive even though  maintaining the ISP once it has been deployed is a substantially lower cost . It is the high sunk costs of deploying fiber optics that has resulted in the  growing lack of competition  Americans have in high-speed broadband because very few companies can successfully pull off entering the market. Here is where access to copper line infrastructure still remains important in at least the markets that have CLECs reliant on sharing rights. 
+ Generally, there are three primary means to deploying competitive fiber optic high-speed broadband in today’s market: 
+ 1) Have a pre-existing customer base that can be leveraged to obtain the finances necessary to absorb the high sunk costs of fiber optic deployment. 
+ 2) Have deep pockets or other means that can be leveraged to obtain those dollars to deploy. 
+ 3) Already have the fiber optic infrastructure deployed for purposes other than broadband and convert it over to broadband. 
+ Many cities that launch their own community broadband service have some combination of 2 and 3 with their utility company while incumbent telephone companies like Verizon FIOS ( which stopped deploying fiber years ago ) started off with 1 and 2. A competitive entrant like Google Fiber had 2 and 3, but even they have  stopped expanding their fiber build . For any competitors or new entrants that are small by comparison, the access to copper infrastructure is effectively the bridge to get customers and build a base that can be leveraged for fiber deployments (option 1). Without it, one should expect many small competitors to effectively die off in the broadband market if they are unable to obtain the financing necessary to deploy. With fewer companies deploying competitive fiber, one should expect the regional monopolization of high-speed broadband to get worse in the U.S. market. 
+ How Can the FCC Exempt AT&T and Verizon from the 1996 Telecom Law? 
+ Congress predicted that not every provision of the 1996 Act would need to be applied to the industry forever. So, in order to allow the FCC the flexibility to decide which parts of the law remained applicable, it created the  forbearance  authority. Forbearance is the process where the FCC examines a provision within the law and decides whether those provisions are still needed to protect consumers, fulfill the goals of the Telecom Act, and is in the public interest. We saw forbearance  used aggressively to craft the 2015 Open Internet Order  to effectively narrow the 1996 law for broadband providers to ensure net neutrality. 
+ Forbearance can also be invoked by petition from the industry itself, which carries with it a shot clock that requires the FCC to vote it down in the majority to reject or it will be approved (a tie, for example, would still grant the petition). That means on this question of competitor access to incumbent copper wireline infrastructure, the FCC is going to have to vote on it within about a year. 
+ The consequences of granting the forbearance will impact broadband users across the country and an untold number of competitors in the market that depends on copper wire access.  US Telecom would like to portray this as a win for consumers , but that requires a lot of assumptions about what will happen once they cut off competitors’ access to the infrastructure. In their  economic study  towards the end of their forbearance petition, a large portion of the consumer benefits they predict are heavily premised on the idea that competitors will have the financing without copper wire access to immediately transition over to fiber optic networks. Thus, with more Americans enjoying competing fiber optic deployments, more will have access to high-speed broadband at lower rates. This sounds great in theory, but a major failing in this assumption is that it requires us to ignore the market we have today and not ask questions as to what has happened in the 13 years since Verizon FIOS began deployment. For example, if it was easy to deploy additional fiber networks where smaller ISPs no longer need these protections, why is it that large companies like Verizon and Google Fiber stopped deploying fiber years ago? Has any smaller competitor deployed fiber networks without first entering the market through reselling services over the copper wire? Why is it that the EU market has  explored sharing of fiber optic network infrastructure  to promote competition while notably the  US lags   behind the EU by  ever metric and has done so  for years ? 
+ Until the FCC really digs into why the US market has a monopoly choice for more than half of Americans, it should reject efforts by incumbents to gloss over these important questions rather than take US Telecom’s word that it will all just work out. Otherwise, it might very well embark on a path where we go from more than half of Americans having one choice for high-speed broadband to where only the markets that have Verizon FIOS, Google Fiber, or a community broadband deployment as the only markets with more than one choice. 
+   
+
+
+ 
+ Deeplinks Blog 
+  by  Corynne McSherry 
+  | May 13, 2021 
+   EFF to Ninth Circuit: Don’t Block California’s Pathbreaking Net Neutrality Law 
+ 
+ 
+ Partnering with the ACLU and numerous other public interest advocates, businesses and educators, EFF has filed an  amicus brief  urging the Ninth Circuit Court of Appeals to uphold a district court’s decision not to block enforcement of SB 822, a law that ensures that Californians have fair access to...   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon ,  Katharine Trendacosta 
+  | March 18, 2021 
+   AT&T’s HBO Max Deal Was Never Free 
+ 
+ 
+ When it launched HBO Max, AT&T also announced that usage of the service would not count against the data caps of its customers, a practice known as “zero-rating.” This means that people on limited data plans could watch as much HBO Max content as they wished without incurring overage fees...   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon 
+  | March 15, 2021 
+   Sacramento Might be Undergoing a Broadband Policy Reboot 
+ 
+ 
+ When it comes to broadband policy, much of the attention on California understandably has been focused on its legal win on S.B. 822,  its landmark net neutrality law . That court case is likely to head to the 9th Circuit next, and we are optimistic that the state will prevail....   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon 
+  | March 11, 2021 
+   Congress Proposes Bold Plan to End the Digital Divide 
+ 
+ 
+ New year, new Congress, but the problems of Internet access remains. If anything, the longer the COVID-19 crisis continues, the stronger the case for fast, affordable, Internet for all becomes. And so, an updated version of the Accessible, Affordable Internet for All Act has been introduced. It remains a bold...   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon 
+  | December 26, 2020 
+   The U.S. Internet Is Being Starved of Its Potential: 2020 in Review 
+ 
+ 
+ Over a year ago, EFF raised the  desperate need for the United States to have a universal fiber infrastructure plan  in order to ensure that all Americans can obtain access to 21st century communications technology. Since then, we’ve produced  technical research showing why fiber is vastly superior to ...   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon 
+  | November 23, 2020 
+   The FCC’s Independence and Mission Are at Stake with Trump Nominee 
+ 
+ 
+ When there are only five people in charge of a major federal agency, the personal agenda of even one of them can have a profound impact. That’s why EFF is closely watching the nomination of Nathan Simington to the Federal Communications Commission (FCC).Simington’s nomination appears to be the culmination of...   
+
+
+ 
+ Deeplinks Blog 
+  by  Karen Gullo ,  Kit Walsh 
+  | September 30, 2020 
+   Broad Coalition Urges Court Not to Block California’s Net Neutrality Law 
+ 
+ 
+ After the federal government rolled back net neutrality protections for consumers in 2017, California stepped up and passed a bill that does what FCC wouldn’t: bar telecoms from blocking and throttling Internet content and imposing paid prioritization schemes. The law, SB 822, ensures that that all Californians have full access...   
+
+
+ 
+ Legal Case 
+   California's Net Neutrality Law  
+ 
+ 
+ In 2018, California enacted SB 822, providing protections for net neutrality and banning practices by Internet service providers that would harm Californians’ ability to speak, learn, organize, and compete online. This page collects letters of support for the bill from a wide range of organizations.   
+
+
+ 
+ Legal Case 
+   California Net Neutrality Cases - American Cable Assocation, et al v. Rob Bonta, American Cable Association, et al v. Xavier Becerra, and United States of America v. State of California 
+ 
+ 
+ In 2017, the Federal Communications Commission (FCC) rolled back federal protections for net neutrality. The FCC disavowed its authority to regulate broadband Internet service providers under Title II of the Telecommunications Act, an authority that was necessary to support federal net neutrality regulations.California and other states stepped into this void...   
+
+
+ 
+ Deeplinks Blog 
+  by  Ernesto Falcon 
+  | August 30, 2020 
+   California’s Assembly May Do Nothing to Help on Broadband—Thanks to Big ISPs 
+ 
+ 
+ Update:  Assembly Speaker Anthony Rendon has moved to table any efforts to close the digital divide this year. The pandemic has exposed how vital high-speed broadband is to the daily lives of all Californians. The Legislature must conclude all business by midnight on August 31. Call your Assemblymember TODAY and...   

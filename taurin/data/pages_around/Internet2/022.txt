@@ -1,0 +1,137 @@
+##LINK: https://br0kent3l3ph0n3.wordpress.com/2011/09/19/demolition-job-on-telcos-argument-against-net-neutrality/
+##KEYWORDS: net neutrality
+##TITLE: Demolition job on telcos’ argument against net neutrality | Br0kenTeleph0n3
+##METHOD: paragraphs
+
+Following the broadband money
+with 12 comments
+It would be wrong to let internet service providers charge content providers like Google, Netflix and iTunes for delivering content to customers, says Communications Chamber partner Rob Kenny.
+In a point by point critique of a telco-commissioned AT Kearney paper, Kenny demolishes arguments telcos are using to persuade regulators and politicians to let them to charge content providers for delivery.
+Source: R. Kenny - 10% of users cause 55% of net traffic.
+In doing so, he strengthens the argument for other countries to follow the Dutch and pass laws that guarantee net neutrality, in other words, that telcos should not discriminate between different types of traffic, and continue to use their “best efforts” to get the bits to their destination as fast as possible.
+Kenny’s most telling line is a quotation from Gary Bachula of Internet2, a US non-profit consortium of government and academic network researchers intent on building the next generation internet.
+Bachula told the US Senate in 2006, that, based on seven years’ experience of running advanced broadband networks for five million users, “… we seriously explored various ‘quality of service’ schemes, including having our engineers convene a quality of service working group. As it developed, though, all of our research and practical experience supported the conclusion that it was far more cost-effective to simply provide more bandwidth.”
+In addition, Kenny points out that the top 10% of internet users are responsible for 55% of the traffic. Why charge content providers when users generate the traffic, he says.
+Kenny also shows that peer to peer traffic represents more than 30% of internet traffic. Charging content providers without addressing file-sharing between users would be “incomplete”, he says.
+Besides, large content providers use massive server farms close to users to improve customer experience. This lowers the impact on the telcos’ core network, reducing their claim that content providers are free-riding and should therefore be liable for charges.
+Kenny’s critique supports evidence gathered by German consulting firm WiK Consult that showed the incumbent telcos will only invest in new infrastructure (eg fibre networks) where threatened with competition, mostly from cable TV operators.
+Kenny shows that the support the AT Kerney report offers telcos is deeply flawed, and thinly disguises their determination to stave off competition, keep their monopoly over access to end users, keep prices high and the market inefficient.
+Unless governments and regulators ignore these special pleadings, incumbent telcos are unlikely to play a meaningful role in achieving the ambitions set out in Europe’s Digital Agenda and, closer to home, Digital Britain (revised).
+VXPAGCQX6VBC
+Written by Br0kenTeleph0n3 
+2011/09/19 at 11:15
+Posted in Broadband, Finance, Internet, News, Politics
+Tagged with broadband, Digital Agenda, net neutrality
+Subscribe to comments with RSS.
+On the subject of net neutrality, Bob Gibson, Executive Director of the University of Virginia’s Sorensen Institute for Political Leadership, recently said: “It’s a debate that is going on in the Congress, and it’s really: Is the Internet going to be something that everyone has free and open access to, or, is it going to be something that is sort of controlled? What we don’t need is a lot of government control in the businesses of the internet. I think what we need is more of what we have with National Public Radio, which is a really true and balanced set of reporting that unfortunately has become politicized. What we are seeing is a shift from “anything goes” on the Internet to a shift where major corporations are shaping the news outlets and buying up more and more of the news outlets and putting them under corporate control and one set of a small number of hands…. We need freeware, we need shareware, and we need open access. People need to be able to trust sources that they can find on the internet, rather than have them controlled in a small number of hands or by the government.” (Gibson appeared on the Charlottesville, VA, interview program Politics Matters with host Jan Paynter discussing journalism http://bit.ly/pm-gibson)
+Politics Matters
+
+		2011/09/19 at 15:24 
+I’ve been waiting for Goldman Sachs to start trading bandwidth futures….
+Ian Grant
+
+		2011/09/19 at 22:08 
+Didn’t COLT and others have some circular transactions going on with call minutes or something to inflate revenues, back in the day.
+PhilT
+
+		2011/09/20 at 16:10 
+I don’t know. But it’s a good reason for ending termination fees.
+Ian Grant
+
+		2011/09/20 at 17:33 
+Excellent demolition job. Its a bit like angry birds though, will we knock those monkeys out of those trees?
+Will the governments take any notice?
+Either we stay choked up on these narrow copper tracks or we lay fibre and have information superhighways. We need to improve the bandwidth, and I don’t see how we can whilst openreach have a stranglehold on the pipes.
+This is why I keep yarping on about men of fibre. Where are the men of grit? They need to get cracking, build the datacentres to keep traffic local and get those fat pipes in to the rural areas and let new networks give the old boys some competition instead of rolling over and giving all the digital switchover money to telcos to patch up the old phone network.
+Digital britain? my arse.
+cyberdoyle
+
+		2011/09/19 at 16:19 
+Why is there a need for local datacentres in the UK when it’s so cheap to move data with fibre?  UK geography is very different to the US.  Economies of scale.
+cd – note there is fibre covering the whole of the UK.  Is this just a moan about FTTP?
+Somerset
+
+		2011/09/19 at 18:32 
+Latency, jitter, traffic shaping, contention…
+Ian Grant
+
+		2011/09/19 at 22:04 
+Seriously, is latency and jitter an issue in the UK?  Please quote some numbers for different locations.
+Somerset
+
+		2011/09/19 at 22:28 
+It is extremely disappointing to have to watch the little circle refresh itself instead of the rugby and Downton Abbey. And this in a suburb of a London municipality. Can’t imagine how frustrated rural rugby and drama lovers must feel.
+Ian Grant
+
+		2011/09/20 at 07:01 
+what is this little circle of which ye speak ?
+PhilT
+
+		2011/09/20 at 16:09 
+The equivalent of the Windows hourglass or Mac beachball that indicates the system is busy and unavailable for useful work/entertainment. Unless you like betting on when the system will once more be available for your use.
+Ian Grant
+
+		2011/09/20 at 17:31 
+Slow iPlayer is due to what?  For many not copper as cd would like us to think.
+Meanwhile latency and jitter?
+Somerset
+
+		2011/09/20 at 07:18 
+Fill in your details below or click an icon to log in:
+
+
+			You are commenting using your WordPress.com account.			
+				( Log Out / 
+				Change )
+			
+
+
+
+
+			You are commenting using your Google account.			
+				( Log Out / 
+				Change )
+			
+
+
+
+
+			You are commenting using your Twitter account.			
+				( Log Out / 
+				Change )
+			
+
+
+
+
+			You are commenting using your Facebook account.			
+				( Log Out / 
+				Change )
+			
+
+
+Connecting to %s
+ Notify me of new comments via email.
+ Notify me of new posts via email.
+ 
+
+
+ RSS - Posts
+ RSS - Comments
+Enter your email address to subscribe to this blog and receive notifications of new posts by email.
+
+						Join 992 other followers						
+
+
+						Email Address:					
+ 
+
+
+
+
+
+
+ 
+	                    Sign me up!                    
+
+Create a free website or blog at WordPress.com. 

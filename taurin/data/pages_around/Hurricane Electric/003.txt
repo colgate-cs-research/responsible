@@ -1,0 +1,48 @@
+##LINK: https://www.fiercetelecom.com/telecom/maryland-s-psc-deregulates-state-s-ixcs-hurricane-electric-opens-second-pop-italy
+##KEYWORDS: net neutrality
+##TITLE: Maryland's PSC deregulates the state's IXCs; Hurricane Electric opens second PoP in Italy | FierceTelecom
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+by  Sean Buckley  |
+ Jun 23, 2015 5:50pm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wireline news from across the web: 
+ 
+ Some interesting perspective -->The Internet of Things You Don't Really Need  http://t.co/5b6IshVZfn 
+— Melissa Chadwick (@mchadwickMG)  June 23, 2015 
+ > Maryland's public service commission has deregulated the state's IXCs, meaning they are no are no longer regulated by the PSC effective July 1, 2015.  Post 
+ > MiCTA has named Harris Communications as an approved national vendor for DAS Services available to all MiCTA members across the United States. Release 
+ > Hurricane Electric has opened a second Italian Point of Presence (PoP) at Rome's Nautilus Mediterranean Exchange Point Consortium (NaMeX). Release 
+ Cable News  
+> As expected, Time Warner Cable received the first complaint under the FCC's new net neutrality rules, which just took effect on June 12. Article 
+ > The Tennis Channel inked a multi-year deal with NeuLion so it can expand its Tennis Channel Everywhere and Tennis Channel Plus streaming offerings to more platforms and markets. Article 
+ Installer News  
+> The National Telecommunications and Information Administration (NTIA) released a report that analyzes potential interference in the 3.5 GHz band, which is considered viable for small cell use. Article 
+ Online Video News 
+> If the Will Ferrell-Kristen Wiig Lifetime Original movie  A Deadly Adoption  was a bit of a head-scratcher for fans of the comedic duo, the movie's weekend debut still scored a solid win for social media engagement. Article 
+ Wireless News  
+> Sprint confirmed to  FierceWireless  that CTO Stephen Bye will leave the company effective July 24 to "pursue other personal opportunities." Article 
+ > T-Mobile US is in the process of shutting down HSPA+/UMTS service on its 1700 MHz AWS-1 spectrum as it completes the transition to supporting those services on its 1900 MHz PCS spectrum. Article 
+ And finally  … A Belgian court is investigating whether Skype serves the same role as an AT&T or Verizon.  Article 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

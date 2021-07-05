@@ -1,0 +1,28 @@
+##LINK: https://www.mobileworldlive.com/featured-content/top-three/deutsche-telekom-to-fight-net-neutrality-ruling
+##KEYWORDS: net neutrality
+##TITLE: Deutsche Telekom to fight net neutrality ruling - Mobile World Live
+##METHOD: paragraphs
+
+Deutsche Telekom (DT) vowed to launch a legal battle against a demand from the German communications regulator to expand its zero-rated content service StreamOn to customers roaming in the EU.
+Following an investigation into the offer, regulator Bundesnetzagentur ruled it must be made available across the EU to meet net neutrality regulations. It also banned throttling of some HD video content it claimed was taking place.
+In a statement, DT said it found the authority’s decision “very puzzling indeed”, adding it: “Seems to resent the StreamOn success story. No other interpretation of the authority’s order makes sense.”
+“The Bonn-based regulatory authority is ordering us to also offer StreamOn in other EU countries. It bases this order on the EU Roaming Regulation. Fulfilling the order would mean the end of our free service, because we would not be able to offer it cost-effectively in other countries.”
+DT also contested the throttling ruling, maintaining all streams are provided at a sufficient quality for display on mobile devices.
+Net neutrality
+Bundesnetzagentur’s decision follows a lengthy investigation into the service, which allows streaming of audio and video without deducting the data used from a customer’s monthly allowance.
+Jochen Homann, president of the regulator said: “StreamOn must conform to the roam-like-at-home principle and customers must have video streaming available in an unthrottled bandwidth.”
+“The rule of equal treatment is a cornerstone of European net neutrality regulations. The principle of equal treatment has made the internet a driver of innovation, and the diversity of applications and services benefits all consumers.”
+Bundesnetzagentur ruled the changes must be in place by March 2018.
+
+
+                                                        Chris Donkin                            
+
+Chris joined the Mobile World Live team in November 2016 having previously worked at a number of UK media outlets including Trinity Mirror, The Press Association and UK telecoms publication Mobile News. After spending 10 years in journalism, he moved...
+Read more
+DT tipped for Dutch unit sale kick-off
+Deutsche Telekom lights open RAN test site
+DT, Samsung plot sustainable smartphone boost
+Feature Video: MWC21 Barcelona – Wrap Up
+Feature Video: Elon Musk Keynote
+Feature Video: MWC21 Barcelona – Day 2 Highlights
+©  2021 GSM Association. The GSMA, Mobile World Live, MWC Barcelona, MWC Los Angeles & MWC Shanghai terms and logos are trademarks of the GSM Association                    

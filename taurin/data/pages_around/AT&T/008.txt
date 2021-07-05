@@ -1,0 +1,128 @@
+##LINK: https://www.techdirt.com/articles/20210317/09001546434/att-whines-that-california-net-neutrality-rules-are-forcing-it-to-behave.shtml
+##KEYWORDS: net neutrality
+##TITLE: AT&T Whines That California Net Neutrality Rules Are Forcing It To Behave | Techdirt
+##METHOD: paragraphs
+
+Net Neutrality Special Edition
+Broadband
+
+Giant US ISPs have long (ab)used the lack of competition in the broadband market by imposing completely arbitrary and unnecessary monthly usage caps and overage fees. They've also taken to exempting their own content from these arbitrary limits while still penalizing competitors -- allowing them to tilt the playing field in their favor (or the favor of other deep pocketed giants). For example, an AT&T broadband customer who uses AT&T's own streaming services (like HBO Max) faces no bandwidth penalties or fees. If that same customer uses Netflix or a competitor they're socked with surcharges.
+
+
+When the FCC passed net neutrality rules in 2015, it failed to recognize how this "zero rating" could be abused anticompetitively. They were just starting to figure this out and shift policy positions when Donald Trump was elected and net neutrality rules were killed. However, in the wake of net neutrality's federal repeal, states like California (much like the EU) passed their own net neutrality rules that genuinely prohibit zero rating.
+
+
+More specifically, California's rules prohibited a company like AT&T from taking money from, say, ESPN, to exempt just ESPN content from caps. Why? One, again, caps are bogus artificial constructs that serve no technical function. And two, if a deep-pocketed giant like ESPN can afford to bypass your pointless cellular restrictions, and smaller online sports website can't, ESPN just gained an unfair competitive advantage (once AT&T gets its slice of the pie, of course).
+
+
+AT&T, as you might expect, doesn't like this loss of revenue and power (the only two things this has ever been about for them). As such, the company took to their policy blog this week to whine incessantly about how unfair this all is. The company says that as a result of the rules it's backing off its "sponsored data" zero rating plan not just in California, but in other states. It will also no longer let companies buy cap-exempt, "zero rated" status. That's a good thing for internet competition, startups, innovation, and consumers. But this being AT&T, of course the company claims the exact opposite:
+
+
+"Since it began, our sponsored data service, and competing offers from other wireless providers, have delivered significant benefits and saved consumers money. Consumers also have enjoyed an explosion of video streaming services."
+
+
+Again though, you're not providing "significant benefits" by creating entirely arbitrary restrictions then letting the wealthiest companies pay you more to bypass them. You're creating a new business paradigm where you inject telecom giants into the mix to determine who can or can't be the most successful. Caps aren't based on any technical necessity, and they don't really help manage network congestion.
+
+
+Here in the States, large ISPs have done a great job confusing the press and public by claiming that zero rating is the bits and bytes equivalent of a 1-800 number for data or free shipping. Customers who don't understand that usage caps are arbitrary nonsense from the get go often buy into this idea that they're getting something for free. Industry loyal regulators like Ajit Pai intentionally compound this confusion by claiming that this model is somehow of immense benefit to low income communities.
+
+
+Except that's not true. In fact data has shown zero rating drives up consumer costs where it's heavily adopted:
+
+
+"AT&T and industry-friendly regulators like Ajit Pai have also tried to claim that “zero rating” helps make broadband more affordable. But van Schewick said data has clearly shown that consumers pay notably more for broadband access in countries that embrace the practice.
+
+
+“For example, in the European Union, ISPs that don’t zero-rate video give subscribers 8 times more data for the same price than ISPs that zero-rate video,” van Schewick said. “In announcing this shutdown, AT&T is trying to score political points against state net neutrality protections by lying to the public about the law and its effects."
+
+
+Meanwhile, AT&T also continues to complain about how a "patchwork" of net neutrality rules is "totally unworkable," despite the fact this is the direct result of their successful fifteen year lobbying quest to not only kill net neutrality, but lobotomize the FCC:
+
+
+"A state-by-state approach to “net neutrality” is unworkable. A patchwork of state regulations, many of them overly restrictive, creates roadblocks to creative and pro-consumer solutions. We have long been committed to the principles of an open Internet."
+
+
+It takes a fair amount of hubris to repeatedly whine about a problem your lobbyists created. AT&T also continues to proclaim that this is an issue that should be settled by Congress passing a net neutrality law, hoping you'll ignore that it pays US lawmakers oodles of money to not do this. Yeah, AT&T wants a federal net neutrality law, but it wants one its lawyers write. One that's filled with loopholes and, most importantly, pre-empts tougher, better state or federal consensus driven solutions that might actually have some teeth.
+
+Thank you for reading this Techdirt post. With so many things competing for everyone’s attention these days, we really appreciate you giving us your time. We work hard every day to put quality content out there for our community.
+Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis.
+While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising, we have always kept Techdirt open and available to anyone. But in order to continue doing so, we need your support. We offer a variety of ways for our readers to support us, from direct donations to special subscriptions and cool merchandise — and every little bit helps. Thank you.
+–The Techdirt Team
+Filed Under: broadband, california, competition, data caps, net neutrality, overage fees, zero ratingCompanies: at&t
+Subscribe: RSS
+View by: Time | Thread
+ Cue world's smallest violin.
+[ reply to this | link to this | view in chronology ]
+
+ Where is it? I don't see it. Wait, hold on, let me get out the electron microscope ... OK, there it is. Wow, I didn't know you could make violins that small.
+[ reply to this | link to this | view in chronology ]
+
+ It's like free shipping, when both the shipper and receiver already pay a subscription for shipping whether they are using it or not at any given time.
+See, exactly the same!
+[ reply to this | link to this | view in chronology ]
+
+ AT&T shoots self in foot (pushing FCC not be involved with ISPs/NN), complains about pain and blood (state level NNs).
+[ reply to this | link to this | view in chronology ]
+
+ Be careful what you wish for, because you just might get it.
+[ reply to this | link to this | view in chronology ]
+
+ On the one hand they want praise for 'solving' a problem they created(caps and zero-rating) and would really like it if states stopped trying to solve that 'problem' themselves, on the other hand they're complaining about another problem that they had a direct hand in creating(state-by-state regulations instead of federal).
+Ah the sweet, guilt-free schadenfreude that comes from the suffering of someone who's the source of their own problems.
+[ reply to this | link to this | view in chronology ]
+
+ Throwing money behind 'states rights' politicians is great when you can slash the power of the federal government to regulate your industry, but the problem is for companies like AT&T, the states with money, the states where people actually live tend to be unwilling to let them do as they please and they aren't prepared to invest in infrastructure in the red states.
+[ reply to this | link to this | view in chronology ]
+
+ Cue some states yelling about how other states are infringing on their states' rights.
+[ reply to this | link to this | view in chronology ]
+
+ That sound you hear is Richard Bennett gnashing his teeth in self-righteous, pearl-clutching outrage.
+[ reply to this | link to this | view in chronology ]
+
+ when states stand up and demand that customers come first! it is time to look at what your doing and fix the problem! we already need to go back and fix one of your mistakes with the FCC regulations! so keep wining and we will make you play nice with others! weather you like it or not! WE THE PEOPLE want our internet on the same level as other country's! so fix that first.... 
+it is better to have happy customers that want your service, then it is to have upset customers that want to kick you in your teeth! how many more $10k ads need to be placed before you get a clue?
+[ reply to this | link to this | view in chronology ]
+
+ Karl's word-builds make the universe a little better.
+[ reply to this | link to this | view in chronology ]
+
+Have a Techdirt Account? Sign in now. Want one? Register here
+ Subscribe to the Techdirt Daily newsletter
+
+Comment Options:
+
+
+ Use markdown.
+ Use plain text.
+
+Make this the
+ First Word or
+ Last Word.
+ No thanks.
+(get credits or sign in to see balance)    
+
+ Remember name/email/url (set a cookie)
+
+Have a Techdirt Account? Sign in now. Want one? Register here
+ Subscribe to the Techdirt Daily newsletter
+
+Comment Options:
+
+
+ Use markdown.
+ Use plain text.
+
+Make this the
+ First Word or
+ Last Word.
+ No thanks.
+(get credits or sign in to see balance)    
+
+ Remember name/email/url (set a cookie)
+
+Read the latest posts:
+read all »
+Join the Insider Chat
+Email This
+This feature is only available to registered users. Register or sign in to use it.

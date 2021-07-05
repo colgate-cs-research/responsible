@@ -1,0 +1,35 @@
+##LINK: https://consumerist.com/2015/02/25/google-fiber-other-isp-heads-agree-well-keep-investing-no-matter-what-the-fcc-does-about-net-neutrality/
+##KEYWORDS: net neutrality
+##TITLE: Google Fiber, Other ISP Heads Agree: We’ll Keep Investing No Matter What The FCC Does About Net Neutrality – Consumerist
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+								fine by us							 
+ 
+ Google Fiber, Other ISP Heads Agree: We’ll Keep Investing No Matter What The FCC Does About Net Neutrality 
+ 
+ 
+ 
+ 
+ 2.25.15   3:30 PM EDT   By  Kate Cox @kcoxdc fine by us   cogent   google   google fiber   firstlight fiber   comptel   lsn   lightspeed networks   title ii   net neutrality   fcc   investment   thirty helens agree   
+ ( Rob Bruce ) With only hours remaining in the countdown to  tomorrow’s net neutrality vote , everyone from Silicon Valley to Capitol Hill is getting their last words in. At a tech policy event in Washington, DC yesterday, a panel of ISP executives spoke about the future of competition, innovation, and network deployment as the regulations and the marketplace change around them. And when the moderator directly asked the speakers if Title II regulation would diminish investment in their networks, the answer was the same all around: nope.  
+ There were four participants on the panel: Milo Medin, the Google VP who heads up Google Fiber; Dave Schaeffer, the CEO of Cogent; Kurt Van Wagenen, the president and CEO of FirstLight Fiber, a regional provider in the northeast; and Michael Weidman, the president and CEO of LSN, formerly known as LightSpeed Networks, a regional provider in Oregon and Washington. 
+ All four of the executives agreed that they are already busily planning for and investing in the future of their companies, and that reclassification won’t change that. However, the three retail ISP executives (Cogent works a little differently) did explain that the future isn’t all necessarily sunshine and roses. 
+ Medin pointed to the difficulties that already exist for rolling out Google Fiber in more markets. “I think cities don’t understand the amount of power they have, to make things either easier or harder,” he explained. Title II regulation, which Google has not officially made a statement in favor of (or against), would allow Google different kinds of access to utility poles and related infrastructure, which could make their future Fiber deployments a little easier. 
+ Weidman was the least enthusiastic about the FCC’s planned move. He expressed concern that “300 pages of regulation” could include harmful or overly restrictive measures that would make it harder for small companies like LSN to continue growing in the rural areas they serve. 
+ Schaeffer, however, is the one who extrapolated the most on the theme. “The internet is the first platform that’s application agnostic,” he explained. The development of the technology did what regulation didn’t and couldn’t do: created more competition in many arenas. 
+ But to distribute that access evenly, and not just where you can make a bundle of money on it, he mused, that takes a different kind of regulation: something that mandates expansion where it’s not cost-effective, and offsets those costs somehow. Describing the ideal situation, Schaeffer concluded, “At the end of the day, what I’ve described is a regulated utility,” not unlike the expansion of the electric grid. And while it’s politically impossible to make that happen, he added, “if you want private capital to be deployed to build a ubiquitous fiber network … that’s what it takes.” 
+ Google, Cogent, LSN, and FirstLight all join  Sprint ,  T-Mobile , and  Cablevision  in intentionally saying that Title II reclassification won’t hurt their businesses. Other companies have also  grudgingly  or  accidentally  admitted the same, even while threatening legal action against the FCC. 
+ The FCC will finally make a decision on the matter tomorrow morning. 
+ Correction: an earlier version of this article mistakenly attributed David Schaeffer’s quote to Kurt Van Wagenen.   
+ Want more consumer news? Visit our parent organization,   Consumer Reports , for the latest on scams, recalls, and other consumer issues. 
+ 
+ 
+ 2.25.15 By  Kate Cox @kcoxdc fine by us   cogent   google   google fiber   firstlight fiber   comptel   lsn   lightspeed networks   title ii   net neutrality   fcc   investment   thirty helens agree   
+ 
+ 

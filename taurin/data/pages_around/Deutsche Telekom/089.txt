@@ -1,0 +1,36 @@
+##LINK: https://venturebeat.com/2016/12/23/t-mobiles-free-streaming-music-service-blocked-in-netherlands-over-net-neutrality-concerns/
+##KEYWORDS: zero-rating
+##TITLE: T-Mobile's 'free' streaming music service blocked in Netherlands over net neutrality concerns | VentureBeat
+##METHOD: article 1
+
+
+
+ 
+ 
+ Transform 2021 
+ Elevate your enterprise data technology and strategy.  July 12-16 
+ Register Today 
+ 
+ 
+ 
+ 
+ 
+ Where does your enterprise stand on the AI adoption curve? Take our  AI survey  to find out.  
+ 
+ (Reuters)  — The Dutch Consumer and Markets regulator (AFM) on Friday ordered T-Mobile to stop offering a streaming music product which did not count toward customers’ data usage. 
+ The AFM said the practice, often called “zero rating” is a violation of Dutch net neutrality rules, because it puts rival services such as Spotify at a competitive disadvantage. 
+ Deutsche Telekom subsidiary T-Mobile Netherlands, which had introduced the product on Oct. 10, must stop offering it or face penalty of 50,000 euros ($52,000) per day, the AFM said. 
+ Zero rating is shaping up as one of the major battlegrounds for European telecommunications companies as they seek ways to attract customers. The Dutch net neutrality law unambiguously forbids the practice, but European Union rules are less clear. 
+ T-Mobile could not immediately be reached for a reaction. The AFM said it expects the company may launch a legal challenge to the decision. 
+ ($1 = 0.9578 euros) 
+ (Reporting by Toby Sterling; Editing by Keith Weir) VentureBeat 
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative technology and transact.
+
+Our site delivers essential information on data technologies and strategies to guide you as you lead your organizations. We invite you to become a member of our community, to access:
+ 
+ up-to-date information on the subjects of interest to you 
+ our newsletters 
+ gated thought-leader content and discounted access to our prized events, such as  Transform 2021 : Learn More 
+ networking features, and more 
+ 
+ Become a member   

@@ -1,0 +1,6 @@
+##LINK: https://www.semanticscholar.org/paper/Was-the-Internet-Ever-Neutral-McTaggart/af2e8d39989b3336ed4354513e3710bd1ac3dd7d
+##KEYWORDS: net neutrality
+##TITLE: Was the Internet Ever Neutral? | Semantic Scholar
+##METHOD: paragraphs
+
+Semantic Scholar is a free, AI-powered research tool for scientific literature, based at the Allen Institute for AI.

@@ -1,0 +1,122 @@
+##LINK: https://blog.iese.edu/faceit/2010/charging-google-in-spain-or-net-neutrality/
+##KEYWORDS: net neutrality
+##TITLE: Charging Google in Spain or Net Neutrality? | Face IT - IESE Technology Blog
+##METHOD: article 6
+
+
+
+ 
+ 
+ Web/Tech   
+ 
+ Charging Google in Spain or Net Neutrality?   
+ 
+	By Josep Valor	 
+ 
+ Posted on 28/02/2010 
+ 
+ 
+ “It is evident that internet search engines use our networks without paying us anything, which is good for them and a disgrace for us” …. “this can not continue, we set up the networks (….) we do everything. This will change, I am sure.” These statements were made by Telefonica’s president Mr. César Alierta this past Feb 5, 2010 in a business school in Deusto, Spain. He is not alone in this quest of sharing the wealth “search engines” (a  peculiar way not to mention Google explicitly) amass versus the meager profits of the telcos last year. The stock market is not blind to these events, and although has rewarded Telefonica with an increase in valuation of 35% in the last twelve months (one of the best among the telcos, Verizon for example has fared worst, with an increase of 10.30%) is far form the astonishing 58.73% of Google, and this including a substantial drop of 30 points from the  beginning of the year. 
+ 
+ What is the reasoning behind Alierta’s statement? Google does use network capacity mostly when crawling the entire web and transferring to its servers a cached copy of the page it visits, but it is unlikely to be the source of Mr. Alierta’s position; and search results use practically no bandwidth. YouTube, one of Google’s properties, which in the last reported data had above 1.2 billon views per day and every minute receives for storage four hours of video, is probably  far larger source of network saturation, but if it were an independent company it would have no “cake” to share with Telefonica. The heart of the matter is not Google, YouTube, or even Apple, which has been accused by the telcos to make too much money through its App Store for the iPhone; the real issue is a stealth attack to  net neutrality .  
+ Net neutrality has many definitions , but the simplest one is that all packets that move through the networks have to be treated equally. This has a number of implications the most important one being that two subscribers that purchase the same bandwidth from an operator should statistically get the same quality of service regardless of, say, they use a P2P community to share content, watch a video through a newspaper online site, or use Skype to talk to the other side of the world avoiding hefty telephone bills. Operators generally oppose net neutrality. One of the basic strategies of any seller to increase their ability to capture rents is to price discriminate; and discriminating by the type of packet transported is an opportunity difficult to pass.  
+ Even in a presumed situation of net neutrality there are a number of hidden (or not so hidden) strategies used by operators to circumvent it. Imagenio, the IPTV service of Telefonica, is a case in point. Subscribers of Imagenio get a reserved 6Mb/sec channel for the video signal to ensure the necessary image quality. Telefonica clients of their 10Mb/sec service do not get this “guaranteed” quality of service if they try to watch the same video channel streaming from the original site outside the Imagenio palette. One could say, then, that the network discriminates in favor of the packets labeled Imagenio, for which the company charges extra. How long will this situation last is hard to tell; if a law is passed to ensure neutrality, it will most likely stop, and if packet discrimination is allowed, we will see a number of services for which operators will charge differently, most likely P2P, streaming from sites outside the home network and that therefore do not pay to the operator of the receiver, and IP telephony as Skype and alike. 
+ It is time to start talking about net neutrality in the open, with its pros and cons, and sooner than later come to an agreement that stabilizes the playing field, rewards players that follow the established rules, and penalizes those that do not. Although this blogger is one hundred percent for neutrality, I am a lot more for clarification. There is no worst situation than that of indefinition.  
+   
+   
+ 
+ Related posts: 
+ The MWC has Begun. Highlights of the First Day  
+ Do we need Internet traffic controllers?  
+ Digital TV, Telecoms, and the push for the end of Net Neutrality  
+ Why is Google a little touchy with the iPad? Another sequel of Cloud Wars  
+ 
+ 
+ 
+ Related posts: 
+ The MWC has Begun. Highlights of the First Day  
+ Do we need Internet traffic controllers?  
+ Digital TV, Telecoms, and the push for the end of Net Neutrality  
+ Why is Google a little touchy with the iPad? Another sequel of Cloud Wars  
+ 
+ 
+ 
+
+
+ 
+ 
+   josep valor   says:   
+ 
+ 
+ 
+								30/03/2010 at 07:41							 
+ 
+ 
+ 
+ 
+ Thanks for your comments on this entry. Let me add a little advertising. This coming June 16 and 17, 2010, the yearly Encuentro de Telecomunicaciones at IESE Madrid will have a roundtable on Media and Net Neutrality, with presentations and debate from the VP of the Spanish regulator (CMT) and regulation experts from Telefonica. More information (in Spanish) in  http://wwwapp.iese.edu/ExecutiveEducation/encuentros/detail.asp?id=35968 
+ 
+
+
+ 
+ 
+   Josep Mitjà   says:   
+ 
+ 
+ 
+								25/03/2010 at 17:57							 
+ 
+ 
+ 
+ 
+ I believe Mr.Alierta is wrong with the way he frames his suggestion. Users decide what URL they are surfing, and they are already getting charged for the connection. Content/application providers are also charged by hosting providers based on the bandwidth they require and often by the throughput they consume. The fact that Google’s business has a better ROI than Telefonica’s is too bad for him, but he needs to put up with it. 
+However, as you rightly point out, the issue at stake here is net neutrality. 
+I think regulators need to ensure a basic and neutral offering is available to the general public at a reasonable cost. However, I don’t oppose to giving telco operators the freedom to create new offerings combining price and packet discrimination, if this is more beneficial for the consumers. If done right, this could help develop a whole new type of business models (ig. think about the premium SMS industry). 
+ 
+
+
+ 
+ 
+   Abdul Bijur V.A.   says:   
+ 
+ 
+ 
+								14/03/2010 at 20:51							 
+ 
+ 
+ 
+ 
+ I like this debate, with more video/audio and qos being called into question, this debate was bound to surface. 
+Would these comments from ISP chiefs have been triggered by Google trying to push them for higher and more affordable bandwidth by making offers of mega high bandwidth lines. This is creating a furore and cities are throwing themselves at Google, thereby increasing the pressure on ISPs by making their customers more demanding. This in turn injects competition among ISPs.Not sure that ISPs would take meddling by Google that lightly. 
+On a totally different subtle note ,  Google TisP  might be the reason 😉 . 
+ 
+
+
+ 
+ 
+   ignacio del castillo   says:   
+ 
+ 
+ 
+								12/03/2010 at 14:46							 
+ 
+ 
+ 
+ 
+ Muy interesante Josep. Habrá que ver como se soluciona el balance entre el crecimiento desmesurado del tráfico y la capacidad de inversión de los operadores en un entorno de crisis y de rebajas crecientes de precios mayoristas. Y como dice el que me ha precedido en el comentario, un mercado está muy regulado (telcos) y el otro es la ley de la selva (internet). 
+ 
+
+
+ 
+ 
+   Eugenio   says:   
+ 
+ 
+ 
+								09/03/2010 at 12:02							 
+ 
+ 
+ 
+ 
+ It is a question of balance and fairness. Currently the obligation for telecoms to respect net neutrality is a burden not equally shared in other companies in the ecosystem of the internet. Regulation is welcome but it should affect all the players. Why, for example, Google, the gatekeeper of the internet, can work in a totally unregulated environment on search (being a monopoly) and the telecom company that provide users with this unregulated information are highly regulated?? The doorman of the internet can chose who enters in the car, but then the driver must accept all passengers. Is this fair??? 
+ 

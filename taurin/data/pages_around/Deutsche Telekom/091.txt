@@ -1,0 +1,241 @@
+##LINK: https://www.theverge.com/2016/7/15/12197152/net-neutrality-europe-tim-berners-lee-letter
+##KEYWORDS: zero-rating
+##TITLE: Sir Tim Berners-Lee makes a last-minute plea to save net neutrality in Europe - The Verge
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ Filed under: 
+ 
+ 
+ 
+ Web 
+ 
+ 
+ 
+ 
+ Policy 
+ 
+ 
+ 
+ 
+ Business 
+ 
+ 
+ 
+ 
+ 
+ Sir Tim Berners-Lee makes a last-minute plea to save net neutrality in Europe 
+ 
+ Letter urges regulators to adopt strong guidelines that would protect the open internet 
+ 
+ 
+    
+      By
+       
+ Amar Toor @amartoo 
+ 
+ 
+ 
+          Jul 15, 2016,  4:56am EDT
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this story 
+ 
+ 
+ 
+ 
+ Share this on Facebook 
+ 
+ 
+ 
+ 
+ 
+ Share this on Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options for: 
+ Sir Tim Berners-Lee makes a last-minute plea to save net neutrality in Europe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Linkedin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pocket 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flipboard 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sean Gallup/Getty Images 
+ 
+ 
+ 
+ Sir Tim Berners-Lee, the man who created the world wide web, is calling on regulators in Europe to protect net neutrality and "save the open internet." In a  letter  released this week, Berners-Lee, Stanford law professor Barbara van Schewick, and Harvard law professor Larry Lessig urged European regulators to implement guidelines that would close  loopholes  in net neutrality legislation that the European Parliament  approved  in October 2015. They also called on internet users to voice their opposition online, before the public consultation period on the guidelines ends on July 18th. 
+ "Network neutrality for hundreds of millions of Europeans is within our grasp," the letter reads. "Securing this is essential to preserve the open Internet as a driver for economic growth and social progress. But the public needs to tell regulators now to strengthen safeguards, and not cave in to telecommunications carriers’ manipulative tactics." 
+ 
+ 
+ "Strong guidelines will protect the future of competition, innovation, and creative expression." 
+ The rules approved by European lawmakers last year contained several loopholes that activists say could be exploited to undermine net neutrality — the principle that internet service providers (ISPs) should treat all web traffic equally, without favoring certain services over others. Among the most troubling, according to Berners-Lee, Lessig, and van Schewick, is a provision that would allow ISPs to create "fast lanes" for "specialized services," and a guideline that would allow for "zero-rating" — a practice whereby select apps and services are exempt from monthly data limits. 
+ Regulators are currently working on guidelines on how to implement the new legislation, and European telecoms are pushing for more relaxed restrictions. This week, a group of 20 major telecoms — including Deutsche Telekom, Vodafone, and BT —  published  a "manifesto" in which they said they would only roll out 5G networks across Europe if regulators adopt softer net neutrality guidelines. 
+ The deadline approaches 
+ The companies argued that "pragmatic rules" would be necessary to foster innovation and spur investment, but net neutrality advocates say the loopholes could be used to create a tiered internet that would stifle competition. In their letter, Berners-Lee, Lessig, and van Schewick also called on regulators to close loopholes that would allow telecoms to discriminate against certain services to manage traffic flows and give preferential treatment to so-called "specialized services" including self-driving cars and remote medical operations. 
+ "Strong guidelines will protect the future of competition, innovation, and creative expression in Europe, enhancing Europe’s ability to lead in the digital economy," the letter published this week reads. "They will ensure that every European, no matter the color of their skin or the size of their wallets, has an equal chance to innovate, compete, speak, organize, and connect online." 
+ Consumers can submit comments on the regulations online at  Save Net Neutrality  or  Save The Internet . The consultation period closes at 2PM CEST (8AM ET) on Monday, July 18th. 
+ 
+ 
+ 
+ 
+ 
+ 
+    Next Up In
+    
+         Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Sign up for the
+        
+          newsletter
+        
+       
+      Verge Deals
+     
+ Subscribe to get the best Verge-approved tech deals of the week. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thanks for signing up! 
+ Check your inbox for a welcome email. 
+ 
+ 
+ 
+ 
+ Email  (required) 
+ 
+ 
+ 
+ 
+ 
+ 
+        By signing up, you agree to our  Privacy Notice  and European users agree to the data transfer policy.
+        
+       
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

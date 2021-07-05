@@ -1,0 +1,9 @@
+##LINK: https://www.europarl.europa.eu/doceo/document/E-8-2017-007804_EN.html
+##KEYWORDS: net neutrality
+##TITLE: Net neutrality
+##METHOD: paragraphs
+
+The Federal Network Agency is currently examining the mobile phone tariffs offered by various providers. The Agency considers Deutsche Telekom’s zero rating offer, StreamOn, to be incompatible with EC law. It is incompatible firstly because video material is downgraded in quality under many tariffs, for example HD material is made available only in SD quality, and secondly because the zero rating is not also applied to programmes offered abroad within the EU. This is said to constitute an infringement of the Roaming Regulation. Net neutrality is also currently under attack in the USA, and other providers are planning or have already introduced similar offers.
+1. Is downgrading of the quality of reproduction under many contracts permissible (Net Neutrality Regulation and BEREC guidelines) when better quality is available, or does this practice infringe the principle of equal treatment on the Internet?
+2. Does EU primary or secondary law make it illegal to offer zero rating only in the home country, or does EC law require zero rating also to be made available in other EU Member States under the same conditions as in the home country?
+3. May free-of-charge additional contracts such as StreamOn be offered as contracts purely within the home country while not being made available in other EU Member States?

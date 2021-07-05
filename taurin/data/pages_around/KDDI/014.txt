@@ -1,0 +1,86 @@
+##LINK: https://www.w3.org/2005/12/smil-testimonial
+##KEYWORDS: open Internet
+##TITLE: Testimonials for SMIL 2.1 Recommendation
+##METHOD: paragraphs
+
+These testimonials are in support of SMIL
+2.1 as a W3C Recommendation.
+In English: 
+ACCESS Co., Ltd. | CWI | INRIA | KDDI R&D Laboratories
+Incorporated | NRCD Research Institute
+日本語: 
+株式会社ACCESS | 株式会社KDDI研究所
+As a co-editor of the SMIL 2.1
+  specification, ACCESS is very pleased that SMIL 2.1 has been successfully
+  reviewed. ACCESS has long been an active supporter of open Internet
+  standards, and we will continue to contribute to leading global standards
+  organizations like W3C to ensure the development of future open standards.
+  SMIL is an excellent mobile multimedia technology that enables exciting new
+  mobile services. Certainly for 3G the combination of SMIL 2.1 and full
+  Internet browsing will play a key role in delivering advanced, media-rich
+  mobile services. ACCESS has already shipped its own NetFront SMIL Player to
+  more than 10 million mobile phones and we plan to fully support SMIL
+  2.1.
+CWI is proud to have contributed to SMIL 2.1. We
+  see the development of the new Mobile and Extended Mobile SMIL profiles as
+  being a tangible answer to the growing need to align media integration with
+  the capabilities of modern mobile delivery platforms. We are also pleased
+  to see the layout and parameter-passing mechanisms of SMIL 2.1 standardized
+  in a constructive way: this should help the development of inter-operable
+  media CODECS on a wide range of target devices. CWI's multi-platform
+  implementation of the new features and profiles of SMIL 2.1 in the Ambulant
+  Player (see: ambulantPlayer.org) have demonstrated the viability of the new
+  specification.
+INRIA welcomes the release of SMIL 2.1 as a
+  W3C Recommendation. Multimedia and telecommunications are high priority
+  application domains among research directions at INRIA. With this new
+  version, we believe that SMIL 2.1 will have a greater impact on mobile
+  multimedia applications such as multimedia messaging and mobile streaming
+  services. In particular, the new features will allow SMIL 2.1 to target a
+  wider range of Web clients with different capabilities. INRIA is proud of
+  its contribution to SMIL 2.1 as an open standard that will enable new
+  interoperable applications for the Web and the mobile world.
+KDDI, as a member of the W3C Synchronized
+  Multimedia working group, is pleased to see that the SMIL 2.1 specification
+  has been approved as a W3C Recommendation. Our world-leading 3G mobile
+  content delivery service "EZ Channel" based on SMIL 2.0 Basic is now
+  increasingly fascinating our customers. The newly created SMIL 2.1 Mobile
+  profiles can significantly enrich mobile multimedia contents and provide
+  powerful interactivity on mobile devices. We expect that the SMIL 2.1 will
+  become one of the key technologies in the 3G mobile applications.
+National Rehabilitation Center for Persons with
+  Disabilities Research Institute is very pleased that SMIL 2.1 has been
+  approved as W3C Recommendation because of its excellent accessibility
+  features:
+SMIL 2.1 仕様の co-editor
+  として、ACCESS は SMIL 2.1 が W3C
+  勧告として標準化されたことを大変嬉しく思います。ACCESS
+  は以前からインターネット標準規格化へ取り組んでまいりましたが、今後も将来のオープンスタンダードの開発を推進する
+  W3C
+  のような代表的な標準化団体に向けて、国際標準化に一層貢献を続けてまいります。SMIL
+  は画期的な新しいモバイルサービスを実現するマルチメディアテクノロジです。3G
+  において、SMIL 2.1
+  とフルインターネットブラウジングの連携は、先進的でリッチメディアなモバイルサービスを提供する際に確実に重要な役割を果たすでしょう。ACCESS
+  は既に同社の NetFront SMIL Player
+  を1000万台以上の携帯電話に出荷しており、今後 SMIL 2.1
+  をサポートしてまいります。
+KDDI株式会社は、W3C Synchronized
+  Multimedia 作業グループのメンバーとして、SMIL 2.1 仕様が
+  W3C
+  勧告として公開されたことを心より歓迎します。当社は世界に先駆け、SMIL
+  2.0 Basic
+  プロファイルを基本とした第3世代携帯電話向けのコンテンツ配信サービス「EZチャンネル」を提供し、好評を博しています。SMIL
+  2.1
+  で新しく規定された携帯端末向けプロファイルは、モバイルマルチメディアコンテンツの表現力を大幅に向上させると共に、携帯端末上での強力な対話性を提供します。我々は、SMIL
+  2.1
+  が第3世代携帯電話アプリケーションでの重要な要素技術の一つとなることを期待しています。
+The W3C was created to lead the Web to its full potential by developing
+common protocols that promote its evolution and ensure its interoperability.
+It is an international industry consortium jointly run by the MIT Computer Science and Artificial
+Intelligence Laboratory (MIT CSAIL) in the USA, the European Research Consortium for Informatics and
+Mathematics (ERCIM) headquartered in France and Keio University in Japan. Services provided
+by the Consortium include: a repository of information about the World Wide
+Web for developers and users, and various prototype and sample applications
+to demonstrate use of new technology. To date, nearly 400 organizations are
+Members of the Consortium. For more
+information see http://www.w3.org/

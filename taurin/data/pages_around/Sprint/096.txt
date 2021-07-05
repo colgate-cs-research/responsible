@@ -1,0 +1,37 @@
+##LINK: https://www.jdsupra.com/legalnews/fcc-releases-outline-of-net-neutrality-r-17684/
+##KEYWORDS: paid prioritization
+##TITLE: FCC Releases Outline of Net Neutrality Rules Scheduled for February 26 Vote | Davis Wright Tremaine LLP - JDSupra
+##METHOD: paragraphs
+
+
+
+
+	On February 4, 2015, the FCC issued a press release describing the Open Internet (or Net Neutrality) rules Chairman Wheeler will bring to a vote at the Commission’s February 26, 2015 meeting. The draft order is now being circulated, and we expect further details to emerge over the next few weeks. Here’s what we know now, based on the press release and an op-ed that Chairman Wheeler published in Wired Magazine.
+
+Key Points:
+
+Legal/Regulatory Rationale For Treating Broadband Internet Access as Common Carriage
+	Since the early 2000s the FCC has treated retail broadband Internet access as an “information service” rather than a “telecommunications service.” This classification was based on the FCC’s understanding of the technical characteristics of Internet access, its understanding of what ISPs were “offering” to consumers (a key question under the relevant statutory definitions), and its expectations regarding how the market for broadband Internet access would develop. In the 2005 Brand X case, the Supreme Court held the FCC was permitted to use this approach. Justice Scalia and two other justices disagreed, arguing in dissent that the statutory definitions required treating broadband Internet access as a telecommunications service.
+
+	Although the press release did not provide any details, we expect the order to include as robust a discussion as the FCC can muster of the new facts and circumstances surrounding broadband Internet access that warrant rethinking its earlier ruling. The dissent in Brand X will likely provide guidance to the FCC on this point. Parties seeking to challenge the FCC’s decision to reclassify will focus on how effectively the FCC is able to explain what has changed since its original action, and on whether those changes warrant such a significant change in regulatory approach.
+
+Section 706 & State Authority
+	The press release says that the “proposal finds further grounding in Section 706 of the Telecommunications Act of 1996.” Section 706 directs the FCC to take action if it finds that “advanced telecommunications capability,” which includes broadband Internet access, is not being deployed on a “reasonable and timely” basis. In the Verizon v. FCC decision last year, the D.C. Circuit struck down the FCC’s 2010 no-blocking and nondiscrimination rules, but broadly affirmed the power of the FCC to establish some rules governing broadband Internet access under Section 706. With reclassification, the FCC may not need Section 706 authority at all, but it presumably wants back-up defenses in the expected appeals of the order.
+
+	With regard to state authority, Section 706 empowers the FCC “and each State commission” to adopt “regulating methods that remove barriers to infrastructure investment … and encourage the deployment” of broadband. Some state Commissions may take the position that this grants them authority that is coextensive with the grant of authority to the FCC. That said, the Verizon case makes clear that the FCC is the preeminent interpreter of Section 706. The question will be the limits on state commission authority under Section 706 to take action independent of what the FCC does. The focus of Section 706 is encouraging the deployment of broadband facilities, and the Verizon court approved the FCC’s “virtuous circle” theory, under which regulation of retail broadband providers is expected to encourage consumers to demand more broadband, which will, in turn, motivate providers to deploy more facilities. Given this, a state seeking to take independent action in this area will likely look for ways to shoehorn its actions into this “virtuous circle” framework. It is not clear how the final order will specifically address the scope and rationale of preemption of state action.
+
+Open Questions
+	Much remains up in the air. For example:
+
+	While some of these questions will likely be answered in the Order, others may not be settled for years.
+
+	 
+
+	 
+DISCLAIMER: Because of the generality of this update, the information provided herein may not be applicable in all situations and should not be acted upon without specific legal advice based on particular situations.
+© Davis Wright Tremaine LLP  |  Attorney Advertising
+Refine your interests »
+This website uses cookies to improve user experience, track anonymous site usage, store authorization tokens and permit sharing on social media networks.  By continuing to browse this website you accept the use of cookies. Click here to read more about how we use cookies.
+Back to Top
+Explore 2021 Readers' Choice Awards
+Copyright ©  JD Supra, LLC

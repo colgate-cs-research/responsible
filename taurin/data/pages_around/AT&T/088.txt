@@ -1,0 +1,12 @@
+##LINK: https://www.chemisens.se/themes/item/fcc-concerned-about-at-t-s-zero-rating
+##KEYWORDS: zero-rating
+##TITLE: FCC ‘concerned’ about AT&T’s zero rating
+##METHOD: article 1
+
+
+
+ 
+	 FCC ‘concerned’ about AT&T’s zero rating  
+ The FCC has zeroed in on AT&T’s practice of zero rating, expressing “serious concerns” it has about AT&T's practice of exempting its own streaming-video services from wireless customers' mobile data allotments, while counting content from other providers against the allotments, reports CNET. AT&T’s current practice, through its sponsored data programme, “may obstruct competition and harm consumers by constraining their ability to access existing and future mobile video services not affiliated with AT&T,” the FCC’s Jon Wilkins wrote in a letter to Bob Quinn, head of AT&T's external and legislative affairs. 
+ In September, AT&T began letting wireless customers stream DirecTV (assuming they subscribe to both) without it counting against their data usage. AT&T may do the same for its $35-a-month DirecTV Now online video service when that launches.  Read more 
+ Tuesday, 22 November 2016 

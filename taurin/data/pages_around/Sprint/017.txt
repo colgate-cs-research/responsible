@@ -1,0 +1,24 @@
+##LINK: https://www.cnbc.com/2020/10/14/kelly-evans-the-death-of-the-internet.html
+##KEYWORDS: net neutrality
+##TITLE: Kelly Evans: The death of the internet
+##METHOD: paragraphs
+
+It's too bad that presidential campaigns are so personal, because in truth they're policy wars. "Who'd you rather have a beer with?" might be easier to answer than "who's got the better approach to regulating the internet?", but the latter is far more important.  
+I mention all this because the FCC is set to finalize its repeal of "net neutrality" at the end of the month. Remember "net neutrality"? I certainly do, because of its peculiar premise not so much to address a major existing consumer harm, but to prevent one from coming into being. But even after its repeal, those harms --giving "fast lanes" to certain content and slowing others--haven't really borne out. The only recent examples I could find were of Sprint reportedly throttling Skype in 2018, and Verizon throttling Santa Clara firefighters for what turned out to be going over their monthly data cap.  
+Ben Thompson, who writes the popular Stratechery columns, got tons of flack for being one of the few Silicon Valley types not to support net neutrality at the time. Not because he, or anyone is against the idea of "net neutrality," but because, as he wrote at the time, "there is no evidence that harm exists in the sort of systematic way that justifies heavily regulating [internet service providers]...current regulatory structures handle bad actors perfectly well." 
+"Net neutrality," which reclassified internet providers to subject them to stricter regulation, was passed into law in 2015. It was repealed at the end of 2017, despite dire warnings from the likes of comedian John Oliver, who warned it would be the "death of the internet" and got more than 45,000 comments posted to the FCC website against the move. (And registered the domain name www.gofccyourself.com.) 
+AT&T, meanwhile, said after the repeal that "the Internet will continue to work tomorrow just as it always has." And indeed it has. Perhaps it works even better; internet speeds have doubled, and new cell tower construction is up sevenfold, per Holman Jenkins in today's WSJ. A Google News search for "internet fast lanes"--the key harm that imposing net neutrality was going to avoid--turns up zero stories about them today.  
+Now enter 5G. As ever, a big way to limit the harm internet service providers can do is to increase competition so consumers can leave at will. And Apple just yesterday launched its 5G iPhone, meaning that using the internet wirelessly, on our handsets, could soon eclipse our home broadband in speed and reliability. Our phones already function as broadband replacements, or else on-the-go services like Uber wouldn't be possible. (Hence 5G has investors in broadband giants like Comcast and Charter on edge.) As one expert put it, "The rise of 5G makes the argument over net neutrality moot." Or at least, makes it awkward timing.  
+But just as the FCC is finalizing its repeal, a Biden administration could bring net neutrality back again. In truth, the best way to regulate the internet is via Congress, not via federal agencies like the FCC. It avoids the endless back-and-forth of each change in parties that can change the rules to their liking. Sure enough, there are several competing pieces of internet legislation circulating D.C. right now; the "Save the Internet Act" that would restore net neutrality by reclassifying service providers as in 2015, versus three separate bills that would instead outlaw blocking, throttling, and paid prioritization. The bills are stymied for as long as Congress is divided, which could change after November.  
+Or perhaps the world has moved on. As Thompson correctly predicted in 2017, "if neutrality and foreclosed competition are the issue net neutrality proponents say they are, then Google and Facebook are even bigger concerns" than internet service providers. "Both are super-aggregators with unprecedented power," he wrote, "and an increasing willingness not to be neutral."  
+It would seem a little odd to tackle "net neutrality" all over again while not dealing with those elephants in the room.  
+See you at 1 p.m! 
+Kelly 
+Twitter: @KellyCNBC
+Instagram: @realkellyevans
+Got a confidential news tip? We want to hear from you.
+Sign up for free newsletters and get more CNBC delivered to your inbox
+Get this delivered to your inbox, and more info about our products and services. 
+© 2021 CNBC LLC. All Rights Reserved. A Division of NBCUniversal
+Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.
+Data also provided by 

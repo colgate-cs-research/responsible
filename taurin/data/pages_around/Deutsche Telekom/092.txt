@@ -1,0 +1,39 @@
+##LINK: https://vocal.media/01/major-german-internet-provider-is-causing-a-threat-to-net-neutrality-users-turn-to-vpns
+##KEYWORDS: zero-rating
+##TITLE: Major German Internet Provider Is Causing a Threat to Net Neutrality - Users Turn to VPNs | 01
+##METHOD: paragraphs
+
+VPNs have seen a more than 10 percent increase in German users
+Internet service provider “Deutsche Telekom” is causing a threat to net neutrality, the idea that all internet users must be able to use the web without any restrictions. Even though the company is adjusting its tariff, it still does not treat all data traffic equally by limiting video streaming speed.
+German telco was ordered to adjust its controversial zero-rating tariff option StreamOn to meet the requirements of the Federal Network Agency. According to the Telekom, the bandwidth limit for video streaming will be lifted shortly.
+Yet, the major issue is still not tackled. With “StreamOn”, the download speeds are reduced up to a maximum of 1.7 Mbps for cheaper data tariffs. At the same time, the best-quality video-streaming is provided for certain subscription packages. This violates one of the key principles of net neutrality, even if the user consented to the diminished speeds. 
+By the way, net neutrality is one of the founding principles of the internet, meaning that all internet communications must be treated equality.
+In German Telekom community forum users are complaining that "the internet has been very slow in the evenings for months," "package loss at prime time," "in the evening and on weekends—bad peering," etc.
+Therefore, Germans are taking matters into their own hands. To get around the streaming speed restrictions, users are massively subscribing to VPNs, like NordVPN. When using a VPN, telcos are unable to identify the content users are accessing, and therefore, selectively prioritize their traffic.
+NordVPN has seen an increase of more than 10 percent in users from Germany in the last few months. We believe that Deutsche Telekom's low internet speed is most likely the major reason for this increase as we saw similar growth spikes after ISPs throttled internet speeds in other countries. A VPN provides privacy and security online, and allows you to use the internet bypassing ISP limitations.
+When a user connects to a VPN, their internet traffic gets routed through an alternative tunnel, so their ISP is unable to determine what websites the person is visiting. Therefore, the company can't "shape" its user’s internet speed based on the site or content they are trying to access. 
+By being one of the major internet services providers, “Deutsche Telekom” routes the internet traffic from companies that do not pay the extra fee to their slow hubs. In this way, the telco reduces the freedom of choice for consumers and the competition between service providers.
+Despite that net neutrality is now officially part of the European Union law, zero-rating is not determined. There is only an agreement between EU member states' telecoms regulators that free services should not gain too much of an advantage over their non-zero-rated competitors.
+NordVPN is the world’s most advanced VPN service provider, used by over 12 million internet users worldwide. NordVPN offers double VPN encryption, malware blocking, and Onion Over VPN. The product is very user-friendly, offers one of the best prices on the market, has over 5,000 servers in 60 countries worldwide, and is P2P friendly. One of the key features of NordVPN is zero log policy. For more information: nordvpn.com.
+I'm a digital privacy expert at NordVPN.com and an Internet security enthusiast. I love to serve up generous helpings of news, stories, and tips to help people stay private and secure.
+Technology as a tool and support in the creation and implementation of viable, effective and accurate solutions that stimulate the Global Economy, that strengthen Health Systems, the Education System, the Immigration System, National Security and Human Rights.
+
+
+We’ve all done it before; stayed up til the wee hours of the morning in a bizarre realm of the internet.
+
+It's fun to escape online. Everyone does it. Don't lie. Especially now that of us are stuck inside awaiting the diagnoses of a society suffering from a bad case of late-stage capitalism in the midst of a global pandemic. But I digress.
+
+
+If you look at almost any sci-fi film, you'll see instances in which people use wearable technology to do incredible things. Cyberpunk novels of the 80s and 90s lined the shelves, telling stories of people using their glasses to identify people and places around them. 
+
+
+The advent of smartphones and technology has made it easier to solve all the requirements of the modern world. The integration of all the required services in one app has made it an effective problem solving tool. Apps like Gojek have thrived in this on-demand market without any rivalries or opponents to fight against. So, what does it take to defeat the giants of the industry? What are the certain hacks that are needed to compete against Gojek?
+
+
+Well, plenty of ride-share app reviews are present on the digital platform, but the question is who one can give you safe, affordable, and faster service. In India, Chandigarh is one of the best places due to the vast array of shopping malls, luxury hotels, restaurants, clubs, fitness centers, IT companies, and many more. 
+
+
+There are many new gadgets that are becoming a growing influence on households within households around the world. There are many new Sony, Amazon, and Google products that have been bought for people, especially around Christmas time. Many of these could have been given as a gift to a loved one. However, many can also be bought with leftover Christmas money.
+
+
+Powered by Vocal © 2021 Creatd, Inc. All Rights Reserved.

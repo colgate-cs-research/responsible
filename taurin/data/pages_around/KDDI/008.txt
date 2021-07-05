@@ -1,0 +1,722 @@
+##LINK: https://daringfireball.net/linked/2013/july
+##KEYWORDS: net neutrality
+##TITLE: Daring Fireball Linked List: July 2013
+##METHOD: paragraphs
+
+By John Gruber
+Neat idea, works like AirPlay. But so why isn’t something like this built-in?
+Ben Lovejoy, 9to5Mac:
+Appointments sell for 10- yuan ($1.60-6.40) in a country where the
+average monthly salary is equivalent to $580. A Beijing Morning
+News reporter found there were no appointments available on the
+Apple site for iPhone, iPad or iPod. They contacted one of the
+advertisers asking for an appointment the next day and were
+offered a choice of two local stores and two time slots. The
+reporter was sent login details for the booking by instant
+messenger, and was then able to access the booking on the Apple
+site to change the details to their own.
+What the shit?
+CNN:  
+And the stories of its failures spread faster than a speeding jetliner: TSA officers stealing money from luggage, taking bribes from drug dealers, sleeping on the job.
+So it shouldn’t come as any surprise that a new Government Accountability Office report, citing a 26% increase in misconduct among TSA employees between 2010 and 2012, is striking a nerve with some travelers who’ve had to endure the shoeless, beltless shuffle on the trip through security.
+Shut them down.
+They’re not interested in SMS spam, though. But, starting with iOS 7, you’ll be able to block numbers from texting and calling you. (Via MacStories.)
+Todd Bishop:
+In other words, Microsoft spent more to advertise Windows 8 and Surface than it made in Surface revenue.
+That’s just revenue, not profit.
+Chris Burns, writing for Slashgear, regarding a BCN survey that was cited by Google itself last week:
+According to BCN’s claim, Google’s Nexus 7 took 44.4 percent of the Japanese tablet market while the iPad took just 40.1 percent of that same market in the month of December. This study was done on a total of 2,400 electronics stores throughout the nation, with the following notable exclusions:
+Other than at those stores, though, the Nexus 7 did great in Japan.
+So Google was for net neutrality, but no longer because it affects their broadband aspirations.
+Stop me if you’ve heard this one before.
+Anyway, don’t be evil.
+Shocking that a company as scrupulous as Samsung would resort to this. Shocking.
+David Berlin, lead for the BBC iPlayer Android team:
+Today we have an Android development team that is almost 3 times the size of the iOS team.
+Update: See also: Open Signal’s Android fragmentation report.
+Mistake on the part of the iOS 7 build team, or a deliberate teaser? There’s no way this wasn’t going to be found. I suspect it’s a mistake.
+You never quite know when footage like this is fake, but I think you’ll enjoy it regardless. (Via Mac McClelland.)
+Steven Max Patterson, writing in Network World, alleges that Mansfield was shown the door because Apple remains reliant on Samsung for semiconductors. He has no sources for this; the piece seems entirely based on his own speculation. That’d be OK if it were presented as such, with an angle like “Here’s what I think really happened…”. It’d be wrong, but it’s OK to be wrong in an opinion piece. But the headline reads as straight reporting, as does his conclusion:
+It looks like Mansfield has been held accountable for the TSMC
+production glitches and the persistence of Apple’s dependency on
+arch competitor Samsung for its most strategic components — the
+SoC heart and brains of its mobile devices.
+Based on everything I’ve heard, this is just completely and shamefully wrong.
+Update: They’ve now prefixed the headline with “Opinion:”.
+Om Malik seems to be hearing the same things I am.
+Stanley Kubrick, on how much planning he put into shooting a scene:
+The reality of the final moment, just before shooting, is so powerful that all previous analysis must yield before the impressions you receive under these circumstances, and unless you use this feedback to your positive advantage, unless you adjust to it, adapt to it and accept the sometimes terrifying weaknesses it can expose, you can never realize the most out of your film.
+Kyle Dreger, “A Brief Review of Vesper”:
+I’ve tried tens of iOS note-taking applications over the years. Among others, I’ve tested Simplenote, Elements, iA Writer, and Notesy, but none were able to evoke the feelings I get when writing something into my Field Notes notebook. I was looking for delight.
+Then I found Vesper.
+That’s exactly what we’re shooting for. We’ve got some exciting new stuff in the lab, too.
+This was all over the news over the weekend, but Daniel Dilger’s argument that it’s just plain wrong seems pretty compelling.
+John Paczkowski:
+“Bob is no longer going to be on Apple’s executive team, but
+will remain at Apple working on special projects reporting to
+[CEO] Tim [Cook],” company spokesman Steve Dowling told
+AllThingsD. He declined any further explanation, refusing to
+comment on the reasons behind Mansfield’s surprising move,
+whether he remains Apple’s SVP of Technologies or whether the
+company plans to appoint a new executive to that role.
+I’d love to know what’s really going on here.
+A tale of harrow and then frustration from Nick Bradbury:
+I read somewhere that technically what we experienced isn’t considered a crash landing, but in my mind when a plane hits the runway nose first, crushes the front landing gear, and skids 2,175 feet in a shower of sparks before stopping, it’s a crash landing.
+Yeah, I’d say so too.
+The next day, Southwest delivered our bags to our hotel but my carry-on wasn’t among them. It arrived a day later – without my MacBook Pro. That, along with an Apple TV and a Lightning cable, had been stolen from my bag. Southwest has agreed to reimburse me for these items once I provide proof that I purchased them (no problem, I have receipts). They claim the items weren’t stolen but were more likely “misplaced” by someone sent on board to retrieve carry-on bags.
+The way Southwest handled the entire aftermath of this was just horrendous.
+Charles Arthur, reporting for The Guardian:
+A Guardian investigation has cast doubt on claims by a UK-based Turkish researcher that he hacked into Apple’s Developer portal, which has been offline for more than a week.
+Pretty damning case that Ibrahim Balic did not breach Dev Center user data as he claims. But someone did.
+Mat Honan:
+Likewise, if you’re running it in a browser, Amazon Instant video, Hulu, Rdio, and HBO Go all just work. As did video from Wired, Gawker media, and Flickr slideshows. We ran photos from Facebook fullscreen. We watched a live Flash stream of a Braves game on an extremely shady bootleg site that spawned approximately a gazillion Chrome windows in the background.
+Wow, that sounds way better than the built-in MLB app on Apple TV.
+Content-wise, this is an interesting strategy. Rather than negotiate TV-specific deals with these providers (other than Netflix), Google is just making Chromecast look like any other instance of Chrome the web browser. I wonder what its useragent string is — will sites like Hulu and HBO Go attempt to block it? If they can block it, it’s Google TV all over again. If they can’t, how has Google accomplished this?
+Sales broken down by platform for a great indie game.
+My thanks to Everpix for sponsoring this week’s DF RSS feed. Everpix is a smart platform for storing your entire digital photo library, and making it available everywhere. It does all the organization work for you, based on dates and on very clever semantic analysis of the content of your photos. It’s impressive technology. They have terrific iPad and iPhone apps for viewing and browsing your library, and Mac and and Windows apps for syncing your photos from your computer to their cloud. You can keep using apps like iPhoto, Lightroom, and Aperture for importing from your camera and making editing adjustments.
+Everpix first sponsored DF a few months ago, and I’ve been using it ever since. I remain as impressed today as I was back in February. Everpix is what iCloud Photo Stream dreams of being. And it just keeps getting better — just a few days ago they launched a partnership with Mosaic Photo Books. You select 20 photos from your entire Everpix collection, tap Share, and boom, you’re in Mosaic to create your beautiful book.
+Sounds like a big commitment to sign up for a service that wants to sync thousands and thousands of your photos, but Everpix makes it easy, and trust me, it’s worth it. Such a great product.
+David Pierce:
+Can Google keep the new Nexus 7 from the same fate? At the moment,
+it’s very fast. Powered by a hefty 1.5GHz Snapdragon S4 Pro
+processor and 2GB of RAM, it flits around the OS with ease, and I
+rarely encountered stutters, jitters, or problems of any kind.
+(Except scrolling. Cool job Google.)
+“Except scrolling”. Scored a 9.0/10, same as the (admittedly nine-months-old) iPad Mini. Last year’s Nexus 7 got an 8.8 from The Verge, yet most people, including The Verge, now agree it was a turd.
+Come on, you guys, let’s get PILE OF POO into the top 25, where it belongs.
+Finally.
+Matthew Panzarino:
+The founder of Dutch software firm Sofa and its former art director have left Facebook after two years. Founder Koen Bok and art director Jorn van Dijk have both announced that today is their last day at the firm and that they will be leaving to do new things.
+Sofa was acquired by Facebook almost spot on two years ago (about the time it takes shares to vest) at which time the team sold off its two big software products Kaleidoscope and versions to software firm Black Pixel.
+Will be interesting to see how many other designer acqui-hires bail on Facebook when their two years are up.
+Curt Woodward, reporting for Xconomy:
+It’s been one of the Boston-area tech industry’s more
+intriguing questions for months: Just what is Apple doing here?
+Today, we’ve got an answer.
+Apple has assembled a small team of notable names in speech
+technology and is looking to expand those efforts in the Boston
+area, industry sources tell Xconomy.
+(Via Ben Thompson, who quips, “So instead of acquiring Nuance, who has other customers and drives a hard bargain, Apple is just hollowing them out.”)
+Horace Dediu has an interesting take on Apple’s stock buy-back.
+Good piece by Ben Thompson on the state of Google and how this week’s new products fit with its corporate focus. Enjoyed this footnote:
+To be clear, the decision has already been made; any pundit that
+suggests this year’s iPad mini will be in any way influenced by
+the Nexus 7 is an idiot.
+Allen Pike, on the bizarrely low placement for Tweetbot and Twitterrific when searching the App Store for “twitter”:
+This might make some sort of sense for somebody new to the App
+Store, but for a person who’s trying to find a specific type of
+app it’s crazy-making. Suggesting Instagram when I search for
+Twitter is like suggesting Nickelback when I search for Said the
+Whale. It’s saying, “Not sure what that means, but
+statistically people like this thing.”
+More curation, please.
+Sounds like they’re on the case — the cropped movies are bad transfers from the studios, not Netflix’s doing.
+Update: Flavorwire reports the studios are blaming Netflix.
+Frank Krueger:
+So I’ve always had these text file “derivations”. But it’s
+a terrible system: Sometimes I actually needed to do some
+arithmetic that I couldn’t do in my head. So I would switch to
+Mac’s Calculator app, or query Wolfram Alpha or use Soulver, and
+then switch back to my text file and plug the results in. Also,
+because Copy & Paste were my main tools for doing algebra, I was
+always suspicious of my own work.
+So Calca, you could say, came about all at once as the realization
+that I should just write a smarter text editor to handle these
+files I was creating - one that knew arithmetic and algebra, had
+features from the programming IDEs I use every day, but still
+tried its best to stay out of your way (programming IDEs are often
+too rigid to explore ideas.)
+Great interview.
+Amazingly clever new app by Frank Krueger. “Calculator” just doesn’t do the concept justice — think Soulver crossed with Markdown crossed with an interactive shell. No explanation will do it justice, you need to look at the examples to get it. The iOS and Mac versions can even share documents via iCloud.
+More here, in Krueger’s introductory blog post.
+Richard A. Friedman, writing for the NYT:
+On the whole, most of us perceive short intervals of time
+similarly, regardless of age. Why, then, do older people look
+back at long stretches of their lives and feel it’s a race to
+the finish?
+Here’s a possible answer: think about what it’s like when you
+learn something for the first time — for example how, when you
+are young, you learn to ride a bike or navigate your way home from
+school. It takes time to learn new tasks and to encode them in
+your memory. And when you are learning about the world for the
+first time, you are forming a fairly steady stream of new memories
+of events, places and people. […]
+It’s simple: if you want time to slow down, become a student
+again. Learn something that requires sustained effort; do
+something novel.
+Get your shit together, Google.
+Benedict Evans:
+The practical effect of this is that Microsoft’s share of connected devices sales (in effect, PCs plus iOS and Android) has collapsed from over 90% in 2009 to under a quarter today.
+It’s been a busy six years.
+Casey Johnston, writing for Ars Technica:
+Google’s latest device lets you stream directly to your TV from other devices.
+That’s what I assumed yesterday as well, but I’m pretty sure now that’s not the case. Chromecast only streams video from the web; it has nothing like AirPlay. You can’t send video from your phone to Chromecast.
+Other than price, I can’t see why anyone wouldn’t just buy an Apple TV instead. And even price-wise, it’s not like Apple TV is expensive.
+Update: And even if price is that much of a factor, why not buy a Roku for $50? I just don’t get why anyone would want this.
+Cool story. (I’ve always found it curious that Apple doesn’t include a Paint-like super-simple image editor with Mac OS X.)
+Not much green at the moment.
+Jake Hebert, writing for the Institute for Creation Research:
+ICR, together with the rest of the creation science movement, has made great strides in the last 40 years. In many areas, the superiority of the creation worldview has been clearly demonstrated. Even now, ICR is making exciting discoveries in the fields of biology and geology, and we have started new research initiatives in the field of astronomy. However, there is much work that still needs to be done, and this work is hindered by a lack of trained scientists.
+Real shocker that trained scientists aren’t working for these guys. Shocker.
+Jean-Louis Gassée, writing a fictional memo from Steve Ballmer:
+Our own unsuccessful attempts to enter the tablet market (Widows for Pen Computing in 1991, and the Tablet PC in 2002) lured us into thinking there was “no there there”. Because of this, we downplayed the impact of a new wave of devices from Apple and Android licensees.
+Neither our PR campaign to negate the advent of a Post-PC era nor Frank Shaw’s valiant efforts to position the new devices as “PC Companions” has had any effect on the market. We even leveraged our long and cosy relationship with IDC and Gartner and got these to firms to create a dismissive category label for these new machines: media-consumption tablets  — with the clear implication that they were unsuitable for business uses. All these exertions were for naught. For five consecutive quarters, we’ve watched PC sales decrease and tablet shipments skyrocket.
+The Verge:
+The bottom line, then? If you’re going to upgrade your phone twice a year, every year, you could save money using T-Mobile Jump or Verizon Edge. (AT&T Next limits you to upgrading only once every year, and is a bad deal any way you slice it.) But buying new phones at that clip is a very expensive hobby and new top-tier devices don’t even come out that often. With the more likely scenario — one phone per year — you stand to save little to nothing by opting for any of these carriers’ new upgrade plans when you consider the resale value of your old phone. And if you don’t upgrade every 12 months you’ll be racking up huge charges for no reason.
+I’m curious how Google squares these claims with all the usage share numbers that show Android tablets at far below 50 percent. Either the usage share numbers are wrong, or people just don’t use the Android tablets they buy.
+The “no remote control” aspect sounds annoying — I like that I can use an app on my phone to control Apple TV, but I only do so when I have to type a password or when I can’t find the actual remote. $35 is pretty damn cheap — the whole thing is a complete reversal of last year’s Nexus Q.
+323 pixels-per-inch display, and intriguingly multi-user support in Android. I know a lot of people who share family iPads who would love some sort of user accounts in iOS.
+Jeff Elder, writing for SF Gate:
+The users were not pleased when they saw these bogus tweets attributed to them for the first time – after the post went up.
+“It’s disturbing and has no place,” says Neil Gottlieb, who was unaware the Twitter blog post featured a tweet with him saying, “What is the song in the new @barristabar commercial? I love it!!” Gottlieb who runs the medical animation company 3FX in Philadelphia said, “To use my image and fake a tweet is wrong and needs to be addressed.”
+William Mazeo of Brazil was also unaware his profile pic was placed in the blog post with a phony tweet. The bogus tweet attributed to him read: “I wish I could make fancy lattes like in the @barristabar commercial.” When he saw the blog post for the first time he was surprised and angry.
+Why didn’t they just find real users who were so excited about these ads that they honestly tweeted about them? Oh, wait.
+Chitika:
+While there are a number of players in the tablet marketplace, Apple clearly dominates the market, further evidenced by analyst shipment estimates. As seen in the graph above, the iPad’s usage share advantage over its closest competitors is now nearly 80%. Most other players in the market exhibited month-over-month declines, with one notable exception being Barnes & Noble’s Nook.
+When the only other tablet showing any growth at all is the Nook, that’s pretty good. (Those Surface numbers — ouch.)
+Update: Worth noting that Chikita’s numbers are U.S.-only.
+Just what it says on the tin.
+Don’t be evil.
+Speaking of Dan Frommer, here’s his graphical take on Apple’s quarterly results.
+New episode of my podcast, The Talk Show, with special guest Dan Frommer. Topics include the future of television, our experiences as iOS app developers, App Store strategies, and crazy top-level domains.
+Brought to you by two outstanding sponsors:
+23andMe: Order your DNA kit today for just $99.
+Mailroute: Innovative cloud email protection. They match Postini and Forefront pricing.
+Revenue flat, profits down on lower margins:
+The Company sold 31.2 million iPhones, a record for the June quarter, compared to 26 million in the year-ago quarter. Apple also sold 14.6 million iPads during the quarter, compared to 17 million in the year-ago quarter. The Company sold 3.8 million Macs, compared to 4 million in the year-ago quarter.
+Remember that last year, the iPad 3 was brand-new in Q3. I wonder though, if we’ve reached the peak for Mac sales.
+Speaking of religious nutjobs in government seeking to criminalize sexual behavior, this guy in Virginia is proudly touting his support for criminalizing oral and anal sex.
+Brian Morrissey, writing for Digiday:
+Kristina Tipton, VP of marketing at CafeMom, called the page and those like it “a very small part of our business. We’re always looking for new ways to monetize our business.” And one way to monetize is to load a page with an ad for every five words of editorial content.
+The best part: Digiday itself runs scummy Taboola ads.
+Update: Morrissey, via Twitter, says Digiday only uses Taboola for internal links, not ads.
+What a bizarre story.
+Update: Maybe take the whole “facts” thing here with a grain of salt — The National newspaper is owned by the United Arab Emirites government. And even if all true, there’s a bizarre “well, if it wasn’t rape, of course she was sentenced to a prison term” angle to the story. Dubai should not be seen as a tourist destination.
+Kareem Raheem and Ziad al-Sinjary, reporting for Reuters:
+Hundreds of convicts, including senior members of al Qaeda, broke out of Iraq’s Abu Ghraib jail as comrades launched a military-style assault to free them, authorities said on Monday.
+The deadly raid on the high-security jail happened as Sunni Muslim militants are gaining momentum in their insurgency against the Shi’ite-led government that came to power after the U.S. invasion to oust Saddam Hussein.
+Like something out of a Jerry Bruckheimer movie. Seems like this should be a bigger news story.
+ESPN:
+After MLB’s original meeting with Braun on June 29, at which he refused to answer questions about Biogenesis, he requested a second meeting, a source familiar with the discussions told T.J. Quinn of ESPN’s “Outside The Lines.” Braun, after realizing the significance of the evidence against him from questions in the first meeting, decided to meet again to strike a deal that would limit his suspension to this season, according to the source.
+It is because of that deal that Braun’s suspension was announced Monday, the source told Quinn. The plan remains for the rest of the suspensions stemming from the investigation to be announced all at once.
+Those suspensions will include injured New York Yankees slugger Alex Rodriguez, with the source saying the evidence against Rodriguez is “far beyond” what MLB had on Braun. The length of Rodriguez’s suspension is expected to be affected by MLB’s belief that he interfered with the investigation.
+Disgraceful.
+Distinctive and timeless.
+This piece from the AP is just a perfect encapsulation of the current media narrative for Apple. It’s like a paint-by-numbers story, right down to the question mark in the headline:
+The report, due out after the stock market closes Tuesday, is expected to show that Apple Inc. is making less money as more customers buy its lower-priced iPhones and iPads instead of the top-of-the-line models. Other consumers increasingly are bypassing Apple products altogether as smartphones and tablet computers running Google’s Android software win more fans.
+The first sentence in that paragraph is true: Apple’s profits are down because their margins are down. The second sentence fits the narrative but not the facts; the fact is, Apple is selling more iPhones and iPads than ever.
+Android phone and tablet sales are growing, but in conjunction with iPhone and iPad growth, not at their expense.
+Gregory Schmidt, reporting for the NYT:
+ComiXology, which has become one of the biggest distributors of digital comic books, hit a milestone in June when it reached 180 million unique comic book downloads since it started business in 2009, said David Steinberger, the company’s chief executive, and a co-founder. Of those downloads, 80 million were in the last six months.
+Great app, and such a great fit for the retina iPads.
+Joel Spolsky:
+My dream is that when big companies hear about how friggin’ easy it is to block a patent application, they’ll use Ask Patents to start messing with their competitors. How cool would it be if Apple, Samsung, Oracle and Google got into a Mexican Standoff on Ask Patents? If each of those companies had three or four engineers dedicating a few hours every day to picking off their competitors’ applications, the number of granted patents to those companies would grind to a halt. Wouldn’t that be something!
+NYT Public Editor Margaret Sullivan:
+I don’t think Nate Silver ever really fit into the Times culture and I think he was aware of that. He was, in a word, disruptive. Much like the Brad Pitt character in the movie “Moneyball” disrupted the old model of how to scout baseball players, Nate disrupted the traditional model of how to cover politics.
+Traditional model: mostly bullshit.
+Nate Silver: facts.
+That there was this much resistance to Silver within the Times is a bad sign. Also a bad sign: that so many within the Times see such a difference between print and  online.
+Yoni Heisler, TUAW:
+But then a funny thing happened. Last week, Verizon reported its earnings results from Q2 2013 and the results were better than what most analysts were expecting. Last quarter, Verizon activated 7.5 million smartphones, of which 3.8 million units were iPhones. Put differently, nearly 51% of all smartphones Verizon activated last quarter were iPhones.
+That’s pretty impressive, but the folks on Wall St. don’t care so much about product share as they do about overall growth.
+To that end, the 3.8 million iPhones Verizon activated this past quarter far eclipsed the 2.7 million units it sold during Q2 of 2012. Year over year, iPhone activations on Verizon grew by 40.7%.
+Not a big story because it doesn’t fit the narrative of the “slowing smartphone market.” What I think is happening: the more people understand smartphones, the more likely they are to choose an iPhone.
+Good news, but it’s sick that this ever got so far.
+Ingrid Lunden, AOL/TechCrunch:
+Google’s stake is a sign that Glass production is ramping up: the company says that the investment is being made to “fund production upgrades, expand capacity and further enhance production capabilities.”
+Andy Rubin, back in 2009:
+“We’re not making hardware. We’re enabling other people to build hardware.”
+Remember that idea that Google has been getting better at what Apple does best (native app user experience) faster than Apple is getting better at what Google does best (online services)? There’s some truth to that when you only consider software; but when it comes to hardware, no way. I’ve seen Glass, and whatever you think of the concept, build-quality-wise, it’s not even in the same ballpark as an Apple product, especially considering the price. Google has a long road ahead if hardware is central to their future plans.
+Good news if he’s as scrupulous as he claims, but it’s absurd that he’s offended that Apple is treating this as a breach. Someone from outside Apple accessed and downloaded information from 100,000 Dev Center accounts — that’s a breach.
+John Paczkowski:
+A stumbling miss that includes a $900 million charge thanks to Surface RT inventory adjustments. That write-down, which is evidently driven by the Surface RT price reduction Microsoft announced earlier this week is worth $0.07 per share. Accounting for that, earnings per share are 66 cents, which is still far below expectations.
+Bad news, for which Microsoft is already paying dearly. The company’s shares are trading down 4 percent as I write this.
+My big question: Do they double down with a Surface RT 2, or abandon ship?
+Apple, acknowledging their Dev Center outage is due to a security breach:
+Last Thursday, an intruder attempted to secure personal information of our registered developers from our developer website. Sensitive personal information was encrypted and cannot be accessed, however, we have not been able to rule out the possibility that some developers’ names, mailing addresses, and/or email addresses may have been accessed. In the spirit of transparency, we want to inform you of the issue. We took the site down immediately on Thursday and have been working around the clock since then.
+Sounds like it’s bad, but not super bad.
+This should do wonders for Dubai’s tourism industry.
+Classy. Been a great series so far.
+Down for over 48 hours and counting. No word from Apple on what exactly is going on.
+Update: Now the online Apple Store is down, on a Saturday night. My spidey sense says this is bad news.
+Update 2: The store is now back online, but Dev Center remains down. Perhaps a coincidence that the store was down at all, but my spidey sense continues to tingle that whatever is wrong with Dev Center is very bad.
+My thanks to Manything for sponsoring this week’s DF RSS feed. Manything a simple iOS app and online service that lets you turn any iPhone, iPad, or iPod Touch into a clever remote video recorder. Create an account, hit record, and your video streams right to Manything’s site. Set up an old iPhone or iPod and you can monitor just about anything from anywhere. Check out their “Who’s Using Manything” page for a slew of examples. Manything even monitors when there is motion or sound, so if you’ve got hours of mostly static footage you can jump right to the interesting parts.
+While the service is in beta, unlimited storage is free. Once Manything is out of beta, they’ll have four pricing tiers, ranging from free (1 GB) to a $15/month premium level (50 GB of storage). It’s fun, useful, and very simple.
+Spoiler: He’s going to ESPN next month.
+The chockablock “Weather” folder on my homescreen backs this premise up.
+Claire Cain Miller, reporting for the NYT:
+Google reported second-quarter results that missed analysts’
+expectations for revenue and profit. They showed that its desktop
+search business continues to slow and ad prices continue to fall
+as it struggles to make as much money on mobile devices.
+Revenue is up year-over-year, but profits are flat because the growth is in mobile, and mobile ads are (so far) less profitable.
+John Paczkowski:
+Locationary is a sort of Wikipedia for local business listings. It
+uses crowdsourcing and a federated data exchange platform called
+Saturn to collect, merge and continuously verify a massive
+database of information on local businesses and points of interest
+around the world, solving one of location’s biggest problems:
+Out-of-date information.
+Not only does Locationary ensure that business listing data is
+positionally accurate (i.e., the restaurant I searched for is
+where Apple said it would be), it ensures that it is temporally
+accurate as well (i.e., the restaurant I searched for is still
+open for business and not closed for renovation or shuttered
+entirely).
+Good piece by Bruce Schneier on the growing surveillance state:
+One of the assurances I keep hearing about the U.S. government’s
+spying on American citizens is that it’s only used in cases of
+terrorism. Terrorism is, of course, an extraordinary crime, and
+its horrific nature is supposed to justify permitting all sorts of
+excesses to prevent it. But there’s a problem with this line of
+reasoning: mission creep. The definitions of “terrorism” and
+“weapon of mass destruction” are broadening, and these
+extraordinary powers are being used, and will continue to be used,
+for crimes other than terrorism.
+The amazing coincidences continue to pile up this week.
+Kevin Poulsen, writing for Wired’s Threat Level blog:
+Two weeks ago U.S. District Judge Colleen Kollar-Kotelly ordered
+the government to “promptly” begin releasing Swartz’ records. The
+government told my lawyer that it would release the first batch
+tomorrow. But minutes ago, Kollar-Kotelly suspended that order at
+MIT’s urging, to give the university time to make an argument
+against the release of some of the material. […]
+I have never, in fifteen years of reporting, seen a
+non-governmental party argue for the right to interfere in a
+Freedom of Information Act release of government documents. My
+lawyer, David Sobel, has been litigating FOIA for decades, and
+he’s never encountered it either. It’s saddening to see an
+academic institution set this precedent.
+This is not how MIT should deal with their shame over this.
+Marco Arment:
+I don’t think this “conversation” is over at all. If we had to
+declare a conclusion today, I wouldn’t bet on mobile ads being the
+clear “winner” over in-app purchase. And it would be a miserable
+outcome for all three interested parties — users, developers, and
+advertisers — if ads do end up being the de facto way for apps to
+make money.
+I also think it’s a bit silly to simply look at all apps. Sturgeon’s Law certainly applies to apps — most are crap. (If anything, 90 percent is way too low a number to describe how many are crap.) What’s the split on ad-backed vs. paid for non-crap apps?
+Gedeon Maheux:
+I’m sure many users are expecting developers of popular
+applications to simply update interface elements, compile some
+code and easily drop a brand spanking new version of their app
+onto the App Store for free. There’s little doubt that the
+majority of iOS 7 updates to existing apps will be free (which
+will please Apple), but I suspect there will be a surprising
+number of developers who will use the launch of the new operating
+system to completely re-boot their app, and why not? The visual
+and interactive paradigms iOS 7 mark a natural breaking off point
+and a perfect opportunity to re-coup costs. Some existing paid
+apps might even adopt an iOS 7 only strategy which means they’ll
+have no choice but to charge again.
+Along those lines, Savvy Apps released version 4.0 of their excellent iPhone calendar app Agenda today, not as a free update but as a $1.99 “new” app. I’m very curious to see how this strategy works.
+Monica Davey and Mary Williams Walsh, reporting for the NYT:
+Detroit, the cradle of America’s automobile industry and once the
+nation’s fourth-most-populous city, has filed for bankruptcy, an
+official said Thursday afternoon, the largest American city ever
+to take such a course.
+Update: How bad have things gotten in Detroit? Via Nate Silver, here’s a 2200 square foot home in foreclosure, on sale for $1.
+A billion here, a billion there, what’s the difference?
+Total coincidence, I’m sure.
+New from App.net: a super-simple service for publishing an RSS feed. If you’re using App.net, you can now use it to follow Daring Fireball.
+(Unlike the @daringfireball Twitter feed, the App.net one points at the link destination, not the entry on Daring Fireball. That’s the downside of using an automated service like PourOver. I’m not sure there are enough people using App.net to make it worth my while to work around this.)
+Update: App.net has added a new “Linked List” advanced setting that makes PourOver work properly for a feed like DF’s. Nice work. They’ve also set up this code that lets anyone sign up for a free App.net account that auto-follows @daringfireball.
+Tumblr dedicated to movies on Netflix that have been cropped, in some cases severely.
+Benedict Evans:
+When I was watching the launch event for Facebook Home, a loud
+alarm bell started ringing for me when Mark Zuckerberg said words
+to the effect that “phones should be about more than apps - they
+should be about people” — by which of course he meant “about
+Facebook”. The problem with this is that actually, we’ve spent the
+last 6 years making phones about more than just people. People use
+Facebook on their phones a LOT, yes, but they do a lot of other
+things as well. If all I wanted was a phone about people I’d be
+using a $20 Nokia with a battery that lasts a month.
+The same point, I think, applies to Google Glass. If you spend all
+day in the Googleplex, thinking googly thoughts about data
+ingestion and Now and the interest graph, then having ‘Google’
+hovering in front of your eyes instead of rubbing on a phone seems
+like a really obvious progression.
+What a great connection. Corporate solipsism is exactly right.
+Farhad Manjoo, after trying the Samsung Galaxy S4 and HTC One, both with the default carrier software and their $600 “Pure Google” versions:
+But you shouldn’t have to delete stuff just to get your phone
+looking like you want it. Plus, I suspect that many users probably
+don’t even know how to delete these apps, so they just sit
+there, clogging up the home screen.
+The worst thing about Android phones isn’t the crapware, though.
+It’s the “skins” — the modifications that phone companies
+make to Android’s most basic features, including the dialing
+app, contacts, email, the calendar, the notification system, and
+the layout of the home screen. If you get the Play edition of
+these phones, you’ll see Google’s version of each of these
+apps, and you’ll come away impressed by Google’s tasteful,
+restrained, utilitarian design sense. But if, like most people,
+you get your phone for $199 from a carrier, you’ll find
+everything in it is a frightful mess.
+In short, the best Android phones are ones that few people buy.
+David Smith:
+Logic Pro X is a Major (with a capital M) update to their
+professional audio editing suite. It appears to represent a
+significant investment in both time and resources. So how is it
+being sold, especially to people who already paid $200 for the
+previous version (Logic Pro 9)? It is a separate app download with
+a full cost purchase. No upgrades, no introductory pricing, just
+straight forward sale.
+I’d say that this is the best indication of Apple’s intentions and
+expectations for the App Stores going forward.
+Jim Dalrymple:
+First of all, I should address the fears of many users. Rumors
+have circulated for a long time that Logic Pro was going to be
+discontinued or that it was going to be reincarnated as some sort
+of “GarageBand Pro.” Clearly, it hasn’t been discontinued, and I
+can tell you from my own experience, this is far from a GarageBand
+knockoff. This is the same professional digital audio workstation
+software that we’ve used for years, only better.
+Logic Pro X still has all of the same professional-level features
+as its predecessor, but also adds some new high-end abilities. In
+addition, Apple has made the software more approachable to new
+users with features like Smart Controls (we’ll talk about this
+later), without taking away any ability for pros to dig down into
+the plug-ins, preferences or controls.
+Looks like an extensive update. $199.
+Interesting that while Apple’s consumer-focused iOS has turned its back on skeuomorphism, its last pro tool has upped the ante on mimicking real-world audio hardware buttons and dials.
+Dan Kois profiles Jack Handey for the NYT:
+“Deep Thoughts” wound up being the perfect distillation of
+Handey’s comedic temperament. He was no longer constrained by the
+format of the sketch — he was free to create koans, tiny polished
+gems of comedy. Like: “If a kid asks where rain comes from, I
+think a cute thing to tell him is ‘God is crying.’ And if he asks
+why God is crying, another cute thing to tell him is ‘Probably
+because of something you did.’”
+Handey’s new novel, The Stench of Honolulu, comes out tomorrow.
+Former WSJ reporter Jessica Lessin, now writing for her own website:
+In recent discussions, Apple told media executives it wants to
+offer a “premium” version of the service that would allow users to
+skip ads and would compensate television networks for the lost
+revenue, according to people briefed on the conversations. […]
+It is a risky idea. Ad-skipping would disrupt the entrenched
+system of television ratings — the basis for buying TV ads. In
+fact, television broadcasters sued Dish Network when it introduced
+similar technology last year.
+Jesus Diaz, last June:
+After yesterday’s Surface event — assuming they don’t fumble the
+execution — Gates’ children may have found the weapon to stop the
+heirs of Jobs and turn the tide.
+Bloomberg, yesterday:
+Microsoft Corp. is cutting the price of its Surface RT tablet by
+as much as 30 percent as the device struggles to lure customers
+amid competition from machines such as Apple Inc.’s iPad.
+Dermot Daly, on clients who thought letterboxed apps would be OK on the iPhone 5:
+I predict the iOS 7 effect will be worse. Within a week of running
+full time, those apps which haven’t been modernised to look like
+an iOS 7 app will look very old. They too will become
+insta-deletes.
+If you have an app in the store, We’d highly recommend looking at
+modernising them pretty quick.
+AOL seems like a swell place to work.
+Mike Cane argues that the evidence in the DOJ/Apple e-book case shows that the big six publishers are stupid:
+The math pros of the Big Six crunched the numbers and revealed
+this agreement would cost all of them money. Yet they still went
+ahead with it! If that isn’t being a moron, I don’t know what
+the hell is!
+Maybe they are stupid. But on the issue of pricing and near-future profits, I don’t think so. With the wholesale/retail model that was in place, pre-iBooks, they were making more money per book from Amazon, and selling more books at the $9.99 retail price. With the switch to the agency model, retail prices went up, so of course unit sales went down. And, the publishers made less money per book.
+But long-term, the publishers were concerned about what would happen if Amazon continued to dominate the e-book market with retail prices at $9.99. Eventually, Amazon might have forced the publishers to lower their wholesale prices dramatically. The big six publishers were willing to sacrifice a slice of their revenue now (17 percent, by their own calculations) in order to regain long-term control over the retail pricing of e-books. You can disagree with that, but it’s not moronic.
+Short and sweet: bug fixes and workarounds for users running Vesper on iOS 7 betas.
+If you like podcasts, I’ve got something just for you: a brand-new episode of The Talk Show, on which I’m joined by special guest star John Moltz. Topics include Apple’s e-book price-fixing trial, mom-n-pop porno shops, and being a nervous flyer.
+Brought to you by two great sponsors:
+Domestic Beast: Just because you own a dog doesn’t mean your home should look like a doghouse.
+Tablo: Create beautiful e-books in the cloud and publish to Amazon and Apple with a single click.
+Adam Lashinsky:
+One of the key learnings of my research on Apple over the past
+five years has been the extraordinary degree to which Apple is
+organized by function. No other company its size has the audacity
+to organize this way as opposed to the typical corporation’s
+divisional structure. The two most obvious examples of this are
+General Electric and, yes, Microsoft. GE’s aircraft and medical
+divisions are like companies unto themselves. Ditto Microsoft’s
+Xbox-purveying entertainment division.
+Steve Jobs hated divisionalization. He hated fiefdoms. He wanted
+one Apple, one strategy, one brand, one message. Software
+developers would contribute software across products. Finance
+would keep the books across product groups. And so on.
+The comparison to Apple’s organizational structure is obvious, but Lashinsky is correct that this is going to require a significant cultural change for Microsoft.
+This bit confuses me, though:
+As a small cultural example, consider the pickle Apple is in over
+e-books. In refusing to settle its price-fixing case with the
+Justice Department, Apple under Tim Cook adhered to its Jobsian
+principles. It believed it was right and that its partners, the
+government, its competitors and critics were fools. It apologized
+to no one because, well, Apple doesn’t apologize because Apple is
+never wrong. All this worked marvelously for the great Steve Jobs.
+For Apple under Tim Cook, it’s an understandably different
+proposition.
+Lashinsky is trying to argue that Apple’s unique product-focused organizational structure depended upon Jobs, individually, to keep it all working. That may prove true, eventually, but I don’t see how the e-books price-fixing case is any way indicative of that. For one thing, the negotiations between Apple and the publishers all took place while Jobs was still at the helm. And I don’t see how anything would have played out any differently with the DOJ case if Jobs were still alive and well today. In what way is Apple worse off regarding this case today than it would be if Jobs were still around?
+Further, Apple may well be institutionally arrogant, but they’ve never held themselves as “never wrong”. Jobs took this on directly while handling the iPhone 4 “antennagate” situation: “We’re not perfect.”
+Philip Elmer-DeWitt on the idea that Apple has to go retina on the iPad Mini this year.
+(I’d love to be wrong, but I don’t think it’s going to happen this year.)
+My thanks to Igloo for sponsoring this week’s DF RSS feed. Igloo bills itself as “an intranet you’ll actually like”, which is a perfect description. Igloo offers blogs, calendars, file sharing, forums, microblogs (think: private Twitter), and wikis. Everything you’d want. It’s all modern (including responsive design for mobile devices), and all configurable.
+Igloo is free to use with up to ten people, so you can start building your
+own Igloo today or
+check out their Sandwich
+Videos.
+Slashdot:
+This isn’t the first time HP has been caught inserting backdoors
+into enterprise products without telling customers. In 2010 it was
+forced to admit a secret backdoor in its StorageWorks systems that
+could be accessed by anyone using the account name “admin” and
+password “!admin”.
+That’s my password for everything: my username with exclamation in the front. Unguessable.
+From Nashville attorney Chris Sevier’s legal filing:
+UNFAIR COMPETITION AND INTERFERENCE OF THE MARITAL CONTRACT: The
+Plaintiff became totally out of synch in his romantic relationship
+with his wife, which was a consequence of his use of his Apple
+product. The Plaintiff began desiring, younger more beautiful
+girls featured in porn videos than his wife, who was no longer 21.
+His failed marriage caused the Plaintiff to experience emotional
+distress to the point of hospitalization. The Plaintiff could no
+longer tell the difference between internet pornography and
+tangible intercourse due to the content he accessed through the
+Apple products, which failed to provide him with warnings of the
+dangers of online pornography whatsoever.
+Been a busy week for Apple’s legal department. Via John Moltz.
+Drew Crawford:
+So what I’m going to do in this post is try to bring some actual
+evidence to bear on the problem, instead of just doing the
+shouting match thing. You’ll see benchmarks, you’ll hear from
+experts, you’ll even read honest-to-God journal papers on point.
+There are — and this is not a joke — over 100 citations in this blog
+post. I’m not going to guarantee that this article will convince
+you, nor even that absolutely everything in here is totally
+correct — it’s impossible to do in an article this size — but I can
+guarantee this is the most complete and comprehensive treatment of
+the idea that many iOS developers have — that mobile web apps are
+slow and will continue to be slow for the foreseeable future.
+Remarkably detailed analysis. Must-read piece. The comments are rather fascinating as well — denial runs strong among the web app true believers.
+If you read only one take on yesterday’s e-book price-fixing lawsuit judgment, make it Adam Engst’s. Comprehensive explanation of the entire saga.
+The Editing Room:
+JUDI DENCH: So are we bringing Goldfinger back into continuity
+now? Because that would open quite the can of worms, if the can
+were 200 miles wide, and the worms were Velociraptors.
+DANIEL CRAIG: And over here is my parents’ grave, so everyone who
+keeps insisting James Bond is just a codename can officially GO
+FUCK THEMSELVES.
+ALBERT FINNEY (arriving): Er, hi. This role was supposed to be
+Connery’s, but he told the producers to gargle walrus balls and so
+instead, it’s me. Sorry.
+The Prodigal Fool:
+Think about it — Bond is given three missions during the course
+of Skyfall and he cocks each one of them up in turn.
+Don’t get me wrong, I enjoyed Skyfall very much, but it really was a crap plot. Imagine how much better it could have been if Silva’s plot had actually been brilliant.
+But it won’t hit theaters until late 2015. Would love to see a smarter plot this time; certain inanities were Skyfall’s only flaw. Stylistically and characteristically, it was nearly perfect — a well-directed, well-acted, cinematographically gorgeous Bond movie about a rather crap plot riddled with profound logical holes.
+I’m not asking for realism; I’m just asking for sense. A little more Casino Royale is all it would take.
+Brian Womack, reporting for Bloomberg:
+Chromebooks have in just the past eight months snagged 20 percent
+to 25 percent of the U.S. market for laptops that cost less than
+$300, according to NPD Group Inc. The devices, which have a full
+keyboard and get regular software updates from Google, are the
+fastest-growing part of the PC industry based on price, NPD said.
+Update: Chromebook users apparently aren’t the market for Daring Fireball. According to Google Analytics, Chrome OS accounting for 0.07 percent of DF visitors over the past month. Still ahead of Firefox OS, though.
+Brian X. Chen and Julie Bosman, reporting for the NYT:
+A federal judge on Wednesday found that Apple violated antitrust
+law in helping raise the retail price of e-books, saying the
+company “played a central role in facilitating and executing” a
+conspiracy with five big publishers.
+“Without Apple’s orchestration of this conspiracy, it would not
+have succeeded as it did in the spring of 2010,” the judge, Denise
+L. Cote of United States District Court in Manhattan, said in her
+ruling. She said a trial for damages would follow.
+Cote’s ruling (PDF) is a cogent read.
+Part of the evidence was this video shot by Kara Swisher of Steve Jobs speaking with Walt Mossberg in the hands-on press area after the introduction of the original iPad in 2010. Mossberg asks Jobs why someone would buy a book for $14.99 from the iBookstore when they could buy the same book from Amazon for $9.99.
+Jobs: Well, that won’t be the case.
+Mossberg: Meaning you won’t be $14.99, or they won’t be $9.99?
+Jobs (smiling): The prices will be the same.
+Judge Cote found that damning. From her decision:
+Jobs’s purchase of an e-book for $14.99 at the Launch, and his
+explanation to a reporter that day that Amazon’s $9.99 price for
+the same book would be irrelevant because soon all prices will “be
+the same” is further evidence that Apple understood and intended
+that Amazon’s ability to set retail prices would soon be
+eliminated. When Jobs told his biographer the next day that, in
+light of the MFN, the Publisher Defendants “went to Amazon and
+said, ‘You’re going to sign an agency contract or we’re not going
+to give you the books,’” Jobs was referring to the fact that
+Sargent was in Seattle that very day to deliver Macmillan’s
+ultimatum to Amazon.
+No wonder Apple executives so seldom speak on the record.
+Sidenote: Pretty sure that’s me over Mossberg’s shoulder at the 1:45 mark in the video. Here’s a photo I took of Jobs and Mossberg. Mossberg remains the only person I’ve ever seen sit on a table at one of these events.
+Allen Pike:
+Prosumer software will always be ground zero for Maximum Viable
+Products, and great indie software in general. The consumer aspect
+drives the inspiration to build a maximal app, because developers
+can deeply relate to the users. The pro bent provides the viable
+part of the equation: the app’s purpose is important enough to its
+users that you can make a sustainable business out of creating a
+fantastic version.
+If you want your maximal products to be viable, target prosumers.
+And set your prices accordingly.
+Small location-broadcasting fob that ties in with a smartphone app. Looks like a great product.
+Steven J. Vaughan-Nichols:
+Thus, Android users will, as they always have, need to reply upon
+their hardware vendors for this update.
+I’m sure they’ll get right on that.
+I speculated on this week’s episode of The Talk Show that Apple’s round-square hardware products might conform to the same grid as the new iOS 7 app icons. Here’s the grid super-imposed over the bottom of a Mac Mini. The corner radius is quite different, but everything else conforms exactly.
+My thanks to DF reader Zach Kahn, who sent me this image of the grid superimposed on the AirPort Express.
+Update: More here, from Andrew Wood, and another from Stéphan Angoulvant that includes the old iPod Shuffle.
+Reuters:
+U.S. District Judge Phyllis Hamilton in Oakland, California, on
+Tuesday ordered that the case be dismissed at the companies’
+request. This came after Apple issued to Amazon a covenant not to
+sue, eliminating the need for a related Amazon counterclaim.
+“We no longer see a need to pursue our case,” Apple spokeswoman
+Kristin Huguet said. “With more than 900,000 apps and 50
+billion downloads, customers know where they can purchase their
+favorite apps.”
+Martin Glick, a lawyer for Amazon, said in an interview, “This was
+a decision by Apple to unilaterally abandon the case, and leave
+Amazon free to use ‘appstore.’”
+Olive Twist is my favorite.
+XKCD:
+In the last few years, with very little fanfare, we’ve conclusively settled the questions of flying saucers, lake monsters, ghosts, and Bigfoot.
+New episode of my podcast, The Talk Show, featuring special guest star Christa Mrgan. Topics this week include iOS 7, typography, App Camp for Girls, and more.
+Brought to you by two outstanding sponsors:
+An Event Apart: The design conference for people who make websites.
+MoneyWiz: Premium personal finance app for your Mac, iPhone and iPad. With automatic sync.
+Great idea:
+Fantasy User Interfaces, Fictional User Interfaces, Fake User
+Interfaces, Futuristic User Interfaces. Regardless of what the F
+stands for, they all represent the same thing, the user interfaces
+and heads up displays found in many popular movies and television
+shows. […]
+Kit FUI is an IMDb-like database that makes it easy to find
+screenshots, videos and the designers of these FUIs.
+Pretty damn wrong-headed, when the analyst in question is Trip “Claim” Chowdhry.
+This could be great.
+Dave Addey:
+Over the past few months, I’ve been researching the kinds of apps
+that get featured on the iTunes App Store home page for different
+countries around the world. Here are my initial findings.
+Interesting analysis and presentation.
+Today’s beta 3 release of iOS 7 changes the system text font from Helvetica Neue Light to Regular. Light and Ultra Light are still used in the system in certain places, but more sparingly and appropriately.
+This all comes back to Dalrymple’s plea one week after WWDC. All betas are works in progress, but iOS 7 is far more so than usual. They’re still playing with this stuff.
+Jürgen Siebert and Maurice Meilleur, writing for Typographica:
+Typographic aesthetes will be happy to learn that support for
+kerning and ligatures (Apple calls these macros “font
+descriptors”) will be turned on throughout iOS 7, effortlessly
+accessible even over very advanced visual effects like the
+deceptively real-looking handmade paper texture. […]
+But the hottest typographic number in iOS 7 is Dynamic Type. As
+far as I know, Apple’s mobile products will be the first
+electronic devices that will by default consider a quality of type
+that hasn’t been given so much attention since the age of
+letterpress. That’s right: we’re talking about an operating
+system, not an application or a layout job. It’s true, optical
+sizes were tried in photosetting and desktop publishing — but
+they weren’t really automatic, and some of the attempts turned out
+to be blind alleys (like Adobe Multiple Masters). And yes, there
+are any number of displays in industry products that use different
+‘grades’ of text for smaller and larger settings. But optical
+sizing in iOS builds on these earlier attempts and offers
+astonishing possibilities.
+Text Kit makes me very happy.
+Sophie Knight and Maki Shiraki, reporting for Reuters from Tokyo:
+NTT DoCoMo Inc, Japan’s largest mobile provider and a pioneer of the mobile Internet, is one of just a few holdouts among the world’s big mobile carriers not offering Apple Inc’s iPhone to its 60 million customers.
+It is paying heavily for that obstinacy - with a net 3.2 million users jumping ship to its two domestic rivals over the last 4-1/2 years — but is determined to protect the walled garden of services it has built around its own smartphones.
+“We’re trying to develop a lifestyle system,” NTT DoCoMo CEO Kaoru Kato told Reuters in an interview this week.
+I don’t see how that strategy makes sense today, especially given Android’s relative unpopularity in Japan.
+My thanks to BatchGeo for sponsoring this week’s DF RSS feed. Their deal is simple: they take location data — like, say, in the form of addresses in a spreadsheet — and they turn it into a proper map. You just paste your data into a text field and click one button. Amazingly simple solution to a complex and common problem. You may not need BatchGeo today, but will some day.
+Check out their website for more information and a fun video.
+Marco Arment, on the shutdown of Google Reader:
+The most common assumption I’ve seen others cite is that “Google
+couldn’t figure out how to monetize Reader,” or other variants
+about direct profitability. I don’t believe this, either. Google
+Reader’s operational costs likely paled in comparison to many of
+their other projects that don’t bring in major revenue, and I’ve
+heard from multiple sources that it effectively had a staff of
+zero for years. It was just running, quietly serving a vital role
+for a lot of people.
+Rene Ritchie:
+Back before WWDC 2013 rumors started to spread about iOS 7
+providing access to third-party keyboard makers. This rumor might
+originate, in part, from a question Tim Cook answered at the D11
+Conference about third-party APIs (application programming
+interfaces). It might also have to do with “leaks” that came out
+just prior to WWDC claiming at least a couple Android keyboard
+makers were getting ready to port to iOS.
+WWDC, however, passed without mention of third-party keyboards for
+iOS (but with an awkward car demo!). Whether third party keyboards
+were never on the agenda, or the “leaks” got them kicked off the
+agenda, or they may indeed be on the agenda for a future event is
+tough to say. All we can say is that Apple hasn’t announced any
+third-party keyboard support for iOS, not open to every developer,
+not tied to limited partners, nothing.
+My understanding is that third-party keyboards were never on the agenda for iOS 7, or at least they were never planned for what was announced at WWDC. Nothing along these lines got yanked. The main issue Apple faces is security: a third-party keyboard would “see” everything you type, in every app you use. Regular apps you download from the App Store are sandboxed; third-party keyboards couldn’t be sandboxed in the same way apps are.
+Plus there’s the user interface question of how you’d install them. Right now, everything you download from the App Store is an app that shows up as an object on your homescreen. Where would a keyboard go? I’m not saying these are particularly hard problems to solve, but just that Apple hasn’t solved them, and so thus there are no third-party iOS keyboards.
+Jon Pareles, writing for the NYT:
+When installed, it demanded a working log in to Facebook or
+Twitter and permission to post on the account. “We would like fans
+to share the content through social networking sites,” a Jay-Z
+spokeswoman said by e-mail. (E-mail to Samsung Mobile’s customer
+service address for the app was returned as undeliverable
+throughout Wednesday.) But the app was more coercive.
+In the days before the album’s release through Samsung, the app
+promised to display lyrics — with a catch. “Unlocking” the lyrics
+required a post on Facebook or Twitter. I used Twitter, where
+hitting the “Tweet” button brought up a canned message: “I just
+unlocked a new lyric ‘Crown’ in the JAY Z Magna Carta app. See
+them first. http://smsng.us/MCHG2 #MagnaCarta.” The message could
+be altered, but something had to be sent. No post, no lyrics —
+for every song. Users were forced to post again and again. And
+frankly, a lyric that is going to show up almost immediately on
+the Internet isn’t much of a bribe for spamming your friends.
+I’m not surprised Samsung would go for this, but I am that Jay-Z would.
+One of the giants upon whose shoulders we all stand.
+Clever, but hard to imagine Twitter will stand for this. Twitter should just grant Falcon Pro more tokens.
+Christa Mrgan, writing for Macworld:
+The use of Helvetica Ultralight as the system font is a mistake. I
+can say this more confidently than my other gripes, as I have my
+own 20/15 vision and the opinion of revered typography expert Erik
+Spiekermann to back me up on it. He calls the choice a “youthful
+folly,” saying that in large swaths at 13-point, the text looks
+like a lovely, smooth carpet — and is also completely unreadable.
+While iOS does let users adjust font sizes throughout the system,
+it may be a bad sign if many or most people choose to increase
+them by default.
+Really good critique.
+Never noticed the spur-jangling before. So great.
+Best gift yet on the Rivera farewell tour.
+Ramin Shokrizade, writing at Gamasutra, on the “coercive monetization” tricks that game designers use to get you to make in-game purchases. Interesting, but depressing. (Via The Brief.)
+Nice piece by Sarah Darville for Nieman Journalism Lab on Mule Design’s Evening Edition. Still a daily read for me.
+As promised on stage during the live WWDC episode of The Talk Show, my gal pal Amy Jane Gruber and regular pal Paul Kafasis have launched a new podcast, Just the Tip. It’s funny and it’s brief — 30 minutes or less, every episode, or your money back.
+Interesting, to say the least, for a survey in Korea. (Via Jim Dalrymple.)
+Sidenote: Apple has always placed a lot of importance on customer satisfaction surveys, but I think it has increased under Tim Cook. At least twice in the past year, in public remarks, I’ve noticed Cook refer to customer satisfaction as “customer sat” — and it’s rare for Apple executives to drop into jargon onstage. I suspect it’s a tell that he uses the term so frequently that he can’t help it. I know many people are nervous about the long-term effects of a “numbers guy” running Apple, but what makes Cook a good fit is that he’s most obsessed with the right kind of numbers: those that attempt to quantify how happy Apple’s customers are.
+Josh Levin, writing for Slate:
+It’s obvious to anyone who cares enough to look that major college sports are fundamentally unjust. The NCAA rakes in billions of dollars while the players get nothing. Most Division I athletes aren’t even guaranteed a four-year education—tear a ligament or get passed on the depth chart and your scholarship can vanish after a single season. But ask a bunch of coaches, and they’ll tell you that something else is rotten in college athletics. The problem with NCAA sports, they believe, is that the servants aren’t indentured enough.
+Fun, gorgeous new Mickey Mouse short from Disney that hearkens back to Disney’s early days. See also: New York Weenie. (Via Cabel Sasser.)
+Big news from H&FJ:
+Now all your communications can speak in the same clear voice.
+Introducing Cloud.typography from H&FJ, the webfont solution for
+design professionals.
+There are two separate technically impressive aspects to this. The first is the fonts themselves, which they’ve painstakingly tweaked to render beautifully, even at small sizes, across all modern operating systems and display types. The second is the web app you use to control — and I do mean control — your font styles.
+Just one of many nice touches: any fonts you’ve previously purchased from H&FJ — as regular old fashioned desktop fonts — are already available to you as web fonts.
+BlackBerry CEO Thorsten Heins, five months ago: “Our plan is to upgrade all existing PlayBooks to BlackBerry 10.”
+Last Friday:
+BlackBerry has just announced that it will not, in fact, be
+upgrading the BlackBerry PlayBook tablet to its latest mobile OS,
+BlackBerry 10. CEO Thorsten Heins revealed the sour news on the
+company’s investor call relating to today’s earnings report,
+though he didn’t delve into the specifics of why the company’s
+plans have changed. The only justification offered by Heins is
+that BlackBerry was unable to get performance up to a satisfactory
+level, and the company now intends to focus on core products
+instead.
+BlackBerry ad campaign for the Playbook, in May 2011: “Amateur hour is over.”
+New episode of my podcast, The Talk Show, with special guest Craig Hockenberry. We talk in detail regarding the design changes in iOS 7, particularly the similarity to graphic design and color palette trends in decades past. Also: tagging, as seen in Mavericks, as the future of file sharing and organization amongst sandboxed applications.
+Brought to you by three excellent sponsors:
+Transporter: Peer-to-Peer Storage Solution like Dropbox, except you remain in complete control.
+Squarespace: Everything you need to build exceptional websites.
+Igloo: An intranet you’ll actually like.
+We could work on Vesper for the next decade and I doubt I’ll ever write a release note I enjoy as much as the third one in this list. Anyway, lots of small improvements, enjoy.
+
+Display Preferences
+
+Copyright © 2002–2021 The Daring Fireball Company LLC.

@@ -1,0 +1,58 @@
+##LINK: https://www.fiercewireless.com/wireless/sprint-t-mobile-generally-voice-support-for-fcc-s-net-neutrality-rules
+##KEYWORDS: open Internet
+##TITLE: Sprint, T-Mobile generally voice support for FCC's net neutrality rules | FierceWireless
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+by  Phil Goldstein  |
+ Feb 27, 2015 10:51am 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sprint (NYSE: S) and T-Mobile US (NYSE:TMUS) seemed cautiously optimistic that the FCC's new net neutrality rules won't harm them and will protect the open Internet, while Verizon (NYSE: VZ) and AT&T (NYSE: T) were dismayed and characterized the FCC's action as misguided. 
+ Meanwhile, CTIA said it was disappointed in the new rules, which it regards as unnecessary and unlawful for mobile broadband. A host of public interest groups were either elated or disheartened that the FCC adopted, by a 3-2 vote, three core rules for net neutrality: no blocking of legal content; no throttling of Internet traffic on the basis of content; and no paid prioritization of content. The agency also adopted a broader "standard for future conduct," which will be used to ensure that broadband providers are not "unreasonably interfering with or unreasonably disadvantaging" the ability of consumers and content providers to use the Internet. 
+ "Sprint has been a leader in supporting an open Internet and commends the FCC for its hard work in arriving at a thoughtful, measured approach on this important issue," the company said in a statement. "We believe balanced net neutrality rules with a light regulatory touch will benefit consumers, while fostering mobile broadband competition, investment and innovation in the United States. We look forward to reviewing the FCC order and continuing to work with policymakers to ensure consumers benefit from an open Internet." 
+ T-Mobile CEO John Legere also indicated that he is hopeful the new rules will continue to let the carrier have the flexibility to offer innovative plans to its customers. "As the consumer advocate, we have always believed in competition and in a free, open Internet with rules that protect net neutrality--no blocking, no discrimination and transparency," he said in a statement. "I am hopeful that the FCC's new rules will let us continue to offer innovative services to consumers in our typical Un-carrier fashion, but obviously we need to read through all of the details." 
+ Jim Cicconi, AT&T's senior executive vice president of external and legislative affairs, lamented in a company blog post that the battle over net neutrality had become so partisan. He also expressed disappointment that the FCC did not try to find a middle ground in the debate. AT&T, Verizon and other ISPs have railed against the FCC classifying the Internet in a Title II approach to net neutrality, arguing that such an approach will curb investment. 
+ "The 3-2 FCC vote, along party lines, for sweeping new regulation of the Internet, is a rejection of the compromise win and an embrace, however reluctant, of the political fight," Cicconi wrote. "It's unfortunate that this single issue, more than any other, has over the course of ten years caused a divisive spirit to spread to an agency that has long sought unanimity on significant long term issues, and generally found it." 
+ Verizon, for its part,  released its statement on the ruling in Morse code , a tip to arguments that the FCC is engaging in "1930s-style regulation." Michael Glover, Verizon's senior vice president of public policy and government affairs, said that the FCC's decision "to encumber broadband Internet services with badly antiquated regulations is a radical step that presages a time of uncertainty for consumers, innovators and investors. Over the past two decades a bipartisan, light- touch policy approach unleashed unprecedented investment and enabled the broadband Internet age consumers now enjoy." 
+ "The FCC's move is especially regrettable because it is wholly unnecessary," Glover added. "The FCC had targeted tools available to preserve an open Internet, but instead chose to use this order as an excuse to adopt 300-plus pages of broad and open-ended regulatory arcana that will have unintended negative consequences for consumers and various parts of the Internet ecosystem for years to come." 
+ CTIA President Meredith Attwell Baker, herself a former FCC commissioner, called the new rules "disappointing and unnecessary" and said that by ignoring the "fundamental differences in wireless networks and disregarding the intense competition throughout the mobile ecosystem, the FCC abandoned a long-standing policy framework responsible for fostering America's world-leading wireless industry." 
+ "The agency's action runs counter to an express Congressional directive prohibiting the agency from treating mobile broadband like a utility service, making today's decision not only unwise, but unlawful," she said. "The economic and legal uncertainty that will inevitably follow from the FCC's unilateral action underscores the importance of, and urgent need for, bipartisan Congressional action that can end the net neutrality debate and allow our country's mobile ecosystem to focus on what it does best--innovating, investing and empowering Americans' mobile connected lives." 
+ Roger Sherman, chief of the FCC's Wireless Telecommunications Bureau, said at a press conference yesterday after the FCC vote that the commission "respectfully disagrees" with CTIA's interpretation of the law, and that the FCC is well within its authority, granted by Congress, to change the legal definition of mobile broadband to a "Commercial Mobile Radio Service," subject to Title II regulations. 
+ Many public interest groups hailed the rules. "After an unprecedented outpouring of public support, today the FCC voted to enact the strongest net neutrality rules in history," Michael Weinberg, senior vice president of Public Knowledge, said in a statement. "By embracing its Title II authority and creating clear, bright-line rules against blocking and discrimination, Chairman Wheeler and the FCC have earned a reputation as defenders of an Open Internet." 
+ Yet many others disparaged the rules and said they will have unintended and negative consequences for the U.S. broadband market. "Mobile Future and our members all support an open Internet, which is vital to the future of our nation," said Jonathan Spalter, chairman of Mobile Future, a coalition of companies that promotes mobile investment. "The cumbersome and backwards-looking rules adopted today, however, are neither the right path forward, nor will they enhance U.S. mobile innovation and global leadership. The FCC's action today will have untold and long-term consequences for not only virtually everyone working in the technology space, but also for the vitality, openness and sustainability of the Internet we all cherish. It is extremely disappointing that the FCC majority chose what is without doubt the most restrictive and risky path among all of the options available to safeguard Internet openness." 
+ For more: 
+- see this  The Verge   article 
+- see this  Reuters   article 
+- see this  Bloomberg   article 
+- see this T-Mobile  post 
+- see this AT&T  blog post 
+- see Verizon  statement 
+ Special Report:  Net neutrality for wireless and wireline carriers 
+ Related Articles: 
+Net neutrality rules won't force carriers to get FCC permission for new plans, officials say 
+FCC approves net neutrality rules for wireless, putting future zero-rating plans on notice 
+T-Mobile, CTIA urge FCC to preserve zero-rating, give carriers flexibility under net neutrality 
+Sprint's Bye: Carriers will still invest in networks even under Title II regulations 
+Zero-rating, throttling and other wireless practices targeted by FCC's net neutrality rules 
+FCC's Wheeler lays out net neutrality plans while AT&T, Verizon reportedly prep lawsuits 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

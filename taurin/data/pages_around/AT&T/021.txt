@@ -1,0 +1,297 @@
+##LINK: https://www.theverge.com/2017/7/13/15964202/att-fake-support-of-net-neutrality-protests
+##KEYWORDS: net neutrality
+##TITLE: AT&T’s ‘support’ for net neutrality means tricking customers to fight against it - The Verge
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ Filed under: 
+ 
+ 
+ 
+ Policy 
+ 
+ 
+ 
+ 
+ Mobile 
+ 
+ 
+ 
+ 
+ US & World 
+ 
+ 
+ 
+ 
+ 
+ AT&T’s ‘support’ for net neutrality means tricking customers to fight against it 
+ 
+ 
+ 
+ 
+    New,
+   
+ 
+ 
+        9
+       
+ comments 
+ 
+ 
+ 
+ 
+ Read carefully 
+ 
+ 
+    
+      By
+       
+ Jacob Kastrenakes @jake_k 
+ 
+ 
+ 
+          Jul 13, 2017, 10:09am EDT
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ If you buy something from a Verge link, Vox Media may earn a commission. See our  ethics statement . 
+ 
+ 
+ 
+ Share this story 
+ 
+ 
+ 
+ 
+ Share this on Facebook 
+ 
+ 
+ 
+ 
+ 
+ Share this on Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options for: 
+ AT&T’s ‘support’ for net neutrality means tricking customers to fight against it 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Linkedin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pocket 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flipboard 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ If you weren’t paying close attention yesterday, it  may have looked  like AT&T got onboard the net neutrality “day of action” protest. The company’s website displayed a banner saying that “AT&T supports an open internet,” and it sent a message to DirecTV customers mentioning the same thing. “Tell Congress to adopt permanent protections,” both messages added, before directing people to  an “Open Internet” page  on AT&T’s site. 
+ But while that page might look like other pro-net neutrality sites at first glance, it’s far from it. AT&T is carefully wording around the fact that it’s opposed to the net neutrality order that activists are fighting for. What’s worse: it’s trying to get people to send an email to legislators and the FCC that pushes its own agenda, while masquerading as something in support of the same cause yesterday’s protest was about. 
+ 
+ 
+ @reckless  this what I got on my DirecTV today  pic.twitter.com/DUI7KqXTjh — dlwelch34 (@dlwelch34)  July 13, 2017 
+ 
+ 
+ 
+ AT&T has a series of pre-written messages that you can email out after filling in some personal details, like your name, phone number, and address. The messages aren’t editable. And it turns out, there are several different versions of them —  The Verge  has seen nine so far. In many cases, if you’re not reading carefully, it’s easy to miss what they’re really about. Here’s a sampling of excerpts: 
+ 
+ “There is a right way and a wrong way to preserve the concept of an open internet. I am in favor of protecting the open internet with legislation.” 
+ “I agree with the FCC that it doesn’t make sense to apply an 80 year-old regulatory scheme to the internet.” 
+ “While I support the FCC’s work to get rid of the rules that were harming the internet economy, I believe the only way to permanently guarantee an open internet is by Congress creating a law.” 
+ 
+ In some messages, AT&T is a bit more subtle about what it’s asking for — implying an opposition to the FCC’s net neutrality rules, without stating it outright. But in other cases, it’s explicit, with statements that fly in clear opposition to yesterday’s net neutrality protest like “the FCC’s move to make sure the internet isn’t subject to heavy-handed laws created for the rotary phone is the right first step,” meaning that it wants to see Title II, the legal authority that makes AT&T subject to tough net neutrality rules, go away. If someone is writing a letter in support of net neutrality, there’s a strong chance that’s not what they mean to say. 
+ Now, there’s a good argument to be made for Congress passing a law on net neutrality. In theory, it might achieve the same goals and put a stop to the endless debate and lawsuits that the FCC has run into. But advocates aren’t explicitly pushing for this because there are already tough, enforceable rules on the books at the FCC. It’s also not clear what’ll come out of Congress,  particularly given how much sway internet providers have with lawmakers . 
+ Plus, the Republican-controlled Congress is still struggling to accomplish things at  the top  of their to-do list, so it’s not evident when or if they’d even get around to net neutrality. 
+ 
+ 
+ this just popped up on my directTV kinda interesting no? and have you done your part today to protect net neutrality?  from
+       screenshots 
+ 
+ 
+ 
+ It’s not entirely clear who AT&T’s letter is getting sent to. AT&T’s website says it sends a message to “the FCC and your officials,” presumably looking them up based on your address. The site also doesn’t clarify if the comment will be filed with the FCC as part of the net neutrality proceeding, but that seems to be the implication. We’ve reached out to AT&T for clarification and comment. 
+ AT&T isn’t alone in offering a semblance of support for net neutrality.  Comcast  and  Verizon  both published blog posts saying they’d like to see Congress address the issue. But AT&T seems to have gone a step further in making sure some of its customers got to see the message. Except that, unless you visited the link and kept reading, you’d miss what AT&T was actually saying. 
+ Update July 13th, 11:20AM ET:  AT&T has multiple copies of the letter for customers to email out, which appear to be randomly assigned when you load the page. This article has been updated to reflect that some copies of the letter contain much more explicit language than others. 
+ 
+ 
+ 
+ 
+ 
+    In This Stream
+   
+ Net neutrality day of action: everything you need to know 
+ 
+ 
+ No, Michael Powell, let’s not ‘calm down’ about net neutrality 
+ 
+ 
+ AT&T’s ‘support’ for net neutrality means tricking customers to fight against it 
+ 
+ 
+ The FCC says net neutrality destroys small ISPs. So has it? 
+ 
+ 
+ 
+    View all  14  stories
+   
+ 
+ 
+ 
+ 
+    Next Up In
+    
+         Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Sign up for the
+        
+          newsletter
+        
+       
+      Verge Deals
+     
+ Subscribe to get the best Verge-approved tech deals of the week. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thanks for signing up! 
+ Check your inbox for a welcome email. 
+ 
+ 
+ 
+ 
+ Email  (required) 
+ 
+ 
+ 
+ 
+ 
+ 
+        By signing up, you agree to our  Privacy Notice  and European users agree to the data transfer policy.
+        
+       
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loading comments... 
+ 
+ 
+ 
+ 
+ 
+ 

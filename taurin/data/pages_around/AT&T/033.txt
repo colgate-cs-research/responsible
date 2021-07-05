@@ -1,0 +1,74 @@
+##LINK: https://promarket.org/2020/06/10/atts-treatment-of-hbo-max-sparks-calls-for-net-neutrality-rules-but-is-sector-specific-regulation-the-right-solution/
+##KEYWORDS: net neutrality
+##TITLE: AT&T’s Treatment of HBO Max Sparks Calls for Net Neutrality Rules. But Is Sector-Specific Regulation the Right Solution? - ProMarket
+##METHOD: article 1
+
+
+
+ 
+ Antitrust and Competition Commentary News 
+ 
+ AT&T’s Treatment of HBO Max Sparks Calls for Net Neutrality Rules. But Is Sector-Specific Regulation the Right Solution? 
+ 
+ By   Hal Singer  -      June 10, 2020   0   2516   
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ Twitter 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ 
+ Not all forms of self-preferencing should be banned, but we do need a standard by which to evaluate allegations of anticompetitive self-preferencing. Congress should task the Federal Trade Commission (FTC), or some new digital agency, with policing a nondiscrimination standard against digital platforms. 
+ 
+ Last week, AT&T  confirmed  to  The   Verge  that it would not count HBO Max usage against the wireless provider’s mobile data caps. In contrast, absent a similar arrangement with Disney or Netflix, watching these streaming services would count against the caps. 
+ AT&T’s treatment of HBO Max has attracted the attention of  key Democratic leaders  on Capitol Hill, sparking allegations that AT&T is violating the concept of net neutrality. Public Knowledge also expressed its dismay,  arguing  that AT&T’s offering highlights the need to restore net neutrality rules and tighten merger standards between content distributors and content creators. 
+ AT&T’s program is known in the wireless business as “sponsored data,” and it is not the first such plan. There were rumors in 2013 that ESPN was considering  entering into a similar plan  with Verizon to subsidize the carriers’ wireless packages. In 2014,  United Health Group  used AT&T’s sponsored-data plan to deliver educational videos and other healthcare data to its members. In 2016, Verizon  launched  an official sponsored-data plan called FreeBee.  
+ The question being asked is whether AT&T’s sponsored-data offering is an anticompetitive form of “self-preferencing.” Is it akin to Amazon  steering searches  to its private-label products? And, if so, should we regulate such conduct? Should all self-preferencing by vertically integrated, digital platforms be banned? And if it’s not a  per se  violation, is there a standard by which we can assess the competitive effects on a case-by-case basis? 
+ The short answers are: No, not all forms of self-preferencing should be banned; but yes, we do need a standard by which to evaluate allegations of anticompetitive self-preferencing. Fortunately, there are regulatory templates from which to borrow.  
+ An obvious template is the standard used to adjudicate discrimination disputes in cable programming. To make that work here, we would need to know a few more things before we could condemn the conduct as anticompetitive. First, we would need to ascertain whether AT&T’s offer is discriminatory on the basis of affiliation: Is there an independent content provider, similarly situated to HBO Max, who has been denied this offer due to the independent’s lack of affiliation with AT&T? Second, we would need to ascertain whether such an independent is materially impaired in its ability to compete effectively as a result of the conduct. 
+ With regard to the first evidentiary prong, so long as AT&T stands ready to make its sponsored-data offer to all comers, including independent content providers, at the same terms it offered to HBO Max, then its treatment of HBO Max is hardly discriminatory. The  Verge  story  suggested  that AT&T was ready to do exactly that: “According to an AT&T executive familiar with the matter, HBO Max is using AT&T’s ‘sponsored data’ system, which technically allows any company to pay to excuse its services from data caps.” 
+ The unknown here is the price of the specific arrangement between AT&T and its sister company, HBO’s parent WarnerMedia. Most economists would assume that the price is not market-determined because the payments are in internal transfer from one company to another. AT&T could claim, hypothetically, that the agreed-upon rate was $1 million per month if it wanted to use the arrangement to disadvantage HBO’s programming rivals; in that case, the offer might not be discriminatory, but could be exclusionary.  
+ If the terms were fair-market value, however, then allowing all content providers to participate in the program seems fairly unobjectionable, particularly if such funds put downward pressure on the price of broadband access for end-users. 
+ With regard to the second evidentiary prong in cable discrimination disputes—material injury to a rival—we would need to identify a victim. So far, the complaints have been coming from advocacy groups and Senators. But it is conceivable that some content provider might step forward. 
+ The regulatory template offered here gives us something concrete with which to assess AT&T’s conduct. We could argue whether AT&T’s sponsored-data program constitutes a violation of the net neutrality principles, but that seems to be a moot point given the absence of any such protections. For net neutrality historians, the Federal Communications Commission’s (FCC)  2015 Open Internet Order  subjected sponsored-data programs to a “general conduct” standard. Importantly, not all such plans would have been banned under that standard. Instead, such conduct would have been subject to a case-by-case review according to a set of criteria, including innovation and competitive effects. 
+ If we are truly worried that AT&T and other vertically-integrated internet service providers (ISPs) could use sponsored-data programs to impair programming rivals like Disney or Netflix or Google’s YouTube, there is a simple solution: Congress should task the Federal Trade Commission (FTC), or some new digital agency, with policing a nondiscrimination standard against digital platforms. Then, it can define digital platforms broadly to allow for the possibility that ISPs are covered by the regulations, as well as Amazon, Apple, Google, and Facebook. Make self-preferencing arrangements presumptively reasonable, but allow complaining, independent content creators (or merchants, in the case of Amazon) to overturn that presumption upon proof that the conduct was discriminatory, and as a result, the rival was materially impaired in its ability to compete. 
+ Under an alternative regulatory scenario to the one spelled out above, the FTC (or the new digital agency) would adjudicate discrimination complaints against dominant tech platforms, and the FCC would adjudicate discrimination complaints against ISPs. The problem with that alternative is that two different evidentiary standards or two different levels of enforcement (or both) could emerge. Moreover, a tribunal that focused on a narrow industry such as broadband or e-commerce is more vulnerable to regulatory capture. A single agency, covering all digital platforms, could develop both the expertise and the consistent precedent needed to protect consumers from having their digital options shortchanged. 
+ So where does that leave us? AT&T’s offer does not appear to be discriminatory on its face, but until we know the terms of its sponsored-data program, we won’t know for certain that it is not exclusionary. Congress needs to get us out of this netherworld of uncertainty by giving crisp guidance to an agency to preserve opportunities for upstarts and new competitors operating at the edges of the digital platforms. 
+ As our cities swell with protests, there are clearly more important problems facing policymakers right now. But providing a lasting solution to this opaqueness over what is reasonable and what’s not when it comes to sponsored data in particular, and self-preferencing generally, would go a long way to preserving edge innovation. As a bonus, it would spare us from the never-ending debate on what constitutes a net neutrality violation. 
+ 
+ Disclaimer: Hal Singer has previously consulted to several wireless providers, including AT&T and Verizon. The views and opinions expressed in this article are those of the author and do not necessarily reflect the official policy or position of Econ One or its members. 
+ Top photo by  Bill Bradford , via Flickr [ CC BY 2.0 ] 
+ 
+ 
+ Related posts: 
+ The House’s Big Tech Hearing: Break Ups Large and Small?  
+ Little Law and No New Regulator: What’s Missing in the House Antitrust Report  
+ 
+ 
+ 
+ 
+   
+ 
+   TAGS antitrust and competition AT&T Net Neutrality regulatory capture   
+ 
+ 
+ Facebook 
+ 
+ 
+ Twitter 
+ 
+ 
+ Email 
+ 
+ 
+   Previous article $130 Billion in Small Business Aid Still Hasn’t Been Used Next article The Economic and Social Implications of Racial Disparities: A Webinar With Lisa Cook   Hal Singer Hal Singer is a managing director of Econ One and an adjunct professor at Georgetown’s McDonough School of Business. He is also the co-author of the e-book The Need for Speed: A New Framework for Telecommunications Policy for the 21st Century (Brookings Press 2013), and co-author of the book Broadband in Europe: How Brussels Can Wire the Information Society (Kluwer/Springer Press 2005). He is a recipient of the 2018 Antitrust Enforcement Award from the American Antitrust Institute for his work In Re Lidoderm Antitrust Litigation.     

@@ -1,0 +1,216 @@
+##LINK: https://www.cio.com/article/2442943/at-t-s-support-of-net-neutrality-galvanizes-advocates.html
+##KEYWORDS: net neutrality
+##TITLE: AT&T's Support of Net Neutrality Galvanizes Advocates | CIO
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ IT Management 
+ Outsourcing 
+ 
+ 
+ News 
+ AT&T's Support of Net Neutrality Galvanizes Advocates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By  CIO Staff 
+ 
+ 
+ CIO   | 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The FCC’s approval of AT&T’s acquisition of BellSouth has reinvigorated net neutrality proponents, who believe that ISPs must treat all Internet content equally. To earn the FCC’s blessing over the merger, AT&T had to promise that it would not prioritize the bits and bytes passing over its network, according to  Ars Technica .  In early 2006, telecom companies began threatening, essentially, to charge Internet content providers premiums depending on the amount of bandwidth their content required, so AT&T’s vow to treat Internet content equally represents a dramatic shift for the company. Consumer and net neutrality advocates hope AT&T’s 180 will lead Congress to pass legislation preventing ISPs from controlling which content gets priority over their networks.  Related Links: 
+ 
+ What is the Net Neutrality Debate About? 
+ The Net Neutrality Debate: You Pay, You Play? 
+ Senate Panel Rejects Net Neutrality -- Meridith Levinson Check out our  CIO News Alerts  and  Tech Informer  pages for more updated news coverage. 
+ 
+ 
+ Next read this: 
+ 
+ 
+ 
+8 reasons data science projects fail
+ 
+ 
+ 
+ 
+Digital transformation success stories
+ 
+ 
+ 
+ 
+13 most difficult-to-fill IT jobs
+ 
+ 
+ 
+ 
+7 IT cost-cutting mistakes you must avoid
+ 
+ 
+ 
+ 
+10 technologies that will disrupt business in 2021
+ 
+ 
+ 
+ 
+What a successful AI team really looks like
+ 
+ 
+ 
+ 
+7 management books every CIO must read
+ 
+ 
+ 
+ 
+7 IT hiring trends for 2021
+ 
+ 
+ 
+ 
+Top 5 strategic priorities for IT leaders in 2021
+ 
+ 
+ 
+ 
+5 unpopular decisions every IT leader must make
+ 
+ 
+   
+ 
+ 
+ 
+ Related:  
+ 
+ Outsourcing 
+ 
+ 
+ 
+ Copyright © 2007  IDG Communications, Inc. 
+ 
+ 
+ 
+ 
+ 
+   Learn how IT leaders are building cyberdefenses. Attend CSO's Future of Cybersecurity & Trust Summit-7/20-7/22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		 
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

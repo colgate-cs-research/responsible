@@ -1,0 +1,661 @@
+##LINK: https://www.phonearena.com/news/senators-demand-answers-from-att-over-hbo-max_id125142
+##KEYWORDS: zero-rating
+##TITLE: Senators put AT&T on the hot seat over zero-rating of HBO Max - PhoneArena
+##METHOD: article 2
+
+
+
+ 
+ 
+ Home 
+ News 
+ You are here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AT&T 
+ 
+ 
+ Verizon 
+ 
+ 
+ Apps 
+ 
+ 
+ Wireless service 
+ 
+ 
+ Senators put AT&T on the hot seat over zero-rating of HBO Max 
+ 
+ 
+ 
+            By
+                             Alan Friedman 
+ 
+ @wolfcallsputs 
+ 
+ 
+ 
+ Jun 10, 2020,  4:08 AM 
+ 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Three United State Senators have written a letter to AT&T CEO Randall Stephenson  complaining about the carrier's decision to zero-rate HBO Max. In their correspondence to Mr. Stephenson, Senators Ed Markey (D-MA), Ron Wyden (D-OR), and Richard Blumenthal (D-CO) said that AT&T's decision not to count usage of the HBO Max streaming app against subscribers' data caps negatively impacts competition.  Three Senators want AT&T to explain why it zero-rated HBO Max 
+ 
+ 
+ The process of not counting the data usage of an app against a subscriber's data cap is called zero-rating; it is allowed because the FCC removed the Obama-era net neutrality rules almost exactly two years ago. Those rules would have prevented  AT&T  from giving its own streams preferred treatment. And HBO Max is operated by WarnerMedia, a subsidiary of AT&T. The wireless operator  told The Verge  that HBO Max is part of its sponsored data program that allows a streamer to pay AT&T for the data so that its customers don't have to. But in this case, one hand of AT&T is paying another hand of the company so that subscribers can view HBO Max content without it reducing the amount of data they have remaining. 
+ 
+ 
+ 
+  > 
+ 
+ 
+ Not counting the data used to watch HBO Max against an AT&T subscriber's data cap would seem to benefit that subscriber. But the Senators point out that it can hinder competition instead since it would promote the use of HBO Max over other streaming apps that are not zero-rated; those apps would include streamers like Netflix, Hulu, and Disney+. In their letter, the three Senators wrote, "This practice of allowing one arm of your company to 'pay' another arm of your company for preferential treatment attempts to mask its true impact...The Trump FCC may have gutted critical net neutrality protections, but AT&T nonetheless has a responsibility to avoid any policies or practices that harm consumers and stifle competition." The Senators have asked Stephenson to respond to their letter and to explain the rationale for zero-rating HBO Max; AT&T has been asked for a response by June 25th.   In the letter, Senators Markey, Wyden, and Blumenthal write that "Zero-rating carries a risk of manipulating the content marketplace in ways that ultimately harm internet users." It should be noted that a majority of Americans are in favor of having net neutrality return. Some states have legislated the return of net neutrality, including California. But the best shot that Americans have to see the rules brought back  is an appeal filed by the attorneys general of 22 states and the District of Columbia  seeking the reversal of the FCC's original decision to erase net neutrality. The suit was filed in 2018. 
+ 
+ 
+ Under net neutrality, all streaming content was treated the same. For example, a U.S. carrier would not be allowed to receive extra payments from a streaming content provider to zero-rate its service; the concern is that eventually the streamer will stop paying the carrier and force consumers to make the necessary payments required to keep a streaming app zero-rated. And who could forget the situation that Verizon found itself in 2018 when the carrier throttled the Santa Clara County Central Fire Protection District's download data speed during a raging wildfire. One essential firefighting vehicle had its download data speed reduced from 50Mbps to 30kbps while battling the blaze.  Verizon told the Fire District that if they wanted their service returned to full speed, they would have to pay more money for a higher tier of service. Net neutrality would have stopped Verizon  from doing this since it prevented wireless providers from throttling service. Eventually, Verizon lifted speed caps for first responders battling the wildfires and made permanent changes afterward. 
+ 
+ 
+ 
+ 
+ Become an insider 
+ 
+            Indulge yourself in the wonderful world of mobile technology with our weekly newsletter!
+         
+ 
+ 
+ 
+ sign up 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FEATURED  VIDEO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Latest News 
+ 
+ 
+ 
+ 
+        The Witcher: Monster Slayer finally has a release date
+     
+ 
+ 
+ 5 min ago , 
+ 
+ 
+        by Cosmin Vasile,      
+ 
+ 
+ 
+            0
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Qualcomm confident former Apple engineers will help it make a chip better than M1
+     
+ 
+ 
+ 1 hour ago , 
+ 
+ 
+        by Anam Hamid,      
+ 
+ 
+ 
+            0
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Incredible new deal brings the Samsung Galaxy Z Fold 2 5G down to an irresistible price
+     
+ 
+ 
+ 2 hours ago , 
+ 
+ 
+        by Adrian Diaconescu,      
+ 
+ 
+ 
+            2
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -$800 
+ 
+ 
+ 
+ 
+ 
+        Buy one of Samsung’s Galaxy S21 series and you will get a $500 credit
+     
+ 
+ 
+ 2 hours ago , 
+ 
+ 
+        by Aleksandar Anastasov,      
+ 
+ 
+ 
+            0
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        ZTE exec hints at a 20GB RAM smartphone
+     
+ 
+ 
+ 3 hours ago , 
+ 
+ 
+        by Anam Hamid,      
+ 
+ 
+ 
+            1
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Why I might ditch my iPhone for a Galaxy Z Flip 3
+     
+ 
+ 
+ 3 hours ago , 
+ 
+ 
+        by Martin Filipov,      
+ 
+ 
+ 
+            4
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Featured stories  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Why I might ditch my iPhone for a Galaxy Z Flip 3
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                OnePlus commits to 3 years of Android OS upgrades for flagship devices
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Sony WF-1000XM4 vs Apple AirPods Pro
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Samsung's Galaxy Watch 4 and Watch 4 Classic won't be cheap, price leak suggests
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 2 
+ 
+ 
+ 3 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Popular stories  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                T-Mobile adds a firm Sprint LTE network shutdown date to its bold 5G supremacy plan
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Take a look at the Samsung Galaxy Buds 2
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Google Assistant is listening to you, but it's okay
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                New round of leaks reveal Galaxy Z Fold 3's screen specs, Flip 3's nearly 2x bigger outer display
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Samsung's premium Galaxy Watch 4 Classic has leaked and it looks fantastic
+             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                Focus is the iOS 15 feature that many just can't wait to use
+             
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 2 
+ 
+ 
+ 3 
+ 
+ 
+ 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hot phones 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ OnePlus 9 
+ 
+ 9.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Samsung Galaxy S21 Ultra 
+ 
+ 9.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Samsung Galaxy S21+ 
+ 
+ 8.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ OnePlus 9 Pro 
+ 
+ 9.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Apple iPhone 12 Pro 
+ 
+ 9.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Samsung Galaxy S21 
+ 
+ 8.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Apple iPhone 12 mini 
+ 
+ 9.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Google Pixel 5 
+ 
+ 8.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Samsung Galaxy Note 20 Ultra 
+ 
+ 9.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Apple iPhone 12 Pro Max 
+ 
+ 9.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Samsung Galaxy Z Fold 2 
+ 
+ 8.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ Samsung Galaxy Note 20 
+ 
+ 8.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

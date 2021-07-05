@@ -1,0 +1,109 @@
+##LINK: https://wiki.openrightsgroup.org/wiki/Net_Neutrality
+##KEYWORDS: net neutrality
+##TITLE: Net Neutrality - ORG Wiki
+##METHOD: paragraphs
+
+Net neutrality is the clear separation between Internet access and Internet content.
+
+It is the idea that the net works best when ISPs deliver every Internet site's traffic without discrimination, rather than, say, charging Yahoo to deliver its search results faster and more reliably than Google's. At stake is whether new services can be developed and thrive if the big phone companies get to stick toll-booths on the network and give preference to the highest bidders.
+
+Internet protocol co-inventor, Vinton Cerf, has said "When the Internet started, you didn't have to get permission to start companies. You just got on the Net and started your idea."
+
+Up until August 2005 there was a common carrier law in America. This was removed and at this point the net neutrality debate started.
+
+Web inventor Sir Tim Berners-Lee on Net Neutrality covers the subject in simple easy to understand words in 3 minutes 49 seconds.
+
+If I pay to connect to the Net with a certain quality of service, and you pay to connect with that or greater quality of service, then we can communicate at that level.
+
+Net Neutrality is NOT asking for the internet for free.
+
+Net Neutrality is NOT saying that one shouldn't pay more money for high quality of service.
+
+Currently the people who control the Internet's 'backbone' consider all traffic to effectively have equal rights. All bits going over the network are treated the same by the network in terms of who gets priority. The Internet is not one network - it is in fact made of up of lots of connected networks. Whilst this is transparent to the users of the Internet, and any one on the Internet can connect to any one else on the Internet, the network relies on companies agreeing how to interconnect and route traffic between their different networks.
+
+Currently they charge at the access points to the internet. Residential customers normally use ISPs who tend to charge a fixed amount for access at a given speed, some times with a cap on the maximum amount of data that can be sent or received over that month. Content providers are also commonly charged at a fixed rate by hosting companies dependent on the speed of the connection and on the amount of data they send or receive. Dedicated network providers charge ISPs and hosting companies to connect to them and charge them based on the amount of data that passes over their network.
+
+Save The Internet.com is the place to find lots of easy to understand information from the pro Net Neutrality point of view.
+
+Sir Tim Berners-Lee, inventor of the World Wide Web, says: Control of information is hugely powerful. In the US, the threat is that companies control what I can access for commercial reasons. (In China, control is by the government for political reasons.) There is a very strong short-term incentive for a company to grab control of TV distribution over the Internet even though it is against the long-term interests of the industry.
+
+Art Brodsky says: The anti net neutrality groups argue that any number of horrible outcomes would flow from "net neutrality regulation." You can pick your own fallacies from among the talking points: don’t regulate the Internet because it would create volumes of new regulations governing content, don’t regulate because it would be the first major government regulation of the Internet. Or, don’t regulate the Internet because big Internet companies want access for free, and so consumers will get stuck with the bill in the form of higher prices. None of them are true. Transmission over the Internet has been regulated for years, until 2005 to be exact, when the FCC took away the rules. The Internet grew up in the dial-up days under "common carrier" regulation, when telephone companies had no control over content on their networks. No one wants to regulate the Internet—the regulation is of the services of the telephone and cable companies.
+
+The danger is that the Internet might be split into a fast lane and a slow lane. That's because the telephone and cable companies that supply us with broadband service believe they're getting a raw deal. They say that content providers ought to be willing to pay extra for the high-speed delivery that is now equally available to all, a state of affairs called "network neutrality."
+
+What they're actually proposing is double billing. They want to charge me and you, the consumers getting broadband service, and they want to charge the service providers, so that those willing to pay more get their stuff delivered faster to the end users. That's not a fair business practice, nor is it really healthy for the sort of information and cultural environment and economic playing field that we really want to see on the Internet.
+
+Web inventor Sir Tim Berners-Lee says the web should remain neutral and resist attempts to fragment it into different services. "What's very important from my point of view is that there is one web," "Anyone that tries to chop it into two will find that their piece looks very boring." "It's better and more efficient for us all if we have a separate market where we get our connectivity, and a separate market where we get our content. Information is what I use to make all my decisions. Not just what to buy, but how to vote," "There is an effort by some companies in the US to change this. There's an attempt to get to a situation where if I want to watch a TV station across the Internet, that TV station must have paid to transmit to me."
+
+I would warn that although these sites appear to be spontaneous, grass roots behaviour they are not and were set up by a PR company called the Mercury Group. They are very worth seeing the arguments that the anti net neutrality lobby are putting forward.
+
+The arguments they put forward are:
+
+The counter arguments are covered here:
+
+Thankfully in the UK there is currently a healthy amount of competition and choice this is currently preventing any company from trying to drop Net Neutrality. Local loop unbundling has had a large hand in bringing about this situation. There is a small amount of traffic shaping happening in relation to ports used by P2P software by some network providers, this should be made more explicate to the customers when they sign up.
+
+U.K. Office of Communications Chief Policy Partner Kip Meek
+
+Ofcom chairman Lord Currie of Marylebone is reported by Joe Fay in The Register to have said on 2nd November 2006
+
+After the debate, he added that the crucial point was whether providers were attempting to force content providers to pay. A content provider going to a service provider and asking for a guaranteed level of service was OK, he said. Access providers strong arming content providers into paying, was not.
+
+What the net neutrality lobby had done, said Lord Currie, was to turn an essentially economic issue into a moral crusade
+
+Internet Protocol TV is seen as some thing that could start problems as it is introduced. MSN recently made a deal with British Telecom to provide IPTV, with a commercial launch expected in 2006/2007.
+
+IPv6 is also seen as some thing worth watching as is is easier to set so that it discriminates packets.
+
+Ofcom already has the power to punish any network operator that abused a  powerful position in the market.
+
+In spring of 2013, the  European Council made a request to the Commission to create a proposal for a single telecommunications market in Europe. In September 2013, the Commission adopted a series of proposed legislation titled "Connected Continent: Building a Telecoms Single Market" aiming at "building a connected, competitive continent and enabling sustainable digital jobs and industries."[1]. The changes are meant to guarantee net neutrality.
+
+View the Commission's Press Release from September 2013. 
+
+On April 3 2014, the European Parliament voted in the legislative package after it received a series of amendments. The package still needs to be voted on by the Council of the European Union (also known as the Council of Ministers) and be approved by national governments. 
+
+The amendments passed called for:
+
+(a full list of the amendments to be posted the European Parliament's page shortly.
+
+The European Commission has issued a communication in which it says it plans to "closely monitor attempts to call into question the neutral character of the Internet." [1]
+
+Deutsche Telekom wants to develop a faster DSL connection and says it needs protection from competitors to do so. But the EU warned Germany not to offer it.
+
+DT and Telecom Italia are lobbying the EC to allow charging of Google and others for carrying their content.
+
+Communications Daily (US), June 30, 2006
+"In regard to net neutrality, the EC wants to ensure that regulators can impose, in a pan-European way, minimum quality-of-service requirements, in addition to their existing powers to ensure interoperability.  The Commission wants to insure that operators in the European Union will not be able to discriminate against customers by offering 2-speed Internet service, officials said.  The EU’s concern isn’t as strong as in the U.S., Reding said, voicing hope that competition will address this problem."
+
+Update 22 August
+The EU commission has backed German regulators and ordered Deutsche Telekom to open its network to broadband competitors. This should increase competition and vastly reduce the risk of anti net neutrality pressure from Germany. Deutsche Telekom forced to open network
+
+Congress is considering several competing pieces of legislation. One bill, sponsored by Rep. Joe Barton (R., Texas), embodies the phone company view, while another bill recently introduced by Rep. James Sensenbrenner (R., Wisc.) supports net neutrality. Both the House and Senate will hold hearings this week.
+
+Update: (25 May 2006) House Judiciary Committee passed the "Internet Freedom and Non-discrimination Act of 2006″ — a pro Network Neutrality bill. It next moves to the full House after Congress returns from its Memorial Day recess.
+
+Update: (8 June 2006) The pro Network Neutrality option was rejected by the US House of Representatives by a count of 269 to 152. The amendment is not dead as there is still the Senate.
+
+Update: (29 June 2006) The Senate Commerce Committee fell a single vote short of passing an amendment to add Net Neutrality to the Act. Immediately following the Commerce Committee’s vote against a Net Neutrality amendment. Senator Wyden marched onto the floor of the Senate to demand that the legislation include stronger safeguards against phone and cable company discrimination. He threatened to slow down the legislation until the language is fixed.
+
+The issue is now within the grips of party politics. The Democrats seem to have decided that this is their issue.
+
+Various folks including Steve Wozniak, David Reed, Susan Crawford, and Siva Vaidhyanathan have endorsed a unique proposal.
+
+Lawrence Lessig
+
+Cogent Communications is a transatlantic neutral internet provider.  See the "Net Neutrality" link at the bottom of every page at http://www.cogentco.com :
+
+Siva Vaidhyanathan on Net Neutrality
+
+The Broadband sing 'God Save the Internet'
+
+ER: Is there more to be done? Do we anticipate that companies will make further investments and the broadband range of services and propositions available to consumers across the country will continue to enhance and develop? Yes we do. Are we doing everything that we can to set out a clear regulatory framework, to ensure that there are returns where companies take risks? Yes, I think we are doing that as well. We have more to do, other companies have more to do, and this picture will change over the next year or two.
+R4: What can you do to encourage or indeed compel companies to make the sort of investments that are needed to change the picture? Because I imagine that the sums of money are very large indeed.
+ER: For the next generation of super-fast broadband, the sums of money are indeed very high, and we believe that is a very, very significant turning point; it will take take the country to a different place in terms of its communications infrastructure. So it is absolutely crucial. Our role here is to make sure that we've understood the environment clearly, that we've set out clear principles in relation to how we would regulate such investments, and we have begun to do that, and then companies can know the regulatory framework they will face in order to make those investments.
+R4: But you can't do any more than that? You can't say, "Get a move on?"
+ER: Well, we can of course exhort, and we can of course describe and set out how important we think the next generation of super-fast broadband is, and we have done a great deal of that. I have done a lot of that myself in speeches. It will be very, very important. It's important to say that Virgin Media have already made clear that they will be investing in very high speed, next generation access. Other companies I know are thinking about this very, very attentively, now, and we would expect there to be development over the next few years. So, it is not a static picture, this a fast-changing environment, and we would expect change over the next few years.
+R4: Ed Richards, many thanks.
+  2005 – 2021, free to reuse except where stated. Credits
+Open Rights is a non-profit company limited by Guarantee, registered in England and Wales no. 05581537.

@@ -1,0 +1,38 @@
+##LINK: https://www.bartleby.com/essay/The-Debate-Over-Net-Neutrality-Laws-P3RSA9ZVJ
+##KEYWORDS: net neutrality,open Internet
+##TITLE: The Debate Over Net Neutrality Laws Essay - 1638 Words | Bartleby
+##METHOD: paragraphs
+
+movies? This paper will go over the technical background of net neutrality, the problems and issues with both net neutral and non-net neutral companies, and, finally, analyze the ethics of net neutrality to determine whether it is essential for society. 
+	In the United States, ISPs provide their customer with daily, weekly, monthly, or yearly price.  ISPs own their own network, and allows access to their costumers by transmission of data packages. Through net neutrality, ISPs allow packages to flow
+The concept of network neutrality (more commonly referred to as net neutrality) has been a fixture of debates over United States telecommunications policy throughout the first decade of the twenty-first century. Based upon the principle that internet access should not be altered or restricted by the Internet Service Provider (ISP) one chooses to use, it has come to represent the hopes of those who believe that the internet still has the potential to radically transform the way in which we interact
+itself is termed as content. Internet was started in 1960s by US defense in the form of ARPANET project. It grew exponentially over a span of 40 years and is ever growing. It was built on the foundation that connected nodes should be able to communicate with each other freely. Initially, medium of internet was telephone lines. Communication data was modulated and transmitted over telephone lines. It was After the introduction of broadband based internet services, data transmission speed and quality increased
+is the central concern of net neutrality. Consumers, competition and network owners would benefit directly from the regulation of network neutrality because it would provide a positive impact to those parties as well as provide equality.
+CONSUMERS
+The Internet came to be because of the user. Without the user, there is no World Wide Web. It is a set of links and words all created by a group of users, a forum or a community (Weinberger 96). The concept of net neutrality is
+1.  Gross, Grant.  “House Rejects ‘Net neutrality’, Passes Telecom Reform Bill”  Network World  23.23 (2006): 10.
+
+
+AUTHOR	Grant Gross.
+DATE	June 12
+YEAR	2006
+PUBLICATION	Network World
+LOCATION	Framingham, MA
+PUBLISHER	Network World Inc.
+VOLUME	23
+ISSUE	23
+PAGE NUMBERS	10
+LINK	---
+
+The House of Representatives has defeated a provision to require U.S. broadband providers to offer the same speed of service to competitors that's available to partners, a major defeat to a coalition of online
+Free Speech and the Internet
+
+	Several years after the end of the American Revolution the United States Constitution was being drafted by some of the nations most important historical figures. Politicians such as Benjamin Franklin, John Hancock, and George Washington were just three of the thirty-nine who eventually signed the Constitution on September 17, 1787 (“United States Constitution,” 2015, “1787 Drafting,” para. 7). With the birth of the constitution, came the fear that our newly created
+internet has already begun to die.	And the Federal Communications Commission’s December 14th vote to end Net Neutrality might be the killing blow. Net Neutrality is the principal that Internet Service Providers can’t offer preferential treatment to any content or website. For example an Internet Service Provider slowing down Netflix, or speeding up their own streaming service would go against Net Neutrality. Today three of the five (the other two being Mircosoft and Apple) highest valued American companies
+procedure. This paper will focus on and analyze an aspect of this regulatory procedure entitled net neutrality, which has been a heated topic of debate among policy makers and internet users over the past decade. It will begin by highlighting all the players interwoven in this multifaceted phenomenon, and then argue for why net neutrality regulations are unnecessary in today’s media environment. Overall, net neutrality regulations are unnecessary because they congest internet traffic, are inefficient for
+Net Neutrality
+	With the internet growing larger and larger each day, it has been a place where communication and the transfer of information happens within seconds. The internet is a place where the freedom of speech is shown and show the creativity of people. Net neutrality has caught the interest in many people in the United States. With this hot topic debate, President Barack Obama 's position on the subject is wanting a  “free and open” internet for fair access to any website (Net Neutrality:
+The Net Neutrality Dispute
+If you have been listening to any news recently you might have heard a bit about net neutrality, the FCC, and something about Internet freedom. Net neutrality has been a long, simmering battle for the past decade, and, even more so, ever since the FCC announced its upcoming plans to repeal the existing rules around net neutrality. If you’re anything like me, you might have been initially confused about what the heck Net neutrality is and slightly off-put at all the posts
+Bartleby.com
+Bartleby.com

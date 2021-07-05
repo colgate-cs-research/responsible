@@ -1,0 +1,36 @@
+##LINK: https://techcrunch.com/2016/11/11/att-downgrades-video-quality-on-mobile-with-stream-saver/
+##KEYWORDS: zero-rating
+##TITLE: AT&T downgrades video quality on mobile with ‘Stream Saver’ – TechCrunch
+##METHOD: article 1
+
+
+
+ 
+ 
+ AT&T downgrades video quality on mobile with ‘Stream Saver’ 
+ 
+ 
+ 
+ 
+			Devin Coldewey		 
+ 
+ @techcrunch 
+  /  
+						5 years		 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AT&T just introduced a new “feature” much like T-Mobile’s Binge On that will automatically throttles all video streams to a lower resolution and bandwidth unless you opt out of it. They call it  Stream Saver , and yes, it applies to “unlimited” data plans. 
+ All video streams it detects, once it goes into effect next year, will be limited to 1.5 Mbps. This should help them — sorry,  you  — conserve data and avoid running out of your limited unlimited data allowance. And really, who really needs better than “quality similar to DVD” on their phone or tablet’s 1080p screen? 
+ For reference. 
+ The data will still count toward your monthly usage, though. So while this qualifies as throttling, it isn’t “zero-rating,” which (as with programs from T-Mobile and Sprint) prevents that streaming data from counting at all. 
+ That means it’s less of a convenience, but also  less of an affront to net neutrality  — although T-Mobile’s scary claims that it was picking and choosing which providers would be zero-rated turned out to be false (all video was being throttled, “partner” or otherwise). Of course, AT&T does zero-rate other stuff — just not here. 
+ Make no mistake, AT&T is trying to reduce load on their network by automatically cutting video streams down to a fidelity level we left behind years ago. You should receive a message when you’ve been opted into Stream Saver; you should be able to opt out with no penalty. 
+ 
+ 
+ 
+ 

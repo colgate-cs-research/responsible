@@ -1,0 +1,25 @@
+##LINK: https://xconomy.com/boston/2018/01/08/wireless-expert-lowenstein-on-net-neutrality-industry-consolidation/
+##KEYWORDS: zero-rating
+##TITLE: Xconomy: Wireless Expert Lowenstein on Net Neutrality, Industry Consolidation
+##METHOD: paragraphs
+
+Xconomy’s Digital Events →
+ January 8th, 2018
+One of the biggest tech stories in 2017 happened at the end of the year, when the Federal Communications Commission voted to repeal so-called “net neutrality” rules.
+There are many heated opinions on the issue, although no one really knows how things will play out. To try to figure it out, Xconomy contacted wireless expert Mark Lowenstein (pictured), the managing director of consulting firm Mobile Ecosystem, and an Xconomist. Here are some of the highlights of our e-mail exchange:
+Xconomy: What effects of the net neutrality repeal will we see in 2018?
+Mark Lowenstein: I don’t think there will be any immediate, visible changes. First, it’s going to be litigated over the next several months. Second, the service providers are going to be careful, particularly in this period where AT&T is fighting with the [U.S. Department of Justice] to get the Time Warner deal approved. Third, if the service providers engage in any actions that create a broad consumer backlash, then I could see Congress stepping in. What we really need is a revision of the 1996 [Telecommunications] Act, which is dated. But I’m not sure the FCC (or Congress) have the will or appetite to take that on at this point.
+Even though network neutrality was repealed, the heat around the issue means that the service providers will be under the microscope, so they will have to tread carefully. I think the likelier changes from network neutrality will be felt more in the B2B realm (i.e. deals between service providers and content providers such as Netflix), rather than anything particularly consumer-oriented. From a wireless perspective (and I’m a mobile guy), [the repeal of] network neutrality will make it easier for the service providers to offer zero-rating service, differentiated “speed plans” (like we see in fixed broadband), and network slicing.
+X: What’s your boldest prediction about the tech industry in 2018?
+ML: Even though the Sprint/T-Mobile deal didn’t happen in 2017, I do think that ultimately there will be some consolidation in the wireless industry. There are very few countries where there are four national service providers, all of them healthy and profitable. So, there could be an acquisition involving Sprint or T-Mobile. Dish, with its treasure trove of spectrum, is a wild card here.
+Another area of focus will be the need for more competition in broadband. Verizon will be launching fixed wireless using 5G as an alternative to broadband in markets outside its Northeast (FiOS) footprint. Then there are upstarts like Starry who will be rolling out commercial services more broadly in 2018.
+[Editor’s note: This is part of a series of posts sharing thoughts from technology leaders about 2017 trends and 2018 forecasts.]
+Sponsored · Video
+A Fireside Chat with Medpace's Regulatory Affairs Director David Horton
+Sponsored · Whitepaper
+Explore the different sources of funding, their relative merits, and how you should best utilize that funding at each stage of your research
+Sponsored · Whitepaper
+How a patient-centric, technology-driven approach can broaden access to research and reach patients regardless of geography, ethnicity, sex, or gender
+© 2007-2021, Xconomy, Inc.
+Xconomy is a registered service mark of Xconomy, Inc.
+All rights reserved.

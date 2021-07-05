@@ -1,0 +1,1102 @@
+##LINK: https://www.nnsquad.org/archives/nnsquad/msg01730.html
+##KEYWORDS: net neutrality
+##TITLE: [ NNSquad ]  BT Heavily Throttling BBC, All Video
+##METHOD: paragraphs
+
+
+
+
+
+
+NNSquad - Network Neutrality Squad
+
+NNSquad Home Page
+
+
+NNSquad Mailing List Information
+
+
+
+
+ 
+
+
+
+
+
+
+[Date Prev][Date Next][Thread Prev][Thread Next][Date Index][Thread Index]
+
+
+
+
+
+
+[ NNSquad ]  BT Heavily Throttling BBC, All Video
+
+
+
+
+To: nnsquad@nnsquad.org
+Subject: [ NNSquad ]  BT Heavily Throttling BBC, All Video
+From: Lauren Weinstein <lauren@vortex.com>
+Date: Fri, 12 Jun 2009 08:38:23 -0700
+
+
+
+
+
+
+
+
+----- Forwarded message from David Farber <dave@farber.net> -----
+
+Date: Fri, 12 Jun 2009 10:57:22 -0400
+From: David Farber <dave@farber.net>
+Subject: [IP] BT Heavily Throttling BBC, All Video
+Reply-To: dave@farber.net
+To: ip <ip@v2.listbox.com>
+
+
+  [ Let's be clear, that's apparently not ALL video being throttled,
+    only competitive Internet video.  The carriers' own video
+    offerings, we can certainly assume in the absence of evidence
+    to the contrary, are not being throttled or restrained in any
+    way.  Duh.
+
+           -- Lauren Weinstein
+              NNSquad Moderator ]
+
+
+Begin forwarded message:
+
+From: Dave Burstein <daveb@dslprime.com>
+Date: June 12, 2009 9:12:31 AM EDT
+To: dave@farber.net
+Subject: BT Heavily Throttling BBC, All Video
+
+Folks
+I think this is the big one, especially since OFCOM's Ed Richards has been 
+encouraging them. My story below has been sent to them for factchecking and 
+no corrections came back.
+
+Tim Bradshaw at FT just broke a major story, the first "net neutrality" 
+challenge that may seriously affect people watching online video. The 
+Comcast and other disputes were about symbol and precedents, and the actual 
+throttling was almost trivial. This is a major carrier whose video lead has 
+just resigned under fire (below) because they aren't getting enough 
+customers, and is actively cutting competitive video down to half the usual 
+bit rate while Hulu and others are increasing quality. They lost $2B on 
+Global Services and just cut another 15,000 employees, so they are 
+scrambling for revenue wherever they can get it, My sources are clear 
+that's because of business, not technical or costs issues with likely 
+Internet video usage. I have on the record senior people from AT&T, 
+Verizon, Comcast, MIT and BT itself (below)
+
+BT seeks to end 'free ride' by video websites
+
+By Tim Bradshaw, Digital Media Correspondent
+
+Published: June 11 2009 03:00 | Last updated: June 11 2009 03:00
+
+BT has called for an end to the "free ride" it says video websites such as 
+the BBC iPlayer and YouTube enjoy on its network.
+
+The telecoms group, which was accused last week of "throttling" iPlayer 
+performance at peak times, spoke publicly for the first time yesterday 
+about how it hoped to charge content owners for delivery of their 
+programmes over its broadband network.
+
+"We can't give the content providers a completely free ride and continue to 
+give customers the [service] they want at the price they expect," said John 
+Petter, managing director of BT Retail's consumer business.
+
+... Last week, the BBC reported that BT broadband "cuts the speed users can 
+watch video services like the BBC iPlayer and YouTube at peak times", and 
+that the BBC was "concerned the throttling of download speeds was affecting 
+the viewing experience for some users".
+
+Under the "fair use" policy of BT's Option 1 broadband package, BT says it 
+cuts video streaming from 8 megabits per second down to 896 kilobits per 
+second between 5pm and midnight, which BT said was sufficient to watch 
+iPlayer.
+
+---- Here's my report including some BT comments last fall that contradict 
+the claims, and some news for context.
+
+This is the first really big challenge on net neutrality. Comcast and  
+others were about precedents but the actual harm was minor.  
+BT_boothLondon: British Telecom's John Petter tells FT they throttle 8 
+megabits per second customers down to 896 kilobits per second between 5pm 
+and midnight, and adding that's fine for the BBC iPlayer. That is not so. 
+It is far below standard TV quality and half the speed of the typical U.S. 
+network's Internet feed. (ABC was streaming at 1.9 megabits last I heard. 
+AT&T's U-Verse standard definition TV was 2.1 megabits last time they spoke 
+publicly.) Britons are rapidly moving to HD, as are video providers over 
+the net at even higher speeds.
+
+His other claim, that video traffic growth is driving up BT's costs so  
+much they must charge extra, is unsupported. Cisco has just done a major 
+report that finds a slight decrease in the rate of Internet traffic growth, 
+confirming my reporting. While hard to handle video demand is possible in 
+theory, I sally_davis_btreported in September from the CEO of BT Wholesale
+
+Davis' network is ready for video
+
+BT does not need to charge extra for access for the iPlayer. Sally Davis, 
+CEO BT Wholesale, confirms she was misquoted about restricting access. 
+They've solved any congestion problems. ... The local loop isn't shared so 
+unlike cable has no problem. The fiber backhaul behind the DSLAM can be 
+upgraded at modest cost, less than 2% of the service price. Almost all 
+traffic is inexpensively peered, so there's no transit cost.
+
+Result: BT, AT&T and almost large carriers can easily meet any plausible 
+demand.
+
+I was also delighted to report from BT their rates  and actual costs  for 
+bandwidth are dropping.
+
+
+BT Cutting High Volume Backhaul Rates in Half
+
+The new BT backhaul is "approximately 50 per cent cheaper," Anna Easton of 
+Openreach writes me. Gig-E's for under $2,000 as costs go down. ... 
+Something is profoundly wrong in the British market. Cross the Atlantic or 
+the Channel, and DSL carriers just don't have the same problems, even 
+though their bandwidth demands continuing growing at 30-40% per year per 
+subscriber. Everyone from Verizon to Free.fr to NTT are not having cost or 
+congestion problems, with an effective bandwidth cost of 1-4% of the price 
+they charge the subscriber.
+
+
+
+The reality is that while increased video use is driving traffic growth, 
+the cost of the routers, Internet peering/transit etc. is going down about 
+as fast. The cost per customer of bandwidth has been about flat for several 
+years, about $1/month/customer at a carrier like BT. That's 2-5 % of what 
+BT and most others charge consumers for broadband.
+
+Saul Hansell in the NY Times researched these costs extensively, including 
+experts in Britain. In an important set of articles, he made clear this is 
+about higher carrier profits and preventing competitive video, not serious 
+pressure from higher traffic costs.
+http://fastnetnews.com/dslprime/42-d/1758-bt-heavily-throttling-bbc-all-video
+BT pay-TV boss walks
+Rapid tv news - Jun 10, 2009
+Dan Marks, the highly-regarded CEO of BT Vision, the pay television  
+division of British Telecom, has quit, citing his frustration over  
+BSkyB's dominance ...
+
+BT posts huge 4Q loss, to cut 15000 more jobs
+The Associated Press - May 14, 2009
+LONDON (AP)  Telecommunications company BT Group PLC said Thursday it  
+expects to cut another 15000 jobs in the next year after its Global  
+Services division ...
+
+
+
+
+-------------------------------------------
+Archives: https://www.listbox.com/member/archive/247/=now
+RSS Feed: https://www.listbox.com/member/archive/rss/247/
+Powered by Listbox: http://www.listbox.com
+
+----- End forwarded message -----
+
+
+
+
+
+
+
+
+
+
+
+Prev by Date:
+[ NNSquad ]  NYTimes Magazine: "Data Center Overload"
+
+Next by Date:
+[ NNSquad ] Web Attempts to Delete History in Wake of Holocaust	Memorial Attack
+
+Previous by thread:
+[ NNSquad ]  NYTimes Magazine: "Data Center Overload"
+
+Next by thread:
+[ NNSquad ] Web Attempts to Delete History in Wake of Holocaust	Memorial Attack
+
+Index(es):
+
+Date
+Thread
+
+
+
+
+
+
+
+
+NNSquad - Network Neutrality Squad
+
+NNSquad Home Page
+
+
+NNSquad Mailing List Information
+
+
+
+
+NNSquad Home Page
+
+
+NNSquad Mailing List Information
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+[Date Prev][Date Next][Thread Prev][Thread Next][Date Index][Thread Index]
+
+
+
+
+
+
+[ NNSquad ]  BT Heavily Throttling BBC, All Video
+
+
+
+
+To: nnsquad@nnsquad.org
+Subject: [ NNSquad ]  BT Heavily Throttling BBC, All Video
+From: Lauren Weinstein <lauren@vortex.com>
+Date: Fri, 12 Jun 2009 08:38:23 -0700
+
+
+
+
+
+
+
+
+----- Forwarded message from David Farber <dave@farber.net> -----
+
+Date: Fri, 12 Jun 2009 10:57:22 -0400
+From: David Farber <dave@farber.net>
+Subject: [IP] BT Heavily Throttling BBC, All Video
+Reply-To: dave@farber.net
+To: ip <ip@v2.listbox.com>
+
+
+  [ Let's be clear, that's apparently not ALL video being throttled,
+    only competitive Internet video.  The carriers' own video
+    offerings, we can certainly assume in the absence of evidence
+    to the contrary, are not being throttled or restrained in any
+    way.  Duh.
+
+           -- Lauren Weinstein
+              NNSquad Moderator ]
+
+
+Begin forwarded message:
+
+From: Dave Burstein <daveb@dslprime.com>
+Date: June 12, 2009 9:12:31 AM EDT
+To: dave@farber.net
+Subject: BT Heavily Throttling BBC, All Video
+
+Folks
+I think this is the big one, especially since OFCOM's Ed Richards has been 
+encouraging them. My story below has been sent to them for factchecking and 
+no corrections came back.
+
+Tim Bradshaw at FT just broke a major story, the first "net neutrality" 
+challenge that may seriously affect people watching online video. The 
+Comcast and other disputes were about symbol and precedents, and the actual 
+throttling was almost trivial. This is a major carrier whose video lead has 
+just resigned under fire (below) because they aren't getting enough 
+customers, and is actively cutting competitive video down to half the usual 
+bit rate while Hulu and others are increasing quality. They lost $2B on 
+Global Services and just cut another 15,000 employees, so they are 
+scrambling for revenue wherever they can get it, My sources are clear 
+that's because of business, not technical or costs issues with likely 
+Internet video usage. I have on the record senior people from AT&T, 
+Verizon, Comcast, MIT and BT itself (below)
+
+BT seeks to end 'free ride' by video websites
+
+By Tim Bradshaw, Digital Media Correspondent
+
+Published: June 11 2009 03:00 | Last updated: June 11 2009 03:00
+
+BT has called for an end to the "free ride" it says video websites such as 
+the BBC iPlayer and YouTube enjoy on its network.
+
+The telecoms group, which was accused last week of "throttling" iPlayer 
+performance at peak times, spoke publicly for the first time yesterday 
+about how it hoped to charge content owners for delivery of their 
+programmes over its broadband network.
+
+"We can't give the content providers a completely free ride and continue to 
+give customers the [service] they want at the price they expect," said John 
+Petter, managing director of BT Retail's consumer business.
+
+... Last week, the BBC reported that BT broadband "cuts the speed users can 
+watch video services like the BBC iPlayer and YouTube at peak times", and 
+that the BBC was "concerned the throttling of download speeds was affecting 
+the viewing experience for some users".
+
+Under the "fair use" policy of BT's Option 1 broadband package, BT says it 
+cuts video streaming from 8 megabits per second down to 896 kilobits per 
+second between 5pm and midnight, which BT said was sufficient to watch 
+iPlayer.
+
+---- Here's my report including some BT comments last fall that contradict 
+the claims, and some news for context.
+
+This is the first really big challenge on net neutrality. Comcast and  
+others were about precedents but the actual harm was minor.  
+BT_boothLondon: British Telecom's John Petter tells FT they throttle 8 
+megabits per second customers down to 896 kilobits per second between 5pm 
+and midnight, and adding that's fine for the BBC iPlayer. That is not so. 
+It is far below standard TV quality and half the speed of the typical U.S. 
+network's Internet feed. (ABC was streaming at 1.9 megabits last I heard. 
+AT&T's U-Verse standard definition TV was 2.1 megabits last time they spoke 
+publicly.) Britons are rapidly moving to HD, as are video providers over 
+the net at even higher speeds.
+
+His other claim, that video traffic growth is driving up BT's costs so  
+much they must charge extra, is unsupported. Cisco has just done a major 
+report that finds a slight decrease in the rate of Internet traffic growth, 
+confirming my reporting. While hard to handle video demand is possible in 
+theory, I sally_davis_btreported in September from the CEO of BT Wholesale
+
+Davis' network is ready for video
+
+BT does not need to charge extra for access for the iPlayer. Sally Davis, 
+CEO BT Wholesale, confirms she was misquoted about restricting access. 
+They've solved any congestion problems. ... The local loop isn't shared so 
+unlike cable has no problem. The fiber backhaul behind the DSLAM can be 
+upgraded at modest cost, less than 2% of the service price. Almost all 
+traffic is inexpensively peered, so there's no transit cost.
+
+Result: BT, AT&T and almost large carriers can easily meet any plausible 
+demand.
+
+I was also delighted to report from BT their rates  and actual costs  for 
+bandwidth are dropping.
+
+
+BT Cutting High Volume Backhaul Rates in Half
+
+The new BT backhaul is "approximately 50 per cent cheaper," Anna Easton of 
+Openreach writes me. Gig-E's for under $2,000 as costs go down. ... 
+Something is profoundly wrong in the British market. Cross the Atlantic or 
+the Channel, and DSL carriers just don't have the same problems, even 
+though their bandwidth demands continuing growing at 30-40% per year per 
+subscriber. Everyone from Verizon to Free.fr to NTT are not having cost or 
+congestion problems, with an effective bandwidth cost of 1-4% of the price 
+they charge the subscriber.
+
+
+
+The reality is that while increased video use is driving traffic growth, 
+the cost of the routers, Internet peering/transit etc. is going down about 
+as fast. The cost per customer of bandwidth has been about flat for several 
+years, about $1/month/customer at a carrier like BT. That's 2-5 % of what 
+BT and most others charge consumers for broadband.
+
+Saul Hansell in the NY Times researched these costs extensively, including 
+experts in Britain. In an important set of articles, he made clear this is 
+about higher carrier profits and preventing competitive video, not serious 
+pressure from higher traffic costs.
+http://fastnetnews.com/dslprime/42-d/1758-bt-heavily-throttling-bbc-all-video
+BT pay-TV boss walks
+Rapid tv news - Jun 10, 2009
+Dan Marks, the highly-regarded CEO of BT Vision, the pay television  
+division of British Telecom, has quit, citing his frustration over  
+BSkyB's dominance ...
+
+BT posts huge 4Q loss, to cut 15000 more jobs
+The Associated Press - May 14, 2009
+LONDON (AP)  Telecommunications company BT Group PLC said Thursday it  
+expects to cut another 15000 jobs in the next year after its Global  
+Services division ...
+
+
+
+
+-------------------------------------------
+Archives: https://www.listbox.com/member/archive/247/=now
+RSS Feed: https://www.listbox.com/member/archive/rss/247/
+Powered by Listbox: http://www.listbox.com
+
+----- End forwarded message -----
+
+
+
+
+
+
+
+
+
+
+
+Prev by Date:
+[ NNSquad ]  NYTimes Magazine: "Data Center Overload"
+
+Next by Date:
+[ NNSquad ] Web Attempts to Delete History in Wake of Holocaust	Memorial Attack
+
+Previous by thread:
+[ NNSquad ]  NYTimes Magazine: "Data Center Overload"
+
+Next by thread:
+[ NNSquad ] Web Attempts to Delete History in Wake of Holocaust	Memorial Attack
+
+Index(es):
+
+Date
+Thread
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Date Prev][Date Next][Thread Prev][Thread Next][Date Index][Thread Index]
+
+
+
+
+
+
+[ NNSquad ]  BT Heavily Throttling BBC, All Video
+
+
+
+
+To: nnsquad@nnsquad.org
+Subject: [ NNSquad ]  BT Heavily Throttling BBC, All Video
+From: Lauren Weinstein <lauren@vortex.com>
+Date: Fri, 12 Jun 2009 08:38:23 -0700
+
+
+
+
+
+
+
+
+----- Forwarded message from David Farber <dave@farber.net> -----
+
+Date: Fri, 12 Jun 2009 10:57:22 -0400
+From: David Farber <dave@farber.net>
+Subject: [IP] BT Heavily Throttling BBC, All Video
+Reply-To: dave@farber.net
+To: ip <ip@v2.listbox.com>
+
+
+  [ Let's be clear, that's apparently not ALL video being throttled,
+    only competitive Internet video.  The carriers' own video
+    offerings, we can certainly assume in the absence of evidence
+    to the contrary, are not being throttled or restrained in any
+    way.  Duh.
+
+           -- Lauren Weinstein
+              NNSquad Moderator ]
+
+
+Begin forwarded message:
+
+From: Dave Burstein <daveb@dslprime.com>
+Date: June 12, 2009 9:12:31 AM EDT
+To: dave@farber.net
+Subject: BT Heavily Throttling BBC, All Video
+
+Folks
+I think this is the big one, especially since OFCOM's Ed Richards has been 
+encouraging them. My story below has been sent to them for factchecking and 
+no corrections came back.
+
+Tim Bradshaw at FT just broke a major story, the first "net neutrality" 
+challenge that may seriously affect people watching online video. The 
+Comcast and other disputes were about symbol and precedents, and the actual 
+throttling was almost trivial. This is a major carrier whose video lead has 
+just resigned under fire (below) because they aren't getting enough 
+customers, and is actively cutting competitive video down to half the usual 
+bit rate while Hulu and others are increasing quality. They lost $2B on 
+Global Services and just cut another 15,000 employees, so they are 
+scrambling for revenue wherever they can get it, My sources are clear 
+that's because of business, not technical or costs issues with likely 
+Internet video usage. I have on the record senior people from AT&T, 
+Verizon, Comcast, MIT and BT itself (below)
+
+BT seeks to end 'free ride' by video websites
+
+By Tim Bradshaw, Digital Media Correspondent
+
+Published: June 11 2009 03:00 | Last updated: June 11 2009 03:00
+
+BT has called for an end to the "free ride" it says video websites such as 
+the BBC iPlayer and YouTube enjoy on its network.
+
+The telecoms group, which was accused last week of "throttling" iPlayer 
+performance at peak times, spoke publicly for the first time yesterday 
+about how it hoped to charge content owners for delivery of their 
+programmes over its broadband network.
+
+"We can't give the content providers a completely free ride and continue to 
+give customers the [service] they want at the price they expect," said John 
+Petter, managing director of BT Retail's consumer business.
+
+... Last week, the BBC reported that BT broadband "cuts the speed users can 
+watch video services like the BBC iPlayer and YouTube at peak times", and 
+that the BBC was "concerned the throttling of download speeds was affecting 
+the viewing experience for some users".
+
+Under the "fair use" policy of BT's Option 1 broadband package, BT says it 
+cuts video streaming from 8 megabits per second down to 896 kilobits per 
+second between 5pm and midnight, which BT said was sufficient to watch 
+iPlayer.
+
+---- Here's my report including some BT comments last fall that contradict 
+the claims, and some news for context.
+
+This is the first really big challenge on net neutrality. Comcast and  
+others were about precedents but the actual harm was minor.  
+BT_boothLondon: British Telecom's John Petter tells FT they throttle 8 
+megabits per second customers down to 896 kilobits per second between 5pm 
+and midnight, and adding that's fine for the BBC iPlayer. That is not so. 
+It is far below standard TV quality and half the speed of the typical U.S. 
+network's Internet feed. (ABC was streaming at 1.9 megabits last I heard. 
+AT&T's U-Verse standard definition TV was 2.1 megabits last time they spoke 
+publicly.) Britons are rapidly moving to HD, as are video providers over 
+the net at even higher speeds.
+
+His other claim, that video traffic growth is driving up BT's costs so  
+much they must charge extra, is unsupported. Cisco has just done a major 
+report that finds a slight decrease in the rate of Internet traffic growth, 
+confirming my reporting. While hard to handle video demand is possible in 
+theory, I sally_davis_btreported in September from the CEO of BT Wholesale
+
+Davis' network is ready for video
+
+BT does not need to charge extra for access for the iPlayer. Sally Davis, 
+CEO BT Wholesale, confirms she was misquoted about restricting access. 
+They've solved any congestion problems. ... The local loop isn't shared so 
+unlike cable has no problem. The fiber backhaul behind the DSLAM can be 
+upgraded at modest cost, less than 2% of the service price. Almost all 
+traffic is inexpensively peered, so there's no transit cost.
+
+Result: BT, AT&T and almost large carriers can easily meet any plausible 
+demand.
+
+I was also delighted to report from BT their rates  and actual costs  for 
+bandwidth are dropping.
+
+
+BT Cutting High Volume Backhaul Rates in Half
+
+The new BT backhaul is "approximately 50 per cent cheaper," Anna Easton of 
+Openreach writes me. Gig-E's for under $2,000 as costs go down. ... 
+Something is profoundly wrong in the British market. Cross the Atlantic or 
+the Channel, and DSL carriers just don't have the same problems, even 
+though their bandwidth demands continuing growing at 30-40% per year per 
+subscriber. Everyone from Verizon to Free.fr to NTT are not having cost or 
+congestion problems, with an effective bandwidth cost of 1-4% of the price 
+they charge the subscriber.
+
+
+
+The reality is that while increased video use is driving traffic growth, 
+the cost of the routers, Internet peering/transit etc. is going down about 
+as fast. The cost per customer of bandwidth has been about flat for several 
+years, about $1/month/customer at a carrier like BT. That's 2-5 % of what 
+BT and most others charge consumers for broadband.
+
+Saul Hansell in the NY Times researched these costs extensively, including 
+experts in Britain. In an important set of articles, he made clear this is 
+about higher carrier profits and preventing competitive video, not serious 
+pressure from higher traffic costs.
+http://fastnetnews.com/dslprime/42-d/1758-bt-heavily-throttling-bbc-all-video
+BT pay-TV boss walks
+Rapid tv news - Jun 10, 2009
+Dan Marks, the highly-regarded CEO of BT Vision, the pay television  
+division of British Telecom, has quit, citing his frustration over  
+BSkyB's dominance ...
+
+BT posts huge 4Q loss, to cut 15000 more jobs
+The Associated Press - May 14, 2009
+LONDON (AP)  Telecommunications company BT Group PLC said Thursday it  
+expects to cut another 15000 jobs in the next year after its Global  
+Services division ...
+
+
+
+
+-------------------------------------------
+Archives: https://www.listbox.com/member/archive/247/=now
+RSS Feed: https://www.listbox.com/member/archive/rss/247/
+Powered by Listbox: http://www.listbox.com
+
+----- End forwarded message -----
+
+
+
+
+
+
+
+
+
+
+
+Prev by Date:
+[ NNSquad ]  NYTimes Magazine: "Data Center Overload"
+
+Next by Date:
+[ NNSquad ] Web Attempts to Delete History in Wake of Holocaust	Memorial Attack
+
+Previous by thread:
+[ NNSquad ]  NYTimes Magazine: "Data Center Overload"
+
+Next by thread:
+[ NNSquad ] Web Attempts to Delete History in Wake of Holocaust	Memorial Attack
+
+Index(es):
+
+Date
+Thread
+
+
+
+
+
+
+
+
+[ NNSquad ]  BT Heavily Throttling BBC, All Video
+
+
+
+
+To: nnsquad@nnsquad.org
+Subject: [ NNSquad ]  BT Heavily Throttling BBC, All Video
+From: Lauren Weinstein <lauren@vortex.com>
+Date: Fri, 12 Jun 2009 08:38:23 -0700
+
+
+
+
+
+
+
+
+----- Forwarded message from David Farber <dave@farber.net> -----
+
+Date: Fri, 12 Jun 2009 10:57:22 -0400
+From: David Farber <dave@farber.net>
+Subject: [IP] BT Heavily Throttling BBC, All Video
+Reply-To: dave@farber.net
+To: ip <ip@v2.listbox.com>
+
+
+  [ Let's be clear, that's apparently not ALL video being throttled,
+    only competitive Internet video.  The carriers' own video
+    offerings, we can certainly assume in the absence of evidence
+    to the contrary, are not being throttled or restrained in any
+    way.  Duh.
+
+           -- Lauren Weinstein
+              NNSquad Moderator ]
+
+
+Begin forwarded message:
+
+From: Dave Burstein <daveb@dslprime.com>
+Date: June 12, 2009 9:12:31 AM EDT
+To: dave@farber.net
+Subject: BT Heavily Throttling BBC, All Video
+
+Folks
+I think this is the big one, especially since OFCOM's Ed Richards has been 
+encouraging them. My story below has been sent to them for factchecking and 
+no corrections came back.
+
+Tim Bradshaw at FT just broke a major story, the first "net neutrality" 
+challenge that may seriously affect people watching online video. The 
+Comcast and other disputes were about symbol and precedents, and the actual 
+throttling was almost trivial. This is a major carrier whose video lead has 
+just resigned under fire (below) because they aren't getting enough 
+customers, and is actively cutting competitive video down to half the usual 
+bit rate while Hulu and others are increasing quality. They lost $2B on 
+Global Services and just cut another 15,000 employees, so they are 
+scrambling for revenue wherever they can get it, My sources are clear 
+that's because of business, not technical or costs issues with likely 
+Internet video usage. I have on the record senior people from AT&T, 
+Verizon, Comcast, MIT and BT itself (below)
+
+BT seeks to end 'free ride' by video websites
+
+By Tim Bradshaw, Digital Media Correspondent
+
+Published: June 11 2009 03:00 | Last updated: June 11 2009 03:00
+
+BT has called for an end to the "free ride" it says video websites such as 
+the BBC iPlayer and YouTube enjoy on its network.
+
+The telecoms group, which was accused last week of "throttling" iPlayer 
+performance at peak times, spoke publicly for the first time yesterday 
+about how it hoped to charge content owners for delivery of their 
+programmes over its broadband network.
+
+"We can't give the content providers a completely free ride and continue to 
+give customers the [service] they want at the price they expect," said John 
+Petter, managing director of BT Retail's consumer business.
+
+... Last week, the BBC reported that BT broadband "cuts the speed users can 
+watch video services like the BBC iPlayer and YouTube at peak times", and 
+that the BBC was "concerned the throttling of download speeds was affecting 
+the viewing experience for some users".
+
+Under the "fair use" policy of BT's Option 1 broadband package, BT says it 
+cuts video streaming from 8 megabits per second down to 896 kilobits per 
+second between 5pm and midnight, which BT said was sufficient to watch 
+iPlayer.
+
+---- Here's my report including some BT comments last fall that contradict 
+the claims, and some news for context.
+
+This is the first really big challenge on net neutrality. Comcast and  
+others were about precedents but the actual harm was minor.  
+BT_boothLondon: British Telecom's John Petter tells FT they throttle 8 
+megabits per second customers down to 896 kilobits per second between 5pm 
+and midnight, and adding that's fine for the BBC iPlayer. That is not so. 
+It is far below standard TV quality and half the speed of the typical U.S. 
+network's Internet feed. (ABC was streaming at 1.9 megabits last I heard. 
+AT&T's U-Verse standard definition TV was 2.1 megabits last time they spoke 
+publicly.) Britons are rapidly moving to HD, as are video providers over 
+the net at even higher speeds.
+
+His other claim, that video traffic growth is driving up BT's costs so  
+much they must charge extra, is unsupported. Cisco has just done a major 
+report that finds a slight decrease in the rate of Internet traffic growth, 
+confirming my reporting. While hard to handle video demand is possible in 
+theory, I sally_davis_btreported in September from the CEO of BT Wholesale
+
+Davis' network is ready for video
+
+BT does not need to charge extra for access for the iPlayer. Sally Davis, 
+CEO BT Wholesale, confirms she was misquoted about restricting access. 
+They've solved any congestion problems. ... The local loop isn't shared so 
+unlike cable has no problem. The fiber backhaul behind the DSLAM can be 
+upgraded at modest cost, less than 2% of the service price. Almost all 
+traffic is inexpensively peered, so there's no transit cost.
+
+Result: BT, AT&T and almost large carriers can easily meet any plausible 
+demand.
+
+I was also delighted to report from BT their rates  and actual costs  for 
+bandwidth are dropping.
+
+
+BT Cutting High Volume Backhaul Rates in Half
+
+The new BT backhaul is "approximately 50 per cent cheaper," Anna Easton of 
+Openreach writes me. Gig-E's for under $2,000 as costs go down. ... 
+Something is profoundly wrong in the British market. Cross the Atlantic or 
+the Channel, and DSL carriers just don't have the same problems, even 
+though their bandwidth demands continuing growing at 30-40% per year per 
+subscriber. Everyone from Verizon to Free.fr to NTT are not having cost or 
+congestion problems, with an effective bandwidth cost of 1-4% of the price 
+they charge the subscriber.
+
+
+
+The reality is that while increased video use is driving traffic growth, 
+the cost of the routers, Internet peering/transit etc. is going down about 
+as fast. The cost per customer of bandwidth has been about flat for several 
+years, about $1/month/customer at a carrier like BT. That's 2-5 % of what 
+BT and most others charge consumers for broadband.
+
+Saul Hansell in the NY Times researched these costs extensively, including 
+experts in Britain. In an important set of articles, he made clear this is 
+about higher carrier profits and preventing competitive video, not serious 
+pressure from higher traffic costs.
+http://fastnetnews.com/dslprime/42-d/1758-bt-heavily-throttling-bbc-all-video
+BT pay-TV boss walks
+Rapid tv news - Jun 10, 2009
+Dan Marks, the highly-regarded CEO of BT Vision, the pay television  
+division of British Telecom, has quit, citing his frustration over  
+BSkyB's dominance ...
+
+BT posts huge 4Q loss, to cut 15000 more jobs
+The Associated Press - May 14, 2009
+LONDON (AP)  Telecommunications company BT Group PLC said Thursday it  
+expects to cut another 15000 jobs in the next year after its Global  
+Services division ...
+
+
+
+
+-------------------------------------------
+Archives: https://www.listbox.com/member/archive/247/=now
+RSS Feed: https://www.listbox.com/member/archive/rss/247/
+Powered by Listbox: http://www.listbox.com
+
+----- End forwarded message -----
+
+
+
+
+
+
+
+
+
+
+
+Prev by Date:
+[ NNSquad ]  NYTimes Magazine: "Data Center Overload"
+
+Next by Date:
+[ NNSquad ] Web Attempts to Delete History in Wake of Holocaust	Memorial Attack
+
+Previous by thread:
+[ NNSquad ]  NYTimes Magazine: "Data Center Overload"
+
+Next by thread:
+[ NNSquad ] Web Attempts to Delete History in Wake of Holocaust	Memorial Attack
+
+Index(es):
+
+Date
+Thread
+
+
+
+
+
+
+
+
+
+
+
+To: nnsquad@nnsquad.org
+Subject: [ NNSquad ]  BT Heavily Throttling BBC, All Video
+From: Lauren Weinstein <lauren@vortex.com>
+Date: Fri, 12 Jun 2009 08:38:23 -0700
+
+
+
+
+
+
+
+
+----- Forwarded message from David Farber <dave@farber.net> -----
+
+Date: Fri, 12 Jun 2009 10:57:22 -0400
+From: David Farber <dave@farber.net>
+Subject: [IP] BT Heavily Throttling BBC, All Video
+Reply-To: dave@farber.net
+To: ip <ip@v2.listbox.com>
+
+
+  [ Let's be clear, that's apparently not ALL video being throttled,
+    only competitive Internet video.  The carriers' own video
+    offerings, we can certainly assume in the absence of evidence
+    to the contrary, are not being throttled or restrained in any
+    way.  Duh.
+
+           -- Lauren Weinstein
+              NNSquad Moderator ]
+
+
+Begin forwarded message:
+
+From: Dave Burstein <daveb@dslprime.com>
+Date: June 12, 2009 9:12:31 AM EDT
+To: dave@farber.net
+Subject: BT Heavily Throttling BBC, All Video
+
+Folks
+I think this is the big one, especially since OFCOM's Ed Richards has been 
+encouraging them. My story below has been sent to them for factchecking and 
+no corrections came back.
+
+Tim Bradshaw at FT just broke a major story, the first "net neutrality" 
+challenge that may seriously affect people watching online video. The 
+Comcast and other disputes were about symbol and precedents, and the actual 
+throttling was almost trivial. This is a major carrier whose video lead has 
+just resigned under fire (below) because they aren't getting enough 
+customers, and is actively cutting competitive video down to half the usual 
+bit rate while Hulu and others are increasing quality. They lost $2B on 
+Global Services and just cut another 15,000 employees, so they are 
+scrambling for revenue wherever they can get it, My sources are clear 
+that's because of business, not technical or costs issues with likely 
+Internet video usage. I have on the record senior people from AT&T, 
+Verizon, Comcast, MIT and BT itself (below)
+
+BT seeks to end 'free ride' by video websites
+
+By Tim Bradshaw, Digital Media Correspondent
+
+Published: June 11 2009 03:00 | Last updated: June 11 2009 03:00
+
+BT has called for an end to the "free ride" it says video websites such as 
+the BBC iPlayer and YouTube enjoy on its network.
+
+The telecoms group, which was accused last week of "throttling" iPlayer 
+performance at peak times, spoke publicly for the first time yesterday 
+about how it hoped to charge content owners for delivery of their 
+programmes over its broadband network.
+
+"We can't give the content providers a completely free ride and continue to 
+give customers the [service] they want at the price they expect," said John 
+Petter, managing director of BT Retail's consumer business.
+
+... Last week, the BBC reported that BT broadband "cuts the speed users can 
+watch video services like the BBC iPlayer and YouTube at peak times", and 
+that the BBC was "concerned the throttling of download speeds was affecting 
+the viewing experience for some users".
+
+Under the "fair use" policy of BT's Option 1 broadband package, BT says it 
+cuts video streaming from 8 megabits per second down to 896 kilobits per 
+second between 5pm and midnight, which BT said was sufficient to watch 
+iPlayer.
+
+---- Here's my report including some BT comments last fall that contradict 
+the claims, and some news for context.
+
+This is the first really big challenge on net neutrality. Comcast and  
+others were about precedents but the actual harm was minor.  
+BT_boothLondon: British Telecom's John Petter tells FT they throttle 8 
+megabits per second customers down to 896 kilobits per second between 5pm 
+and midnight, and adding that's fine for the BBC iPlayer. That is not so. 
+It is far below standard TV quality and half the speed of the typical U.S. 
+network's Internet feed. (ABC was streaming at 1.9 megabits last I heard. 
+AT&T's U-Verse standard definition TV was 2.1 megabits last time they spoke 
+publicly.) Britons are rapidly moving to HD, as are video providers over 
+the net at even higher speeds.
+
+His other claim, that video traffic growth is driving up BT's costs so  
+much they must charge extra, is unsupported. Cisco has just done a major 
+report that finds a slight decrease in the rate of Internet traffic growth, 
+confirming my reporting. While hard to handle video demand is possible in 
+theory, I sally_davis_btreported in September from the CEO of BT Wholesale
+
+Davis' network is ready for video
+
+BT does not need to charge extra for access for the iPlayer. Sally Davis, 
+CEO BT Wholesale, confirms she was misquoted about restricting access. 
+They've solved any congestion problems. ... The local loop isn't shared so 
+unlike cable has no problem. The fiber backhaul behind the DSLAM can be 
+upgraded at modest cost, less than 2% of the service price. Almost all 
+traffic is inexpensively peered, so there's no transit cost.
+
+Result: BT, AT&T and almost large carriers can easily meet any plausible 
+demand.
+
+I was also delighted to report from BT their rates  and actual costs  for 
+bandwidth are dropping.
+
+
+BT Cutting High Volume Backhaul Rates in Half
+
+The new BT backhaul is "approximately 50 per cent cheaper," Anna Easton of 
+Openreach writes me. Gig-E's for under $2,000 as costs go down. ... 
+Something is profoundly wrong in the British market. Cross the Atlantic or 
+the Channel, and DSL carriers just don't have the same problems, even 
+though their bandwidth demands continuing growing at 30-40% per year per 
+subscriber. Everyone from Verizon to Free.fr to NTT are not having cost or 
+congestion problems, with an effective bandwidth cost of 1-4% of the price 
+they charge the subscriber.
+
+
+
+The reality is that while increased video use is driving traffic growth, 
+the cost of the routers, Internet peering/transit etc. is going down about 
+as fast. The cost per customer of bandwidth has been about flat for several 
+years, about $1/month/customer at a carrier like BT. That's 2-5 % of what 
+BT and most others charge consumers for broadband.
+
+Saul Hansell in the NY Times researched these costs extensively, including 
+experts in Britain. In an important set of articles, he made clear this is 
+about higher carrier profits and preventing competitive video, not serious 
+pressure from higher traffic costs.
+http://fastnetnews.com/dslprime/42-d/1758-bt-heavily-throttling-bbc-all-video
+BT pay-TV boss walks
+Rapid tv news - Jun 10, 2009
+Dan Marks, the highly-regarded CEO of BT Vision, the pay television  
+division of British Telecom, has quit, citing his frustration over  
+BSkyB's dominance ...
+
+BT posts huge 4Q loss, to cut 15000 more jobs
+The Associated Press - May 14, 2009
+LONDON (AP)  Telecommunications company BT Group PLC said Thursday it  
+expects to cut another 15000 jobs in the next year after its Global  
+Services division ...
+
+
+
+
+-------------------------------------------
+Archives: https://www.listbox.com/member/archive/247/=now
+RSS Feed: https://www.listbox.com/member/archive/rss/247/
+Powered by Listbox: http://www.listbox.com
+
+----- End forwarded message -----
+
+
+
+
+
+
+
+
+
+
+
+Prev by Date:
+[ NNSquad ]  NYTimes Magazine: "Data Center Overload"
+
+Next by Date:
+[ NNSquad ] Web Attempts to Delete History in Wake of Holocaust	Memorial Attack
+
+Previous by thread:
+[ NNSquad ]  NYTimes Magazine: "Data Center Overload"
+
+Next by thread:
+[ NNSquad ] Web Attempts to Delete History in Wake of Holocaust	Memorial Attack
+
+Index(es):
+
+Date
+Thread
+
+
+
+
+
+

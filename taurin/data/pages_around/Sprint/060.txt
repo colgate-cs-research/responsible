@@ -1,0 +1,21 @@
+##LINK: https://www.vice.com/en/article/aejj5g/why-sprint-buying-a-chunk-of-tidal-scares-net-neutrality-advocates
+##KEYWORDS: zero-rating
+##TITLE: Why Sprint Buying a Chunk of Tidal Scares Net Neutrality Advocates
+##METHOD: paragraphs
+
+It was just a few days ago that Sprint announced it had acquired a 33 percent stake in Jay-Z's streaming music service, Tidal. According to Billboard, the deal was worth approximately $200 million, almost four times what Jay-Z paid for the service in 2015.
+The sale came out of left field for many, as the service isn't considered a prime player in the streaming music game. Not only that, the service has faced multiple accusations in respect to inflating subscriber numbers.
+So why would Sprint pay so much to get a piece of the company? Some speculate it's the original content. Artists like Rihanna, Kanye West, and Beyoncé agree to make their albums available only on Tidal for a limited time, driving subscribers to the service. And with so many popular artists having ties to the service, it seems realistic that Tidal will continue to get similar exclusives.
+However, it's also possible that this is Sprint's chance to offer customers something else: free data for using content it owns, a process known as "zero-rating". It's a strategy AT&T is using with DirecTV NOW, its streaming television service, and it's a strategy that's raising concerns in respect to net neutrality.
+"There's a lot of evidence from other examples of how zero-rating really does change consumer preferences and behavior," Ryan Clough, General Counsel at Public Knowledge, told Motherboard. "That's precisely why there's so much concern here."
+But why is it a problem? Isn't unlimited data to stream music and video exactly what consumers want? Of course, but according to Clough, it's bad for the industry as a whole in the long run,  "making it harder for the next Netflix or Hulu to come into the market."
+He noted that the danger is "less about the established players," and we need to "think about the next service that wants to come in and compete." In other words, if integrated companies begin dominating the streaming world, offering preferential treatment to their own services, the market for independent services will be destroyed.
+It could be cable all over again.
+Clough also said that it's important to note that the term "free data" is a misnomer.
+"Customers ultimately pay," he said. Companies will "charge you more to access certain websites as opposed to others." And if sponsored data takes hold, "consumers will ultimately be paying for it built into the sub costs of independent streaming services."
+As for Sprint, this wouldn't be the first time it dabbled in zero-rating of streaming data. However, this would be the first time the company zero-rated data for content it owns.
+It's exactly the sort of behavior that would cripple a service like Tidal before Sprint got involved. And it could spell the beginning of the end of net neutrality now that the new administration is taking over in Washington.
+President Trump's new administration isn't exactly pro-net neutrality. That means the above scenarios could inevitably playout, which is ironic since Big Cable spent most of its lobbying dollars on President Trump's opponent.
+So what can you do to help save net neutrality?
+"Contact your congressperson," Clough said. "And pay attention to what's happening with the FCC. Public opinion was enormously important in the enactment of those [net neutrality] rules." And he urged that public opinion could be equally as important in preventing their destruction.
+By signing up to the VICE newsletter you agree to receive electronic communications from VICE that may sometimes include advertisements or sponsored content.

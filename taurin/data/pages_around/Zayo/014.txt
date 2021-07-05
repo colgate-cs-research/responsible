@@ -1,0 +1,47 @@
+##LINK: https://www.benton.org/blog/centurylink-buys-level-3
+##KEYWORDS: open Internet
+##TITLE: CenturyLink Buys Level 3 | Benton Institute for Broadband & Society
+##METHOD: paragraphs
+
+Subscribe
+Subscribe
+
+
+You’re reading the Benton Foundation’s Weekly Round-up, a recap of the biggest (or most overlooked) telecommunications stories of the week. The round-up is delivered via e-mail each Friday; to get your own copy, subscribe at www.benton.org/user/register
+
+Robbie's Round-Up for the Week of October 31-November 7, 2016
+We apologize for the delay in bringing you the Weekly Round-Up. The Chicago Cubs won the World Series. For the first time, on Radio, Television, and Via the Internet, one could hear the phrase, "The Chicago Cubs Have Won the World Series." The parade in celebration for the World Champion Chicago Cubs occurred on Friday, pushing back this weekly until Monday. Go Cubs!
+On October 31, 2016, telecommunication company CenturyLink announced plans to buy Level 3 Communications, an Internet “backbone” company that runs infrastructure that connects businesses to the Internet. The cash and stock transaction is valued at approximately $34 billion, including the assumption of debt. The tie-up with Level 3 will provide CenturyLink, which has historically focused on phone networks, the ability to increase its fiber-optic capacity, something that is especially important as it works to bring broadband Internet to rural areas.
+CenturyLink, based in Monroe (LA), has grown rapidly in recent years to become the third-largest fixed-line telecommunication company in the U.S. behind AT&T and Verizon. The Level 3 purchase would CenturyLink above Verizon in the U.S. enterprise market and greatly expands CenturyLink’s global significance. 
+Strategic and Financial Benefits
+Here's the benefits CenturyLink sees for the purchase.
+ Highly Complementary Businesses with Expanded Fiber Networks: This transaction increases CenturyLink's network by 200,000 route miles of fiber, which includes 64,000 route miles in 350 metropolitan areas and 33,000 subsea route miles connecting multiple continents. Overall, the complementary domestic and international networks will provide cost efficiencies by focusing capital investment on increasing capacity and extending the reach of the combined company's high-bandwidth fiber network.
+Enhanced Competitive Offerings in Business Network Services: The combined company will have significantly improved network capabilities, creating a world-class enterprise player with approximately $19 billion in pro forma business revenue and$13 billion in business strategic revenue, for the trailing twelve months ended June 30, 2016. Together, CenturyLink's and Level 3's revenue will be 76 percent derived from business customers, and 65 percent of the combined company's core revenue will be from strategic services. Given the complementary nature of the portfolios, the combined company will offer an even broader range of services and solutions to meet customers' demand for more bandwidth and new applications in an increasingly complex operating environment.
+Enhanced Broadband Infrastructure: This transaction will provide the combined company with increased opportunity to invest in its broadband infrastructure and enhance broadband speed for small businesses and consumers.
+Wireless Impact
+CenturyLink’s deal to acquire Level 3 for $25 billion underscores the ever-increasing value of fiber for wireless carriers, Jonathan Chaplin of New Street Research said. And that could lead to a bidding war for Level 3 among mobile operators and others looking to shore up their fiber assets.
+Level 3 boasts “a strong metro fiber footprint” with roughly 34,000 connected buildings, according to a New Street Research report. That footprint alone isn’t enough to support a nationwide densification buildout, but it could play a key role as carriers prepare to deploy 5G networks and technologies.
+“This is far from a ‘silver bullet’ for a wireless company – they will need a much more distributed fiber network than Level 3 has in order to densify economically – but it is a start,” said Chaplin. “Level 3 is undoubtedly a better asset than XO, which Verizon acquired recently, for example…. Level 3 is an increasingly-strategic asset, so we also wouldn’t be surprised to see a competitive process evolve if they are in talks.”
+Next Steps
+The companies expect to complete the transaction by the end of September 2017, subject to approvals by the Federal Communications Commission, certain states, and the majority of both companies’ shareholders. As for future CenturyLink moves, Sean Buckley wrote for Fierce, "When the CenturyLink deal closes there’s going to be questions around whether CenturyLink will pursue additional deals to further expand its fiber network. Given the amount of integration work it must conduct following the acquisition, the telco is unlikely to pursue any in the near-term. However, now that most of the larger fiber players have been snapped up, the one target that may remain in its sights is Zayo Group. While smaller than Level 3 and CenturyLink, Zayo has been continually expanding its domestic and international fiber footprint."
+You can follow any news of the deal on our merger page and through our Headlines daily e-mailed newsletter. 
+Quick Bits
+Weekend Reads (resist tl;dr)
+Civil rights groups: Facebook should protect, not censor, human rights issues (The Guadian)
+Are Police Jamming Cell Phones At Standing Rock Protest? The FCC Should Investigate. (Harold Feld Blog)
+Events Calendar for Nov 7-11, 2016
+Nov 10 -- Election Day. Please vote.
+Nov 10 -- Community Connectivity Initiative-Webinar Series, NTIA
+Nov 10 -- Mapping Broadband Health in America, FCC
+ICYMI From Benton
+Community Anchor Institutions Served by Government and Non-Profit Fiber Networks, Joanne Hovis
+FCC Acts to Increase Consumer Privacy Choice, Robbie McBeath
+ 
+CONTACT
+Benton Institute
+for Broadband & Society
+1041 Ridge Rd, Unit 214
+Wilmette, IL 60091
+847-328-3040
+Contact Us
+© 1994-2021 Benton Institute for Broadband & Society. All Rights Reserved.

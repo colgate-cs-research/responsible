@@ -1,0 +1,97 @@
+##LINK: https://www.convergedigest.com/2016_09_30_archive.html
+##KEYWORDS: open Internet
+##TITLE: 09/30/16 ~ Converge! Network Digest
+##METHOD: paragraphs
+
+
+Amazon Web Services announced the availability of a new GPU instance type for Amazon Elastic Compute Cloud (Amazon EC2) that provides up to 16 NVIDIA Tesla K80 GPUs -- the most powerful GPU instances available in the cloud.
+
+
+
+The largest P2 instance offers 16 GPUs with a combined 192 Gigabytes (GB) of video memory, 40,000 parallel processing cores, 70 teraflops of single precision floating point performance, over 23 teraflops of double precision floating point performance, and GPUDirect technology for higher bandwidth and lower latency peer-to-peer communication between GPUs. P2 instances also feature up to 732 GB of host memory, up to 64 vCPUs using custom Intel Xeon E5-2686 v4 (Broadwell) processors, dedicated network capacity for I/O operation, and enhanced networking through the Amazon EC2 Elastic Network Adaptor.
+
+The new P2 instances are designed for compute-intensive applications that require massive parallel floating point performance, including artificial intelligence, computational fluid dynamics, computational finance, seismic analysis, molecular modeling, genomics, and rendering.
+
+“Two years ago, we launched G2 instances to support customers running graphics and compute-intensive applications,” said Matt Garman, Vice President, Amazon EC2. “Today, as customers embrace heavier GPU compute workloads such as artificial intelligence, high-performance computing, and big data processing, they need even higher GPU performance than what was previously available. P2 instances offer seven times the computational capacity for single precision floating point calculations and 60 times more for double precision floating point calculations than the largest G2 instance, providing the best performance for compute-intensive workloads such as financial simulations, energy exploration and scientific computing.”
+
+http://aws.amazon.com/ec2/instance-types/p2/
+
+
+
+
+Shares in Nutanix (NTNX) soared during an initial public offering (IPO) on Friday, ending the day up 130% over its initial price.
+
+The company offered 14,870,000 shares of Class A common stock at a price of $16.00 per share.
+
+http://www.nutanix.com
+
+
+
+
+
+
+
+
+
+
+Nutanix S1 Filing: Quarterly Revenue at $139.8 million
+
+
+
+Wednesday, September 14, 2016  Data Centers, IPO, Nutanix, Silicon Valley  No Comments
+
+
+
+
+
+For its most recently fiscal quarter ended 31-July-2016, Nutanix recorded revenue of $139.8 million, according to a recently updated Form S-1 registration statement filed with the SEC ahead of a potential initial public offering (IPO). Nutanix provides a next-generation enterprise cloud platform that "converges traditional silos of server, virtualization and storage into one integrated solution and can also connect to public cloud services." Some...
+
+
+
+READ MORE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nverged platform for scale-out applic
+
+
+
+
+
+
+Zayo announced that a major wireless carrier has selected Zayo it to deploy C-RAN connectivity in two major metro areas. The identity of the customer was not disclosed.
+
+
+
+Under the deal, Zayo will provide an “over the top” fronthaul solution, providing incremental fibers on existing paths to supplement the existing network. In a second market, Zayo will initiate service for the carrier in a new cluster of sites, solving for high-demand areas by extensively leveraging dense, existing metro dark fiber assets. T
+
+“C-RAN enables wireless carriers to cost-efficiently keep pace with the growing bandwidth demand of their customers,” said Dave Jones, executive vice president, Dark Fiber Solutions at Zayo. “C-RAN, which requires a plentiful supply of dark fiber, is a prime example of second tenant economics for Zayo.”
+
+http://www.zayo.com
+
+
+
+A new Equinix Internet Exchange is slated to open in Helsinki, Finland in Q1 2017.
+
+Equinix currently operates six data centers in Finland, all in the Helsinki metropolitan area, which offer campus and metro-wide connectivity.
+
+
+
+The company noted that its Helsinki data centers are also facilitating Internet connectivity growth locally by anchoring the new Cinia submarine cable system, C-Lion1, between Finland and Germany, providing a bridge between Russia, the Baltic countries, and network nodes in Central Europe. With a record-breaking capacity of 144 Tbps and round trip rate of less than 20 milliseconds between Helsinki and Frankfurt, Equinix customers will be able to take advantage of enhanced international capacity, network latency and performance, as well as Finland's climatic and competitive power pricing benefits.
+
+http://www.equinix.com
+

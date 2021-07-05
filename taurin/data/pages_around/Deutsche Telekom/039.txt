@@ -1,0 +1,40 @@
+##LINK: https://www.cr-report.telekom.com/site20/management-facts/strategy/political-advocacy-and-consumer-policy
+##KEYWORDS: open Internet
+##TITLE: Political advocacy and consumer policy | 2019 Corporate Responsibility Report
+##METHOD: paragraphs
+
+Die Webseite benötigt Javascipt um ordnungsgemäß zu funktionieren!Bitte aktivieren Sie Javascript in Ihrem Browser oder wechseln Sie zu einem Browser der Javascript unterstützt.
+ 	Deutsche Telekom aims to become the leading European telco. That is why we again gave high priority to consumer-related topics in 2019.
+ 	Main topics included: 
+ 	Within the scope of IP migration in the fixed-line network, we have switched 98 percent of our customers to IP in the last five years and taken numerous measures to make the migration as easy and seamless as possible for customers. The IP migration is nearing completion. Only voice connections will still need to be migrated in 2020. 
+ 	We are also continuing our commitment in issues of provider switching, with the goal being to make it easier for both fixed-network and mobile consumers to switch providers, largely without any service interruptions. In all these areas, Deutsche Telekom stands for a constructive and solution-oriented approach that is geared to both consumer interests and the interests of our company.
+ 
+
+
+
+
+
+Do you have questions on this topic?Ask our expert:
+Fabian Riewerts
+
+
+ 	Our partners from parliaments, governments, and non-profit organizations need to uphold their independence and integrity. This principle is codified in Deutsche Telekom’s Code of Conduct. Donations to political institutions, parties, and political representatives are not allowed, for example. Instead, we place importance on factual communication, competence, credibility, and integrity. As a result, politicians and stakeholders feel that the information we provide is authentic and credible and refer to this information when forming their own opinions. Deutsche Telekom is registered in the official transparency register for lobbyists in Brussels. Within the context of our collaboration efforts in associations and other bodies, we feel that we are under the obligation to comply with all ethical codes and legal provisions.
+ 	In 2019, our political advocacy work focused on the following key issues: 
+ 
+
+
+
+
+
+Do you have questions on this topic?Ask our expert:
+Ulli Reitz
+
+
+ 	Active involvement in associations is the cornerstone of our political advocacy work. Accordingly, all the various membership fees (for umbrella/trade/industry associations etc.) account for the majority of our outlay in this area. To make our involvement transparent, an overview of the main fees paid in the past three years is provided below.
+ 	* Trade associations are the cornerstone of the public relations activities by Deutsche Telekom. Correspondingly, total membership fees (for trade associations, industry associytions or other such groups) form the main component of the contributions in this area. The numbers for contributions to trade associations listed above (2017-2019) mean "Less than 5 mio. EUR per year" (value may vary year-on-year; this is the maximum of an approximate value). Deutsche Telekom does not make contributions, grant advantages of give benefits of any kind, directly or indirectly, to political movements or trade unions or their representatives or candidates, except as required by applicable laws and regulations
+ 	Having a high-performance, reliable, and secure broadband infrastructure is the basis of success for all business sectors and is a key factor in making a business location attractive. Deutsche Telekom has been making considerable contributions for years by investing heavily in the infrastructure for mobile internet and the fixed-line network, including with optical fiber. We show more commitment than any other company to providing full-area coverage, including in rural areas.
+ 	In order to drive network expansion, network operators in Germany need investment incentives, legal and regulatory planning security, and technological freedom of action. That enables them to respond flexibly to the circumstances of enterprises and households and meet political, economic, and social requirements. This is the only way to fully harness the potential for cost-effective private network expansion using all available technologies. When it comes to areas where cost-effective broadband expansion is not possible, it is down to the public sector to ensure the gaps are plugged by providing technology and supplier-neutral funding programs and exercising sound judgment. Legal frameworks and regulatory practice need to actively support private-sector investment in new fiber-optic networks and prevent unnecessary financial burdens and red tape for the network operators investing in networks.
+ 	In view of the fact that the internet and telecommunications markets are converging rapidly and in light of the growing market power of a few global internet players, the sector-specific regulation of telecommunications that has been pursued to date is creating more and more of an imbalance. The same laws and regulations that apply to telecommunications companies also need to apply to internet companies providing the same services. The objective here must be to create equal competitive conditions and enable fair distribution of the financial burden involved in broadband expansion.
+ 	As part of the EU Telecoms Package, regulations on the open internet were adopted and came into effect on April 30, 2016. The regulations particularly address permitted traffic management and transparency requirements and limit commercial product and service differentiation on the internet.
+ 	Deutsche Telekom remains committed to preserving an open internet. Content and services will continue to be available online in accordance with the best effort principle. This means that data on the Internet are processed without preferential treatment and forwarded in the best possible way. We are continuing to gradually expand our infrastructure so that we can cope with rapidly increasing amounts of data traffic and facilitate innovation in our network. As a result, we are satisfying our customers’ growing demands and meeting the expectations of online content and application providers, who want to be able to provide their services in high quality both now and in the future.
+ 	Building on the best effort internet, we are developing an innovative network architecture – 5G networks – which can better and more flexibly meet the various transmission quality requirements of specific services. We thereby fulfill business and regulatory requirements and enable innovation in the services we offer on our networks. Content is not monitored, nor do we have any influence over user or provider content. When competing with other network operators, we will continue to market services with guaranteed quality features exclusively on a non-discriminatory basis.

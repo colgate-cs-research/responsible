@@ -1,0 +1,30 @@
+##LINK: https://radiobruxelleslibera.com/2013/07/11/net-neutrality-and-competition-the-european-commission-shakes-the-european-market/
+##KEYWORDS: net neutrality
+##TITLE: Net neutrality and competition: the European Commission shakes the European market   – radiobruxelleslibera
+##METHOD: article 1
+
+
+
+ Competition 
+ Net neutrality and competition: the European Commission shakes the European market   
+ By   innoword   on   11 July 2013   •   (  3 Comments  ) 
+ 
+ 
+ 
+ The European Commission has started  investigations  over dominant European ISPs (at least Orange, Deutsche Telekom and Telefonica) in order to verify whether they are abusing of their dominant position in the broadband market with regard to Internet peering services. 
+ The European officers intend to verify the peering policies of such dominant operators because there are suspects that they  may refuse or restrict peering  (i.e. exchange of Internet traffic with other ISPs, normally for free)  for anticompetitive purposes . 
+ The entire case has  strong connection with the net neutrality debate : in fact, the refusal of peering may cause artificial scarcity of Internet bandwidth (since the interconnection between the various ISPs is kept at a level which is insufficient for the flow of the Internet traffic) with the results that congestions, interruptions and delays may easily occur in the net. At the end, the Internet users will suffer because of low-quality services. 
+ The potential objective of such alleged anticompetitive beahaviour is questionable: dominant ISPs could aim at forcing other operators (carriers or other ISPs) to pay a (potentially abusive) price for peering directly with them. In case of refusal, the Internet traffic of (refused) ISPs will be routed through other destinations via transit agreements and will in any case reach the dominant ISPs (and its users) after a longer path, with the result that the quality of the Internet service will be affected. Another scope of the alleged anticompetitive beahaviour may be to force hosting providers (such as Youtube, Google ecc) to move some of their servers towards the dominant ISP’s network in order to reach the latter’s clients with better quality conditions. 
+ It must be stressed that operators like Orange, Telefonica and Deutsche Telekom  are not dominant in the peering market  (which is normally regarded as competitive by the European Commission). However, they  are dominant in the broadband access market  (where they normally have 50% of the broadband users) and therefore the European Commission intends to verify whether such ISPs are leveraging their dominance to get higher prices (from carriers or hosting providers) in the competitive peering market. 
+ The investigation of the European Commission apparently starts from a French dispute between Orange and Cogent last year. The latter was refused a free peering agreement and lost a case in front of the French competition authority, since it was recognised that Orange could charge a price in case there is a strong inbalance of traffic with the other part (in fact, Cogent was inter alia hosting the Megaupload streaming service). Orange was however  required to clarify its peering policy. 
+ In Germany there was a debate in the industry, without formal complaints however, about the reluctance of Deutsche Telekom in upgrading peering facilities, which could induce other ISPs to pay for direct interconnection in order to avoid congestions. 
+ In Italy Tiscali made the same trick around 10 years ago, however the market ignored this decision because of the irrelevant market position of the Sardinian ISP. However, now in 2013 Telecom Italia is starting this game again. According to industry information, Telecom Italia is recently engaged in a de-peering policy, consisting in closing or withdrawing from peering relationships, in order to (eventually) induce other carriers and ISPs to accept a paid direct interconnection. It is not clear whether the raids of the European Commission concerned also Telecom Italia in this case, however is is evident that the commercial practices of the Italian ISP have strong similarities with the facts investigated by the European Commission in Germany, France and Spain. 
+ More to follow, no doubt. 
+ Share this: Twitter Facebook More Email Like this: Like   Loading... 
+ 
+ Related 
+   
+ 
+Categories:  Competition ,  Net Neutrality   
+ 
+ 

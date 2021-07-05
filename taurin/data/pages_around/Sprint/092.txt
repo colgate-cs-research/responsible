@@ -1,0 +1,75 @@
+##LINK: https://pressfrom.info/news/politics/-107710-v-jitomire-neizvestnye-zahvatili-predstaviteley-pravogo-sektora---smi/
+##KEYWORDS: paid prioritization
+##TITLE: Technology:   After net neutrality: Brace for internet 'fast lanes'  - PressFrom - US
+##METHOD: paragraphs
+
+
+
+
+By David Shepardson	
+
+
+NEW YORK — Now that federal telecom regulators have repealed net neutrality, it may be time to brace for the arrival of internet "fast lanes" and "slow lanes."
+
+
+
+The Federal Communications Commission Wednesday will release its plan for reversing rules that require internet service providers to treat all content equally.The new FCC order will throw out almost all of the agency's 2015 net-neutrality rules, including the prohibitions on blocking and throttling content, senior FCC staff said during a conference call with reporters Tuesday. The order will also ban states from imposing their own net-neutrality rules to replace the federal regulations.	
+
+
+The net neutrality rules just voted down by the Federal Communications Commission prohibited such "paid prioritization," as it's technically known. That's when an internet provider such as Verizon or Comcast decides to charge services like YouTube or Amazon for faster access to users. Firms that decline to pay up could wind up in bumper-to-bumper slow lanes.
+The Associated Press queried seven major internet providers about their post-net-neutrality plans, and all of them equivocated when asked if they might establish fast and slow lanes. None of the seven companies — Verizon, AT&T, Comcast, Charter, Cox, Sprint and T-Mobile — would rule out the possibility. Most merely said they had "no plans" for paid prioritization, and a few declined to answer the question at all.
+
+
+
+Tech companies are vowing not to go down without a fight, as the FCC plans to pull the plug on a 'free' internet.The Republican-helmed Federal Communications Commission is expected to pull the plug on net neutrality rules in three weeks - but tech companies, entrepreneurs, and other concerned users are vowing to not go down without a fight.	
+
+
+By contrast, several of these firms promised not to block or slow down specific internet sites and services, two other practices prohibited by the expiring net-neutrality rules. (Those rules won't formally end until sometime in early 2018.) Any such move could set off a public uproar and might even trigger an antitrust investigation.
+Here are the net-neutrality promises from the country's biggest wireless and cable companies.
+VERIZON
+— FAST LANES: No specific response
+— BLOCK OR SLOW DOWN SITES: Says it doesn't do so, but declined to address the future
+THE WORDS: In a Nov. 21 statement , Verizon senior vice president Kathy Grillo said: "We continue to believe that users should be able to access the internet when, where, and how they choose, and our customers will continue to do so." Asked whether Verizon will continue not to block or throttle content or whether it will charge internet companies to get better access to customers, Young said Verizon "does not block or throttle content and that's the bottom line."
+
+
+
+No one wanted to see big service providers turn the Internet into the cable industry, with high prices and few choices. But that's about to happen.If you’re like most Americans, odds are you’re not a fan of your cable company. You can probably think of at least one experience that had you pulling your hair out. In fact, from year to year, cable companies consistently rank at the very bottom of the American Consumer Satisfaction Index. But if you think things are bad, they’re about to get much worse under the Federal Communications Commission’s plan to turn control of the Internet over to your cable and Internet provider.	
+
+
+AT&T
+— FAST LANES: No specific response
+— BLOCK OR SLOW SITES: Says it "will not" do so
+THE WORDS: Spokesman Mike Balmoris didn't specifically answer when asked if AT&T will create fast lanes. In a Nov. 30 blog post , AT&T senior executive vice president Bob Quinn said: "We will not block websites, we will not throttle or degrade internet traffic based on content, and we will not unfairly discriminate in our treatment of internet traffic."
+COMCAST
+— FAST LANES: Has "no plans" to create them
+— BLOCK OR SLOW SITES: Says it "will not" do so
+THE WORDS: In a Dec. 14 blog post , senior executive vice president David Cohen said: "We will not block, throttle, or discriminate against lawful content on the Internet; we will be fully transparent with respect to our practices; and we have not entered into any paid prioritization arrangements, and we have no plans to do so."
+CHARTER
+— FAST LANES: Says there are no plans to create them
+—BLOCK OR SLOW DOWN SITES: Says it doesn't do so and has "no plans" to change that
+THE WORDS: In a Dec. 14 blog post : "We don't slow down, block, or discriminate against lawful content. Simply put, we don't interfere with the lawful online practices of our customers and we have no plans to change our practices."
+
+
+
+The Federal Communications Commission’s (FCC) net neutrality vote is scheduled for Thursday, December 14, at 10:30 a.m. Eastern time, and has the potential to radically alter the internet as we know it. The Commissioner of the FCC, Ajit Pai, appointed to his post by President Donald Trump, has proposed reclassifying Internet providers from utilities to information companies, and the rest of the commission is due to vote on it Thursday. If the vote goes along party lines, net neutrality will be repealed and internet providers will be able to legally control the speed of content running through their network, a practice that is currently prohibited.	
+
+
+COX
+— FAST LANES: Does not plan to create them
+—BLOCK OR SLOW DOWN SITES: Says it doesn't do so and has no plans to
+THE WORDS: In an emailed statement on Dec. 14: "We do not block, throttle or otherwise interfere with consumers' desire to go where they want on the Internet." A spokesman said the company has no plans to block or throttle content or enter into paid prioritization agreements.
+SPRINT
+— FAST LANES: No specific response
+—BLOCK OR SLOW DOWN SITES: Says it doesn't block sites, but declined to address the future
+THE WORDS: In a press release on Dec. 14, Sprint wrote: "Our position has been and continues to be that competition is the best way to promote an open internet."
+From its "open internet" website : "Sprint does not block sites based on content or subject."
+T-MOBILE
+— FAST LANES: No response about future plans
+— BLOCK OR SLOW DOWN SITES: No response about future plans
+THE WORDS: A company spokeswoman pointed to a February 2015 statement from T-Mobile CEO John Legere: "We have always believed in competition and in a free, open Internet with rules that protect net neutrality — no blocking, no discrimination and transparency."
+
+How the Democrats are using the Republicans’ favorite move to preserve net neutrality .
+When Trump-appointed FCC chairman Ajit Pai announced early this year that he would seek to roll back Obama-era net neutrality rules, most people thought that it would be game over.&nbsp;As predicted, the FCC voted to overturn net neutrality rules in November, 3-2 along party lines. But House Democrats have quietly put forward a bill using the Congressional Review Act, a little-known piece of legislation that up to now, had almost exclusively been used by Republicans to overturn federal rules put in place by the Obama administration.
+
+Follow us https://www.youtube.com/c/Historygreatest https://www.google.com/+Historygreatest https://twitter.com/HistoryGreatest http://historygreatest.tumblr.com https://www.facebook.com/his...
+Source: https://www.spreaker.com/user/noble_django/after-net-neutrality-you-might-pay-for-f Now that federal telecom regulators have repealed net neutrality, it may be time to brace for the...

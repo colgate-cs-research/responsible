@@ -1,0 +1,87 @@
+##LINK: http://www.networkcomputing.com/networking/google-now-largest-source-internet-traffic
+##KEYWORDS: net neutrality
+##TITLE: Google Now Largest Source Of Internet Traffic | Network Computing
+##METHOD: article 7
+
+
+
+ 
+   
+ The Internet has become the domain of giants, a consolidation that mirrors the mergers among corporate media companies in recent decades. 
+ 
+Five years ago, Internet traffic was proportionally distributed among tens of thousands of networks. Two years ago, 15,000 networks accounted for about 50% of online traffic. Today, 100 networks out of over 35,000 contribute 60% of all online traffic.
+ 
+ 
+The largest source of traffic is Google, which accounts for 6% of all Internet traffic globally, according to  Arbor Networks'  2009 Internet Observatory Report.
+ 
+ 
+The University of Michigan and Merit Network also contributed to the study, which looked at 256 exabytes of Internet traffic over the two years.
+ 
+ 
+"The Internet is a lot flatter today, more densely connected," said Danny McPherson, VP and CSO of Arbor Networks.
+ 
+ 
+Consolidation has also affected the diversity of application protocols: There are fewer today, with traffic tending toward Web traffic and away from protocols for P2P and other applications. Fifty-two percent of online traffic is Web (HTTP) traffic, up from almost 42% in 2007.
+ 
+ 
+And somewhere between 25% and 40% of that Web traffic is video.
+ 
+ 
+McPherson believes P2P's decline reflects users' preference for on-demand streaming, as seen at sites like YouTube, over the delayed gratification offered by P2P file downloading.
+ 
+ 
+Arbor's report also shows an ongoing decline in the price of data transit, from $120/Mbps in 2003 to $12/Mbps to an estimated $1.20/Mbps in 2014.
+ 
+ 
+This trend, in conjunction with rising Internet advertising revenue has transformed the relationship between transit providers, consumer networks and content providers, according to the report.
+ 
+ 
+Where once network providers like AT&T or British Telecom might have charged content networks for data transit, they're moving toward "settlement free connectivity" or even paying content networks because content is so much more valuable than commodity bit transit.
+ 
+ 
+"One of the net neutrality arguments is the net is a utility and this very much highlights that it's not," said McPhearson.
+ 
+ The InformationWeek/bMighty Data Centers For Growing Companies virtual event explores the latest technology and tools you can use to manage your growing IT needs. Oct. 21, 2009.  Find out more and register. 
+ Tags: News Networking Wireless Infrastructure 
+ Recommended For You 
+ 
+ 
+     
+   Rethinking Broadband Access Options as Operators Drive 10G PON Deployments   
+   Bob Wallace   
+   July 01, 2021   
+   IT managers stand to gain faster, symmetric services as fiber network spending climbs. 
+     
+ 
+     
+   Why Infrastructure’s More Important than Ever   
+   Eric Krapf   
+   June 25, 2021   
+   As we’ve seen with WFH, so much of the employee and customer experience is determined by those lower layers of the old OSI model. 
+     
+ 
+     
+   Will SASE Mark the End of the Network as We Know It?   
+   John Edwards   
+   June 23, 2021   
+   SD-WAN's days appear to be numbered. SASE promises to become the go-to networking technology for linking together virtually all types of users and devices. 
+     
+ 
+     
+   Baselining and DHCP (Sort of)   
+   Tony Fortunato   
+   June 22, 2021   
+   As part of my baselining series, I am covering the various topics or protocols to look for. 
+In this example I have a PC bootup trace file that you can take using a span port or tap.  
+     
+ 
+     
+   A Well-Defined API is Layer 8     
+   Lori MacVittie   
+   June 21, 2021   
+   Protocol (noun): a set of rules governing the exchange or transmission of data between devices   
+     
+ 
+ 
+ See All in Networking »   
+  

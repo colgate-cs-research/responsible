@@ -1,0 +1,236 @@
+##LINK: https://www.infoworld.com/article/3112636/pay-more-get-less-t-mobile-sprint-undercut-net-neutrality.html
+##KEYWORDS: net neutrality,open Internet
+##TITLE: Pay more, get less: T-Mobile, Sprint undercut net neutrality | InfoWorld
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Regulation 
+ 
+ 
+ 
+ 
+ 
+ 
+ InfoWorld Tech Watch 
+ 
+								
+								
+								By  Caroline Craig , 
+								
+								 
+ 
+								
+							  	 East Coast Site Editor, 
+								
+									
+								
+
+
+
+
+
+
+
+
+
+
+
+
+ InfoWorld 
+ | 
+ 
+ 
+ 
+ 
+ 
+ 
+ About  |   
+ Informed news analysis every weekday 
+ 
+ 
+ 
+ Pay more, get less: T-Mobile, Sprint undercut net neutrality 
+ 
+ Customers are up in arms, and the FCC must finally draw the lines with open internet regulations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Backbone Campaign 
+ (CC BY 2.0) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New "unlimited data" plans from T-Mobile and Sprint seem at first blush to be a win-win for customers, but not only could subscribers ultimately wind up paying more for less, the plans clearly violate net neutrality principles. The FCC, meanwhile, has taken a glacial pace in reviewing these and similar offerings from mobile carriers. CEO John Legere promised that the  T-Mobile One plan unveiled  last week will "turn the wireless industry on its head." It also seems to turn back the clock on the open internet. [ Read 'em and weep:  5 ways your ISP is screwing you  | Cut to the key news in technology trends and IT breakthroughs with the  InfoWorld Daily newsletter , our summary of the top tech happenings. ] The plan does away with tiered data caps and offers customers unlimited data. Great! Except by "unlimited" the company actually means 26GB, after which data speeds are throttled, and video streams are downgraded to 480p by default. Sprint subsequently  unveiled its Unlimited Freedom data plan , which goes even further by reducing bandwidth for video, gaming, and music. T-Mobile's  Binge On program , introduced last year, also reduced video quality from 1,080p to 480p; in return, streaming from participating services like Netflix and Hulu didn't count against customers' data caps. This zero-rating scheme was  questioned by net neutrality advocates  at the time and has been the subject of an ongoing -- and inconclusive --  review by the FCC . (Countries like India, Japan, and The Netherlands have already  banned zero rating  as anticompetitive.) However, T-Mobile customers who wanted better video definition could opt out of Binge On whenever desired, whereas T-Mobile One downgrades all video streaming by default.   But fear not: T-Mobile customers who want to view video in high definition can still have that experience -- by paying $25 more per month per line. In other words, T-Mobile One subscribers pay a $25 fee for the privilege of  turning off  Binge On. 
+ "From what we've read thus far it seems like T-Mobile's new plan to charge its customers extra to not throttle video runs directly afoul of the principle of net neutrality," Electronic Frontier Foundation senior staff technologist Jeremy Gillula told  Daily Dot .   T-Mobile's new plan will also cost more if you want to tether your phone to another device. T-Mobile One limits tethering to 2G (128Kbps) speeds by default; tethering speeds that are actually usable will cost customers an additional $15 per month for up to 5GB. So much for "unlimited." At least Sprint's new plan includes a tethering allowance of 5GB. "Limiting the speed of tethered traffic and throttling video are both practices that violate the FCC's rule against throttling and the principle of net neutrality," Electronic Frontier Foundation Staff Attorney Kit Walsh said in a statement to  WirelessWeek . While the "no throttling" rule allows for "reasonable network management," Walsh told WirelessWeek the fact that T-Mobile is charging customers to avoid throttling "demonstrates that the limitations are being put in place not out of technical need, but for business reasons."   Net neutrality advocates have repeatedly warned that allowing carriers to fiddle with service quality sets a  horrible precedent . After all, what's to stop them from charging more for unthrottled access to other types of data?  TechDirt  warns: 
+ Folks with even the faintest tea leaf reading ability should be able to envision one possible future where all broadband access is fragmented and fractured ... [with] users paying more or less for varying qualities of different content and services. This was the sort of thing net neutrality rules were designed to help us avoid.... Groups like the EFF (quite correctly) worry T-Mobile is happily chipping away at the very foundation of an open internet ... to thunderous public applause. 
+ Perhaps not so thunderous anymore. While T-Mobile has had impressive success with previous Un-carrier initiatives, T-Mobile One may be a tougher sell -- especially to existing customers.  Less-than-thrilled subscribers  have taken to  Reddit  to vent their displeasure with the "evil" and "disgraceful" new plan. "This sucks, plain and simple. There's no positive here. This just sucks," SilverIdaten commented. Meanwhile, in the Twitterverse,  Droid Life tweeted , "T-Mobile introduced a pretty bad ‘unlimited' plan today." And  DreamHost's vice president for cloud and development Jonathan LaCour  said: "Up until the introduction of #TMobileONE, I've been a huge advocate for @TMobile to friends and family. No longer. Awful, hostile shift." This was probably not the reaction Legere had in mind when he gushed that "we're going to completely rethink the customer experience."   Perhaps now that the bloom is coming off Un-carrier innovation, the FCC will have more of an incentive to push back on schemes that " tap dance over, under and around " net neutrality rules. 
+ 
+ 
+   
+ 
+ 
+ 
+ Related:  
+ 
+ Regulation 
+ Mobile 
+ Networking 
+ Internet 
+ Small and Medium Business 
+ 
+ 
+ 
+ 
+ Caroline Craig is East Coast site editor for InfoWorld. 
+ 
+ 
+ Follow 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2016  IDG Communications, Inc. 
+ 
+ 
+ 
+ 
+ 
+   Learn how IT leaders are building cyberdefenses. Attend CSO's Future of Cybersecurity & Trust Summit-7/20-7/22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		 
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

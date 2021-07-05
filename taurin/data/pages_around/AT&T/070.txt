@@ -1,0 +1,83 @@
+##LINK: https://www.cnet.com/news/fcc-att-verizon-zero-rating-directv-now-go90-net-neutrality/
+##KEYWORDS: zero-rating
+##TITLE: FCC slams AT&T and Verizon over zero-rating offers - CNET
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+                                                    FCC
+                                                 
+ The Federal Communications Commission is not cool with AT&T's offer that lets customers stream the carrier's DirecTV service without it counting against their data plans. The commission has also launched an investigation into a similar offer from Verizon. In a letter sent to AT&T on Thursday, the agency said it's reached a preliminary conclusion that the carrier is violating net neutrality rules, which prohibit internet service providers from favoring their own content over a competitor's service.  Since September, AT&T has let its  wireless customers stream its DirecTV video service over the AT&T  wireless network without counting that data against their monthly data caps.  This week AT&T made the $35 a month  streaming service available to all wireless customers . The FCC also sent a letter to Verizon asking it questions about a similar offer where Verizon lets customers stream its Go90 video service and doesn't charge for data usage. Both AT&T and Verizon say their programs, which charge video providers instead of customers the cost of streaming the data, are open to any video company willing to pay the cost of customer data. But the FCC says it's concerned AT&T and Verizon still have a cost advantage over rivals, since they provide the streaming service and own the networks. In its letter to AT&T, the FCC said its preliminary conclusion is that the carrier's practices "inhibit competition, harm consumers, and interfere with the 'virtuous cycle' needed to assure the continuing benefits of the Open Internet."  It asked AT&T to provide additional information prior to December 15 before it makes a final determination. The agency is still gathering information about Verizon's service. AT&T reiterated that the service is a benefit to consumers.  "These are incredibly popular free services available to millions of customers," the company said in a statement. "Once again, we will provide the FCC with additional information on why the government should not take away a service that saves consumers money." Verizon said it's still reviewing the FCC's inquiry but is "quite confident that our practices are good for consumers, non-discriminatory and are consistent with current rules." AT&T's Sponsored Data plan and Verizon's FreeBee offer are considered "zero-rating" plans. The controversial plans let Internet service providers not count data usage for certain applications against a customer's monthly cap. Though companies say the plans benefit consumers by offering reduced pricing on wireless service, critics say they give the wireless companies an unfair advantage over competitors and violate the 2015 net neutrality rules designed to protect against this. The FCC didn't specifically outlaw zero-rating in its rules, but it said it would look at such plans on a case-by-case basis. This is the first real test of the rules and marks the first time since the regulations were passed that the FCC has flexed its regulatory muscles in enforcing them. Though the FCC has informally been looking into concerns over zero-rating for more than a year, it officially opened an inquiry into AT&T's practices only a few weeks ago, when it sent a letter to the company asking for more details about how the Sponsored Data program works.  But with a new Republican administration set to take office in January, it may be too late for the agency to take any meaningful action.  What's the FCC's beef? The biggest problem the FCC has with AT&T's Sponsored Data plan has to do with how much the carrier is charging rival streaming services for access to its data network. Because AT&T has priced its new DirecTV Now service so aggressively, the FCC doesn't see how other streaming video companies could possibly compete.  In its letter, the FCC said it's done the math and estimates it would cost a company, like a Netflix, Hulu or someone else, $47 a month per customer to offer 30 minutes of free video-streaming a day on AT&T's wireless service. That's significantly more than the $35 a month AT&T charges customers for DirecTV Now. "If we understand these facts correctly, AT&T seems to present the unaffiliated provider with a choice that is unreasonable on its face: either pay a Sponsored Data rate...that would make it very difficult, if not infeasible, to offer a competitively priced service, or instead require its customers to pay significant amounts for their own usage of data while AT&T's zero-rated DirecTV Now service offers customers the same usage for free," the letter says. The FCC stopped short of taking action against AT&T and has asked the company for more information about how much it's charging competitors. But it's likely nothing will come of the investigation, since Republicans take over January 20, once President-elect Donald Trump is inaugurated. Trump hasn't said much about net neutrality, but he's indicated he's not a fan of the regulations. He's also appointed several people to his transition team who have opposed the net neutrality rules.   Republican FCC Commissioner Ajit Pai was critical of the FCC's actions and called the commission's preliminary determination "sad and pointless." "Any unilateral action taken by the Wireless Telecommunications Bureau at the chairman's direction in the next 49 days can quickly be undone by that same bureau after January 20, 2017," Pai added. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Comments 
+ 
+ 
+ 
+   
+ 
+ 
+ Mobile 
+ FCC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Notification on 
+ Notification off 
+ 
+ 
+ Verizon Wireless 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

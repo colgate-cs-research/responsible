@@ -1,0 +1,69 @@
+##LINK: https://policyreview.info/articles/news/net-neutrality-too-controversial-sofia/369
+##KEYWORDS: net neutrality,open Internet
+##TITLE: Net neutrality, too controversial for Sofia | Internet Policy Review
+##METHOD: article 1
+
+
+
+ 
+ Net neutrality, too controversial for Sofia 
+ 
+ 
+  Monika Ermert ,  Heise, Intellectual Property Watch, VDI-Nachrichten ,  Germany 
+ 
+ 
+      PUBLISHED ON:  12 Jun 2015 
+ 
+ 
+ 
+ For years, the UN organised Internet Governance Forum (IGF) and its regional offshoots had been called ‘talk shops’ and ‘traveling circuses’. Tangible outcomes: still on the wish list. But then, suddenly, a first successful step was made at the NETmundial conference in Brazil last year - with a high level consensus on  Internet Governance Principles . 
+ Last week, the Bulgarian capital Sofia was host to a “Dialogue on Internet Governance” (EuroDIG, 4-5 June 2015). The organisers made an attempt to become the first regional IGF to come up with a common position on net neutrality as a ‘tangible output’, which would then feed into the 10th IGF in November. Moderated by the Internet Society Regional Bureau Director for Europe, Frédéric Donck, a group of interested experts prepared the draft, hoping it could be accepted after a last discussion round in Sofia. 
+ Timing is everything 
+ Perhaps the topic chosen for the ‘experiment’ was just a little too hot given that net neutrality is on the legislative agenda in Europe at this very moment. A German government representative argued, that it would be difficult for the government parties to agree to such a multi-stakeholder consensus at a time when trilogue negotiations 1  on the respective regulation in the Connected Continent Package were taking place. There, “Germany has a fixed position“. 
+ Parallel conversations instead of a dialogue 
+ Yet, the positions of those stakeholders that were involved in preparing the draft document (which can be found  here ) seemed hard to reconcile into a compromise. The draft document puts a human rights perspective, an end-user perspective and a business perspective side-by-side. During a panel talking about special IP-services and the open internet in Sophia, telecom operators and and civil society groups clashed over issues like competition, for example. For Telecom providers, that is the best way to ensure net neutrality, said Gonzalo Martín-Villa of Telefonica. For the civil society representatives, it is “necessary, but not sufficient,“ as net neutrality expert Luca Belli put it. Villa and Belli have both been members of the drafting group. 
+ Former Member European Parliament Amelia Andersdotter warned against politicians being dragged too much into a debate of business models, instead of just regulating for privacy, freedom of expression and indeed competition. Andersdotter further expressed reservations about the decoupling of specialised services and open internet access, on which the business perspective in the draft states: “The possibility to provide specialized services whilst at the same time providing strong safeguards preserving open and robust Internet access services, has to be preserved as a mean to increase customer choice. In order to best serve the interests of the end-users and all Internet players, providers of Internet access services shall not block, throttle or discriminate against specific content, applications or services except as necessary and for as long as necessary for the application of reasonable traffic management. Reasonable Internet traffic management is justified provided it is done in a transparent, non-discriminatory and proportionate manner.” 
+ The issue of zero rating, not calculating content of partner services in rate limiting, was left out of the draft as too controversial. “Most stakeholders, with the exception of some telecoms operators, do not accept the principle of such discrimination among Internet services,“ argued Christopher Wilkinson, former Chair of ICANN's Governmental Advisory Committee (GAC) and long-time internet governance expert. 
+ Procedural issues 
+ Wilkinson also was one of the most ardent critics of the process to develop the draft. “Very few participants at Sofia had found the draft and read it beforehand,“ Wilkinson wrote in an email to the  Internet Policy Review . A straw poll in Sofia according to him had shown that there were as many supporters as opponents to the draft in its current form. Also the existence and composition of the 'working group' at EuroDIG had not been announced clearly enough. “More generally, I believe that EuroDIG participants now understand that significant initiatives of this kind need a substantial lead-time and full multi-stakeholder consultation,“ Wilkinson concluded. 
+ Next steps how to further develop the draft are now being discussed in the follow-up to the meeting. “Civil society often engaged in processes after the deadline expired,“ Lorena Jaume-Palasi noted. To a large extent this was a capacity problem, one problem the EuroDIG process itself is rather familiar with. Jaume-Palasi, Communication and Youth Engagement Director of EuroDIG underlined that the working group consisting of academics and civil society activists and academics like Belli, the telecommunication industry and content users highly interested in neutrality, such as the European Broadcasting Union, had made every effort to reach out. More work would go into coming up with procedures, she said. 
+ 
+ Footnotes 
+ 1.  For more information on trilogue negotiations at the European Union level, please jump to the word “Trilogue” in this glossary:  http://ec.europa.eu/codecision/stepbystep/glossary_en.htm 
+ 
+ 
+ 
+ Add new comment 
+ 
+ Your name  * 
+ 
+ 
+ 
+ E-mail  * 
+ 
+ The content of this field is kept private and will not be shown publicly. 
+ 
+ 
+ Homepage  
+ 
+ 
+ 
+ Subject  
+ 
+ 
+ 
+ Comment  * 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Math question  
+ 4 + 10 =    
+ Solve this simple math problem and enter the result. E.g. for 1+3, enter 4. 
+ 
+ 
+   

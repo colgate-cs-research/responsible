@@ -1,0 +1,23 @@
+##LINK: https://newswire.telecomramblings.com/2015/07/support-for-an-open-internet/
+##KEYWORDS: open Internet
+##TITLE: Support for an Open Internet
+##METHOD: paragraphs
+
+By Dr. John Saw, Chief Network Officer, Sprint
+With a smartphone or tablet in hand, you listen to your favorite song, get directions to a restaurant or share a video that has everybody talking. Most people tap a touchscreen and think little more about how their app is working with a wireless network.
+That’s just the way we like it. We know our customers value an experience when the information or entertainment they want is a simple click away. Behind the scenes, though, our teams at Sprint make that great experience possible by taking a responsible, thoughtful and vigilant approach that balances access and security.
+Vulnerability of connected devices like phones, cars, and even airplanes against an Internet attack has been in the news recently, and as a wireless network provider responsible for moving data between devices, we thought we’d explain our network approach.
+Sprint’s network is built to support an open Internet for its customers, developers and device manufacturers. By “open” we mean that we do not block lawful Internet traffic or protocols. We do not restrict access to applications and content, nor do we prioritize one content provider’s traffic over another. This approach spurs innovation and gives businesses and consumers the ability to connect to whatever services, information, and entertainment they choose.
+Sprint’s open approach is common industry practice across wireless networks in the U.S. And in order for it to work, it requires that end-points receiving network traffic be protected. These end-points include everything from devices (phones, laptops, wearables and more) to services (online banks and retailers for example). We work with our customers, manufacturers, service providers and others to address the need for protecting their devices and services. And in the event of a security threat (for example, an enterprise customer tells us their devices have a security vulnerability), we will take steps to protect our network and customers against such threats. Lastly, we always encourage consumers to take full advantage of the many device security software options available today.
+An open Internet is vital, fostering competition and innovation throughout the wireless ecosystem. And Sprint is proud to play its part with a content-agnostic network that gives businesses and consumers access to the online content and services they want and need.
+
+PR Archives: Latest, By Company, By Date
+© 2008–2010 
+
+		TR Newswire — 
+
+		Sitemap  — 
+
+		Media Partners  — 
+
+		Privacy Policy

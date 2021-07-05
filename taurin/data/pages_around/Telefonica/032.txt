@@ -1,0 +1,42 @@
+##LINK: https://www.fiercetelecom.com/telecom/brazil-s-anatel-grants-conditional-approval-second-stage-gvt-acquisition-micta-names-finley
+##KEYWORDS: open Internet
+##TITLE: Brazil's Anatel grants conditional approval in second stage of GVT acquisition; MiCTA names Finley Engineering as approved fiber service supplier | FierceTelecom
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ by  Sean Buckley  |
+ Mar 15, 2015 1:59pm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wireline news from across the web:  
+ @ FierceTelecom  RT ‏@  SilverPeak : Do we need more than #SDN/#NFV? >> Balancing networking's 3-legged stool.  Article  | Follow @FierceTelecom 
+ > Anatel has granted conditional approval for the transfer of shares between Vivendi and Telefonica, the second stage of the latter's acquisition of broadband operator GVT.  Article  (sub. req.) 
+ > Orange Business plots out the steps businesses can take to achieve cloud maturity.  Article 
+ > Cogent says that the FCC's Open Internet Order is thoughtful, minimalist regulation to ensure that consumers have broadband Internet service that meets their expectations and needs. Release 
+ > MiCTA has named Finley Engineering Company as an approved national vendor for Fiber Build Out Services available to all MiCTA members across  the United States. Release  
+ Cable News  
+> Time Warner Cable may be seeing some progress in its year-long struggle to distribute its regional sports network built around the Los Angeles Dodgers. Article 
+ Wireless News  
+> T-Mobile US is automatically upgrading a "small percentage" of its customers to plans with unlimited LTE data for no additional cost. But the carrier said it will return those customers back to their capped data plans at the end of this year. Article 
+ > Amazon acquired a startup called 2lemetry that offers technology for sending, receiving and analyzing data from Internet-connected devices and machines. Article 
+ And finally…   @vXchnge:  The Internet of Things (IoT): All Talk or Transforming Your Data Center?  Article 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

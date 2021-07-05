@@ -1,0 +1,260 @@
+##LINK: https://www.theverge.com/2017/1/11/14243196/fcc-zero-rating-report-net-neutrality-att-verizon-t-mobile
+##KEYWORDS: zero-rating
+##TITLE: New FCC report says AT&T and Verizon zero-rating violates net neutrality - The Verge
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ Filed under: 
+ 
+ 
+ 
+ Policy 
+ 
+ 
+ 
+ 
+ US & World 
+ 
+ 
+ 
+ 
+ Net Neutrality 
+ 
+ 
+ 
+ 
+ 
+ New FCC report says AT&T and Verizon zero-rating violates net neutrality 
+ 
+ 
+ 
+ 
+    New,
+   
+ 
+ 
+        5
+       
+ comments 
+ 
+ 
+ 
+ 
+ But T-Mobile’s BingeOn gets a pass 
+ 
+ 
+    
+      By
+       
+ Russell Brandom 
+ 
+ 
+ 
+          Jan 11, 2017,  5:37pm EST
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this story 
+ 
+ 
+ 
+ 
+ Share this on Facebook 
+ 
+ 
+ 
+ 
+ 
+ Share this on Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options for: 
+ New FCC report says AT&T and Verizon zero-rating violates net neutrality 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Linkedin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pocket 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flipboard 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Photo by Mark Wilson/Getty Images 
+ 
+ 
+ 
+ Just a week and a half before he is set to leave office, FCC Chairman Tom Wheeler has issued  a new report  stating that the zero-rated video services offered by AT&T and Verizon may violate the FCC’s Open Internet Order. 
+ Assembled by the FCC’s Wireless Telecommunications Bureau, the report focuses on sponsored data programs, which allow companies to pay carriers to exempt exempt their data from customers' data caps. The programs have  always been controversial , but the issue has grown particularly urgent in recent years, as carriers have  bought up   media   companies  and launched  aggressive new mobile video packages . 
+ “AT&T offers Sponsored Data to third-party content providers at terms... less favorable than those it offers to its affiliate, DirecTV.” 
+ According to the report, many of those packages simply aren’t playing fair. “While observing that AT&T provided incomplete responses to staff inquires,” Wheeler wrote to Senators, “the report states that the limited information available supports a conclusion that AT&T offers Sponsored Data to third-party content providers at terms and conditions that are effectively less favorable than those it offers to its affiliate, DirecTV.” 
+ In theory, sponsored data should be an even playing field, with providers bearing the costs and making the same charges regardless of who’s footing the bill. But according to the report, AT&T treats the DirectTV partnership very differently from an unaffiliated sponsored data system, giving the service a strong advantage over competitors. “AT&T appears to view the network cost of Sponsored Data for DIRECTV Now as effectively de minimis,” the report concludes. While AT&T still bears some cost for all that free traffic, it's small enough that the carrier doesn't seem to care. 
+ The report raises similar concerns regarding Verizon’s Go90 program, although it concludes Verizon’s program may be less damaging. “Because Verizon’s go90 competes in a less developed segment of the marketplace than AT&T’s DIRECTV Now, the current magnitude of any anticompetitive effects of Verizon’s practices may be smaller than AT&T’s,” the report reads. “Nonetheless, as noted above, there is the same potential for discriminatory conduct in favor of affiliated services.” 
+ “There is the same potential for discriminatory conduct.” 
+ Notably, the letter does not raise the same concerns about T-Mobile’s BingeOn video deal, since it “charges all edge providers the same zero rate for participating.” BingeOn did impose  significant throttling  when it was first introduced, which led  a Stanford study  to dub it “likely illegal” last year. 
+ Ultimately, the FCC was ultimately swayed by the more than 100 partners that have successfully signed on to broadcast on T-Mobile’s service, a list ranging from established networks like  NBC and Univision  to web-based services like  YouTube  and  Amazon Video . “Given these facts, we find it difficult to envision that Binge On in the form the Bureau reviewed in 2016 could ‘unreasonably interfere with edge providers’ ability to make lawful content, applications, services, or devices available to end users.’” 
+ With only a week left before President-elect Trump takes office, the report is unlikely to have much immediate effect, and Wheeler’s opposing commissioners were quick to dismiss the findings. “I am confident that this latest regulatory spasm will not have any impact on the Commission’s policymaking or enforcement activities following next week’s inauguration,” Commissioner Ajit Pai  said in a statement . 
+ 
+ 
+ 
+ 
+ 
+ 
+    Next Up In
+    
+         Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Sign up for the
+        
+          newsletter
+        
+       
+      Verge Deals
+     
+ Subscribe to get the best Verge-approved tech deals of the week. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thanks for signing up! 
+ Check your inbox for a welcome email. 
+ 
+ 
+ 
+ 
+ Email  (required) 
+ 
+ 
+ 
+ 
+ 
+ 
+        By signing up, you agree to our  Privacy Notice  and European users agree to the data transfer policy.
+        
+       
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loading comments... 
+ 
+ 
+ 
+ 
+ 
+ 

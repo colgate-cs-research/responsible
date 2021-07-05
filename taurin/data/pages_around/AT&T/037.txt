@@ -1,0 +1,29 @@
+##LINK: https://www.techpolicy.com/Blog/March-2021/In-a-Win-for-the-Open-Internet-AT-T-Stops-Zero-Rat.aspx
+##KEYWORDS: open Internet
+##TITLE: Technology | Academics | Policy - In a Win for the Open Internet, AT&T Stops Zero-Rating Its Own Video
+##METHOD: paragraphs
+
+By Barbara van Schewick
+Posted on March 26, 2021
+
+Today, AT&T Wireless announced it will be suspending its Sponsored Data program nationwide. Under this program, AT&T Wireless exempts AT&T’s video services like DirectTV Now from the data caps of its wireless Internet customers who subscribe to those services.
+This practice is known as “zero-rating.” All other data on the internet, including from competing video services, counts against users’ caps. Since many people are concerned about going over their data caps, this program gives AT&T’s video services an advantage over competing online video services.
+AT&T blamed its decision to stop the program across the country on California’s net neutrality law, SB822, which bans this kind of anti-competitive zero-rating in California.
+Let’s be clear: This is a win for an open and free internet, including for competing video services and internet users. People should be free to choose which videos they want to watch - whether that’s Netflix, Twitch or their local church’s Sunday service, without the company they pay to get online trying to influence their choices.
+Zero-rating only works when you have a low data cap. That creates an incentive for ISPs to keep low data caps and keep unlimited plans expensive. For example, in the European Union, ISPs that don’t zero-rate video give subscribers 8 times more data for the same price than ISPs that zero-rate video.
+California’s ban follows what the FCC did under the 2015 Open Internet Order, which gave the FCC the power to look into such schemes. A 2017 report from the FCC found that AT&T’s Sponsored Data program was anticompetitive and a violation of net neutrality. Unfortunately, former FCC Chairman Ajit Pai threw out this report, just as he did with all other net neutrality protections.
+In announcing this shutdown, AT&T is trying to score political points against state net neutrality protections by lying to the public about the law and its effects.
+AT&T claims that “Given that the Internet does not recognize state borders, the new law not only ends our ability to offer California customers such free data services but also similarly impacts our customers in states beyond California.”
+This is false.
+California’s law only applies to Californians, and AT&T has a simple way to turn off Sponsored Data to just its California customers.
+AT&T customers who have plans affected by Sponsored Data can go into their settings and turn on or off Sponsored Data. That means AT&T already has the capability to switch this program on and off on a customer-by-customer basis. Doing so for just its California customers is not technically difficult.
+If AT&T decides to switch off its anticompetitive Sponsored Data program nationwide, that’s its choice. California’s net neutrality law does not demand that.
+
+The preceding is republished on TAP with permission by its author, Barbara van Schewick, Director of the Center for Internet and Society (CIS) and the M. Elizabeth Magill Professor of Law at Stanford Law School. “In a Win for the Open Internet, AT&T Stops Zero-Rating Its Own Video” was originally published March 17, 2021 on Professor van Schewick’s CIS blog.
+
+
+Issues: Competition Policy and Antitrust, Internet, Net Neutrality, Networks and Infrastructure, Innovation and Economic Growth and Networks, the Internet, and Cloud Computing
+Blog: Professor van Schewick at Stanford’s CIS
+Read More Blog Posts from Barbara van Schewick
+Go to Barbara van Schewick's Bio
+

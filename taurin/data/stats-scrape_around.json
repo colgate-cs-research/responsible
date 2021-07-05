@@ -1,0 +1,132 @@
+{
+    "Cogent Communications": {
+        "articles": 111,
+        "http-error": 20,
+        "other-error": 24,
+        "non-html": 11,
+        "index": 1,
+        "duplicates": 4,
+        "final": 51,
+        "domains-company": 14
+    },
+    "FirstLight Fiber": {
+        "articles": 13,
+        "http-error": 6,
+        "other-error": 0,
+        "non-html": 0,
+        "index": 2,
+        "duplicates": 0,
+        "final": 5,
+        "domains-company": 0
+    },
+    "Hurricane Electric": {
+        "articles": 53,
+        "http-error": 16,
+        "other-error": 12,
+        "non-html": 3,
+        "index": 0,
+        "duplicates": 0,
+        "final": 22,
+        "domains-company": 0
+    },
+    "Internet2": {
+        "articles": 96,
+        "http-error": 29,
+        "other-error": 8,
+        "non-html": 9,
+        "index": 2,
+        "duplicates": 0,
+        "final": 48,
+        "domains-company": 1
+    },
+    "Zayo": {
+        "articles": 43,
+        "http-error": 12,
+        "other-error": 4,
+        "non-html": 3,
+        "index": 4,
+        "duplicates": 0,
+        "final": 20,
+        "domains-company": 0
+    },
+    "NYSERNet": {
+        "articles": 25,
+        "http-error": 6,
+        "other-error": 5,
+        "non-html": 9,
+        "index": 0,
+        "duplicates": 0,
+        "final": 5,
+        "domains-company": 0
+    },
+    "Telia Carrier": {
+        "articles": 19,
+        "http-error": 4,
+        "other-error": 4,
+        "non-html": 2,
+        "index": 0,
+        "duplicates": 1,
+        "final": 8,
+        "domains-company": 1
+    },
+    "Sprint": {
+        "articles": 188,
+        "http-error": 40,
+        "other-error": 25,
+        "non-html": 3,
+        "index": 5,
+        "duplicates": 8,
+        "final": 107,
+        "domains-company": 7
+    },
+    "AT&T": {
+        "articles": 192,
+        "http-error": 37,
+        "other-error": 18,
+        "non-html": 4,
+        "index": 2,
+        "duplicates": 5,
+        "final": 126,
+        "domains-company": 7
+    },
+    "Deutsche Telekom": {
+        "articles": 141,
+        "http-error": 23,
+        "other-error": 8,
+        "non-html": 13,
+        "index": 1,
+        "duplicates": 2,
+        "final": 94,
+        "domains-company": 5
+    },
+    "Telefonica": {
+        "articles": 144,
+        "http-error": 23,
+        "other-error": 46,
+        "non-html": 8,
+        "index": 5,
+        "duplicates": 3,
+        "final": 59,
+        "domains-company": 1
+    },
+    "British Telecom": {
+        "articles": 86,
+        "http-error": 17,
+        "other-error": 10,
+        "non-html": 8,
+        "index": 1,
+        "duplicates": 2,
+        "final": 48,
+        "domains-company": 0
+    },
+    "KDDI": {
+        "articles": 92,
+        "http-error": 25,
+        "other-error": 15,
+        "non-html": 16,
+        "index": 1,
+        "duplicates": 1,
+        "final": 34,
+        "domains-company": 1
+    }
+}

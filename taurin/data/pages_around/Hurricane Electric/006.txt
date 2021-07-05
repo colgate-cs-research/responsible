@@ -1,0 +1,78 @@
+##LINK: https://slideplayer.com/slide/2529990/
+##KEYWORDS: net neutrality
+##TITLE: Net neutrality conference - EP Harald Krohg, Director Wholesale & Regulatory, Telenor Norway. -  ppt download
+##METHOD: paragraphs
+
+Download presentation
+We think you have liked this presentation. If you wish to download it, please recommend it to your friends in any social system. Share buttons are a little bit lower. Thank you!
+Buttons:
+ Presentation is loading. Please wait.
+Published byMaci Steff
+Modified over 6 years ago
+
+
+
+
+                    1                
+
+    Net neutrality conference - EP Harald Krohg, Director Wholesale & Regulatory, Telenor Norway
+
+
+
+
+
+
+
+
+                    2                
+
+    Telenor has supported the pragmatic Nordic approaches to Net neutrality Norwegian guidelines Internet users are entitled to a connection with a predefined capacity and quality. that enables them to - send and receive content of their choice - use services and run applications of their choice - connect hardware and use software of their choice that do not harm the network. that is free from discrimination with regard to type of application, service or content or based on sender or receiver address. Basis for common understanding Focus on customers rights Positive side effects for all stakeholders http://www.npt.no/ikbViewer/Content/109607/Retningslinjer_for_nettn%c3%b8ytralitet.pdf
+
+
+
+
+
+
+
+
+                    3                
+
+    Internet traffic growth CAGR fixed 40%; mobile 100% Telenor experiences growth in line with Cisco projections 3 00 Month 0000 Source: TeliaSonera International Carrier Internet content development From Surf to Broadcast
+
+
+
+
+
+
+
+
+                    4                
+
+    Thank you! harald.krohg@telenor.com
+
+
+
+
+
+GRX and IPX RIPE May-2013 Thomas O’Sullivan
+© Copyright International Telecommunication Union (ITU). All Rights Reserved page - 1 Alexander NTOKO Project Manager, ITU Electronic Commerce.
+Policy and Regulatory Challenges – Technology Providers View February 14 Challenges for Successful Implementation of ICT Projects Challenges for Successful.
+Ten Steps to Wireless for Libraries Live web event July, 21, 2005 WebJunction's Focus on Wireless Internet Access in Public Libraries.
+Zamano Solutions Mobile Messaging, mPayments, Mobile Advertising.
+1 00 Month 0000 Are we ready for small screen surfing? Marek Sláčík Chief Marketing Officer Telenor Serbia.
+Current thinking. Subject to change. October 2011 BENEFITS OF BUILDING AN IN-HOUSE CONTENT DISTRIBUTION NETWORK (CDN)
+LAN Segmentation Virtual LAN (VLAN).
+Net Neutrality – economic aspects CONFERENCES ON INTERNET, DEMOCRACY AND GOVERNANCE Brussels, February 27, 2011 Philippe Defraigne – Cullen International.
+Overview: Convergence of Technologies – Television, Computer and the Internet WIPO – World Intellectual Property Organization Information Meeting on Technical.
+Telenor in Europe Kjell-Morten Johnsen, Head of Telenor Europe 28 May 2013.
+IPv6 Implementation Hints ________________________________________________ _ Andy Davidson Thursday 24 th November 2011 Hurricane Electric BELNET Conference,
+Mobily IPv6 Strategy & Experience Hany Almansour.
+Net Neutrality By Guilherme Martins. Brief Definition of what is Net Neutrality? Network neutrality is best defined as a network design principle. – Think.
+Radcomms2014 Spectrum Review. A pre mobile world = telephony At home At work On the move And then…….
+Net Neutrality Questions. What if? Customer Lamps for Less Luxurious Lumination Telephone Company Welcome to lamps [click] [dial tone] Welcome to Luxurious.
+Technological Sustainability.
+Firewall and Proxy Server Director: Dr. Mort Anvari Name: Anan Chen Date: Summer 2000.
+Broadband Market in Monetengro Dragana Kaluđerović, B.Sc.E.E. Milena Jelić, B.Sc.(Econ.) MONTENEGRO AGENCY.
+
+Similar presentations                                    
+© 2021 SlidePlayer.com Inc. All rights reserved.

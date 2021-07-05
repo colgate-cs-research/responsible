@@ -1,0 +1,30 @@
+##LINK: https://www.telecomengine.com/german-minister-proposes-net-neutrality-rules-to-rein-in-deutsche-telekom-report/
+##KEYWORDS: net neutrality
+##TITLE: German minister proposes net neutrality rules to rein in Deutsche Telekom: report | Horizon House Publication Inc.
+##METHOD: article 1
+
+
+
+ 
+ German minister proposes net neutrality rules to rein in Deutsche Telekom: report 
+ 
+ June 17, 2013 
+ 
+ 
+ 
+ Germany’s government is planning to introduce new ‘net neutrality’ legislation that would prevent internet service providers like Deutsche Telekom from treating content providers differently in terms of connection speeds, according to a report from Dow Jones Newswires. 
+ The rules have been proposed by Philipp Roesler, Germany’s economy minister, who is set to present them before Germany’s government at the end of the current legislative period, according to Dow Jones, citing a ministry spokesperson. 
+ 
+ Germany’s government is planning to introduce new ‘net neutrality’ legislation that would prevent internet service providers like Deutsche Telekom from treating content providers differently in terms of connection speeds, according to a report from Dow Jones Newswires. 
+ The rules have been proposed by Philipp Roesler, Germany’s economy minister, who is set to present them before Germany’s government at the end of the current legislative period, according to Dow Jones, citing a ministry spokesperson. 
+ If approved by both the upper and lower houses of parliament, the legislation would allow the Federal Network Agency, Germany’s telecoms regulator, to penalize abuses of so-called ‘net neutrality’ – the principle that all internet traffic be treated equally and fairly by network operators. 
+ The news comes after Roesler reportedly lashed out at plans by Deutsche Telekom (Bonn, Germany) to ‘throttle’ the broadband connections of its customers if they exceed certain monthly usage limits. 
+ The German incumbent had angered its opponents by suggesting that its own content services – or those of its paying partners – would be exempt from the restrictions. 
+ This would mean, for instance, that customers could enjoy Deutsche Telekom’s IPTV services without fear of incurring additional charges, but not the internet TV services provided by an ‘over-the-top’ player such as YouTube (Mountain View, CA, USA). 
+ Deutsche Telekom was last week reported to have revised its plans to mollify opponents, saying it would throttle services to 2Mbps, instead of the 384Kbps originally proposed. 
+ But that does not appear to have satisfied Roesler, who looks to be taking a particularly hard stance on the subject of net neutrality. 
+ In a speech before the European Parliament last week, EU commissioner Neelie Kroes said operators should not be allowed to block internet services that compete with their own offerings. 
+ But she appeared to suggest that operators should be able to charge extra for services that are faster and of higher quality than those on the ‘best-efforts’ internet – in contrast with the plans Roesler has reportedly proposed. 
+ 
+ 
+ Posted in  Archives     

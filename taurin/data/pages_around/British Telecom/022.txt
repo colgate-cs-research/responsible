@@ -1,0 +1,58 @@
+##LINK: https://www.circleid.com/news/recently_discussed90/%25E2%2580%259Dhttp:/blog.icann.org/%25E2%2580%259D/P1140/P2895/
+##KEYWORDS: net neutrality,open Internet
+##TITLE: CircleID - News
+##METHOD: paragraphs
+
+
+					A series of internships have been set up to facilitate capacity building for registrars and registries in Africa to boost the African domain name business. Launched by ICANN in partnership with AFRINIC, the first phase of the DNS Business Exchange Programme involved interns selected from ICANN accredited registrars. more
+
+
+					The world's governments have told domain name overseer ICANN that its processes are "complex, lengthy and ambiguous" and warned that they may be ineffective at dealing with domain-name abuse or fraud. The extraordinary statement comes in the official communiqué of the Governmental Advisory Committee (GAC) of ICANN, published today following a week-long meeting in Singapore. more
+
+
+					Singapore's Minister of Communications and Information, Dr. Yaacob bin Ibrahim, and former Senior Advisor to President Bill Clinton, Ira Magaziner, spoke to the success of the multistakeholder model of Internet governance during the Opening Ceremony of ICANN's 52nd public meeting today... more
+
+
+					Federal Communication Commission (FCC) Chairman, Tom Wheeler, today in an open letter in the Wired Magazine writes: "After more than a decade of debate and a record-setting proceeding that attracted nearly 4 million public comments, the time to settle the Net Neutrality question has arrived..." more
+
+
+					Sources are reporting that Tom Wheeler, the Federal Communications Commission chairman, is widely expected this week to propose regulating Internet service similar to a public utility -- a move certain to unleash another round of intense debate and lobbying about how to ensure so-called net neutrality, or an open Internet. more
+
+
+					British Telecom has announced its plan to transform the UK broadband landscape from superfast to ultrafast. The company says it plans to deliver much faster broadband for homes and small businesses via a widespread deployment of “G.fast” -- a technology the company will test in two pilot locations starting this Summer. G.fast is aimed to help BT deliver ultrafast speeds of up to 500Mbps to most of the UK within a decade. Deployment will start in 2016–2017, subject to the pilots being successful, BT says. more
+
+
+					The Army is setting up a new unit that will use psychological operations and social media to help fight wars "in the information age". Head of the Army General Sir Nick Carter said the move was about trying to operate "smarter". The 77th Brigade, made up of reservists and regular troops and based in Hermitage, Berkshire, will be formally created in April. It has been inspired by the Chindits who fought in Burma in World War Two. more
+
+
+					According to news sources Google's fiber-to-the-home service is expanding to four additional cities: Atlanta; Nashville, Tennessee; Charlotte and Raleigh-Durham, North Carolina. Google Fiber currently is available in Kansas City, Austin, Texas and Provo, Utah. At a price tag of $80 per month, the service offers speeds around 10 times greater than that of the average Internet connection. more
+
+
+					The Internet Society has released an announcement setting out its views on the development of policy to address the balance between security and privacy. From an Internet perspective and in the context of the growing threat vector from hacking, targeted cyber attacks on networks and individuals, and surveillance, the Internet Society's approach to the development of cyber security policy initiatives is based on the following key considerations. more
+
+
+					Facebook's Internet.org has launched a free Internet application in Colombia as part of a drive to bring developing markets online. Colombia is the first nation in Latin America and the fourth in the world to receive the new Internet.org service, in partnership with local mobile phone provider Tigo, but the aim is to push the app globally. The mobile app, aimed at low income and rural users, offers more than a dozen tools via the Android operating system... more
+
+
+					Elon Musk has announced plans for a space project to provide faster, cheaper Internet access around the globe. The $15 billion plan would use hundreds of satellites placed 750 miles above the Earth, far lower than existing communications satellites. Doing so would speed up the transfer of data and give better coverage to three billion people who do not have it. more
+
+
+					A group of researchers from Belgian University of Leuven and US-based Stony Brook University have conducted a one of a kind content-based typosquatting experiment that studies the typosquatting phenomenon "longitudinally", i.e., in time.  more
+
+
+					Kieren McCarthy reporting in the Register: "Google has launched its new domain-name management system, providing a clean and simple interface that will put it in direct competition with market leader GoDaddy." more
+
+
+					According to various sources, Cuba is launching its first public wireless service in the city of Santiago de Cuba. However, at the reported cost of $4.50 an hour, it will be far too expensive for most Cubans with average salary of $20 a month. Last year, 3.4 percent of homes in Cuba had Internet access -- one of the world's lowest rates, according to international technology authorities. more
+
+
+					A senior government figure says that the UK's power grid is under "minute-by-minute" attacks from computer hackers but information security experts aren't so sure. Conservative MP James Arbuthnot chaired the Defence Select Committee up until last year and said that the National Grid is facing cyberattacks every minute. He plans to visit the National grid next month to discuss the issue. more
+
+Sponsored byIPXO
+Sponsored byWhoisXML API
+Sponsored byVerisign
+Sponsored byVerisign
+Sponsored byMarkMonitor
+Sponsored byAppdetex
+A World-Renowned Source for Internet Developments. Serving Since 2002.
+FOLLOW

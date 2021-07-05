@@ -1,0 +1,43 @@
+##LINK: https://www.freepress.net/news/press-releases/att-misleads-fcc-about-paid-prioritization-internet
+##KEYWORDS: paid prioritization
+##TITLE: AT&T Misleads FCC about ‘Paid Prioritization’ on the Internet | Free Press
+##METHOD: article 4
+
+
+
+ 
+ 
+ 
+ Press Release 
+ 
+ Free & Open Internet 
+ 
+ 
+ AT&T Misleads FCC about ‘Paid Prioritization’ on the Internet 
+ 
+ 
+ August 31, 2010 
+ 
+ Contact: Timothy Karr, 201-533-8838 
+ 
+ 
+ 
+        WASHINGTON — AT&T has filed a confusing and misleading letter with the FCC in an attempt to justify charging content companies for priority access to its Internet subscribers. In the letter, AT&T conflates “paid prioritization” – the anti-consumer practice of speeding up and slowing down Internet traffic according to which service provider pays more – with far more accepted business network management practices. Free Press and other Net Neutrality proponents oppose discriminatory “paid prioritization,” not these other arrangements. Despite high-pitched rhetoric and name-calling by an industry fighting to avoid any government oversight, Free Press and other Net Neutrality advocates have consistently argued for open Internet rules that reflect those agreed to by AT&T in 2006 as a condition of its merger with Bell South. Those conditions required AT&T not to "provide or to sell to Internet content, application, or service providers ... any service that privileges, degrades or prioritizes any packet ... based on its source, ownership or destination." During the two years that AT&T lived under this merger condition, the company accelerated its deployment of advanced DSL services and increased its capital expenditures by $1.8 billion, more than any other ISP in America. S. Derek Turner , research director of Free Press, issued the following statement: "With this letter to the FCC, AT&T deliberately tries to confuse anyone who will listen about the facts of Net Neutrality. AT&T is trying to move the goal posts on what is acceptable network management behavior. They think they can take advantage of the vacuum created by inaction at the FCC to redefine the terms of the debate. "AT&T incorrectly implies that the ban on paid prioritization proposed by the FCC last year would prohibit practices that are commonplace today, by constructing bogus interpretations of 'paid prioritization' that reflect no arguments or statements made by the FCC or any proponents of Net Neutrality. AT&T then suggests that the company is engaging in rampant discrimination, which is either an illusion or an admission that the company has abandoned the commitment it made in 2006 not to prioritize any packet over its Internet access services.  "The practice AT&T describes in its letter involves businesses purchasing dedicated access lines in the enterprise broadband market. This is a far cry from the harmful practice of paid prioritization that the FCC proposal would bar. The FCC’s proposal would permit standard enterprise service-level agreements, but would prohibit ISPs from limiting consumer choice and stifling competition and innovation by charging third-party content, application or service providers for prioritized access to the ISP’s subscribers.  "Despite AT&T's efforts to confuse the FCC about this issue, Free Press' position has not changed. We have consistently urged the FCC and Congress to preserve today's Net Neutrality status quo by enacting rules that AT&T voluntarily agreed to just a few short years ago. Paid prioritization is the antithesis of openness, and any regulatory framework that does not prohibit such arrangements as harmful to consumers and competition would not be real Net Neutrality, but fake Net Neutrality brought to you by AT&T." 
+ 
+ 
+ 
+ 
+ 
+ Share this 
+ 
+ 
+ Facebook 
+ 
+ 
+ Twitter 
+ 
+ 
+ 
+ 
+ 
+ 

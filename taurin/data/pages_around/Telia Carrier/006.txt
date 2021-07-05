@@ -1,0 +1,61 @@
+##LINK: https://datacenterpost.com/direct-is-best-bank-robbery-hungry-cpus-and-new-memory-technology/
+##KEYWORDS: net neutrality
+##TITLE: Direct Is Best:  Bank Robbery, Hungry CPUs, and New Memory Technology | Data Center POST
+##METHOD: article 1
+
+
+
+ 
+ Direct Is Best:  Bank Robbery, Hungry CPUs, and New Memory Technology 
+ 
+ Oct 19, 2015  |  CPU ,  Memory ,  Technology 
+ 
+ 
+ 
+   
+ 
+ 
+ Tags:  Capacity  •  CPU  •  Data Center POST  •  DCP  •  Diablo Technologies  •  Memory  •  Memory1  •  Subsystem  •  Tech  •  Technology 
+ By: Jerome McFarland, Director of Marketing,  Diablo Technologies 
+ 
+ “Why do you rob banks, Willie?” – Unknown Interviewer 
+“I rob banks because that’s where the money is.” – “Slick” Willie Sutton, Bank Robber 
+ Most often, the direct approach is the best approach.  So, while robbing banks is a poor solution, I can certainly appreciate Willie Sutton’s perspective on problem solving.  Willie wants money…bank has money…Willie robs bank.  Straight to the heart of the issue. 
+ A similar (though decidedly more law-abiding) attitude should apply when solving the customer problems. First, identify the critical underlying issues, then design the most efficient and effective solution.  When applied to the challenge of improving datacenter efficiency, this pragmatic approach yielded a new memory solution that improves datacenter efficiency by addressing the fundamental need to effectively feed hungry CPUs. 
+ The Need to Feed.  Hungry CPUs. Hold that thought… 
+ Before we dig into the “How?” aspect of our new memory solution, let’s spend a moment on the “Why?” Who even cares about datacenter efficiency?  Indirectly, we all do.  As IT marketers will eagerly tell you, countless opportunities are being created by the ongoing explosion of information.  Pick your favorite buzzwords…“Real-Time Analytics”, “Big Data”, ”Internet of Things”, “Distributed Computing”, etc…they all highlight the ever-increasing density and pace of incoming data, and the desire for rapid access and intelligent action. 
+ Now, admittedly, we marketers are often an over-enthusiastic lot.  Viewed over time, the hit-rate on prophecies of impending technology revolution/disruption/ <insert hyperbole here>  is something less than stellar.  On this particular subject, however, the pre-requisite sizzle also comes with a healthy portion of steak.  The evidence is all around us…from Google, to Amazon, to Pandora, to Palantir…the massive influx of data is constantly being leveraged in new ways that improve our daily lives.  There’s just one problem.  Behind the scenes, efficient datacenters are needed to power these software innovations…and the datacenters are struggling to keep up. 
+ Which leads us back to those hungry CPUs… 
+ To manage the explosion of information and maximize their analytic efficiency, powerful CPUs need a steady diet of data.  Unfortunately, CPUs are often forced to wait, which wastes precious processing cycles and degrades performance.  At the business level, time is money, so these inefficiencies also have a significant monetary impact.  The desire to feed CPUs and minimize those wasted cycles lies at the heart of server system architecture. 
+ Unsurprisingly, keeping data close to CPU processing cores enables faster access.  On-die CPU caches provide the fastest access, but they can only hold very small amounts of data.  The memory subsystem, traditionally populated with DRAM, was architected to expand the near-CPU access domain and holds much larger quantities of data.  However, DRAM cost and capacity constraints still restrict the size of in-memory datasets. 
+ When the data can’t fit into system memory, the last resort is to dump it into high-capacity, low cost storage, but at the expense of processing efficiency.  Improvements in storage performance (first via faster hard drives, then via SSDs) have lessened the negative impact, but do not represent a solution.  Traditional storage is remote from the CPU and is accessed via the much slower, less consistent I/O interface.  Therefore, increasing storage performance can only take us so far.  It’s an indirect and inefficient approach to solving the fundamental problem.  What system designers really need is higher capacity, less expensive system memory….thereby enabling more data to remain within the memory subsystem and close to CPUs.  The direct approach is the best approach.  And that’s where the new memory revolution comes in. 
+ Enter Memory1. This new memory technology dramatically expands the capacity of the memory subsystem, enabling massive amounts of data to remain close to CPUs…providing huge benefits for both datacenter performance and economics.  Memory1 modules are standard system memory DIMMs with up to 4 times the capacity of DRAM, but at significantly lower cost.  This is made possible through the use of NAND flash (not DRAM) as the underlying memory technology.  Memory1 DIMMs are deployed in the same way that DRAM DIMMs are deployed.  They fit into standard DDR4 memory slots with no changes to CPUs, applications, or operating systems required. 
+ Sound good?  We think so.  And thus far, the market reaction has been overwhelmingly positive.  The first question most customers ask is  “Why hasn’t someone done this before?  Using flash to expand system memory seems like an obvious solution.”   We tend to agree…of course, “obvious” doesn’t mean “easy”…and that’s where brilliant engineers become crucial.  Once past the initial query, imaginations typically shift into high gear …”Well, if I had more system memory, I could analyze my data sets faster / cache more data / deploy fewer servers / etc.”   The benefits (e.g. enhanced performance, reduced power consumption, decreased CAPEX and OPEX) become readily apparent and apply to a broad range of relevant use cases. 
+ 
+ 
+ 
+ 
+ Share: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 

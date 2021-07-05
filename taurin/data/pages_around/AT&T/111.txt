@@ -1,0 +1,23 @@
+##LINK: https://www.nbreports.com/at
+##KEYWORDS: paid prioritization
+##TITLE: AT&T: Mobile 5G will rely on small cells
+##METHOD: paragraphs
+
+Analysis
+Company Profiles
+Contributed Content
+Partners
+More
+With several states trying to draft their own net neutrality laws and several content providers edging their way into the content delivery business, AT&T has decided that nationwide net neutrality is not such a bad idea. The company is calling for Congress to draft an "Internet Bill of Rights" that "guarantees neutrality, transparency, openness, non-discrimination and privacy protection for all internet users."
+ 
+AT&T's definition of net neutrality is not exactly the same as the definition used by the FCC in 2015 when it applied Title II regulations to mobile network operators.  AT&T says its commitment to an open internet has been in place for a decade and includes the following: no throttling of internet speeds, no censorship of content, and no blocking of websites. 
+ 
+AT&T's message does not mention the practice known as paid prioritization, which involves boosting network speeds and visibility for content from companies that are paying the network provider. 
+ 
+AT&T did tell The Washington Post that paid prioritization could help consumers get better access to services like self-driving cars and telemedecine. The Washington Post is also one of the platforms AT&T chose to take its message to Congress and the rest of the country. On Wednesday, January 24, AT&T ran full page ads in The Washington Post and The New York Times calling for an Internet Bill of Rights. The carrier also posted its message on its website.
+Featured Research: 3.5 GHz spectrum for 5G
+Mobile network operators in Europe and Asia plan to deploy 5G in the 3.5 GHz spectrum bands, but will U.S. operators have the same opportunity? Cable network operators, fixed wireless providers, neutral host providers and even private companies are all expected to be buyers of CBRS spectrum, depending on how the FCC auctions play out. 
+ 
+The latest CBRS market study from iGR Research  provides an explanation of how the CBRS licensing scheme works and how the technical elements of the new band work. This report includes a forecast of the total number of CBRS nodes expected to be deployed in the U.S. through 2022. The forecasted number of nodes is categorized by Outdoor WISP, Outdoor nonWISP, Inside Commercial, and Inside Residential.
+Access the Table of Contents:
+© 2017 Network Builder Research. All Rights Reserved.

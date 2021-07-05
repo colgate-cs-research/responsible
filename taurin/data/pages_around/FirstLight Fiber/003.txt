@@ -1,0 +1,62 @@
+##LINK: https://www.fiercewireless.com/wireless/t-mobile-optimistic-about-600-mhz-auction-sprint-mvno-textnow-launches-touch-mobile-brand
+##KEYWORDS: net neutrality
+##TITLE: T-Mobile optimistic about 600 MHz auction; Sprint MVNO TextNow launches Touch Mobile brand | FierceWireless
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+by  Phil Goldstein  |
+ Sep 10, 2014 9:56am 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Quick news from around the Web. 
+ 
+ 
+ How does the Apple Watch stack up against Android Wear?  http://t.co/njRI9wzjV4 
+— The Verge (@verge)  September 9, 2014 
+ > Sprint MVNO TextNow announced the launch of its new prepaid brand Touch Mobile. Touch Mobile offers low-cost, Wi-Fi-first service plans and inexpensive handsets. Article 
+ > AT&T Mobility's Cricket is giving more high-speed data to customers for a limited time. Release 
+ > General Motors said it will bring its OnStar service to Europe, partly via a partnership with AT&T Mobility.  Article 
+ > Intel said its Edison development platform for the Internet of Things is now shipping.  Post 
+ > Qualcomm is bringing LTE to lower-end chipsets. Release 
+ > The FCC is circulating items on the incentive auction of 600 MHz spectrum.  Article 
+ > Qualcomm is working with 90 partners on devices in China and sees major opportunities for growth even as it deals with an anti-monopoly probe there.  Article 
+ > AT&T is launching the Nokia Lumia 830.  Post 
+ > AT&T will let customers add Audi connected car connectivity to its Mobile Share Value plans for $10 per month.  Post 
+> Nokia Networks is launching Operations Support System (OSS) as a Service. Release. Also, Nokia and Red Hat extended their collaboration to let carriers create a more efficient and flexible telco cloud infrastructure.  Release 
+> Sprint selected AirWatch by VMware, an enterprise mobility management provider to manage the deployment of corporate-owned and employee-owned devices across thousands of Sprint employees.  Article 
+ Online Video News 
+ > Mobile viewers are becoming an increasingly important part of online video providers' strategies, such that these providers are building specific services and ad campaigns for wireless users. Article 
+ > No longer hunting for a 'Netflix killer,' broadcasters, MSOs trend toward integration. Editor's Corner 
+ Telecom News 
+ > Netflix, Mozilla and a group of consumer advocates are showing their frustration over the FCC's proposed net neutrality rules, which could include the creation of Internet fast lanes, by holding Internet Slowdown Day. Article 
+ > FirstLight Fiber and Maine Fiber Company (MFC), a purveyor of dark fiber via the Three Ring Binder network, have struck a partnership where they will deliver IP-based services to Maine businesses. Article 
+ Cable News 
+ > Signaling the FCC's most decisive move yet in regard to ending 40-year-old rules that black out local pro football games, FCC Chairman Tom Wheeler has set a Sept. 30 vote to—he apparently hopes—do away with them. Article 
+ > Viacom struck a deal to provide 22 channels to Sony's upcoming virtual pay-TV service. Article 
+ European Wireless News 
+ > Coverage is now the only barrier to large-scale deployments of Voice over LTE (VoLTE), in the view of Qualcomm Technologies' VP of product management. Article 
+ > Europe's operators have certainly wasted no time in telling customers that the iPhone 6 and iPhone 6 Plus will soon be in stock. Article 
+ > Telecom Italia has valued its 67 per cent stake in TIM Brasil at around €13 billion ($16.8 billion), amid reports that Brazilian operators Oi and America Movil are closing in on the Italian company's unit. Article 
+ And finally...  Apple's touch-messaging app for the Apple Watch is like "living in a game of Pictionary."  Article 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 

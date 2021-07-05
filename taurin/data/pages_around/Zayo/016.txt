@@ -1,0 +1,787 @@
+##LINK: https://www.convergedigest.com/2016/09/
+##KEYWORDS: open Internet
+##TITLE: September 2016 ~ Converge! Network Digest
+##METHOD: paragraphs
+
+
+Amazon Web Services announced the availability of a new GPU instance type for Amazon Elastic Compute Cloud (Amazon EC2) that provides up to 16 NVIDIA Tesla K80 GPUs -- the most powerful GPU instances available in the cloud.
+
+
+
+The largest P2 instance offers 16 GPUs with a combined 192 Gigabytes (GB) of video memory, 40,000 parallel processing cores, 70 teraflops of single precision floating point performance, over 23 teraflops of double precision floating point performance, and GPUDirect technology for higher bandwidth and lower latency peer-to-peer communication between GPUs. P2 instances also feature up to 732 GB of host memory, up to 64 vCPUs using custom Intel Xeon E5-2686 v4 (Broadwell) processors, dedicated network capacity for I/O operation, and enhanced networking through the Amazon EC2 Elastic Network Adaptor.
+
+The new P2 instances are designed for compute-intensive applications that require massive parallel floating point performance, including artificial intelligence, computational fluid dynamics, computational finance, seismic analysis, molecular modeling, genomics, and rendering.
+
+“Two years ago, we launched G2 instances to support customers running graphics and compute-intensive applications,” said Matt Garman, Vice President, Amazon EC2. “Today, as customers embrace heavier GPU compute workloads such as artificial intelligence, high-performance computing, and big data processing, they need even higher GPU performance than what was previously available. P2 instances offer seven times the computational capacity for single precision floating point calculations and 60 times more for double precision floating point calculations than the largest G2 instance, providing the best performance for compute-intensive workloads such as financial simulations, energy exploration and scientific computing.”
+
+http://aws.amazon.com/ec2/instance-types/p2/
+
+
+
+
+Shares in Nutanix (NTNX) soared during an initial public offering (IPO) on Friday, ending the day up 130% over its initial price.
+
+The company offered 14,870,000 shares of Class A common stock at a price of $16.00 per share.
+
+http://www.nutanix.com
+
+
+
+
+
+
+
+
+
+
+Nutanix S1 Filing: Quarterly Revenue at $139.8 million
+
+
+
+Wednesday, September 14, 2016  Data Centers, IPO, Nutanix, Silicon Valley  No Comments
+
+
+
+
+
+For its most recently fiscal quarter ended 31-July-2016, Nutanix recorded revenue of $139.8 million, according to a recently updated Form S-1 registration statement filed with the SEC ahead of a potential initial public offering (IPO). Nutanix provides a next-generation enterprise cloud platform that "converges traditional silos of server, virtualization and storage into one integrated solution and can also connect to public cloud services." Some...
+
+
+
+READ MORE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nverged platform for scale-out applic
+
+
+
+
+
+
+Zayo announced that a major wireless carrier has selected Zayo it to deploy C-RAN connectivity in two major metro areas. The identity of the customer was not disclosed.
+
+
+
+Under the deal, Zayo will provide an “over the top” fronthaul solution, providing incremental fibers on existing paths to supplement the existing network. In a second market, Zayo will initiate service for the carrier in a new cluster of sites, solving for high-demand areas by extensively leveraging dense, existing metro dark fiber assets. T
+
+“C-RAN enables wireless carriers to cost-efficiently keep pace with the growing bandwidth demand of their customers,” said Dave Jones, executive vice president, Dark Fiber Solutions at Zayo. “C-RAN, which requires a plentiful supply of dark fiber, is a prime example of second tenant economics for Zayo.”
+
+http://www.zayo.com
+
+
+
+A new Equinix Internet Exchange is slated to open in Helsinki, Finland in Q1 2017.
+
+Equinix currently operates six data centers in Finland, all in the Helsinki metropolitan area, which offer campus and metro-wide connectivity.
+
+
+
+The company noted that its Helsinki data centers are also facilitating Internet connectivity growth locally by anchoring the new Cinia submarine cable system, C-Lion1, between Finland and Germany, providing a bridge between Russia, the Baltic countries, and network nodes in Central Europe. With a record-breaking capacity of 144 Tbps and round trip rate of less than 20 milliseconds between Helsinki and Frankfurt, Equinix customers will be able to take advantage of enhanced international capacity, network latency and performance, as well as Finland's climatic and competitive power pricing benefits.
+
+http://www.equinix.com
+
+
+
+Google is consolidating its broad portfolio of cloud products, technologies and services under a single brand: Google Cloud. This includes user-facing collaboration and productivity applications (now named G Suite), all Machine Learning tools and APIs, enterprise maps APIs, and the Android phones, tablets, and Chromebooks that access the cloud.
+
+
+
+Highlights:
+
+
+Google announced the locations of eight new Google Cloud Regions — Mumbai, Singapore, Sydney, Northern Virginia, São Paulo, London, Finland and Frankfurt.
+Google plans to announce more regions next year.
+The Google Cloud Platform now serves over one billion end-users through its customers’ products and services.
+Kubernetes version 1.4 has just been released, improving Cluster Federation to support straightforward deployment across multiple clusters and multiple clouds. The company is updating Google Container Engine (GKE) to this new version.
+The newly re-branded G Suite (formerly Google Apps for Work) includes Gmail, Docs, Drive, Calendar, Hangouts, etc.
+The fully-managed Google BigQuery data warehouse has been significantly upgraded to enable widespread adoption of cloud data analytics. BigQuery support for Standard SQL is now generally available.
+Cloud Machine Learning is now available to all businesses, and can be integrated with data analytics and storage cloud services such as Google BigQuery, Google Cloud Dataflow, and Google Cloud Storage.
+Adding Customer Reliability Engineering (CRE) support. This includes Google engineers who integrate with a customer’s operations teams.  
+
+
+
+https://cloud.googleblog.com/2016/09/introducing-Google-Cloud.html
+
+
+
+AWS disclosed plans to open a new data center availability region in Paris, France during 2017.
+
+This will be the fourth AWS Region in Europe. AWS data centers are currently running in Ireland and Frankfurt, Germany. An additional data center in the UK is expected to launch in the coming months.
+
+https://aws.amazon.com/about-aws/global-infrastructure/
+
+
+
+
+
+
+Nokia has expanded its Cloud Packet Core offering with a solution tailored specifically for private LTE networks deployed by global enterprises, the public sector and smaller operators.
+
+Nokia said its new Cloud Packet Core solution provides the scale and performance for MTC and mobile broadband users and devices, supporting 50,000 simultaneous access users/devices and 100 eNodeBs.
+
+The new offering leverages the Cloud Mobility Manager (CMM) and Cloud Mobile Gateway (CMG) software from Nokia's Cloud Packet Core solution, which is already deployed by the world's largest communications service providers.
+
+"Our Cloud Packet Core solution leverages a native cloud architecture to purpose-fit smaller business and critical communications networks without sacrificing the ability to scale as needs dictate. All operators - regardless of size - get the same software foundation, rich capability set, field-proven software and high reliability. This allows them to fully embrace LTE today - and 5G in the future - to assure an optimal, secure and reliable experience and fully realize new mobile broadband, IoT and MTC opportunities for their business," stated Sri Reddy, general manager of IP routing business at Nokia.
+
+http://company.nokia.com/en/news/press-releases/2016/09/29/nokia-expands-packet-core-portfolio-to-meet-private-lte-network-requirements-in-support-of-iot-and-smart-cities
+
+
+
+
+IBM agreed to acquire Promontory Financial Group, a global market-leading risk management and regulatory compliance consulting firm, to expand the deep industry expertise of Watson.
+
+IBM said Watson’s cognitive capabilities will directly address the massive operational effort and manual cost of escalating regulation and risk management requirements. Promontory's team of 600 professionals will train Watson to help manage financial risk and compliance.
+
+
+
+More than 20,000 new regulatory requirements were created last year alone, and the complete catalog of regulations is projected to exceed 300 million pages by 2020.
+
+“What Watson is doing to transform oncology by working with the world’s leading oncologists, we will now do for regulation, risk and compliance,” said Bridget van Kralingen, senior vice president, IBM Industry Platforms. “Promontory’s experts are unsurpassed in this field. They will teach Watson and Watson, in turn, will extend and enhance their expertise. This initial offering of Watson Financial Services is emblematic of the transformative cloud-based solutions that IBM Industry Platforms will bring to clients.”
+
+http://www.ibm.com
+
+
+
+Microsoft has formed a new research organization with more than 5,000 computer scientists and engineers focused on the company’s AI product efforts.001
+
+The Microsoft AI and Research Group, which will be led by computer vision luminary Harry Shum, is dedicated "to democratizing AI for every person and organization, making it more accessible and valuable to everyone and ultimately enabling new ways to solve some of society’s toughest challenges."
+
+“We live in a time when digital technology is transforming our lives, businesses and the world, but also generating an exponential growth in data and information,” said Satya Nadella, CEO, Microsoft. “At Microsoft, we are focused on empowering both people and organizations, by democratizing access to intelligence to help solve our most pressing challenges. To do this, we are infusing AI into everything we deliver across our computing platforms and experiences.”
+
+http://www.microsoft.com
+
+
+
+
+
+Adobe has agreed to make Microsoft Azure its preferred cloud platform for the Adobe Marketing Cloud, Adobe Creative Cloud and Adobe Document Cloud.
+
+The companies said their strategic partnership will help enterprise companies embrace digital transformation and deliver compelling, personalized experiences through every phase of their customer relationships. Together, the two companies will enable businesses to dramatically strengthen their brands through solutions with Microsoft Azure, Adobe Marketing Cloud and Microsoft Dynamics 365.
+
+“Business leaders in every industry are focused on how to better engage their digital customers, wherever they are,” said Satya Nadella, CEO of Microsoft. “Together, Adobe and Microsoft are bringing the most advanced marketing capabilities on the most powerful and intelligent cloud to help companies digitally transform and engage customers in new ways.”
+
+http://www.microsoft.com
+
+
+
+Microsemi introduced a new family of network synchronization phase-locked loops (PLLs) for Synchronous Ethernet (SyncE), IEEE 1588 and optical transport network (OTN).
+
+The company said its new miTimePLL new products have one third the jitter and half the footprint of current devices, which, in combination with the company's new miTimePLL technology, is specifically designed to address the demands of phase alignment performance required by networks such as wireless infrastructure.
+
+Microsemi's ZL307xx and ZL306xx family of network synchronization PLLs offers 180 femtoseconds (fs) typical jitter, ensuring a single chip, small footprint, low cost synchronization solution for 10GbE to 100GbE applications. These devices come with new features vital for network applications requiring phase alignment, including any-to-any frequency, better than 2 ns input/output (I/O) alignment, embedded 1 pulse per second (ePPS), time of day (ToD) registers, reference/synchronization inputs, and full monitoring and hitless reference switching between GPS/SyncE/1588. Microsemi's ePPS is already providing a simple solution for chassis systems with limited backplane pins by combining phase into a high speed clock, thereby using a single pin, where before two were required.
+
+"Microsemi has a long history in IEEE 1588 PLL devices dating back to 2008 with our first product introduction, and our 1588 solutions are widely used within tier 1 telecommunications equipment vendors. We continue to invest strongly to drive our technologies forward, meeting new challenges to stay ahead of the competition with ultra-low jitter on our new miTimePLL devices—providing a highly integrated, cost-effective solution for our customers," said Maamoun Seido, vice president and business unit manager of Microsemi's timing products. "Customers can remain confident in our capabilities, as these products enable them to handle phase alignment seamlessly within their equipment with a smaller footprint and attractive price point."
+
+http://www.microsemi.com
+
+
+
+
+Kathryn Hume, President of NYC-based Fast Forward Labs, discusses the growing impact of artificial intelligence on the world of networking.  We're already seeing the first applications, such as resource optimization.
+
+Filmed at Net Events' Global Press & Analyst Summit in California.
+
+
+
+
+See video: https://youtu.be/C-ZJO7K3sck
+http://www.netevents.org
+http://www.fastforwardlabs.com/
+
+
+
+
+
+
+
+
+
+
+James E. Carroll
+
+Stuart McClure, CEO and founder of Cylance, discusses the intersection of artificial intelligence and cybersecurity.
+
+Cylance, which has been selling its AI-based solution for about 2 years, has grown to over 700 employees and about 3,000 customers with some 3 million endpoints.
+
+Filmed at Net Events' Global Press & Analyst Summit in California.
+
+ 
+
+
+
+See video: https://youtu.be/27yUlW0lskg
+
+http://www.netevents.org/
+http://www.cylance.com
+
+
+
+
+
+
+
+
+
+
+
+
+ARM released a new CoreLink CMN-600 Coherent Mesh Network interconnect and CoreLink DMC-620 Dynamic Memory Controller technology enabling the latest ARM-based SoCs to offer unmatched data throughput and the lowest edge to cloud latency in the market.
+
+Key attributes:
+
+
+New architecture achieving higher frequencies (2.5 GHz and higher), 50 percent lower latency
+5x higher throughput and more than 1TB/s of sustained bandwidth
+New Agile System Cache with intelligent cache allocation to enhance any sharing of data between processors, accelerators and interfaces
+Supporting CCIX the open industry standard for coherent multi-chip processor and accelerator connectivity
+CoreLink DMC-620 includes integrated ARM TrustZone security and supports 1 to 8 channels of DDR4-3200 memory and 3D stacked DRAM for up to 1TB per channel
+Accelerated SoC development and system deployment
+
+
+The company said its new on-chip interconnect technology has applicability across multiple markets including 5G networks, data center infrastructure, HPC, automotive and industrial systems.
+
+"The demands of cloud-based business models require service providers to pack more efficient computational capability into their infrastructure," said Monika Biddulph, general manager, systems and software group, ARM. "Our new CoreLink system IP for SoCs, based on the ARMv8-A architecture, delivers the flexibility to seamlessly integrate heterogeneous computing and acceleration to achieve the best balance of compute density and workload optimization within fixed power and space constraints."
+
+http://www.arm.com/about/newsroom/arm-system-ip-boosts-soc-performance-from-edge-to-cloud.php
+
+
+
+
+Shares in Nutanix are expected to begin trading on The NASDAQ Global Select Market under the symbol “NTNX.”
+
+The company expects the initial public offering price will be between $13.00 and $15.00 per share, potentially raising up to $241.5 million for the San Jose based firm.
+
+
+
+Nutanix S1 Filing: Quarterly Revenue at $139.8 million
+
+
+
+Wednesday, September 14, 2016  Data Centers, IPO, Nutanix, Silicon Valley  No Comments
+
+
+
+
+For its most recently fiscal quarter ended 31-July-2016, Nutanix recorded revenue of $139.8 million, according to a recently updated Form S-1 registration statement filed with the SEC ahead of a potential initial public offering (IPO). Nutanix provides a next-generation enterprise cloud platform that "converges traditional silos of server, virtualization and storage into one integrated solution and can also conn
+
+
+
+
+
+
+China Unicom selected the Nokia 7950 XRS core router family for additional deployments across China. Financial terms were not disclosed.
+
+China Unicom initially deployed the 7950 XRS into metro networks in six provinces - Beijing, Shandong, Jiangsu, Jiangxi, Inner Mongolia and Qinghai - and this year plans to scale out to an additional four including Heilongjiang, Henan, Zhejiang and Hunan to improve speed and response times for the fixed and mobile broadband subscribers.
+
+In 2013 China launched its Broadband China initiative to invest $182 billion to boost the speed and quality of Internet services across the country. The aim is to reduce the digital divide by providing businesses and urban and rural citizens with national broadband coverage by 2020. In keeping with this initiative, China Unicom has been continually improving the scale and capacity of its networks.
+
+http://www.nokia.com
+
+
+
+
+
+
+The Optical Internetworking Forum’s (OIF) has begun work on two optical interface projects:
+
+the IC-TROSA project would enable manufacturers to have a higher level of integration for transmit and receive optical components. Integrated Coherent Transmitter-Receiver Optical Subassembly (IC-TROSA) is the evolutionary step that combines Polarization Multiplexed Quadrature (PMQ) Transmitter (Tx) and Integrated Coherent Receiver (ICR) components to create a single integrated optics package.  The optical sub-assembly that supports high-bandwidth and high-order QAM operations is suited for data center interconnect, metro and long-haul applications. As module sizes decrease, current coherent optics components need similar size reductions to enable next generation multi-terabit switches, line cards, and transport. Density requirements for next-gen line cards, front-pluggable and future on-board 400G+ optical modules are driving the need for further integration and miniaturization.
+
+the CFP2-Digital Coherent Optics (DCO) project will work with other standards bodies to implement coherent modulations formats in CFP modules. The OIF’s CFP2-DCO project includes a way to build address management interface and identify registers necessary to talk to the DSP located in the module, specific to coherent modulation techniques. The CFP2-DCO is intended to be used for 100G, 200G or 400G applications for metro, long-haul and data center interconnections and it can support different formats such as DP-QPSK and DP-xQAM.
+
+“The IC-TROSA project tackles much more than just a simple size reduction,” said Karl Gass of Qorvo and the OIF’s Physical and Link Layer (PLL) Working Group – Optical vice chair.  “It addresses optical packaging in a way that isn’t done in high volumes today. We want to come to industry consensus in this pre-competitive environment.”
+
+http://www.oiforum.com.
+
+
+
+A new 5G Automotive Association has been formed with the backing of AUDI AG, BMW Group, Daimler AG, Ericsson, Huawei, Intel, Nokia and Qualcomm.
+
+The mission is to develop, test and promote communications solutions, support standardization and accelerate commercial availability and global market penetration of 5G technologies and intelligent transportation.
+
+
+
+The association said it will address key technical and regulatory issues, leveraging next generation mobile networks and integrating vehicle platforms with connectivity, networking and computing solutions. The main activities of the association include:
+
+
+Defining and harmonizing use cases, technical requirements and implementation strategies. 
+Supporting standardization and regulatory bodies, certification and approval processes.
+Addressing vehicle-to-everything technology requirements, such as wireless connectivity, security, privacy, authentication, distributed cloud architectures and more.  
+
+
+
+Christoph Voigt is appointed Chairperson of the Board and Dino Flore is appointed Director General of the Association.
+
+"We expect 5G to become the worldwide dominating mobile communications standard of the next decade. For the automotive industry it is essential that 5G fulfills the challenges of the era of digitalization and autonomous driving. With the 5G Automotive Association we founded a cross-industry forum that allows us to shape the future 5G technology with leading ICT companies. As a co-founder of the 5G Automotive Association we would be excited to welcome further partners engaged in the automotive industry, the information and communication technologies or mobile network operators in the association," stated Dr. Christoph Grote, Senior Vice President Electronics, BMW Group.
+
+
+
+
+The ONOS Project, which develops an SDN control plane for service providers and enterprises, announced its eighth quarterly platform release: Hummingbird.
+
+
+
+New Features in ONOS Hummingbird:
+
+Southbound: Hummingbird expands ONOS to be able to configure and control legacy networks with additional support for Arista and Cisco devices. The Hummingbird release also includes Optical feature enhancements and improvements to OSPF and ISIS drivers. Numerous NETCONF enhancements in ONOS create support for many additional devices. In short, all these enhancements allow ONOS to support a variety of legacy devices to help service providers incrementally deploy SDN.
+
+Northbound: Hummingbird rounds ONOS out with new features that improve interoperability and ways for applications to interact with the Northbound protocol through message bus integration (RabbitMQ from ADARA and Kafka from Calix), as well as add more flexibility for intent-based management.
+
+Disruptive SDN: In support of disruptive SDN, ONOS continued to focus on scaling views for very large networks and making it easy for applications to be written to benefit from ONOS’ high availability primitives. Hummingbird brings major new features with additional distributed primitives, support for controller to controller peering and enhancements to the P4 driver support.
+
+Legacy device support: In support of incremental SDN, Huawei brought in significant YANG modeling and management capabilities at both the Northbound and Southbound interfaces, as well as support for the IEEE Abstraction and Control of Traffic Engineered Networks (ACTN).
+
+Commercial support: Hummingbird brings new commercial support for ONOS with Huawei’s announcement of the ONOS-based converged controller, “Agile Controller 3.0.”
+
+Broad Set of Use Cases: Hummingbird’s new service offerings and other enhancements enable valuable use cases in the areas of Cloud and SDN. The vibrant ONOS community has already built use case applications upon ONOS with CORD, packet-optical, and SDN-IP peering, and is building new ones in the areas of dynamic configuration and provisioning, and traffic engineering.
+
+“Hummingbird is the ideal platform to deliver the full SDN value proposition to service providers,” said Bill Snow, vice president of engineering, ON.Lab. “Hummingbird delivers important advancements not only in the core control functions, but also in support of automation and configuration of legacy and OpenFlow-enabled devices to serve the growing set of use cases being tackled by service providers today and into the future.”
+
+https://wiki.onosproject.org/display/ONOS/Release+Model
+
+
+
+China Mobile Communications Corporation (CMCC) has joined the OpenDaylight project at the Silver level.
+
+Recently, China Mobile released its commercial OpenDaylight-based datacenter SDN controller named “AERO,” currently in trial, and believed to be the first datacenter SDN controller developed by a telecom operator based in China, according to the company and the Linux Foundation. Additionally, CMCC initiated the “SPTN” project within OpenDaylight, which evolves the packet transport network (PTN) toward SDN.
+
+China Mobile joins Tencent and Alibaba, also members of OpenDaylight, as part of a growing number of Chinese internet and communications companies that actively participate in open networking projects and leverage open source SDN to support their extreme scalability demands.
+
+“I am pleased to see the OpenDaylight community growing so rapidly and on such a global scale,” said Neela Jacques, executive director of the OpenDaylight project. “China Mobile’s expanding contributions are beneficial to the OpenDaylight community, and their involvement is yet another example of the innovation happening in the Chinese market today. As Chinese telcos, enterprises and equipment manufacturers embrace open source, they’re enabling new solutions at a breathtaking pace.”
+
+https://www.opendaylight.org
+
+
+
+ETSI’s Network Functions Virtualisation  (NFV) Industry Specification Group (ISG) announced the publication of NFV Release 2 specifications covering a wide set of functional areas, such as the management of virtualized resources, lifecycle management of both network services and virtualized network functions, network service fault/performance management, virtualized resource capacity management, etc.
+
+NFV Release 2 incorporates 11 new group specifications, in addition to the many NFV specifications already published. These detail the various requirements, interface descriptions and information models enabling interoperability of solutions based on the ETSI NFV Architectural Framework.
+
+
+“This represents another major step towards our objective of defining a comprehensive set of specifications that will facilitate the deployment of NFV throughout the telecommunication industry, with significant benefits being subsequently derived in many interrelated sectors,” states Telefonica’s Diego Lopez, the newly appointed Chairman of ETSI NFV ISG. “Through the collaborative efforts of all parties involved in the ETSI NFV ISG, we have been able to identify and define the required capabilities, following a practical approach that leverages proofs of concept to explore and demonstrate what was proposed. The combination of wide consensus and experimental evidence has led to NFV being recognized as a completely viable and highly valuable technology. This has allowed us to make progresses at a fast pace.”
+
+“By drawing upon the combined merits of a well-defined standards structure and the support of the open source community, we have been able to accelerate the development process and ensure widespread interoperability,” Lopez continues. “I am therefore confident that the ETSI NFV Architectural Framework will be the foundation upon which future virtualization of the network is established - enabling cost effective allocation of resources and the rapid addition of new services, while still ensuring the highest degrees of security and reliability, as well as painless and seamless integration with existing infrastructure.”
+
+http://www.etsi.org/deliver/etsi_gs/NFV/001_099/002/01.02.01_60/gs_NFV002v010201p.pdf
+
+
+
+
+ETSI’s NFV Group Publishes Phase 1 Specs
+
+
+
+Wednesday, January 14, 2015  #NFV, ETSI, Standards  No Comments
+
+
+
+
+ETSI’s Network Functions Virtualisation  (NFV) Industry Specification Group (ISG) announced the publication of eleven specifications under phase 1 of its activity. The work includes an infrastructure overview, an updated architectural framework, and descriptions of the compute, hypervisor and network domains of the infrastructure. The new specifications also cover management and orchestration, security and trust, resilience and service quality...
+
+
+
+READ MORE
+
+
+
+
+
+
+
+Wave2Wave introduced a QSFP28 copper-based, direct attached cable (DAC) for data centers.
+
+
+
+The new product, which expands the company's EDGE cable fabric family, simplifies the cabling for spine-and-leaf, data center infrastructure, and server rack-and-stack environments. The QSFP28 DAC offering supports higher data rates – now up to 100Gbp/s – with near-zero wire speed latency and no power consumption, reducing data center energy use, CAPEX and OPEX.
+
+Key features:
+
+
+Four-channel, full duplex passive copper cable transceiver
+Up to 25 Gbps per channel, maximum aggregate data rate of 100 Gbps
+Conforms to SFF-8665
+IEEE 802.3bg 100 GEBASE-CR4
+Copper link length up to 3 meters
+Power supply of +3.3V
+Low crosstalk
+I2C-based two-wire serial interface for EEPROM signature that can be customized
+
+
+
+“The newest addition to the EDGE cable fabric family, QSFP28 DAC, cuts down time to deployment in the data center significantly,” said David Wang, founder and chief executive officer of Wave2Wave. “With these turn-key offerings, operators and integrators can build a spine-and-leaf cluster or a server rack with hundreds of cables within an hour – an undertaking that would typically take days to build otherwise.”
+
+http://www.wave-2-wave.com/
+
+
+
+
+
+Wave2Wave Launches Robotic Optical Switches for Data Centers
+
+
+
+Wednesday, February 10, 2016  Data Centers, Photonic Switch  No Comments
+
+
+
+
+Wave2Wave Solution introduced a line of robotic optical switches for automating physical fiber connections in high-density data centers. The Wave2Wave "ROME" Robotic Optical Management Engine platforms, which are offered in three sizes, enable full control of physical fiber connections, allowing changes to be made automatically, remotely, quickly, and without manual intervention.  The robotic systems are designed in 19-inch chassis. The company...
+
+
+
+READ MORE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Docker has formed a commercial partnership with Microsoft to enable enterprises to run Commercially Supported Docker Engine (CS Docker Engine) and Docker Datacenter with Windows Server 2016.
+
+As part of a new agreement, Microsoft and Docker will make the CS Docker Engine available to Windows Server 2016 customers at no additional cost. Docker Datacenter helps organizations manage heterogeneous environments of Windows and Linux workloads, running in both on-premises and cloud-based infrastructure, such as Microsoft Azure.
+
+As part of the commercial relationship, Microsoft will provide enterprise support options for CS Docker Engine, backed by Docker, Inc.
+
+"Over the last two years, we have partnered with Docker, a leader in containerization, to bring the Docker platform to Windows Server as well as the Microsoft Azure cloud ecosystem,” said Scott Guthrie, Microsoft Executive Vice President, Cloud + Enterprise. “With today’s announcement, we are deepening our commitment to creating an open platform, bringing together Windows Server and Linux to help developers and IT professionals deliver new levels of innovation.”
+
+http://www.docker.com
+
+
+
+
+The USB Implementers Forum (USB-IF) announced a new USB Audio Device Class 3.0 specification to establish USB Audio over USB Type-C as the primary solution for all digital audio applications, including headsets, mobile devices, docking stations, gaming set-ups and VR solutions.
+
+“USB is the simplest and most pervasive connector available today, making USB Type-C the logical choice for the future of digital audio,” said Jeff Ravencraft, USB-IF President and COO. “We encourage companies interested in adopting USB specifications to take advantage of USB-IF resources to reduce time-to-market and deliver reliable USB products.”
+
+The USB Audio Device Class 3.0 specification makes it easier to support digital audio over USB, add capabilities to reduce power consumption and add support for new features such as hotword detection. It defines minimum interoperability requirements across analog and digital solutions to minimize user confusion when not all hosts or devices support audio consistently. USB Audio over USB Type-C™ allows OEMs to remove the 3.5mm analog audio jack, shaving up to a millimeter off product designs and reducing the number of connectors on a device. Fewer connectors will open the door for innovation in countless ways and make it easier to design waterproof or water-resistant devices.
+
+http://www.usb.org
+
+
+
+In a little over a year since launching its cBR-8 Converged Broadband Access Platform, Cisco said it has 100 service providers globally deploying the platform. The latest customer is Cablevision Argentina, which has more than 3.5 million video subscribers and 2.2 million broadband subscribers.
+
+
+
+The cBR-8 leverages key technologies such as SDN, NFV and DOCISIS 3.1 to enable cable operators to offer Gigabit or multi-Gigabit services to their subscribers.
+
+http://www.cisco.com/c/en/us/products/video/cbr-series-converged-broadband-routers/index.html
+
+
+
+
+
+SiTime unveiled a new family of Super-TCXOs (temperature compensated oscillators) and oscillators for telecommunications and networking equipment.
+
+
+The new Elite Platform encompassing leverages the company's MEMS and analog technologies to deliver better performance, higher reliability and higher quality of service than conventional quartz solutions, even in the presence of environmental stressors.
+
+In particular, SiTime's ELITE-Platform addresses environmental issues with potential to impact the performance of timing of network equipment in uncontrolled environments such as basements, curbsides, rooftops, and on poles. The company said precision timing components in these systems must now operate in the presence of high temperature, thermal shock, vibration and unpredictable airflow.
+
+SiTime's Elite timing solutions are based on its unique DualMEMS architecture with TurboCompensation.
+
+This architecture delivers exceptional dynamic performance with three key elements:
+
+
+Robust, reliable, and proven TempFlat MEMS that eliminates activity dips and enables 30 times better vibration immunity than quartz
+DualMEMS temperature sensing with 100% accurate thermal coupling that enables 40 times faster temperature tracking, which ensures the best performance under airflow and rapid temperature changes
+Highly integrated mixed-signal circuits with on-chip regulators, a TDC (temperature to digital converter) and a low-noise PLL that deliver 5 times better immunity to power-supply noise, 30 uK temperature resolution that is 10 times better than quartz, and support for any frequency between 1 and 700 MHz
+
+
+“New telecom infrastructure uses 4G/5G small cells and Synchronous Ethernet to increase network data capacity; the high-power components that are used in such systems will have high and constantly changing heat loads,” said Joe Madden, founder and principal analyst at Mobile Experts. “The dynamic performance of precision timing components during rapid temperature change will become a critical requirement in such equipment. MEMS technology inherently performs better in the presence of dynamic environmental conditions, and has become a very interesting alternative to quartz technology.”
+
+The Elite Platform comprises four new product families with a wide range of frequencies and the following unique features. All Elite solutions offer 0.1 ppb/g vibration immunity and do not have activity dips or micro-jumps.
+
+Stratum 3 precision Super-TCXOs for communications and cloud infrastructure equipment
+
+±100 ppb frequency stability over -40°C to +105°C, the widest operating temperature available with any TCXO
+1 to 5 ppb/°C frequency slope (ΔF/ΔT) at an extremely fast temperature ramp rate of 10°C/minute, a performance level that is unique among timing devices
+3e-11 Allan deviation (ADEV) at 10 second averaging time, 10 times better than typical quartz TCXOs
+0.2 ps/mV power supply noise rejection (PSNR), eliminates dedicated system LDO
+Optional I2C/SPI frequency tuning, eliminates external DAC
+
+ Super-TCXOs for GNSS, industrial and automotive applications
+
+±0.5 ppm frequency stability over -40°C to +105°C
+
+
+Ultra-low jitter differential oscillators
+
+0.23 ps integrated RMS phase jitter (12 kHz to 20 MHz)
+0.1 ps integrated RMS phase jitter under Ethernet mask for 10G/40G/100G
+±10 ppm frequency stability over -40°C to +95°C, enabling better system reliability
+
+High-temperature high-reliability differential VCXOs
+
+Up to +95°C with excellent phase noise
+Wide pull range from ±25 ppm to ±3600 ppm
+0.1% frequency tuning linearity under all conditions, 50 times better than quartz 
+
+Engineering samples of the Elite-based ultra-low jitter differential oscillators and high-temperature VCXOs are available to qualified customers now. Samples of Elite-based Super-TCXOs are expected to be available in the first half of 2017. Pricing is available upon request.
+
+SiTime is a wholly owned subsidiary of MegaChips Corporation (Tokyo Stock Exchange: 6875).
+
+http://www.sitime.com
+
+See video:  https://youtu.be/awhiNV1FQgQ
+
+
+
+
+
+Microsoft rolled out a number networking capabilities for its Azure cloud service, including advancements to its global server fleet that the company says will improve networking bandwidth performance 33% to 50%.
+
+The improvements include hardware technologies such as NVGRE offload, which harnesses the network processing capabilities of the hardware. Windows and Linux VMs will experience these performance improvements while returning valuable CPU cycles to the application.
+
+Microsoft said its Accelerated Networking provides up to 25 Gbps of throughput and drastically reduces network latency up to 10x.
+
+The new hardware technologies including SR-IOV, which allows VMs to communicate directly to the hardware NIC completely bypassing the Hypervisor’s virtual switch, bringing higher bandwidths and lower latencies, along with reduced jitter and improved Packets Per Second (PPS) performance. With Accelerated Networking, Azure SQL DB In-Memory OLTP transaction performance improved 1.5X.
+
+Additional highlights:
+
+
+
+
+
+Azure Storage users will benefit from substantially increased IOPS performance based on these advancements, combined with newly developed storage specific offloads. Hardware now efficiently performs data transfers up to the line rate of the NIC. The roll out for Storage will also complete in 2016.
+General availability of Virtual Network Peering (VNet Peering), which connects Virtual Networks (VNets) in the same region, enabling direct full mesh connectivity. VMs in the peered VNets communicate with each other as if they are part of the same VNet, thus benefiting from high bandwidth and low latency. Hub & Spoke topologies are supported with Transit Routing through gateways. The VNet without a gateway still has cross-premises connectivity via the gateway in the peered VNet. VNet Peering works across subscriptions allowing for simplified service management.
+New UltraPerformance Gateway SKU for ExpressRoute that supports up to 10 Gbps throughput. This is a 5x improvement over the existing ExpressRoute HighPerformance gateway with a 99.95% availability SLA. 
+Azure now supports Native IPv6 network connectivity for applications and services hosted on Azure Virtual Machines.
+New Active-Active Virtual Private Network (VPN) Gateway for the High-Performance VPN gateway SKU is recommended for production workloads.
+New Azure Load Balancer configurations, including general availability of multiple VIPs on internal load balancers and new port reuse options across public and internal load balancers. 
+Azure will also be previewing multiple IP addresses on a Network Interface Card (NIC) and enabling all NICs on a VM to have a Public IP address on the NIC or through the load balancer. 
+GA release of Azure DNS, enabling customers to host domains in Azure DNS and manage DNS records using the same credentials, APIs, tools, billing and support as other Azure services.  
+Additional network monitoring and diagnostics capabilities.
+
+
+https://azure.microsoft.com/en-us/blog/azure-networking-announcements-for-ignite-2016/
+
+
+
+The OPNFV Project announced its third platform release: Colorado.
+
+OPNFV Colorado brings advances to accelerate the development of NFV applications and services through key feature enhancements across security, IPv6, Service Function Chaining (SFC), testing, VPN capabilities, and support for multiple hardware architectures.
+
+
+
+“Colorado represents a more robust version of OPNFV’s previous Brahmaputra platform,” said Heather Kirksey, director, OPNFV. “The OPNFV community, in close collaboration with other upstream communities, has delivered enhanced capabilities most important to the NFV platform growth and maturity.”
+
+Key enhancements available in OPNFV Colorado include:
+
+
+Core feature upgrades. These improvements come via focused collaboration with upstream communities and are centered on improving foundational support for NFV applications and services. All feature enhancements are integrated into the automated install/deploy/testing framework.
+Enhanced security by earning the Core Infrastructure Initiative (CII) Badge for best practices in open source development; additionally, the Moon project has been prototyping identity federation and management for OpenStack and OpenDaylight.
+Service Function Chaining (SFC) now runs across multiple nodes, includes installer support for VNF Manager (Tacker) installation and support for enhanced cloud scenarios.
+Improved IPv6 support includes IPv6-only deployments, full underlay and overlay support and integration with additional install tools.
+The SDN VPN project now enables full Layer 2 and Layer 3 VPN support including BGP peering.
+Full support for multiple hardware architectures, including both ARM and x86 architectures.
+Enhanced testing capabilities. Colorado includes a greater integration across testing projects with additional feature testing capabilities, and increased automation. 
+Infrastructure and testing environment advancements. The Phros Test Lab project continues to be a key element of OPNFV release development and validation. Colorado brings increased governance, consistency, availability and quality to the labs, increasing efficiency and ccreating the groundwork for a robust Lab-as-a-Service program. See the full list of Pharos labs --including those participating in Colorado--here. 
+Community expansion. Improved cross-project collaboration via working groups focused on Management and Operation (MANO), Infrastructure, Security, and Testing. Five Committers-At-Large members have been elected to the Technical Steering Committee (TSC) to enhance the meritocratic nature of the project. OPNFV also continues to build relationships with key upstream communities such as OpenStack, OpenDaylight, ONOS, OpenContrail, FD.io, OVS, Open-O, OpenBaton, KVM, DPDK, ODP, and Linux. Additionally, OPNFV launched its intern program during the Colorado release timeframe, already providing valuable contributions across work on the Pharos Labs, VNF on-boarding and CINDR performance testing.
+
+
+“We’re seeing a maturity of process with the Colorado release, reflected by things like achievement of the CII Best Practices badge for security and the growing maturity of our testing and DevOps methodology,” said Chris Price, TSC chair, OPNFV and Open Source Manager for SDN, Cloud & NFV, Ericsson. “The creation of working groups across MANO, Infrastructure, Security, and Testing also help the project evolve towards a foundational and robust industry platform for advanced open source NFV.”
+
+https://www.opnfv.org/colorado
+
+
+
+
+OPNFV Brahmaputra Adds IPv6, VPN Config, Fault Detection
+
+
+
+Wednesday, March 02, 2016  #NFV, #OPNFV, #SDN, Open, OpenDaylight  No Comments
+
+
+
+
+
+The OPNFV Project, which is the community based effort sponsored by the Linux Foundation to develop an open source platform to accelerate the introduction of Network Functions Virtualization (NFV), announced its OPNFV Brahmaputra release. Key enhancements in OPNFV Brahmaputra include: Hardened feature enhancements. Layer 3 VPN instantiation and configuration Initial support for IPv6 deployment and testing in IPv6 environments, Improved fault...
+
+
+
+READ MORE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OPNFV Community Delivers Arno, its First Release
+
+
+
+Thursday, June 04, 2015  #NFV, OPNFV, Standards  2 Comments
+
+
+
+
+
+The OPNFV Project, which is the community based effort sponsored by the Linux Foundation to develop an open source platform to accelerate the introduction of Network Functions Virtualization (NFV), announced the availability of OPNFV Arno, its first software release. Arno provides an initial build of the NFV Infrastructure (NFVI) and Virtual Infrastructure Manager (VIM) components of ETSI NFV architecture. Key capabilities of OPNFV Arno: Availability...
+
+
+
+READ MORE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nokia introduced its new Gainspeed portfolio for unified cable access, supporting all cable access networks including hybrid fiber-coaxial (HFC), passive optical networking (PON) and point-to-point Ethernet.
+
+Nokia said its new platform takes a software-defined Virtualized Converged Cable Access Platform (CCAP) approach that provides the capacity, agility and flexibility cable operators need to deliver new revenue-generating services while significantly reducing operating expenses.
+
+The architecture pushes cable-specific functions out to access nodes close to the subscriber while centralizing control and management. This approach significantly reduces the costs of traditional cable architectures by eliminating the CCAP as a physical box and replacing the analog optical transmission with 10Gbps Ethernet.
+
+"The cable industry is at a crossroads and facing change at a level it has never seen before. The current way of building cable networks simply will not scale to meet the tidal wave of IP video and high-speed data demands faced by cable operators. We're helping operators add capacity, greatly simplify the network operations and prepare for an all-fiber, all-IP network," stated Jeff White, head of business development and strategy for cable in Nokia's Fixed Networks business group.
+
+The new Nokia portfolio of cable access products includes:
+
+
+
+Gainspeed Access Controller
+Gainspeed Video Engine
+Gainspeed Access Node SC-2D supporting DOCSIS 3.0 and 3.1
+Gainspeed Access Node SF-4X supporting 10G EPON
+
+
+
+The company said lab and field trials are underway.
+
+http://company.nokia.com/en/news/press-releases/2016/09/26/nokia-accelerates-cable-operators-transition-to-all-digital-ip-and-fiber-networks-with-industry-first-solution-for-unified-cable-access
+
+
+
+Nokia to Acquire Gainspeed for Virtualized Cable Architecture
+
+
+
+Thursday, June 09, 2016  Cable, Gainspeed, Mergers, Nokia  No Comments
+
+Nokia agreed to acquire Gainspeed, a start-up specializing in DAA (Distributed Access Architecture) solutions for the cable industry via its Virtual CCAP (Converged Cable Access Platform) product line. Financial terms were not disclosed.Gainspeed's Virtual CCAP enables cable operators to increase the capacity of their existing HFC (Hybrid Fiber Coax) infrastructure and rapidly deploy new services, while simultaneously reducing space and power requirements in the headend. The solution also enables cable operators to migrate their networks to a software-driven, all-IP architecture.Gainspeed's design eliminates the physical CCAP by leveraging SDN and NFV to distribute the CCAP’s functions to other devices and locations in the network. This centralizes routing, control and management in the data center or cloud and pushesthe physical layer, DOCSIS processing and RF modulation into the node, deep withinthe access networkGainspeed is based in Sunnyvale, California and has approximately 70 employees.Federico Guillen, president of Nokia's Fixed Networks business group, said: "We are very excited to have Gainspeed, the technology leader in its field, joining us. Cable is one of the fastest growing areas in our fixed networks business, and we are committed to delivering a complete solution set to cable operators. Gainspeed's Virtual CCAP perfectly complements our leading fiber access solutions for cable MSOs."http://www.nokia.comhttp://www.gainspeed.com/
+
+Gainspeed is headed by Krish Padmanabhan, who previously was Senior Vice President of Products and Solutions at Harmonic Inc., where he oversaw overall strategy for its video playout and compression portfolio.
+Gainspeed was founded in 2012 by Shlomo Rakib (previously co-founded Novafora and Terayon Communication Systems, where he invented the SCDMA technology that was the basis for DOCSIS 2.0), Jeff White (previously president of Hatteras Networks),  Mark Stalica (previously Vice President of Strategic MSO Accounts for Metaswitch Networks), and Drew Perkins (previously a co-founder at Infinera, On-Fiber Communications, Lightera Networks, FORE Systems, and InterStream).
+
+
+
+
+
+
+Telefónica has chosen Juniper Networks' SRX Series Services Gateways as its preferred solution for delivering their global network security. Financial terms were not disclosed.
+
+Juniper said its new cloud-based network architecture with integrated security functions will allow Telefónica to scale, automate and simplify its business operations, and improve network performance while future-proofing to enable a software defined secure network (SDSN) where security issues can be detected and where mitigating policy can be enforced anywhere in the network.
+
+Additionally, Juniper will provide Telefónica with Professional Services to increase its overall network stability for enhanced business operations. Telefónica
+
+"Our partnership with Juniper is yet another step forward in Telefónica's technological transformation strategy. We are making huge advancements towards our goal to secure, simplify and modernize our network to offer differentiated services that greatly enhance the customer experience. We partnered with Juniper for its proven capability to deliver end-to-end solutions, services, innovative technologies and strong leadership," stated Javier Gavilan, Planning and Technology Director, Global CTO, Telefónica.
+
+http://www.juniper.net/us/en/company/
+
+
+
+
+Puppet announced the appointment of Sanjay Mirchandani as chief executive officer and a member of the board of directors, replacing founder Luke Kanies, who will remain a strong advocate for the company as a member of the board.
+
+Mirchandani joined Puppet in May as the company’s first-ever president and chief operating officer. He previously served as corporate senior vice president and general manager at VMware for Asia Pacific and Japan. Before this, Mirchandani held several management positions at EMC, including CIO of the company’s IT organization. He also led the company’s Global Centers of Excellence, emerging markets and international development initiatives. Prior to EMC, Mirchandani held several field-based senior management roles at Microsoft over an 11 year period.
+
+“Puppet is a truly revolutionary company. In a short time, Puppet has grown to become the market-standard platform for IT automation – helping customers deliver and operate their software no matter where it runs,” said Sanjay. “I have enormous respect for Luke. He built a company that has transformed the industry. I am honored to continue what he started and lead the business as we embark on an exciting new period of growth. I look forward to working with our talented team, customers, partners, and community to scale the use of Puppet worldwide through product innovation, go-to-market execution, and operational excellence.”
+
+https://puppet.com/company/press-room/releases/puppet-appoints-sanjay-mirchandani-chief-executive-officer
+
+
+
+Hibernia Networks has expanded its global connectivity service aimed at the financial sector to include low-latency connections to Moscow, Dubai and Mumbai.
+
+The roundtrip latency performance for the three routes is as follows:
+
+CME – M1 Moscow 105.40ms
+CME – BKC Mumbai 176.95ms
+CME – DGCX Dubai 172.85ms
+
+“Hibernia Networks is a critical enabler of the global financial ecosystem, reinforced by the expansion of our low latency footprint into the key markets of Moscow, Mumbai, and Dubai,” states Omar Altaji, Chief Commercial Officer of Hibernia Networks. “These cities and the regions they’re part of are poised for substantial growth in financial trading activity, driven by the expansion of electronic trading in equities, futures and options. Customers are now able to execute financial transactions and efficiently access vital market information in real time utilizing our ultra low latency routes into Moscow, Mumbai, and Dubai, resulting in enhanced profitability,
+as well as improved performance across this ecosystem.”
+
+http://www.hibernianetworks.com/
+
+
+
+
+
+IBM will implement a blockchain solution to support a loyalty bonus points exchange among multiple banks in China.
+
+The project with China UnionPay E-payment Research Institute will enable consumers to exchange loyalty bonus points between any of the banks they do business with. Currently, credit card bonus points cannot be freely exchanged among different banks, so many bonus points go unused because of strict bonus points policies or a limited selection of goods for exchange.
+
+"The combination of blockchain technology and expertise from IBM coupled with an innovative business approach by China UnionPay in the payment industry has resulted in a significant first of a kind demonstration of blockchain technology in the financial payments industry,” said Dr. Shen Xiaowei, Director of IBM Research - China, CTO of IBM Greater China Group.  “IBM is partnering with the Hyperledger Project to build an open source, enterprise-grade blockchain platform and is helping clients define and develop more industry use cases. In time, we expect this to result in widespread adoption of permissioned blockchain networks to solve a number of business challenges.”
+
+http://www.ibm.com
+

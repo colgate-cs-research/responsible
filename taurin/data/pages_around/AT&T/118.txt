@@ -1,0 +1,339 @@
+##LINK: https://www.nhmc.org/network-neutrality-reclassification-basics/
+##KEYWORDS: paid prioritization
+##TITLE: Network Neutrality and Reclassification: The Basics | NHMC National Hispanic Media Coalition
+##METHOD: paragraphs
+
+ <b>What is network neutrality?</b>
+Network Neutrality and open Internet are synonyms used to describe the principle that all data travelling over the Internet should be treated equally. The Federal Communications Commission (FCC) is in the process of redeveloping Network Neutrality rules. To truly protect an open Internet, the FCC must adopt “real Network Neutrality,” to include:
+
+
+<ul>
+ 	
+
+<li>Banning Internet service providers (ISPs) like Verizon, AT&amp;T and Comcast from blocking content, websites and applications on the Internet;</li>
+
+
+ 	
+
+<li>Banning unreasonable and unjust discrimination, including paid prioritization, a pay-for-play system whereby those with deep pockets can pay ISPs to reach Internet users in a fast lane, leaving the rest of us in a slow lane;</li>
+
+
+ 	
+
+<li>Requiring ISPs to be transparent and disclose to customers any network management practices or business arrangements that could impact their quality of service;</li>
+
+
+ 	
+
+<li>Protecting all Internet users regardless of whether they choose to access the Internet on a home computer or on a mobile device. Communities of color and low-income individuals, who are more likely to rely on wireless to access the Internet, should not be subject to harmful, profit-driven whims of ISPs while others are protected;</li>
+
+
+ 	
+
+<li>Preventing ISP discrimination and blocking before it happens, and not after the fact; and</li>
+
+
+ 	
+
+<li>Treating ISPs as common carriers by reclassifying broadband as a Title II service.</li>
+
+
+</ul>
+
+
+<b>This sounds like a lot of tech and legal jargon. Why should I care about this?</b>
+The Internet is a democratizing force where people of color and others who have suffered discrimination at the hands of mainstream media can participate in the American economy, democracy and media. On the Internet, Latin@s are telling our own stories with fairness and accuracy, organizing against racism and stereotyping, educating ourselves, engaging in civil society, producing and monetizing content and applications, and running small businesses. Such activities are <a href="http://www.nhmc.org/blog/decoding-network-neutrality-a-user-friendly-explanation-of-verizon-v-fcc-and-its-impact-on-latinos/">in danger</a> without real Network Neutrality – real Network Neutrality protects the free speech, activism, civic participation, educations and livelihoods of countless Latin@s.
+<b>How does “real Network Neutrality” differ from the FCC Chair’s tentative proposal?</b>
+Real Network Neutrality bans blocking, discrimination and paid prioritization before it happens. It rests on a sustainable legal theory by reclassifying ISPs as common carriers. On the other hand, the Chair’s tentative proposal allows discrimination and paid prioritization. The Chair seems loath to use the only legal path that can survive judicial scrutiny: reclassification.
+<b>What is “reclassification” and why is NHMC in support of it?</b>
+Reclassification is the only legal theory under which the FCC has sound authority to enact Network Neutrality protections. Under reclassification, the FCC would characterize ISPs as utility providers, or common carriers. The FCC has jurisdiction over common carriers under Title II of the Communications Act, so this reclassification would allow the FCC to oversee ISPs. Here’s why people of color should urge the FCC to reclassify ISPs under Title II:
+
+
+<ul>
+ 	
+
+<li>Without reclassification, the high costs of Internet connectivity will continue to rise. In the absence of ISP regulation under Title II, <a href="http://www.washingtonpost.com/blogs/the-switch/wp/2013/10/28/the-price-of-internet-is-too-high/">prices are through the roof</a> with constant increases and fees. <a href="http://www.pewinternet.org/fact-sheets/broadband-technology-fact-sheet/">Nearly half of American Latino families do not have home broadband connections</a> for two main reasons: because it is not available in their areas or because they cannot afford it. African Americans and Native Americans also suffer from very low home broadband adoption rates. The status quo should be unacceptable to anyone who cares about bringing affordable broadband to poor and rural communities &#8211; we need change! Internet service across the U.S. is increasingly slower and more expensive than in a litany of other <a href="http://r20.rs6.net/tn.jsp?f=001vmFEn-hfYL1zhx6WK4SwwnYisr7Js9fEon6MZcYqAIiO9T4aJ3j9OjxMgHjRVuzWsMtrwdvI2fOc_-ywOczmr2LlJKg6fo8ulTDB-k5sG1ehN2eOjKP8REARn8JjzXGq6qGWpk1pcJBJISaYLzQtjFcbbCw_hPKQfv1IE1aY6iEqbFkssd5t3UnN1k6emkqNuMJQR89a0L-OElAz6TS5L4JmOB0mwGKV9mgB-UZZ5pn2E3wCtEy7hgVFez8PiUKxZEkT7NsPDEhDkN4c8Ziwb0fJTxl7r4zGLUAVCTSphGerCPfGJTDU2N-rWpHMhK7Gxi4kjiLXFrLL-0AsmPg3uM2-w9baS-YsoG0TTQx8V2gwW1n4NnsvOJapK4q1g5R8SCPaoo-rfSG1MR1ddNuJS6e8k3KnEVd5SFarg7c2zr2FeRQq_zHgM93YjQYoas7BBHs7mr1-pQBDS5VFW7YVKj62I-d0_qs2QSxxLyUU0MmVK0GnYN7lZZLH2rSpFaBGReCokXDlYWaud-Mx2nDvw6d8_JLE9fPwOBvBwqMBzwnmVqQVXMf_vA==&amp;c=lIE8M6TqM-1DCDnREgXY_L7R_4T4Yppgq0VCd76ujibbXNuRZTgjww==&amp;ch=cZQDj5WaXVC5wRYiIlU_Su9URy6lYRkYmhHme2vuItFExfxxV2cCOg==" target="_blank" rel="noopener noreferrer">countries</a> whose governments have provided for meaningful competition and affordability. Prices have and will continue to rise absent regulation due to a <a href="http://www.nytimes.com/2014/05/01/business/media/fcc-chairman-says-broadband-competition-is-lacking.html?_r=0">lack of competition</a> and an insatiable desire to increase margins.</li>
+
+
+ 	
+
+<li>Deployment of ubiquitous, affordable phone service across the U.S., commonly seen as a success, was made possible in part by Title II requirements. Deployment of broadband has not been nearly as successful in a landscape without any Title II regulations, and the notion that ISPs will bring affordable access to our communities if only we allow them to run free of common sense regulations is a false choice which runs afoul of history.</li>
+
+
+ 	
+
+<li>Based on careful analysis of the <i>Verizon v. FCC</i> case, reclassification is the only way that the FCC can achieve sustainable authority to prevent blocking and discrimination on the Internet. Reclassifying ISPs under a Title II theory provides the FCC with a source of authority, not necessarily regulation in itself. Reclassification does not automatically equal &#8220;heavy-handed regulation.&#8221;</li>
+
+
+ 	
+
+<li>Reclassification would provide the legal authority for the FCC to modernize Universal Service Fund (USF) programs such as E-rate and Lifeline to achieve universally affordable broadband access at schools, libraries and home.</li>
+
+
+ 	
+
+<li>Reclassification would ensure that rural communities remain connected to reliable communications and emergency services.</li>
+
+
+</ul>
+
+
+<b>Who else supports Network Neutrality rules and reclassification?</b>
+Too many to list! 3.5 million have contacted the FCC in support of real Network Neutrality and reclassification, including Internet companies like Etsy and Kickstarter, non-profit and civil liberties groups, educational providers, small business owners, activists and creators.
+<b>Is there any hope? What action can I take to make a difference?</b>
+Yes, there is still time to make a difference! Go to <a href="http://www.nhmc.org/">www.nhmc.org</a> for more info, or reach us at the address and phone numbers listed <a href="http://www.nhmc.org/contactus" target="_blank" rel="noopener noreferrer">here</a>. To send a message to the FCC Chair, e-mail <a href="mailto:openinternet@fcc.gov">openinternet@fcc.gov</a>. To hold Latin@ members of Congress accountable, visit <a href="http://presente.org/campaign/nnreps/">http://presente.org/campaign/nnreps/</a>.]]&gt;		</p>
+                    <!--end content-->
+                </div>
+                <!--post-->
+
+
+                <div class="nd_options_section">
+
+                                        
+                      
+                        <!--tag-->
+                        <div id="nd_options_tags_list" class="nd_options_section">
+                             Tags : <a href="https://www.nhmc.org/tag/net-neutrality/" rel="tag">Net Neutrality</a>                        </div>
+                        <!--END tag-->
+                                        
+                    
+
+<!--START  for post-->
+<style type="text/css">
+
+    /*comment list*/
+    .nd_options_comments_ul { margin:0px; padding: 0px; list-style: none; }
+    .nd_options_comments_ul li { margin:10px 0px; float: left; width: 100%; }
+    .nd_options_comments_ul li .children { margin:0px; padding: 10px 40px; list-style: none; }
+    .nd_options_comments_ul li .reply a.comment-reply-link { color: #fff; margin-top: 10px; display: inline-block; line-height: 13px; border-radius: 0px; padding: 8px; font-size: 13px; text-transform: uppercase; }
+    .nd_options_comments_ul li .reply a.comment-reply-link { font-family: 'Poppins', sans-serif; }
+    .nd_options_comments_ul li .comment-author .fn, 
+    .nd_options_comments_ul li .comment-author .fn a { font-weight: bold; font-style: normal; }
+    .nd_options_comments_ul li .comment-author img { border-radius: 100%; }
+    .nd_options_comments_ul li .comment-author { display: table; }
+    .nd_options_comments_ul li .comment-author .fn { display: table-cell; vertical-align: middle; padding: 0px 10px; }
+    .nd_options_comments_ul li .comment-author .says { display: table-cell; vertical-align: middle; }
+    .nd_options_comments_ul li .comment-author img { display: inline; vertical-align: middle; }
+
+    /*comment form*/
+    #nd_options_comments_form h3.comment-reply-title, 
+    #nd_options_comments_form #respond.comment-respond h3.comment-reply-title { font-weight: bolder; margin-bottom: 10px; }
+    #nd_options_comments_form #respond.comment-respond h3.comment-reply-title { margin-top: 20px; }
+    #nd_options_comments_form label, 
+    #nd_options_comments_form input[type='text'], 
+    #nd_options_comments_form textarea { float: left; width: 100%; }
+    #nd_options_comments_form input[type='submit'] { border: 0px; color: #fff; border-radius: 25px; margin-top: 10px; }
+    #nd_options_comments_form p { margin: 10px 0px; float: left; width: 100%; }
+    #nd_options_comments_form #commentform.comment-form label, 
+    #nd_options_comments_form #commentform.comment-form input[type='text'], 
+    #nd_options_comments_form #commentform.comment-form textarea { float: left; width: 100%; }
+    #nd_options_comments_form #commentform.comment-form input[type='submit'] { border: 0px; color: #fff; border-radius: 30px; margin-top: 10px; text-transform: uppercase; }
+    #nd_options_comments_form #commentform.comment-form p { margin: 10px 0px; float: left; width: 100%; }
+
+    /*font and color*/
+    .nd_options_comments_ul li .comment-author .fn, 
+    .nd_options_comments_ul li .comment-author .fn a { color: #3564a5; }
+    .nd_options_comments_ul li .comment-author .fn, 
+    .nd_options_comments_ul li .comment-author .fn a { font-family: 'Poppins', sans-serif; }
+    .nd_options_comments_ul li .reply a.comment-reply-link { background-color: #000; }
+    #nd_options_comments_form input[type='submit'] { background-color: #000; }
+    #nd_options_comments_form #commentform.comment-form input[type='submit'] { background-color: #000; }
+
+
+    /*compatibility for nd-learning*/
+    #nd_learning_single_course_comments .nd_options_comments_ul li .comment-author .fn, 
+    #nd_learning_single_course_comments .nd_options_comments_ul li .comment-author .fn a { color: #3564a5; }
+    #nd_learning_single_course_comments .nd_options_comments_ul li .comment-author .fn, 
+    #nd_learning_single_course_comments .nd_options_comments_ul li .comment-author .fn a { font-family: 'Poppins', sans-serif; }
+
+
+</style>
+<!--END css for post-->
+
+
+    
+    
+                         
+                </div>
+
+            </div>
+            <!--END all content-->
+
+
+
+            
+
+
+            
+
+</div>
+<!--end container-->
+
+
+<!--post margin-->
+<div class="nd_options_section nd_options_height_50"></div>    
+
+
+
+
+<!--START footer-->
+<div style="background-color:#fff; border-top: 1px solid #ffffff; background-image:url(https://www.nhmc.org/wp-content/uploads/2021/02/Copy-of-Untitled.png); background-repeat:no-repeat; background-size:cover; background-position:center;  " id="nd_options_footer_4" class="nd_options_section">
+
+    <div class="nd_options_section nd_options_height_50"></div>
+
+    	<!--start nd_options_container-->
+        <div class="nd_options_container nd_options_clearfix">
+    
+                                
+                    <div class="grid nd_options_grid_4 wpb_widgetised_column"> <div id="media_image-2" class="widget widget_media_image"><img width="300" height="114" src="https://www.nhmc.org/wp-content/uploads/2020/10/nhmc-logo-1-300x114.png" class="image wp-image-17433  attachment-medium size-medium" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://www.nhmc.org/wp-content/uploads/2020/10/nhmc-logo-1-300x114.png 300w, https://www.nhmc.org/wp-content/uploads/2020/10/nhmc-logo-1-1024x390.png 1024w, https://www.nhmc.org/wp-content/uploads/2020/10/nhmc-logo-1-768x292.png 768w, https://www.nhmc.org/wp-content/uploads/2020/10/nhmc-logo-1-1536x584.png 1536w, https://www.nhmc.org/wp-content/uploads/2020/10/nhmc-logo-1-2048x779.png 2048w" sizes="(max-width: 300px) 100vw, 300px" /></div><div id="text-2" class="widget widget_text">			<div class="textwidget"><p>The National Hispanic Media Coalition (NHMC) is a 35-year-old non-profit organization that builds bridges, creates opportunities, resources, and connects Latinx talent with the entertainment industry.</p>
+</div>
+		</div> </div>
+                    <div class="grid nd_options_grid_4 wpb_widgetised_column"> <div id="text-6" class="widget widget_text">			<div class="textwidget"></div>
+		</div><div id="text-3" class="widget widget_text"><h3>Locations</h3>			<div class="textwidget"><p>Los Angeles, CA</p>
+<p>Washington, DC</p>
+</div>
+		</div> </div>
+                    <div class="grid nd_options_grid_4 wpb_widgetised_column"> <div id="text-5" class="widget widget_text"><h3>Quick Links</h3>			<div class="textwidget"><p><a href="http://www.nhmc.org/contact-us">Contact Us</a></p>
+<p><a href="http://www.nhmc.org/events">Events</a></p>
+<p><a href="http://www.nhmc.org/donate">Donate</a></p>
+<p><a href="https://lp.constantcontactpages.com/su/8eASuzi/joinmailinglist">Join Mailing List</a><!-- End Constant Contact Active Forms --></p>
+</div>
+		</div><div id="search-5" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://www.nhmc.org/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></div> </div>
+                    
+                            
+	    </div>
+	    <!--end container-->
+
+    <div class="nd_options_section nd_options_height_10"></div>
+
+</div>
+<!--END footer-->
+
+
+
+
+
+    <!--START copyright-->
+    <div style="background-color:#fff;" id="nd_options_footer_4_copyright" class="nd_options_section">
+
+        <!--start nd_options_container-->
+        <div style="border-top: 1px solid #ffffff " class="nd_options_container nd_options_clearfix">
+        
+            
+            <div class="grid nd_options_grid_6 nd_options_text_align_center_responsive">
+                <p class="nd_options_font_size_14 nd_options_line_height_25_responsive">©2020 National Hispanic Media Coalition // communications@nhmc.org<p>
+o. (626) 792-6462</p>
+            </div>
+
+            <div class="grid nd_options_grid_6 nd_options_text_align_right nd_options_text_align_center_responsive">
+                <p class="nd_options_font_size_14 nd_options_line_height_25_responsive">
+
+        <div style="margin:;" class=" nd_options_font_size_14 nd_options_display_inline_block_responsive nd_options_float_none_responsive nd_options_display_table nd_options_float_right">
+            
+        
+            <div class="nd_options_display_table_cell nd_options_vertical_align_middle    ">
+                <a href="http://www.facebook.com/nhmc.org"><img alt="" width="15" height="15" class="nd_options_margin_left_20 nd_options_float_left" src="https://www.nhmc.org/wp-content/plugins/nd-shortcodes/addons/customizer/shortcodes/top-header/img/facebook-grey.svg"></a>
+            </div>
+
+        
+            
+        
+            <div class="nd_options_display_table_cell nd_options_vertical_align_middle    ">
+                <a style="color:;" class="nd_options_margin_left_10 nd_options__font " href="http://www.facebook.com/nhmc.org">FACEBOOK</a>
+            </div>
+
+            
+        </div>
+
+    
+
+        <div style="margin:;" class=" nd_options_font_size_14 nd_options_display_inline_block_responsive nd_options_float_none_responsive nd_options_display_table nd_options_float_right">
+            
+        
+            <div class="nd_options_display_table_cell nd_options_vertical_align_middle    ">
+                <a href="https://www.instagram.com/nhmc_org"><img alt="" width="15" height="15" class="nd_options_margin_left_20 nd_options_float_left" src="https://www.nhmc.org/wp-content/plugins/nd-shortcodes/addons/customizer/shortcodes/top-header/img/instagram-grey.svg"></a>
+            </div>
+
+        
+            
+        
+            <div class="nd_options_display_table_cell nd_options_vertical_align_middle    ">
+                <a style="color:;" class="nd_options_margin_left_10 nd_options__font " href="https://www.instagram.com/nhmc_org">INSTAGRAM</a>
+            </div>
+
+            
+        </div>
+
+    
+
+        <div style="margin:;" class=" nd_options_font_size_14 nd_options_display_inline_block_responsive nd_options_float_none_responsive nd_options_display_table nd_options_float_right">
+            
+        
+            <div class="nd_options_display_table_cell nd_options_vertical_align_middle    ">
+                <a href="http://www.twitter.com/nhmc"><img alt="" width="15" height="15" class="nd_options_margin_left_20 nd_options_float_left" src="https://www.nhmc.org/wp-content/plugins/nd-shortcodes/addons/customizer/shortcodes/top-header/img/twitter-grey.svg"></a>
+            </div>
+
+        
+            
+        
+            <div class="nd_options_display_table_cell nd_options_vertical_align_middle    ">
+                <a style="color:;" class="nd_options_margin_left_10 nd_options__font " href="http://www.twitter.com/nhmc">TWITTER</a>
+            </div>
+
+            
+        </div>
+
+    </p>    
+            </div>
+       
+        </div>
+        <!--end container-->
+
+    </div>
+    <!--END copyright-->
+
+
+
+  
+
+</div>
+<!--END theme-->
+
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/*  */  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

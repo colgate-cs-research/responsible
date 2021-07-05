@@ -1,0 +1,40 @@
+##LINK: https://www.fiercetelecom.com/telecom/analyst-level-3-and-cogent-will-benefit-from-net-neutrality-rules-thanks-to-peering-deals
+##KEYWORDS: open Internet
+##TITLE: Analyst: Level 3 and Cogent will benefit from net neutrality rules thanks to peering deals | FierceTelecom
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+by  Sue Marek  |
+ Jun 18, 2015 12:24pm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Level 3 and Cogent Communications are scoring peering deals thanks to the enactment of the FCC's Open Internet Order, which went into effect on Friday, June 12, according to Wells Fargo Securities Senior Analyst Jennifer Fritzsche. And those peering deals will likely have a positive impact on both companies' bottom lines. 
+ In a research note, Fritzsche said that since the release of the FCC's Open Internet Order, Level 3 and Cogent have both inked interconnection deals with Verizon (NYSE: VZ) and AT&T (NYSE: T), and Level 3 has signed peering agreements with Telefonica and Comcast (NASDAQ: CMCSA). In addition, Cogent is expected to soon sign a deal with Comcast, as Cogent CEO Dave Schaefer hinted that Comcast has been upgrading its ports and he expects a deal to happen by the end of second quarter. 
+ Fritzsche noted that while the terms of those deals are private, she expects both Level 3 and Cogent to benefit from these peering agreements. Level 3 will benefit but less so than Cogent, according to Fritzsche, because IP transit and content delivery services account for less than 10 percent of its revenues. Cogent, meanwhile, will benefit greatly because IP transport is its main business and as port congestion becomes less of a problem for Cogent customers, they will likely see their revenues grow, which in turn should boost Cogent's revenues. Additionally, Cogent and Level 3 should also benefit from lowered legal fees because they will no longer have to spend so much money on legal battles. 
+ According to Cogent and Level 3, these interconnection deals that they have signed with service providers are intended to help improve the efficiency of traffic between networks and deliver a better experience for end users. 
+ Related articles: 
+Cogent asks regulators to place Internet traffic conditions on AT&T/DirecTV tie-up 
+Cogent, Verizon sign long-term interconnection pact 
+Verizon, Level 3 make nice with interconnection agreement 
+Cogent, Level 3 could be first to file net neutrality complaints with FCC 
+Level 3 calls for FCC to extend net neutrality to interconnect points 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,41 @@
+{
+    "Cogent Communications": {
+        "urls": 111
+    },
+    "FirstLight Fiber": {
+        "urls": 13
+    },
+    "Hurricane Electric": {
+        "urls": 53
+    },
+    "Internet2": {
+        "urls": 96
+    },
+    "Zayo": {
+        "urls": 43
+    },
+    "NYSERNet": {
+        "urls": 25
+    },
+    "Telia Carrier": {
+        "urls": 19
+    },
+    "Sprint": {
+        "urls": 188
+    },
+    "AT&T": {
+        "urls": 192
+    },
+    "Deutsche Telekom": {
+        "urls": 141
+    },
+    "Telefonica": {
+        "urls": 144
+    },
+    "British Telecom": {
+        "urls": 86
+    },
+    "KDDI": {
+        "urls": 92
+    }
+}

@@ -1,0 +1,82 @@
+##LINK: https://www.freepress.net/our-response/expert-analysis/explainers/dont-believe-atts-net-neutrality-lies
+##KEYWORDS: net neutrality
+##TITLE: Don't Believe AT&T's Net Neutrality Lies | Free Press
+##METHOD: article 7
+
+
+
+ 
+ 
+ 
+ Explainer 
+ 
+ 
+ Net Neutrality 
+ 
+ 
+ 
+ Don't Believe AT&T's Net Neutrality Lies 
+ 
+ 
+ December 5, 2017 
+ Matt Wood, Dana Floberg 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flickr user Mike Mozart 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AT&T has promised to be good if the FCC overturns the Net Neutrality rules. The problem is, you can’t trust AT&T. 
+ Last week, AT&T Senior Vice President Bob Quinn  tried  (and failed) to undercut Net Neutrality supporters by insisting that Free Press has been foretelling doom and gloom since 2010. 
+ That’s when the FCC adopted weak open-internet rules that didn’t fully protect mobile access. Quinn claims that none of Free Press’ predictions about wireless carriers engaging in blocking ever came true — but he conveniently overlooks how AT&T blocked FaceTime on its cellular networks in 2012 and 2013. 
+ AT&T's FaceTime blocking 
+ Let’s refresh the recollection of our forgetful friends at AT&T. From its launch, Apple’s FaceTime app worked over a Wi-Fi connection, but at first it was not available over a cellular connection. 
+ That changed in 2012 — but not for AT&T customers. 
+ AT&T told its customers they could only use FaceTime on AT&T’s wireless networks if they also bought a new data plan that doled out data on a capped basis, and that also happened to include unlimited voice minutes. 
+ 
+ Why would AT&T do this? Because FaceTime competes with AT&T’s voice service. 
+ 
+ If a customer wanted to stop using voice minutes for voice or video calls, and wanted to use FaceTime over the mobile internet instead, that customer could stop paying AT&T for those voice minutes. Some customers even had unlimited-data plans at the time, which AT&T was trying to kill off before it  brought them back  earlier this year. 
+ AT&T didn’t care about customers potentially using more data — as long as the company could force subscribers to give up unlimited plans and choose costlier metered plans instead. 
+ It also didn’t care about losing customers’ use of voice minutes, so long as customers still had to pay for those minutes. 
+ Not a bad line of business to be in for AT&T, huh? The company would let you substitute FaceTime or some other messaging app for your old phone line, but only if you kept paying for that phone line. 
+ This  only started to change  when Free Press, the Open Technology Institute and Public Knowledge prepared a formal complaint on AT&T’s blocking and customer-blackmail scheme. And the threat of that complaint helped change AT&T’s practices. 
+ Even as AT&T started to back off its bad behavior, however, it still didn’t want to let people with unlimited-data plans use FaceTime on mobile data connection. Because heaven forbid you should let customers on “unlimited” plans actually use those plans how they want to. 
+ So when in this latest piece of AT&T propaganda they accuse Free Press of making falsely dire predictions in 2010, that’s a cool story for them to tell. 
+ It’s just  not true . 
+ AT&T spills the beans about Title II 
+ Of course, AT&T does accidentally tell the truth from time to time. 
+ It’s bound to happen when the company changes its story so often. AT&T contradicts itself from moment to moment and from year to year in different proceedings at the FCC, and then contradicts much of what it says to politicians in the disclosures it makes to its own shareholders. 
+ For instance, a lot of the current fight over keeping the Title II Net Neutrality rules is about broadband investment. One of FCC Chairman Pai’s main arguments is that broadband investment declined because of Title II. 
+ Free Press has shown time and again that Pai’s claim simply isn’t true, and that broadband providers’ aggregate investment has gone up since the FCC adopted the rules Pai now threatens. 
+ But more important than these aggregate numbers is what AT&T itself told the FCC back in 2010. It’s nonsensical to expect infrastructure investment to go up every year. Investment is  “lumpy” : Carriers build and upgrade networks, then reap the benefits while making new investment plans. 
+ It’s a cycle, not an endless staircase. 
+   
+ 
+ So even after the FCC put Net Neutrality back on the solid legal footing of Title II, AT&T’s CEO was bragging to investors about how his company was deploying more fiber and wireless networks — and saving money while doing it, thanks to technology advances and efficiencies that make capital investment cheaper. 
+ In other words, broadband providers can spend less when they upgrade thanks to new technologies, and can build in short spurts rather than doing it continuously. And even then they can still increase their speeds and their customer base while doing it — all without necessarily spending more each year than they spent the year before. 
+ So why has AT&T lost touch with this reality, now claiming that Title II has choked investment? 
+ Because it fits the false narrative the company and Chairman Pai are using to kill Net Neutrality — and legalize ISP blocking and discrimination. 
+ AT&T loved Title II before it hated it 
+ AT&T wasn’t always opposed to Net Neutrality or even Title II for broadband. Prior to 2005, when AT&T was a standalone long-distance company and local telco competitor that hadn’t yet rejoined with the local Bell monopolies, AT&T was actually  pro-Net Neutrality . 
+ In fact, the company supported Title II classification for broadband: 
+   
+ 
+ Yes — in the days after the Bell monopoly breakup but before the phone companies put that monopoly back together through mergers, AT&T actually paid the same think tanks it still pays today. 
+ Back then, it spent that cash to defend Net Neutrality and other policies necessary to protect competition and allow network investment to continue thriving. 
+ To cap it all off, when AT&T was talking to the FCC about business-grade broadband services just four years ago, the company told the agency that retaining the essential nondiscrimination laws in Title II while forbearing from many other requirements in that statute was an “unqualified regulatory success story” for competition and investment. 
+ Coincidentally, that’s the same exact approach the FCC took in 2015 to adopt the Net Neutrality framework now under attack. 
+ It really begs the question, who do you believe:  AT&T , or AT&T? 
+ Perhaps it’s time for AT&T execs to quit while they’re behind and abandon their flimsy and hypocritical crusade against Net Neutrality protections. Something tells us they won’t, no matter how many times they pretend to forget all their past statements and misdeeds. 
+ 
+ 
+ 

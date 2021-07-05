@@ -1,0 +1,46 @@
+##LINK: https://www.freezenet.ca/open-internet-in-us-begins-collapse-as-att-introduces-fast-lanes/
+##KEYWORDS: open Internet
+##TITLE: Open Internet in US Begins Collapse As AT&T Introduces Fast Lanes
+##METHOD: article 1
+
+
+
+ 
+ Open Internet in US Begins Collapse As AT&T Introduces Fast Lanes 
+   
+ Drew Wilson 
+  |  
+ June 5, 2020 
+ 
+ 
+ The repeal of network neutrality is starting to be felt at the consumer level.  This is thanks to AT&T introducing priority treatment to a streaming service. 
+ 
+ December 14, 2017.  That is a day ingrained on many tech experts minds.  This is because that is the day the Federal Communications Commission (FCC)  repealed network neutrality .  Network neutrality is the principle that all packets flowing through networks get treated equally.  It prevents Internet Service Providers (ISPs) from either blocking or slowing traffic of certain sources or giving preferential treatment to others. 
+ Network neutrality, of course, is a key pillar to an open Internet.  Startups can compete on even footing with more established players as far as the ISPs are concerned.  It enables the free market to operate as intended on the Internet side of things.  Unfortunately, so-called “free market” Republican’s began blasting the rules.  Many engaged in a massive misinformation campaign by calling it a “government takeover”.  Lies permeated from conservatives who tried to sell the story that Network Neutrality is about censorship among other things.  Of course, Network Neutrality is the exact opposite of what they were trying to say, but truth mattered little to them. 
+ With Network Neutrality repealed despite the overwhelming number of American’s screaming “don’t do it!”  In fact, during an open hearing, the FCC’s website  crashed  trying to handle the overwhelming number of American’s saying “no!” 
+ The decision to scrap Network Neutrality  sent shockwaves around the world  partly because of the disbelief that America could be this crazy.  This is because it opens ISPs up to the possibility of implementing Internet censorship, preferential treatment, and competition killing fast lanes.  It also gives monopolistic ISPs even more power to decide who wins or loses on the Internet market.  Of course, far right Trump supporters dismissed this new reality as fake news and lies from main stream media. 
+ Of course, reality cares not about what reality a minority of people choose to live in.  It just carries on. 
+ Freezenet is learning that AT&T is now introducing preferential treatment to the streaming service HBO Max.  From  The Verge : 
+ HBO Max, AT&T’s big bet on the future of streaming, will be excused from AT&T’s mobile data caps, while competing services like Netflix and Disney Plus will use up your data. 
+ That’s the follow-up from a Vergecast conversation with Tony Goncalves, the AT&T executive in charge of HBO Max. Asked whether HBO Max would hit the cap, Goncalves said his team “had the conversation” but didn’t have the answer. AT&T later confirmed to The Verge that HBO Max will be excused from the company’s traditional data caps and the soft data caps on unlimited plans. 
+ According to an AT&T executive familiar with the matter, HBO Max is using AT&T’s “sponsored data” system, which technically allows any company to pay to excuse its services from data caps. But since AT&T owns HBO Max, it’s just paying itself: the data fee shows up on the HBO Max books as an expense and on the AT&T Mobility books as revenue. For AT&T as a whole, it zeroes out. Compare that to a competitor like Netflix, which could theoretically pay AT&T for sponsored data, but it would be a pure cost. 
+ That’s why the last time we looked at AT&T’s sponsored data system, the only three streaming services we could find using it… were owned by AT&T. It’s also why sponsored data systems fly in the face of net neutrality principles. AT&T’s streaming services have a major advantage over its competitors, all of which run up against the cap. But there’s no net neutrality in the United States anymore, so AT&T is free to give itself preferential treatment. 
+ One question some might have is why it took so long to get to this point.  The repeal happened at the end of 2017.  How is it that, only now in 2020, we are seeing the effects?  Part of the answer lies in the legality of it all.  Just because the FCC simply repealed the rules doesn’t mean the story ends for these logical rules.  Some states like California  passed their own network neutrality laws  in an effort to protect American’s from the ISPs new potential power grab.  Lawsuits flew.  So, it was going to take time to settle all of this.   
+ Unfortunately, the anti-free market forces won out. 
+ If anything, the visual of the repeal of Network Neutrality being the Internet equivalent of the Titanic hitting the iceberg holds to this day.  The initial crash shook everyone.  Unfortunately, the average people on deck only sees chunks of ice on that deck.  While average people were having a fun time over the circumstances, many of them had no idea just how grave the situation is save for some of the smarter people and the engineers below deck.  They were already seeing the ship take on water and there is nothing they can do about it. 
+ At this point, the water is now entering the cabins in the lower decks.  More and more people are realizing the severity of the situation and are trying to move their way up at this point. 
+ Much like the water rising, the situation only stands to get worse and worse.  Other ISPs, if they haven’t already, will see the situation with AT&T and follow suit.  Once almost every ISP engages in this activity, they will see that maybe other incentives can be thrown at their own customers to use their streaming services more.  The ISPs, at this point, hold all the cards and they can do whatever they want at this point. 
+ All those people who were warning about all the dangers of repealing Network Neutrality have, so far, been correct to the letter.  Everything they were warning about (including us) is now coming true as scripted.  No doubt this will serve as a major warning to Internet startups across the country: be prepared to fork over huge wads of cash to stay viable or expect to go under sooner or later. 
+ Of course, there is the possibility of saving Network Neutrality.  It’s a long shot, but what choice do American’s have in the first place.  That chance comes in November when American’s go through a general election.  If Trump becomes a one term president, there is a remote possibility that the damage caused can begin to be reversed.  There’s, of course, no guarantee because a Biden presidency might simply ignore the issue altogether and let the open Internet continue to sink beneath the waters.  Still, a remote chance is better than no chance.  All the rest of the world can do is stand back and watch the horror continue to unfold in the US. 
+ (Via  TechDirt ) 
+ Drew Wilson on Twitter:  @icecube85  and  Facebook . 
+ Share this: Click to share on Facebook (Opens in new window) Click to share on Reddit (Opens in new window) Click to share on Twitter (Opens in new window) Click to share on Tumblr (Opens in new window) Click to share on LinkedIn (Opens in new window) Click to share on Pinterest (Opens in new window) Click to share on Pocket (Opens in new window) Click to share on Telegram (Opens in new window) Click to share on WhatsApp (Opens in new window) Like this: Like   Loading... 
+ 
+ 
+ 
+ 
+ 
+ 
+ Categories:  Business ,  Censorship ,  Technology 
+ Tags:  AT&T ,  HBO Max ,  Internet ,  network neutrality ,  packets ,  preferential treatment ,  streaming ,  US ,  USA 
+ |   Comments  

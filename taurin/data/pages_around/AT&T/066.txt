@@ -1,0 +1,26 @@
+##LINK: https://www.mobileworldlive.com/featured-content/top-three/california-law-pushes-att-to-end-zero-rating
+##KEYWORDS: zero-rating
+##TITLE: California law pushes AT&T to end zero-rating - Mobile World Live
+##METHOD: paragraphs
+
+AT&T announced plans to pull the plug on a zero-rating programme, blaming the move on net neutrality regulations recently introduced in the state of California.
+In a blog, AT&T explained zero-rating was banned under the Californian law and, because the internet spans all US states, so hampered its attempts to serve customers in other parts of the country.
+An operator representative told Mobile World Live the change will happen on 25 March and will impact AT&T mobile customers on metered tariffs who stream one of its DirecTV, AT&T TV or U-verse TV video services.
+Mobile customers on unlimited plans will not be affected.
+Regulator the Federal Communications Commission dropped national net neutrality rules in 2017, though an appeals court later ruled individual states could implement their own directives.
+Separate attempts by the US Department of Justice and telecom industry groups to prevent California enacting the legislation failed.
+AT&T branded the state-by-state approach as “unworkable” in its blog, arguing a patchwork of disparate regulations would create “roadblocks to creative and pro-consumer solutions”.
+It called for government intervention to determine “clear, consistent and permanent net neutrality rules for everyone to follow”.
+
+
+                                                        Diana Goovaerts                            
+
+Diana is Mobile World Live's US Editor, reporting on infrastructure and spectrum rollouts, regulatory issues, and other carrier news from the US market. Diana came to GSMA from her former role as Editor of Wireless Week and CED Magazine, digital-only...
+Read more
+Google, AT&T strike RCS deal
+AT&T SVP outlines benefits of Microsoft deal
+AT&T shifts 5G core to Microsoft cloud
+Feature Video: MWC21 Barcelona – Wrap Up
+Feature Video: Elon Musk Keynote
+Feature Video: MWC21 Barcelona – Day 2 Highlights
+©  2021 GSM Association. The GSMA, Mobile World Live, MWC Barcelona, MWC Los Angeles & MWC Shanghai terms and logos are trademarks of the GSM Association                    

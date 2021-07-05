@@ -1,0 +1,562 @@
+##LINK: https://broadbandbreakfast.com/2021/03/fcc-mapping-update-att-axes-zero-rating-in-california-zoom-files-request-for-phone-numbers/
+##KEYWORDS: zero-rating
+##TITLE: FCC Mapping Update, AT&T Axes Zero Rating In California, Zoom Files Request for Phone Numbers : Broadband Breakfast
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ Broadband Roundup 
+ FCC Mapping Update, AT&T Axes Zero Rating In California, Zoom Files Request for Phone Numbers 
+ 
+ 
+   
+ 
+ 
+ Published   4 months ago   on   March 18, 2021 
+ 
+ 
+ 
+ By   Tim White   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ Photo  of Managing Partner Jonathan Marashlian from The CommLaw Group web site 
+ 
+ 
+ 
+ 
+ 
+ 
+ March 18, 2021 – The Federal Communications Commission is working hard to implement new broadband mapping tools as quickly as possible, said Acting Chairwoman  Jessica Rosenworcel  in a blog posted Tuesday . 
+ Rosenworcel focused on four key actions she said the FCC is taking to move forward with the new Digital Opportunity Data Collection system, a new broadband mapping fabric tool that will replace the Form 477 data, also called the Broadband Serviceable Location Fabric. 
+ The four points Rosenworcel mentioned are first,  creating a task force  to “coordinate and expedite” the design of the systems needed to implement the law; second, put in place data architects and a design firm to build the website systems for the new fabric; third, the agency issued a request for information to “jump start the contracting process” for the new fabric; fourth, the FCC will create a new tool for consumers to learn more about the agency’s broadband mapping effort. 
+ 
+ Rosenworcel did not give any specific dates for any of the four points, and  in a recent letter to the commissioner , several Republican representatives pressed her on why she has changed her stance on the timeline for implementing the new fabric system. The GOP delegation referred to previous statements she made that the FCC could get the new system up and running within a few months, but now that she is acting chairwoman, she has extended that timeline to 2022, referring to her comments in the February FCC meeting. 
+ AT&T announces service changes for California residents 
+ AT&T announced Wednesday changes to services for California residents subject to the state’s yet-implemented new net neutrality law. 
+ The new neutrality law means internet service providers cannot alter the traffic on their networks, which makes illegal providers accepting payment to give preferential treatment to services. 
+ 
+ “California has enacted a ‘net neutrality’ law banning ‘sponsored data’ services that allowed companies to pay for, or ‘sponsor,’ the data usage of their customers who are also AT&T wireless customers,” the company said   in a blog post Wednesday . “Unfortunately, under the California law we are now prohibited from providing certain data features to consumers free of charge. 
+ The company added that because the internet knows no borders, customers in states outside of California will also be seeing similar changes. 
+ The California Internet Consumer Protection and Net Neutrality Act of 2018 is the first state law passed that seeks to protect online consumer data and enforce net neutrality.  Held up in court until February  by a lawsuit from broadband providers, it had not yet been implemented. The judge ruled against the providers, signaling a win from the viewpoint of several advocacy groups, including Public Knowledge and New America’s Open Technology Institute. 
+ But telecom companies and others saw it as a defeat for consumers. 
+ Similar laws are under consideration in other states, and Virginia recently joined California as the second state to target online data protection in the Virginia Consumer Data Protection Act, signed into law on March 2. The law goes into effect in 2023. 
+ Zoom seeks direct numbers from FCC; may broaden debate about the so-called ‘Skype Loophole’ 
+ Teleconferencing company Zoom recently filed an application with the FCC to get direct access to phone numbers from the North American Numbering Plan Administrator. 
+ “On the surface, Zoom’s application appears innocuous: it would like to be able to get telephone numbers for its users straight from the FCC’s numbering administrator, rather than through third-parties,”  writes  Jonathan Marashlian , managing partner of The CommLaw Group, in an opinion piece the firm’s web site . “However, it contains both an overt gesture and a read-between-the-lines message that may add to the acceleration of bringing One-Way VoIP operators under regulations requiring direct contributions to the USF.” 
+ Since 2005, one-way Voice over Internet Protocol services have been exempted from contributing to the Universal Service Fund. That fee is collected on all telephone charges, including landline and mobile services. 
+ The agency collecting the fees is the Universal Service Administrative Company, technically an arm of a non-profit organization, but taking instructions on the collection of fees from the FCC. 
+ “Zoom, seemingly, has done a head spinning U-Turn on its earlier objection to  One-Way VoIP being required to contribute to the fund , now appearing fully committed to USF contributions in its latest application,” Marashlian writes. “Zoom’s application effectively ramps-up the conversation about whether One-Way VoIP services should be brought under the regulatory sphere of services that must pay directly into the USF.” 
+ In a similar story, the  FCC recently announced  an increase for the USF fee to 33.4 percent, the highest on record. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Topics: AT&T Broadband Serviceable Location Fabric California Internet Consumer Protection and Net Neutrality Act of 2018 Digital Opportunity Data Collection DODC Fabric FCC featured federal communications commission Jessica Rosenworcel Jonathan Marashlian Marashlian & Donahue Net Neutrality Skype Loophole The CommLaw Group Universal Service Fund USF Virginia Consumer Data Protection Act Voice over Internet Protocol VoIP Zoom 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Up Next 
+ Reverse Auction For Faster Deployment, Pandemic Increased Telecom, Trump’s New Social Platform 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Don't Miss 
+ CARES Focused on Learning, States Alone on Privacy Laws, Texas’ Broadband Problem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Tim White 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reporter Tim White studied communication and political science at the University of Utah, and previously worked on Capitol Hill for a member of Congress. A native of Salt Lake City, he escapes to the Pacific Northwest as often as he can. He is passionate about politics, Star Wars, and breakfast cereal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Continue Reading 
+ 
+ 
+ 
+ You may like 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ Broadband Breakfast on Wednesday, July 14, 2021, 12 Noon ET — Spectrum for 5G, LEOs and the Future of the 12 GigaHertz (GHz) Band 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ FCC’s Rosenworcel Acknowledges Demand for Covid Broadband Program Will ‘Outlast’ Crisis 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ FCC Opens Emergency Connectivity Fund for Applications 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ Republicans on Big Tech USF Contribution, Permanent Broadband Solution After Covid, Mobile Mayo Clinic 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ FCC Equity and Diversity Charter, Chicago Renews Free Internet, Render Partners with Wessex 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ Black Churches 4 Broadband Brings Religious Fervor to Better Internet Access 
+ 
+ 
+ 
+   
+ 
+ Click to comment 
+ 
+ 
+ 
+ Leave a Reply   Cancel reply Your email address will not be published.  Required fields are marked  * Comment   Name  *   
+ Email  *   
+ Website   
+   Save my name, email, and website in this browser for the next time I comment. 
+   
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Broadband Roundup 
+ Florida Social Media Law Halted, Ohio GOP Drops Muni Broadband Ban, Online Privacy Protections For Children 
+ Judge rules against Florida social media law, Ohio GOP cuts muni broadband ban, Democrats want increased child privacy protections. 
+ 
+ 
+ 
+   
+ 
+ 
+ Published   1 day ago   on   July 1, 2021 
+ 
+ 
+ By   Jasmine Campos   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ Florida Governor Ron DeSantis 
+ 
+ 
+ March 18, 2021 – The Federal Communications Commission is working hard to implement new broadband mapping tools as quickly as possible, said Acting Chairwoman  Jessica Rosenworcel  in a blog posted Tuesday . 
+ Rosenworcel focused on four key actions she said the FCC is taking to move forward with the new Digital Opportunity Data Collection system, a new broadband mapping fabric tool that will replace the Form 477 data, also called the Broadband Serviceable Location Fabric. 
+ The four points Rosenworcel mentioned are first,  creating a task force  to “coordinate and expedite” the design of the systems needed to implement the law; second, put in place data architects and a design firm to build the website systems for the new fabric; third, the agency issued a request for information to “jump start the contracting process” for the new fabric; fourth, the FCC will create a new tool for consumers to learn more about the agency’s broadband mapping effort. 
+ 
+ Rosenworcel did not give any specific dates for any of the four points, and  in a recent letter to the commissioner , several Republican representatives pressed her on why she has changed her stance on the timeline for implementing the new fabric system. The GOP delegation referred to previous statements she made that the FCC could get the new system up and running within a few months, but now that she is acting chairwoman, she has extended that timeline to 2022, referring to her comments in the February FCC meeting. 
+ AT&T announces service changes for California residents 
+ AT&T announced Wednesday changes to services for California residents subject to the state’s yet-implemented new net neutrality law. 
+ 
+ The new neutrality law means internet service providers cannot alter the traffic on their networks, which makes illegal providers accepting payment to give preferential treatment to services. 
+ “California has enacted a ‘net neutrality’ law banning ‘sponsored data’ services that allowed companies to pay for, or ‘sponsor,’ the data usage of their customers who are also AT&T wireless customers,” the company said   in a blog post Wednesday . “Unfortunately, under the California law we are now prohibited from providing certain data features to consumers free of charge. 
+ The company added that because the internet knows no borders, customers in states outside of California will also be seeing similar changes. 
+ The California Internet Consumer Protection and Net Neutrality Act of 2018 is the first state law passed that seeks to protect online consumer data and enforce net neutrality.  Held up in court until February  by a lawsuit from broadband providers, it had not yet been implemented. The judge ruled against the providers, signaling a win from the viewpoint of several advocacy groups, including Public Knowledge and New America’s Open Technology Institute. 
+ But telecom companies and others saw it as a defeat for consumers. 
+ Similar laws are under consideration in other states, and Virginia recently joined California as the second state to target online data protection in the Virginia Consumer Data Protection Act, signed into law on March 2. The law goes into effect in 2023. 
+ Zoom seeks direct numbers from FCC; may broaden debate about the so-called ‘Skype Loophole’ 
+ Teleconferencing company Zoom recently filed an application with the FCC to get direct access to phone numbers from the North American Numbering Plan Administrator. 
+ “On the surface, Zoom’s application appears innocuous: it would like to be able to get telephone numbers for its users straight from the FCC’s numbering administrator, rather than through third-parties,”  writes  Jonathan Marashlian , managing partner of The CommLaw Group, in an opinion piece the firm’s web site . “However, it contains both an overt gesture and a read-between-the-lines message that may add to the acceleration of bringing One-Way VoIP operators under regulations requiring direct contributions to the USF.” 
+ Since 2005, one-way Voice over Internet Protocol services have been exempted from contributing to the Universal Service Fund. That fee is collected on all telephone charges, including landline and mobile services. 
+ The agency collecting the fees is the Universal Service Administrative Company, technically an arm of a non-profit organization, but taking instructions on the collection of fees from the FCC. 
+ “Zoom, seemingly, has done a head spinning U-Turn on its earlier objection to  One-Way VoIP being required to contribute to the fund , now appearing fully committed to USF contributions in its latest application,” Marashlian writes. “Zoom’s application effectively ramps-up the conversation about whether One-Way VoIP services should be brought under the regulatory sphere of services that must pay directly into the USF.” 
+ In a similar story, the  FCC recently announced  an increase for the USF fee to 33.4 percent, the highest on record. 
+ 
+ 
+ 
+ 
+ 
+ Continue Reading 
+ 
+ 
+ 
+ 
+ 
+ 
+ Broadband Roundup 
+ Starlink to Provide Mobile Backhaul, Two Digital Learning Firms Merge, Governors Outline Telehealth Effort 
+ Musk looks at mobile backhaul for Starlink, two education entities merge, governors look back at telehealth success.  
+ 
+ 
+ 
+   
+ 
+ 
+ Published   2 days ago   on   June 30, 2021 
+ 
+ 
+ By   Mike Ogunji   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ SpaceX head Elon Musk 
+ 
+ 
+ March 18, 2021 – The Federal Communications Commission is working hard to implement new broadband mapping tools as quickly as possible, said Acting Chairwoman  Jessica Rosenworcel  in a blog posted Tuesday . 
+ Rosenworcel focused on four key actions she said the FCC is taking to move forward with the new Digital Opportunity Data Collection system, a new broadband mapping fabric tool that will replace the Form 477 data, also called the Broadband Serviceable Location Fabric. 
+ The four points Rosenworcel mentioned are first,  creating a task force  to “coordinate and expedite” the design of the systems needed to implement the law; second, put in place data architects and a design firm to build the website systems for the new fabric; third, the agency issued a request for information to “jump start the contracting process” for the new fabric; fourth, the FCC will create a new tool for consumers to learn more about the agency’s broadband mapping effort. 
+ 
+ Rosenworcel did not give any specific dates for any of the four points, and  in a recent letter to the commissioner , several Republican representatives pressed her on why she has changed her stance on the timeline for implementing the new fabric system. The GOP delegation referred to previous statements she made that the FCC could get the new system up and running within a few months, but now that she is acting chairwoman, she has extended that timeline to 2022, referring to her comments in the February FCC meeting. 
+ AT&T announces service changes for California residents 
+ AT&T announced Wednesday changes to services for California residents subject to the state’s yet-implemented new net neutrality law. 
+ The new neutrality law means internet service providers cannot alter the traffic on their networks, which makes illegal providers accepting payment to give preferential treatment to services. 
+ “California has enacted a ‘net neutrality’ law banning ‘sponsored data’ services that allowed companies to pay for, or ‘sponsor,’ the data usage of their customers who are also AT&T wireless customers,” the company said   in a blog post Wednesday . “Unfortunately, under the California law we are now prohibited from providing certain data features to consumers free of charge. 
+ 
+ The company added that because the internet knows no borders, customers in states outside of California will also be seeing similar changes. 
+ The California Internet Consumer Protection and Net Neutrality Act of 2018 is the first state law passed that seeks to protect online consumer data and enforce net neutrality.  Held up in court until February  by a lawsuit from broadband providers, it had not yet been implemented. The judge ruled against the providers, signaling a win from the viewpoint of several advocacy groups, including Public Knowledge and New America’s Open Technology Institute. 
+ But telecom companies and others saw it as a defeat for consumers. 
+ Similar laws are under consideration in other states, and Virginia recently joined California as the second state to target online data protection in the Virginia Consumer Data Protection Act, signed into law on March 2. The law goes into effect in 2023. 
+ Zoom seeks direct numbers from FCC; may broaden debate about the so-called ‘Skype Loophole’ 
+ Teleconferencing company Zoom recently filed an application with the FCC to get direct access to phone numbers from the North American Numbering Plan Administrator. 
+ “On the surface, Zoom’s application appears innocuous: it would like to be able to get telephone numbers for its users straight from the FCC’s numbering administrator, rather than through third-parties,”  writes  Jonathan Marashlian , managing partner of The CommLaw Group, in an opinion piece the firm’s web site . “However, it contains both an overt gesture and a read-between-the-lines message that may add to the acceleration of bringing One-Way VoIP operators under regulations requiring direct contributions to the USF.” 
+ Since 2005, one-way Voice over Internet Protocol services have been exempted from contributing to the Universal Service Fund. That fee is collected on all telephone charges, including landline and mobile services. 
+ The agency collecting the fees is the Universal Service Administrative Company, technically an arm of a non-profit organization, but taking instructions on the collection of fees from the FCC. 
+ “Zoom, seemingly, has done a head spinning U-Turn on its earlier objection to  One-Way VoIP being required to contribute to the fund , now appearing fully committed to USF contributions in its latest application,” Marashlian writes. “Zoom’s application effectively ramps-up the conversation about whether One-Way VoIP services should be brought under the regulatory sphere of services that must pay directly into the USF.” 
+ In a similar story, the  FCC recently announced  an increase for the USF fee to 33.4 percent, the highest on record. 
+ 
+ 
+ 
+ 
+ 
+ Continue Reading 
+ 
+ 
+ 
+ 
+ 
+ 
+ Broadband Roundup 
+ Republicans on Big Tech USF Contribution, Permanent Broadband Solution After Covid, Mobile Mayo Clinic 
+ Republicans on Big Tech pay into USF, leaders press for long-term digital divide solution, Mayo Clinic’s mobile WiFi clinic.  
+ 
+ 
+ 
+   
+ 
+ 
+ Published   3 days ago   on   June 29, 2021 
+ 
+ 
+ By   Sophie Draayer   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ Kevin McCarthy says Big Tech contribution to Universal Service Fund "thought-provoking" 
+ 
+ 
+ March 18, 2021 – The Federal Communications Commission is working hard to implement new broadband mapping tools as quickly as possible, said Acting Chairwoman  Jessica Rosenworcel  in a blog posted Tuesday . 
+ Rosenworcel focused on four key actions she said the FCC is taking to move forward with the new Digital Opportunity Data Collection system, a new broadband mapping fabric tool that will replace the Form 477 data, also called the Broadband Serviceable Location Fabric. 
+ The four points Rosenworcel mentioned are first,  creating a task force  to “coordinate and expedite” the design of the systems needed to implement the law; second, put in place data architects and a design firm to build the website systems for the new fabric; third, the agency issued a request for information to “jump start the contracting process” for the new fabric; fourth, the FCC will create a new tool for consumers to learn more about the agency’s broadband mapping effort. 
+ 
+ Rosenworcel did not give any specific dates for any of the four points, and  in a recent letter to the commissioner , several Republican representatives pressed her on why she has changed her stance on the timeline for implementing the new fabric system. The GOP delegation referred to previous statements she made that the FCC could get the new system up and running within a few months, but now that she is acting chairwoman, she has extended that timeline to 2022, referring to her comments in the February FCC meeting. 
+ AT&T announces service changes for California residents 
+ AT&T announced Wednesday changes to services for California residents subject to the state’s yet-implemented new net neutrality law. 
+ 
+ The new neutrality law means internet service providers cannot alter the traffic on their networks, which makes illegal providers accepting payment to give preferential treatment to services. 
+ “California has enacted a ‘net neutrality’ law banning ‘sponsored data’ services that allowed companies to pay for, or ‘sponsor,’ the data usage of their customers who are also AT&T wireless customers,” the company said   in a blog post Wednesday . “Unfortunately, under the California law we are now prohibited from providing certain data features to consumers free of charge. 
+ The company added that because the internet knows no borders, customers in states outside of California will also be seeing similar changes. 
+ The California Internet Consumer Protection and Net Neutrality Act of 2018 is the first state law passed that seeks to protect online consumer data and enforce net neutrality.  Held up in court until February  by a lawsuit from broadband providers, it had not yet been implemented. The judge ruled against the providers, signaling a win from the viewpoint of several advocacy groups, including Public Knowledge and New America’s Open Technology Institute. 
+ But telecom companies and others saw it as a defeat for consumers. 
+ Similar laws are under consideration in other states, and Virginia recently joined California as the second state to target online data protection in the Virginia Consumer Data Protection Act, signed into law on March 2. The law goes into effect in 2023. 
+ Zoom seeks direct numbers from FCC; may broaden debate about the so-called ‘Skype Loophole’ 
+ Teleconferencing company Zoom recently filed an application with the FCC to get direct access to phone numbers from the North American Numbering Plan Administrator. 
+ “On the surface, Zoom’s application appears innocuous: it would like to be able to get telephone numbers for its users straight from the FCC’s numbering administrator, rather than through third-parties,”  writes  Jonathan Marashlian , managing partner of The CommLaw Group, in an opinion piece the firm’s web site . “However, it contains both an overt gesture and a read-between-the-lines message that may add to the acceleration of bringing One-Way VoIP operators under regulations requiring direct contributions to the USF.” 
+ Since 2005, one-way Voice over Internet Protocol services have been exempted from contributing to the Universal Service Fund. That fee is collected on all telephone charges, including landline and mobile services. 
+ The agency collecting the fees is the Universal Service Administrative Company, technically an arm of a non-profit organization, but taking instructions on the collection of fees from the FCC. 
+ “Zoom, seemingly, has done a head spinning U-Turn on its earlier objection to  One-Way VoIP being required to contribute to the fund , now appearing fully committed to USF contributions in its latest application,” Marashlian writes. “Zoom’s application effectively ramps-up the conversation about whether One-Way VoIP services should be brought under the regulatory sphere of services that must pay directly into the USF.” 
+ In a similar story, the  FCC recently announced  an increase for the USF fee to 33.4 percent, the highest on record. 
+ 
+ 
+ 
+ 
+ 
+ Continue Reading 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recent 
+ 
+ 
+ Broadband Breakfast Interview with John Busby of BroadbandNow About FCC Data Errors 
+ 
+ 
+ Companies Give Kudos to Amazon Web Services, As Competition in Cloud Security Heats Up 
+ 
+ 
+ Experts Disagree Over Need, Feasibility of Global Standards for Antitrust Rules 
+ 
+ 
+ Florida Social Media Law Halted, Ohio GOP Drops Muni Broadband Ban, Online Privacy Protections For Children 
+ 
+ 
+ Congress Should Give States More Authority Over Broadband Priorities, Experts Say  
+ 
+ 
+ Broadband Breakfast on Wednesday, July 14, 2021, 12 Noon ET — Spectrum for 5G, LEOs and the Future of the 12 GigaHertz (GHz) Band 
+ 
+ 
+ Signup for Broadband Breakfast   
+ 
+ 
+ 
+ 
+ 
+ 
+ Get twice-weekly Breakfast Media news alerts.   
+ 
+ 
+ 
+ 
+ Email Address * 
+ 
+ 
+ 
+ First Name 
+ 
+ 
+ 
+ Last Name 
+ 
+   
+				* = required field			 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+     
+ 
+ 
+ 
+ Trending 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ #broadbandlive 4 months ago 
+ 
+ Broadband Breakfast Live Online Wednesday, March 24, 2021 – The State of Online Higher Education 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ Privacy 4 months ago 
+ 
+ New Laws Needed on Capturing Data Collection From Mixed Reality, Experts Say 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ Broadband Roundup 3 months ago 
+ 
+ California Push for Inclusion, Former AT&T Lawyer Alleges E-Rate Overcharges, Virginia Funds Broadband 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 5G 4 months ago 
+ 
+ Panelists and Telecommunications Policy Research Conference Urge Focus on Equitable 5G Rollout 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ Rural 4 months ago 
+ 
+ Debate About Fiber Versus Wireless for Rural Broadband Deployments Continues to Percolate 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ Broadband Roundup 4 months ago 
+ 
+ $109 Billion for Broadband Bill, AT&T Fiber, Starlink’s 60 New Satellites, Klobuchar’s Antitrust Crusade 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ FCC 4 months ago 
+ 
+ What You Need To Know About the More-Than-$7 Billion Emergency Connectivity Fund 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ Education 3 months ago 
+ 
+ Educators Worry About ‘Zoom Fatigue’ In Students, Recommend Innovative Teaching Techniques 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

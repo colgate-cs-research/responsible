@@ -1,0 +1,54 @@
+##LINK: https://www.aei.org/technology-and-innovation/telecommunications/brexit-means-net-neutrality-eu/
+##KEYWORDS: net neutrality
+##TITLE: What Brexit means for net neutrality in the EU | American Enterprise Institute - AEI
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Blog Post  
+ What Brexit means for net neutrality in the EU 
+ 
+ AEIdeas 
+ 
+ 
+ 
+ Technology and Innovation Telecommunications   
+ 
+ 
+ 
+ Roslyn Layton 
+ 
+ 
+ June 28, 2016 
+ 
+ 
+ 
+ One of the many implications of last week’s Brexit vote may be that American Internet companies could have  an escape valve  from the EU’s fundamentally flawed regulation for online privacy. The question is whether the same self-determination can also apply to other areas of Internet regulation. 
+ Net neutrality in the EU 
+ The UK decision to leave the European Union after more than 40 years is evidence of Europeans’  deep dissatisfaction with Brussels and its top down decision-making . The EU’s  net neutrality rules are a microcosm of this dysfunction.  British telecom expert Martin Geddes argues, while the starting point of neutrality is understandable, its regulation has turned into something  unfair, unreasonable, and discriminatory . In the EU this has translated to proposed net neutrality guidelines from the Body of European Regulators for Electronic Communications (BEREC). 
+ In writing these guidelines, BEREC has, much like the FCC, stretched its statutory power to attempt to  implement an extreme version of net neutrality, which the legislative branch did not approve . And much like the FCC, this process was championed by US-funded pro-net neutrality activists,  including Barbara van Schewick . While the European Parliament may have rejected van Schewick’s amendments, she succeeded in having her language built into the guidelines through accepting BEREC’s invitation to a  secret “expert”meeting , thereby circumventing the democratic process. 
+ Meanwhile, in the UK… 
+ Until the EU net neutrality regime took effect in April of this year, the UK had success with its own, light-touch,  multistakeholder   approach  focused on transparency and competition for five years. The UK approach succeeded in keeping violations at bay, while supporting an environment where innovation and investment flourished both among edge providers and Internet service providers. In addition, Ofcom, more than any other telecom regulator, brought metrics to its Open Internet policy and recognized that traffic management is legitimate. It even commissioned  an independent study  that revealed that none of the commercial tools which purport to detect so-called non-neutral traffic management are reliable. 
+ From Ofcom’s perspective, net neutrality rules should be flexible and avoid becoming “pre-emptive micro-regulation,”such as bans on specialized services and traffic management, which the EU rules under the proposed BEREC interpretations threaten to do. Former Ofcom head Ed Richards  noted , “I fear that over-prescriptive and detailed legislation may deliver the opposite of the intended effect; not more certainty but less, not the exercise of balanced objective judgement but the pursuit of skewed, self-interested litigation. The internet is an enormously complex and dynamic ecosystem, where the law of unintended consequences looms very large indeed.” 
+ Next steps for net neutrality in Europe 
+ Somewhat ironically, Europe now finds itself in a situation in which BEREC’s net neutrality working group is co-chaired by two countries that are not official EU member states: Norway and the UK. Presently, the UK is negotiating with the EU for a way forward that makes sense for its national interest. One option is to join the European Economic Area, but this is not essential for tech policy, as the UK has assets to create an Internet policy that maximizes its interests independently. It should wisely chose its proven, reasonable approach to net neutrality rather than the wrongheaded EU path. The UK’s departure, in addition to the fact that stakeholders from across the board are voicing – at least in the regulatory hearings I have attended – their dissatisfaction with the proposed guidelines, leaves the BEREC process looking increasingly illegitimate. 
+ There is no doubt that, just as they have with the EU,  US-funded Internet activists  will descend on Ofcom should they return to their rational approach on net neutrality. However, Ofcom has resisted such pressure in the past, and chances are that a country that can stand up to Brussels will do the same when they come face to face with activists from across the pond. While the UK is likely to experience some economic impacts from the referendum, Britons no longer need to be captive of bad decisions from Brussels. This post was originally published on TechPolicyDaily. 
+ 

@@ -1,0 +1,60 @@
+##LINK: https://www.fiercetelecom.com/telecom/cogent-s-schaeffer-overturning-net-neutrality-bad-for-internet-ecosystem
+##KEYWORDS: net neutrality
+##TITLE: Cogent’s Schaeffer: Overturning net neutrality is bad for the internet ecosystem | FierceTelecom
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+by  Sean Buckley  |
+ Dec 5, 2017 1:07pm 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+Schaeffer said reclassifying ISPs under Title I will harm consumers by giving providers more control over network connectivity.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cogent, a company whose spats with ISPs over blocking traffic has become stuff of legend in the telecom industry, says that the FCC’s plan to overturn the 2015 net neutrality order is a mistake. 
+ 
+ 
+ 
+ 
+ Dave Schaeffer, CEO of Cogent at UBS' 45th Annual Global Media and Communications Conference, told investors that the regulator’s pending decision will have a rippling effect on the overall internet. 
+                            Dave Schaeffer “I think this is a bad thing for the entire internet ecosystem,” Schaeffer said. “It’s almost a certainty on a 3-2 vote, the FCC will decide to negate the principles of net neutrality as well as reclassify internet service providers as information services and not as communications services.”   
+ 
+ 
+ 
+ 
+ RELATED:  Cogent’s Netcentric business growth at risk from net neutrality changes, says analyst 
+ The FCC will vote on reclassifying ISPs under Title I of the Telecom Act during its upcoming monthly meeting. FCC Chairman Ajit Pai will present a repeal for the program, put in place by his predecessor Tom Wheeler, that prevents paid content prioritization and other schemes that would create "fast" and "slow" lanes for internet content. 
+ Right before the Thanksgiving holiday, FCC Chairman Ajit Pai  circulated  a Report and Order on Restoring Internet Freedom, which would reverse the agency’s 2015 decision to regulate broadband internet access service under Title II of the Communications Act. 
+ For Cogent, which provides fiber and IP transit services to ISPs and content providers like Netflix, the current net neutrality rules emerged following battles with eight service providers that would not upgrade their interconnection points. 
+ By not upgrading these interconnection points, these providers made it more difficult for consumers to access applications like Netflix, one of Cogent’s largest customers. 
+ “The regulatory oversight that was put in place in June 2015 was beneficial to us and it helped us go to a group of 8 ISPs who methodically began blocking their customers’ connectivity to the internet by refusing the upgrade the interconnection points,” Schaeffer said. “In doing so they were looking to harm some of our customers, particularly some of our largest video customers.” 
+ Under the terms of these contracts, these providers are required to make necessary upgrades. Other than Deutsche Telekom, which Cogent has sued, the remaining seven providers have all abided by the terms of the contracts. 
+ In reclassifying ISPs under Title II of the Communications Act, the FCC was able to bring a sheriff into the room that allowed Cogent to enter into multi-year contracts to exchange traffic and required each provider to upgrade their networks. 
+ “With the FCC’s 2015 internet order, our problems have gone away,” Schaeffer said. “Even if the current rules are overturned, we have adequate interconnection.” 
+ Schaeffer added that reclassifying ISPs under Title I will harm consumers by giving these providers more control over network connectivity. 
+ “What these rules will allow companies to do is choose whether for their end users will have adequate connections,” Schaeffer said. “We think that’s a bad idea and we also believe these rules will be challenged and will be reverted back to where they are now.” 
+ 
+ 
+ Read more on 
+ 
+ net neutrality   Cogent Communications   FCC   Ajit Pai   
+ 
+ 
+ 

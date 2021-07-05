@@ -1,0 +1,93 @@
+{
+    "AT&T": {
+        "articles": 126,
+        "phrases": 179,
+        "articles_with_0_phrases": 59,
+        "articles_with_1_phrase": 19,
+        "articles_with_2+_phrases": 48
+    },
+    "British Telecom": {
+        "articles": 47,
+        "phrases": 3,
+        "articles_with_0_phrases": 44,
+        "articles_with_1_phrase": 3,
+        "articles_with_2+_phrases": 0
+    },
+    "Cogent Communications": {
+        "articles": 50,
+        "phrases": 18,
+        "articles_with_0_phrases": 37,
+        "articles_with_1_phrase": 10,
+        "articles_with_2+_phrases": 3
+    },
+    "Deutsche Telekom": {
+        "articles": 94,
+        "phrases": 26,
+        "articles_with_0_phrases": 72,
+        "articles_with_1_phrase": 18,
+        "articles_with_2+_phrases": 4
+    },
+    "FirstLight Fiber": {
+        "articles": 5,
+        "phrases": 0,
+        "articles_with_0_phrases": 5,
+        "articles_with_1_phrase": 0,
+        "articles_with_2+_phrases": 0
+    },
+    "Hurricane Electric": {
+        "articles": 22,
+        "phrases": 0,
+        "articles_with_0_phrases": 22,
+        "articles_with_1_phrase": 0,
+        "articles_with_2+_phrases": 0
+    },
+    "Internet2": {
+        "articles": 48,
+        "phrases": 3,
+        "articles_with_0_phrases": 46,
+        "articles_with_1_phrase": 1,
+        "articles_with_2+_phrases": 1
+    },
+    "KDDI": {
+        "articles": 34,
+        "phrases": 0,
+        "articles_with_0_phrases": 34,
+        "articles_with_1_phrase": 0,
+        "articles_with_2+_phrases": 0
+    },
+    "NYSERNet": {
+        "articles": 5,
+        "phrases": 0,
+        "articles_with_0_phrases": 5,
+        "articles_with_1_phrase": 0,
+        "articles_with_2+_phrases": 0
+    },
+    "Sprint": {
+        "articles": 106,
+        "phrases": 44,
+        "articles_with_0_phrases": 78,
+        "articles_with_1_phrase": 17,
+        "articles_with_2+_phrases": 11
+    },
+    "Telefonica": {
+        "articles": 59,
+        "phrases": 2,
+        "articles_with_0_phrases": 57,
+        "articles_with_1_phrase": 2,
+        "articles_with_2+_phrases": 0
+    },
+    "Telia Carrier": {
+        "articles": 8,
+        "phrases": 0,
+        "articles_with_0_phrases": 8,
+        "articles_with_1_phrase": 0,
+        "articles_with_2+_phrases": 0
+    },
+    "Zayo": {
+        "articles": 19,
+        "phrases": 1,
+        "articles_with_0_phrases": 18,
+        "articles_with_1_phrase": 1,
+        "articles_with_2+_phrases": 0
+    }
+}

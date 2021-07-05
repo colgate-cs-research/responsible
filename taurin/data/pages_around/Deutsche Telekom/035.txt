@@ -1,0 +1,28 @@
+##LINK: https://thedesk.matthewkeys.net/2021/03/tmobile-binge-on-california-net-neutrality/
+##KEYWORDS: net neutrality
+##TITLE: T-Mobile won't change Binge On perk after California net neutrality rule - The Desk
+##METHOD: article 1
+
+
+
+ 
+ 
+ T-Mobile won’t change Binge On perk after California net neutrality rule 
+ 
+ 
+ 
+  by  Matthew Keys Posted on   March 21, 2021 March 21, 2021   
+ 
+ 
+ (Image: Deutsche Telekom/Handout, Graphic: The Desk) 
+ T-Mobile says it has no plans to change its Binge On feature that allows some subscribers of its older phone plans to stream video from popular services without counting against data caps. 
+ In a statement  provided to the website Fierce Wireless  last week, a  T-Mobile  spokesperson said the company had determined that the Binge On feature would not run afoul of California’s new network neutrality rules, which requires Internet service providers — including wireless phone companies — to treat Internet traffic equitably. 
+ “Our determination is that Binge On is not affected by this because it zero-rates the video streaming services category,” the T-Mobile spokesperson said. “Binge On is open for free to all video streaming services that choose to participate and meet basic technical criteria.” 
+ T-Mobile’s feature is offered to subscribers of its Simple Choice wireless plans. The perk allows Simple Choice subscribers to stream content from Netflix, Hulu, Amazon Prime Video, HBO, Showtime and a handful of other services without using their allotted data, as long as they agree to stream the content in standard definition. 
+ The perk is substantially different to one offered by rival phone company AT&T called Sponsored Data. Under the Sponsored Data plan, subscribers were allowed to stream content or visit certain websites without that access counting towards their data buckets, but only after the content providers agreed to pay AT&T a fee for inclusion in the perk. 
+ Early last week,  AT&T  said it was  ending its Sponsored Data feature  because it felt the perk infringed on California’s network neutrality law. In a  claim challenged by some technologists , AT&T said it was unable to fence off California customers from the rest of the country, so it removed the feature for everyone. 
+ Unlike Sponsored Data, companies aren’t required to pay T-Mobile for inclusion in Binge On, which makes the program different enough for T-Mobile to feel it won’t run afoul of California’s network neutrality rules. 
+ Customers on T-Mobile’s Simple Choice plans can always turn off Binge On if they want to watch video in high definition, but that video does count towards their bucket of allotted high speed data. Once a customer uses up their high speed data, their data speeds are slowed for the remainder of the month. 
+ 
+ 
+ Posted in:  News ,  News Brief ,  Streaming ,  Technology Tagged:  AT&T ,  T-Mobile   

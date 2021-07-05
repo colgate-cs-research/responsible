@@ -1,0 +1,20 @@
+##LINK: https://www.ispreview.co.uk/index.php/2019/03/ofcom-fines-o2-uk-75k-over-response-to-traffic-management-probe.html
+##KEYWORDS: net neutrality
+##TITLE: Ofcom Fines O2 UK £75K Over Response to Traffic Management Probe - ISPreview UK
+##METHOD: paragraphs
+
+Mobile operator O2 (Telefonica UK) has been fined £75,000 by Ofcom for “failing to provide accurate and complete answers” to the regulator, which occured as part of last year’s investigation into the operator’s Traffic Management practices on their 3G and 4G network.
+The EU’s Net Neutrality rules are currently applied using a self-regulatory approach in the UK via the 2016 Open Internet Code. This requires providers to treat all internet traffic equally without discrimination, restriction or interference (here). Essentially the code means that broadband ISPs and mobile operators cannot impose excessive restrictions against legal internet traffic, albeit with some caveats.
+In keeping with that the telecoms regulator raised a number of concerns with O2 last year, which resulted in the operator providing signed assurances and committing to a number of key changes by 30th April 2019 (detailed here). However Ofcom also challenged O2 over their initial February 2018 response to a related information request about its Traffic Management practices (here).
+Today the regulator has ruled that O2 “contravened the requirements of a statutory information request by failing to provide accurate and complete answers to our questions.”
+Ofcom’s Statement
+Given the importance and reliance that we place on the information requested under our statutory powers, we consider that an incomplete and inaccurate response is a serious matter.
+Accordingly, for the reasons set out in the Confirmation Decision, we have found O2 in breach of its obligations and imposed a penalty of £75,000 in respect of this contravention.
+End.
+75k? Does that even qualify as a slap on the wrist?
+For a company with yearly revenue in excess of £6.5 billion, I would say no. I would go as far as to say that isn’t even a speck on a speck of dust and o2 won’t pay it any heed. It’s a formality. A token gesture to say “this report isn’t very good and we expect better” to add gravitas without simply saying that and being done with it.
+Interesting that with it being a voluntary and self regulating code, you’d think that any report demanded by Ofcom would have to be rather spartan or of very low quality to garner this indictment.
+O2 have managed my traffic by reducing the signal strength to almost unusable
+Have any O2 users noticed any difference?  Has O2 done anything?
+Comments are closed.
+Comments RSS Feed

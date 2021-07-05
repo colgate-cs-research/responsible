@@ -1,0 +1,43 @@
+##LINK: http://www.azevedosette.com.br/news/en/brazilian-antitrust-authority-decides-that-zero-rating-does-not-violate-free-competition/4656
+##KEYWORDS: zero-rating
+##TITLE: News & Recent Work | Azevedo Sette Advogados
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 07 Nov 2017 
+ 
+ 
+ 
+ Brazilian antitrust authority decides that zero rating does not violate free competition 
+ 
+ 
+ 
+ The Administrative Counsel for Economic Defense dismissed an Administrative Inquiry arising from a denunciation filed by the Public Prosecutor Office against Brazilians mobile network operators ( MNO s) – Claro (América Movil Group), Tim (Italia Telecom Group), Oi (Brazilian capital owned) and Vivo (Telefonica Group) – for offering zero rated applications in their data packages but blocking or slowing down applications that are not zero rated. According to the Public Prosecutor Office, the zero rating deals could be framed in several anti-competitive acts set forth by the Brazilian Antitrust Act (Law 12,529/2011), harming free competition through the discrimination to certain applications and differentiated prices. 
+ The denunciation is grounded on the fact that such  MNO s control almost all of the market and offer certain applications through reduced billing, total relief or sponsored access, what can distorts competition in the market, raises obstacles to new companies and discourages innovation and new investment. 
+ Besides, according to the Public Prosecutor Office, under the pretext of offering something free, these zero rating deals violate the principle of net neutrality to the extent that they actually make onerous the neutral internet access; the internet becomes selective and economically segmented; and users lose their self-determination and access to web applications in isonomic basis. 
+ In Brazil, the net neutrality is considered a principle that guides the internet use. It was regulated by the article 9 of the Law 12,965/2014, known as the Internet Bill of Rights or Marco Civil da Internet. The hypothesis of discrimination or degradation of traffic was fixed by the Decree 8.771/2016, which regulates the Law 12,965/2014. Article 9 following unilateral practices and agreements between those responsible for transmitting, switching or routing and application providers are forbidden: 
+ I  –  those   that   compromise   the   public   and   unrestricted   character   of   internet   access   and   the   fundamentals ,  principles   and   goals   of   internet   usage   in   the   country ; 
+ II  –  prioritize   data   packages   due   to   commercial   arrangements ;  or 
+ III  –  favor   applications   offered   by   those   responsible   for   transmitting ,  switching   or   routing   or   by   companies   in   the   same   economic   group . 
+ The Brazilian Telecommunications Agency – Anatel has argued that zero rated data packages in principle do not violate net neutrality rules and it is not a threat to free competition.  According to Anatel, such offers generate efficiency gains and do not limit the ability of innovation in the market applications and, thus, there would not be enough evidence for opening an administrative process by  CADE .  
+ The arguments of the Ministry of Science, Technology, Innovation and Communications ( MCTIC ) were aligned with Anatel’s. For the  MCTIC , there were not enough evidences to consider zero rating as an anti-competitive act as foreseen in the Brazilian Antitrust Act.  
+ According to the  MNO s, zero rating offers are totally in compliance with the net neutrality rules set forth by Internet Bill of Rights. Besides, the allegation of infringement to net neutrality rules could not be in the scope of the Administrative Inquiry because  CADE  is not in charge to analyze zero rating under the perspective of Internet Bill of Rights Law.  
+ The  MNO s also alleges that zero rating has the potential to benefit consumers, increase the competition among applications and promotes innovation. This is because there is no exclusivity agreement between  MNO s and applications and any other company can adopt similar policies.  Consequently, there is not anticompetitive impact. 
+ On the other hand,  PROTESTE  (a consumers’ defense non-profit entity) and  ABRANET  (the Brazilian Association of Internet) have expressly demonstrated to be favorable to the antitrust investigation and against zero rating under the ground that it violates net neutrality due to the fact that once the data cap reaches its limit, the access of zero rated applications is allowed to continue, while all other applications will be slowed down or blocked. For such entities, it violates the Internet Bill of Rights, Decree 8,771/2016 and the Antitrust Act, and means a barrier to innovation and the entrance of new players in apps market.  
+ In view of the above, the General Superintendence of  CADE , understood a  priori  that  CADE  is not in charge to analyze violations against net neutrality rules set forth by the Internet Bill of Rights – in turns,  CADE  shall examine such deals only from the perspective of antitrust law.  Besides, the argument of Anatel and  MCTIC  that zero rating does not violate the Internet Bill of Rights was enough to convince the General Superintendence. 
+ As regards the competition aspects, the General Superintendence understood that there are no elements to demonstrate that zero rating harms competition, because (i) there is no corporate relationship between the  MNO s and applications that do not count towards any data cap in place on the internet access service; (ii) the provision of free access to these applications would save the data cap, and foster the access to other applications; (iii) there are no contractual relationship of exclusivity between  MNO s and applications. In addition, the General Superintendence considered that completely banning the zero rating could inhibit the development of governmental and educational sites and applications if the data cap is used. 
+ Finally, the General Superintendence decided to dismiss the Administrative Inquiry, but highlighted that it can be reopened if new elements of violations to the economic order are confirmed. 
+ The entity for consumer defense  PROTESTE  has appealed against the General Superintendence’s decision, arguing that the Brazilian Internet Committee Steering and the Consumer Defense Secretariat were not consulted – in turns,  CADE  preferred to consult only Anatel and the  MCTIC  to ground its decision. The entity also argued that, according to a research from the Brazilian Network Information ( NIC .br), prepaid plans with zero rating is more used by low income classes (B, C and D/E), and, as there are no offers of zero rating other than Facebook and WhatsApp, the assumption that there is no harm to competition seems to be fragile and without grounds. 
+ It is important to highlight that the Body of European Regulators for Electronic Communications –  BEREC  guidelines explain that some practices are clearly prohibited – those where all applications are blocked or slowed down once the data cap is reached except for the zero-rated application(s). However, there is not a unanimous position of regulators worldwide whether or not the zero rating deals violate net neutrality rules. Besides, in view of the fast pace of technological innovation, new business models have being raised and it not possible to reach a definitive conclusion on the anticompetitive effects of zero rating. 
+ *This article was written with the valuable contribution of Vitor Koketu da Cunha, legal trainee of Azevedo Sette Advogados.   
+ 
+ 
+ 
+                                                Telecommunication, Internet and Information Technology                                                 
+ 
+ 
+ 

@@ -1,0 +1,35 @@
+##LINK: http://www.telco2.net/blog/2012/05/what_if_they_threw_a_net_neutr.html
+##KEYWORDS: net neutrality
+##TITLE: Telco 2.0: What if they threw a net neutrality party and nobody came?
+##METHOD: paragraphs
+
+
+« Data Roaming Caps; Akamai CDN/Cloud; Telefonica’s Voice 2.0 TUMe  - Telco 2.0 News Review |
+                        Main
+                        | Digital Things 2.0: M2M Value Innovation for Telcos  »
+
+We’ve recently linked to several presentations from Informa’s 3G & LTE Optimisation conference, via the 3G & 4G Wireless Blog. But this one, from DTAG’s Kim Kyllesbech Larsen, is really outstanding on the practicalities of working with the mobile data explosion, what works, and what doesn’t. Notably, fair-use policy enforcement doesn’t help, but small cells and WLAN offload do. We’ll be publishing more on this in the coming months.
+Posted at  6:06 PM | Link to this article
+
+
+                                    (To prevent spam, all comments need to be approved by the Telco 2.0 team before appearing. Thanks for waiting.)
+                                 
+
+Name:
+
+
+
+Email Address:
+
+
+
+URL:
+
+
+
+
+                                          Remember personal info?
+
+
+Comments: (you may use HTML tags for style)
+

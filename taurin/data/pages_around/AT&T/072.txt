@@ -1,0 +1,43 @@
+##LINK: https://techcrunch.com/2017/01/11/fcc-voices-serious-concerns-over-atts-zero-rating-scheme/
+##KEYWORDS: zero-rating
+##TITLE: FCC voices ‘serious concerns’ over AT&T’s zero-rating scheme – TechCrunch
+##METHOD: article 1
+
+
+
+ 
+ 
+ FCC voices ‘serious concerns’ over AT&T’s zero-rating scheme 
+ 
+ 
+ 
+ 
+			Devin Coldewey		 
+ 
+ @techcrunch 
+  /  
+						4 years		 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The FCC may be on the verge of being rebuilt under a very different administration, but reports put together under the current one are still being issued — and just such a one released today offers a critical view of some current “zero-rating” plans from AT&T, T-Mobile and Verizon. 
+ The practice of zero-rating, or not counting the traffic of certain apps and services toward bandwidth caps, has become increasingly common as a way to stimulate use of streaming services. However, the possibility exists that a company may unfairly benefit by zero-rating its own services, a violation of Net Neutrality rules, which is what the FCC investigated in this report. 
+ Despite some bluster from the companies involved and commission member Ajit Pai, who  called the report in a comment to Recode  the body’s “latest regulatory spasm,” the document and its conclusions are really rather tame. 
+ T-Mobile is cleared of suspicion essentially for having no skin in the video game, and Verizon (which owns Aol, which owns TechCrunch) is only considered to have the  potential  for problematic behavior, only if it expands its zero-rated services to reach beyond short-form video. 
+ AT&T, however, is given a stern talking-to: 
+ …We have serious concerns that AT&T Mobility’s Sponsored Data program presents competitive problems and, to date, nothing in AT&T responses to the Bureau’s requests for information has addressed our concerns. Based on the information gathered to date, we believe there is a substantial possibility that some of AT&T’s practices may violate the General Conduct Rule. 
+ That’s the rule that was put in place instead of more structured, preventative measures when the 2015 Open Internet Order was created. The intention was to, as in this case, allow companies to do what they wish as long as they didn’t cause serious anticompetitive effects, among other soft restrictions. If practices seemed to be pushing the envelope, the FCC would respond with an inquiry such as the one summarized here. 
+ AT&T was singled out because while it claims to offer similar terms on zero-rating packages to all services, DirecTV is a wholly own subsidiary. The companies are closely tied enough that AT&T seems to be able to zero-rate it at nominal cost, while other services incur a significant per-gigabyte cost — giving rise to a “significant unreasonable advantage” for AT&T’s service. 
+ As the report does little more than point this fact out, there isn’t much for AT&T to do in response; the company did issue a statement: 
+ It remains unclear why the Wireless Bureau continues to question the value of giving consumers the ability to watch video without incurring any data charges. This practice, which has been embraced by AT&T and other broadband providers, has enabled millions of consumers to enjoy the latest popular content and services – for free. We hope the government continues to support a competitive marketplace that lowers costs and increases choice for consumers. 
+ However, the Open Internet Order may very well soon be rescinded and the rules it proposed replaced with more lax ones, if the president-elect and his advisors follow through on intimations they’ve made to that end. 
+ You can  read the full report  at the FCC’s website. 
+ 
+ 
+ 
+ 
+ 

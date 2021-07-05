@@ -1,0 +1,35 @@
+##LINK: https://ipfinder.io/as9821
+##KEYWORDS: open Internet
+##TITLE: Pricing - ipapi
+##METHOD: paragraphs
+
+Free forever, no exceptions.
+Basic level — core features and up to 50.000 monthly requests.
+Our best-seller — advanced features and up to 500.000 monthly requests.
+Professional level — complete set of API features and up to 2 million monthly requests.
+Looking for more? Contact us for a quote.
+Long-term collaboration with large Internet Service Providers allow for the highest level of IP data reliability and accuracy.
+Powered by a rock-solid and highly available cloud infrastructure, the API returns IP results within milliseconds in JSON or XML format.
+To keep your information safe, any data sent to and from the ipapi service is encrypted using 256-bit HTTPS (SSL) encryption. 
+Deliver a custom-fitted and personal user experience to your customers, no matter which country, language, currency or time zone.
+Make use of valuable fraud and security assessment data and protect your website and back-end system from dangerous IP addresses.
+Learn to use the API in under 10 minutes using your programming language and a fully-featured, interactive API documentation.
+How scalable is this service?
+ipapi is an API service built on top of a highly scalable cloud infrastructure and therefore capable of handling anything from a thousand IP address lookups per month all the way up to several million API requests per hour. 
+How often is IP data refreshed?
+At ipapi we are making every effort to deliver accurate, consistent and up-to-date IP address data any day of the year. IP data provided by ipapi is updated around the clock with up to 300 data updates, additions and removals in a given day. 
+What is the difference between free and paid subscriptions?
+The ipapi Free Plan is a way of getting familiar with the API, offering basic API functionality and a limitation of 10.000 API requests that can be processed by the API per month. As soon as your use of the API requires a more advanced set of functionalities, such as bulk lookups or security assessment data, you can choose from one of the available paid subscriptions or contact us for a custom solution.
+Which subscription plan fits my needs?
+The most decisive factor when it comes to your technical requirements is the number of monthly IP addresses your website, application or backend system needs to look up per month. Other factors include HTTPS encryption, advanced IP data modules and the ability to make bulk IP lookups. Signing up for the Free Plan is a great way of getting to know the API and implementing it without any commitments. 
+Which payment methods are supported?
+Payments can be made via credit card (Visa, MasterCard, Discover, Diner's Club, American Express). Enterprise and high-volume customers may request annual bank transfer payments to be enabled. You can change your payment method at any given time in the "Payment" section of your account dashboard.
+Can I also pay yearly?
+Yes. If you choose annual billing, the total price of your subscription plan will be 20% lower than the total amount you would pay with a monthly payment frequency.
+What is an API Request?
+Pricing is based on the number of monthly API requests allowed. Each time the ipapi service is used to look up an IP address one API request is made. In the event that an error should occur, your request does not count towards the monthly volume. 
+What happens if I exceed my API Request volume?
+Users will be automatically notified via email and in their account dashboard as soon as at least 75%, 90%, and 100% of their monthly API quota has been reached. Since we are aware that data requirements may be very variable, your quota may be exceeded by a maximum of 20%.
+What is the API's uptime?
+Our API's system status is closely monitored around the clock. Every effort is made to ensure the highest possible level of availability and consistency, and we are proud to have an average uptime rate of nearly 100% (99.9%), calculated based on the past 12 months.  There is a public API status page available at the following URL: status.ipapi.com.
+Convinced? More than 30,000 businesses around the world are. Get started now Get Standard Plan

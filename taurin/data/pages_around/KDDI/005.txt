@@ -1,0 +1,62 @@
+##LINK: https://www.w3.org/blog/2014/10/this-week-css-20th-anniversary-autowebplatform-progress-timbls-keynote-physical-web-etc/
+##KEYWORDS: net neutrality
+##TITLE: This week: CSS 20th anniversary, autowebplatform progress, TimBL’s keynote, Physical Web, etc. | W3C Blog
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 10 October 2014  by  Coralie Mercier  | Posted in:  Automotive ,  Community and Business Groups ,  CSS ,  Digest ,  HTML ,  Mobile ,  Web of Devices   
+ 
+ 
+ 
+ This is the  3-10 October 2014  edition of a “weekly digest of W3C news and trends” that I prepare for the W3C Membership and  public-w3c-digest  mailing list (publicly  archived ). This digest aggregates information about W3C and W3C technology from online media —a snapshot of how W3C and its work is perceived in online media. 
+ W3C and HTML5 related Twitter trends 
+ [What was tweeted frequently, or caught my attention. 
+ Most  recent  first] 
+ 
+ ( 600 )  Dev.Opera :  CSS: It was twenty years ago today — an interview with Håkon Wium Lie 
+ 
+ ( 80 )  Automotive :  Accelerating the Adoption of Web Technologies in the Automotive Industry 
+ 
+ ( 35 )  HTML5 wearable :  Hoodie season is here. Bundle up and wear your HTML5 badge proudly! @html5 @w3c @html5guy 
+ 
+ ( 620 )  Hybrid apps :  HTML5 Has A New Best Friend—And It’s Apple, Not Google 
+ 
+ (25)  Hybrid apps :  HTML5 does not have a new best friend 
+ 
+ 
+ Open Web & net neutrality 
+ 
+ The New York Times | Bits :  Tim Berners-Lee, Web Creator, Defends Net Neutrality  – 8 October 2014
+ 
+ Scott Jenson (Google) :  Physical Web, an open web spec to “Walk up and use anything”  – 3 October 2014
+ 
+ Open Web Board :  KDDI Develops Creative Platform for Firefox OS Developers  – 3 October 2014
+ 
+ 
+ W3C in the Press (or blogs) 
+ 22  articles since the last Digest; a selection follows. You may read all articles in our  Press Clippings  page. 
+ 
+ Gizmodo  (10 October),  CSS Is 20 Years Old Today 
+ 
+ CNET  (9 October),  The tired GIF gets a modern-day makeover 
+ Motherboard  (8 October),  Tim Berners-Lee Wants a World Wide Web Where Our Data Works for Us 
+ The Guardian | Technology  (8 October),  Sir Tim Berners-Lee speaks out on data ownership 
+ Intel IoT Blog  (6 October),  Accelerating the Adoption of Web Technologies in the Automotive Industry 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ About Coralie Mercier 
+ 
+ Coralie  is Head of W3C Marketing and Communications.			 
+				View all posts by Coralie Mercier  →   
+ 
+ 
+   

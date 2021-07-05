@@ -10,7 +10,7 @@ import json
 
 urllib3.disable_warnings()
 
-def main(outpath="output/search_no-around.json"):
+def main(outpath="output/search_around.json"):
     keywords = ["net neutrality", "open Internet", "zero-rating", "paid prioritization"]
     #keywords = ["MANRS"]
 
@@ -27,8 +27,7 @@ def main(outpath="output/search_no-around.json"):
     for company in companies:
         dict_of_links[company] = {}
         for keyword in keywords:
-            #query = '"%s" AROUND(50) "%s"' % (company, keyword)
-            query = '"%s" "%s"' % (company, keyword)
+            query = '"%s" AROUND(50) "%s"' % (company, keyword)
             print(query)
             query = urllib.parse.quote_plus(query) # Format into URL encoding
             ua = UserAgent()

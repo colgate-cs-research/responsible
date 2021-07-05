@@ -1,0 +1,13 @@
+##LINK: https://bgp.tools/as/4775
+##KEYWORDS: open Internet
+##TITLE: AS4775 Globe Telecoms - bgp.tools
+##METHOD: paragraphs
+
+Globe Telecoms
+
+                            AS Number
+                            4775
+
+                        
+                            Website
+                            http://www.globe.com.ph/business

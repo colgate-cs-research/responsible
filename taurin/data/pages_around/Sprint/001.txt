@@ -1,0 +1,61 @@
+##LINK: https://www.fiercewireless.com/wireless/sprint-ceo-net-neutrality-there-s-nothing-wrong-charging-for-faster-service
+##KEYWORDS: net neutrality
+##TITLE: Sprint CEO on net neutrality: There’s nothing wrong with charging for faster service | FierceWireless
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+by  Mike Dano  |
+ Feb 27, 2018 11:31am 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+Sprint's Marcelo Claure was one of several keynote speakers who addressed net neutrality. (Mike Dano/FierceWireless)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BARCELONA, Spain—Sprint’s CEO said that he doesn’t see anything wrong with charging customers more money in order for them to obtain faster service. 
+ 
+ 
+ 
+ 
+ “I don’t think there’s anything wrong for you to eventually charge a higher price for a faster access to your network,” Sprint CEO Marcelo Claure said during a keynote discussion here at the Mobile World Congress trade show. “You have this anyway. In the United States in many roads you drive, you have a faster road and you pay more. There’s nothing wrong with that. We’re still determining what is going to be the price for 5G and how we’re going to charge you, but the economics say, consumers are willing to pay more for a better service and are willing to pay less for a different type of service.” 
+ Claure was responding to a question from moderator Kristie Lu Stout of CNN, who asked whether the operator would adhere to open internet and net neutrality principles. 
+ 
+ 
+ 
+ 
+ “We’re big believers in the open internet,” Claure said. “I believe there needs to be some light regulation, and it needs to be very light, in order for us to manage our networks.” 
+ Added Claure: “We need to manage our networks … That’s the most important thing to us.” 
+ Claure’s statements contrasted sharply with those from Andrus Ansip, vice president of the European Commission, who argued for a forceful application of net neutrality guidelines across Europe and beyond. 
+ “Internet providers must treat all internet traffic equally,” he said, noting specifically that operators should be prohibited from blocking or throttling specific types of content on the internet. “I believe everyone has the right to access an open internet, where all traffic should be treated equally … I will continue to protect an open internet and net neutrality.” 
+ Said Ansip: “I do not want a digital freeway for a select few while others use a dirt track.” 
+ Ansip’s position was particularly noteworthy because he sat immediately next to FCC Chairman Ajit Pai during the keynote event. Pai, of course, led the U.S. regulator’s repeal of Obama-era net neutrality guidelines. 
+ Pai argued that the FCC made the right move in rescinding net neutrality guidelines because he said those rules would inhibit innovation. He said the U.S. FTC should instead protect consumers against unfair actions by telecom carriers on a case-by-case basis. 
+ “I want to stress that this is light-touch regulation—not a completely hands-off approach. Nobody gets a free pass,” Pai said. “The United States is simply making a shift from pre-emptive regulation, which foolishly presumes that every last wireless company is an anti-competitive monopolist, to targeted enforcement based on actual market failure or anti-competitive conduct." 
+ "Most importantly, we have restored the jurisdiction of the Federal Trade Commission over internet service providers. And the FTC will now be able to consistently protect competition and consumers across the internet economy—with respect to ISPs and edge providers alike," he added. "The bottom line is simple: We had a free and open internet for two decades before 2015, and we will have a free and open internet going forward.” 
+ “The market, not government, is best positioned to drive innovation,” Pai argued. 
+ Of course, Claure’s position on charging more for faster speeds is no real surprise. Indeed, a wide range of wired internet providers in the United States already offer tiers of service that provide faster network speeds for more money. 
+ The same is true of wireless: AT&T, for example, offers an unthrottled, unlimited wireless service for $90 per month and one that is capped at 3 Mbps for $65 per month. 
+ 
+ 
+ Read more on 
+ 
+ net neutrality   Marcelo Claure   Sprint   Ajit Pai   FCC   MWC18   
+ 
+ 
+ 

@@ -1,0 +1,43 @@
+##LINK: https://potsandpansbyccg.com/2016/07/01/metropolitan-isps/
+##KEYWORDS: net neutrality
+##TITLE: Metropolitan ISPs | POTs and PANs
+##METHOD: article 1
+
+
+
+ 
+ 
+ July 1, 2016   
+ Metropolitan ISPs 
+ 
+ 
+ Leave a comment 
+ 
+ 
+ I spend most of my time working with rural ISPs. Even my clients that work in larger cities tend to provide service to residential customers and to small and medium businesses. But there is a very competitive market for larger businesses and for businesses that operate in multiple markets. 
+ My clients often run into this when they realize that they are unable to sell broadband to a local chain restaurant, convenience store, bank or other large nationwide or regional business. I recently poked around to see who the carriers are that are selling to metropolitan or nationwide businesses. Some of those on the list will surprise you with their success and there are carriers on the list that you’ve probably not heard of. 
+ Since most of the ISPs in this category don’t report business revenues separate from other revenues it’s difficult to rank these companies by revenue.  Further, some of the companies on this list are almost entirely retail ISPs while others offer wholesale connections to other carriers. Probably the easiest way to compare these carriers is by looking at the number of buildings they claim to have lit with fiber. Of course, even that is not a very reliable way to compare them since there is no standard definition of what constitutes a lit building. But generally these counts are supposed to represent locations with either one very large customer, like a hospital, or else buildings with multiple business tenants. Some of these companies are also count locations like data centers or large metropolitan cell towers. 
+ Here are the carriers that claim to provide fiber to more than 5,000 business buildings: 
+ 
+ Time Warner 75,000 
+ Level3 30,000 
+ Cox 28,000 
+ AT&T 20,000 
+ Zayo 16,700 
+ Charter 13,800 
+ Fibertech 10,400 
+ Verizon 10,000 
+ Lightower   8,500 
+ Sunesys   7,200 
+ Cablevision   7,000 
+ Frontier   6,300 
+ 
+ Missing from this list is Comcast. I can’t find any references to the number of lit buildings they are in. They are a major provider of business broadband and reported just over 1 million business customers along with $1.3 billion in revenue for their Business Services division. Also missing from the list is CenturyLink who doesn’t seem to claim lit buildings anywhere that I could find. CenturyLink claims to be selling to more than 100,000 businesses on fiber at the end of 2015. 
+ On the list though are both Charter and Time Warner Cable that just merged, which would put them in 88,800 buildings. Fibertech and Lightower merged in 2015 giving them a total of 18,900 lit buildings. 
+ Level3 and Zayo provide both retail and wholesale fiber products, meaning that they will sell connections into the lit buildings directly to businesses or else to other carriers, and they derive a large portion of their revenues from wholesale sales. 
+ The first thing that surprised me about this list is that the cable companies appear to be in a lot more buildings than AT&T and Verizon. There are two possible explanations for this. One is that each group of companies is counting lit buildings in a different way. For example, the cable companies might be counting buildings like schools while the telcos might only be counting larger multi-tenant buildings. But it’s also possible that the telcos have a strategy of only building fiber to the largest buildings in each market while the cable companies will build routinely to smaller buildings. It does raise the question if this is a reasonable side-by-side comparison. 
+ I would also note that some of these companies are growing rapidly and that most of these counts came from 2014 or 2015. Vertical Systems Group (a research and consulting firm that tracks the metro Ethernet market) says that the percentage of the metropolitan businesses connected to fiber grew from 42% in 2014 to 46% in 2015. 
+ Share this: Click to share on LinkedIn (Opens in new window) Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window) Click to share on Pocket (Opens in new window) Click to share on Reddit (Opens in new window) Click to email this to a friend (Opens in new window) Click to print (Opens in new window) Like this: Like   Loading...   
+ 
+ Posted by  CCGConsulting  in  The Industry   Tagged:  AT&T ,  Cox Communications ,  Fibertech ,  Level3 ,  lit buildings ,  Time Warner ,  Verizon ,  Zayo 
+ 

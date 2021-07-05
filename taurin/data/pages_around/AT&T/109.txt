@@ -1,0 +1,111 @@
+##LINK: https://www.attpublicpolicy.com/broadband/narrowing-the-debate-on-paid-prioritization/
+##KEYWORDS: paid prioritization
+##TITLE: Narrowing the Debate On Paid Prioritization - AT&T Public Policy
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ Narrowing the Debate  On Paid Prioritization 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ by  Hank Hultquist 
+ Vice President of Federal Regulatory 
+ 
+ 
+ 
+ September 2, 2010 
+ at 12:37pm 
+ 
+ 
+ 
+ 
+ As discussed in my last  blog , for many years proponents of extreme versions of net neutrality regulation have  fulminated  against the practice of “paid prioritization.” In a recent  series  of  letters , Free Press argued that the Commission should in no circumstances permit ISPs to be compensated for the provision of “router-based prioritization,” and that such prioritization is not taking place today. 
+ At the time, Free Press was responding to a letter filed by the  Minority Media and Telecom Council  that urged the Commission not to adopt a blanket ban on payment for prioritization. According to MMTC: 
+ “Today, when [businesses] sign up for Internet access service, many of these businesses also enter into voluntary arrangements with their broadband providers for the provision of enhanced quality of service capabilities as part of their Internet access service as well as other specialized offerings. These agreements allow [businesses] to identify a portion of their traffic as requiring better than “best effort” handling. This capability allows these businesses to ensure that the performance sensitive applications that they wish to run, such as VoIP or IP-based video conferencing, receive the service quality needed to function properly.” 
+ Free Press responded at the time by insisting that such compensation arrangements were inconceivable under the IETF documentation for Differentiated Services (DiffServ). 
+ Yesterday, the New America Foundation’s Open Technology Initiative (OTI)  basically endorsed  the practice described by MMTC. According to OTI: “[t]he intended purpose of DiffServ is user-driven differentiation of traffic.” It would seem that Free Press owes MMTC a clarification. 
+ OTI also suggested that AT&T’s provision of paid prioritization to its business customers might, in some undefined way, be inconsistent with merger commitments to which AT&T was previously subject. This allegation is unfounded (as OTI itself appears to recognize,  “ …we do not believe at present that AT&T is asserting that it engaged in widespread paid discrimination that would have violated the AT&T/BellSouth merger conditions at the time they were applicable.” ). 
+ OTI’s letter suggests to me that net neutrality proponents may be using a somewhat idiosyncratic definition of “paid prioritization,” which is apparently not simply a question of whether an ISP receives compensation for prioritizing traffic, but whether the ISP has been compensated for prioritization “determined by the provider,” as opposed to the users of the network. 
+ I do not believe that OTI or any other party has suggested this distinction in the past. But it is possible that the two sides have simply been talking past each other and that there may in fact be no material controversy over this aspect of net neutrality. Indeed, OTI’s suggestion that policymakers should focus on the use of DPI in conjunction with an ISP practice to override end user priority preferences may provide a basis for a more fruitful discussion of exactly which compensation-for-prioritization practices should be of concern to policymakers. 
+ In this spirit, I invite OTI to join AT&T, as well as independent technology experts, in a public forum to discuss these issues. It is my sincere hope that such a discussion could potentially bridge what has seemed up until now to be a nearly unbridgeable gap. Consensus around a strong presumption in favor of paid prioritization undertaken at the behest of an ISP’s end user customers would be, in my opinion, a very positive development in the net neutrality debate. 
+ Share this     
+ 
+ Posted in  Broadband ,  Consumer Broadband ,  Open Internet 
+ 
+   
+  Newer Entry Older Entry  
+   
+   
+ 
+ 
+ 
+ 
+ 
+      		Comments
+      		    		 
+ 
+ 
+ Comment Moderation Policy 
+ AT&T pre-moderates comments on our blog before they are published. This means there will be a delay between the time a comment is submitted and it appears on the post. Profanity or topics that are not germane to the post will not be approved for posting. If you wish to communicate with AT&T regarding customer service, please call 1-800-331-0500 or reach out on Twitter at @ATTCares. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Posts   
+ 
+ AT&T Statement on Bipartisan Agreement on Broadband Infrastructure 
+ Posted July 1, 2021 
+ 
+ 
+ 
+ 
+ Broadband Products Supporting Low-Income Households 
+ Posted June 11, 2021 
+ 
+ 
+ 
+ 
+ AT&T Statement on Need to Address Current Subsidy Program for Low-Income Americans 
+ Posted May 26, 2021 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Sign up to get our posts delivered to your inbox 
+ 
+ 
+ 
+ 
+ Email Address 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ Bot check, do not enter a value 
+ 
+   
+ 
+ 

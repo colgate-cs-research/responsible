@@ -1,0 +1,89 @@
+##LINK: https://bryanalexander.org/uncategorized/after-net-neutrality-how-should-educators-respond/
+##KEYWORDS: zero-rating
+##TITLE: After net neutrality: how should educators respond? | Bryan Alexander
+##METHOD: paragraphs
+
+On December 14th, 2017, the United States FCC ended its policy of net neutrality.
+I’ve been writing about this topic for some time (on balkanization; on EDUCAUSE; on Internet2; on ISTE and NMC; on zero rating) and now would like to pick up on one emergent theme.  How should the education world respond to the demise of net neutrality?  What are our possible strategies?
+First I’ll list options and their advantages. Next, reasons not to act will appear at the end of this post. Disadvantages and other options are for you, dear reader, and maybe for another post.
+Who should be involved?  When I say “education” I’m thinking of the American education system, including primary and secondary schools, colleges and universities, libraries, and museums.  I’m also thinking of professional societies and associations.
+Who among that vast swarm is best positioned to take the lead?
+Readers know from my work that EDUCAUSE has emerged as a serious leader in this domain.  This week we also saw several high profile public libraries take a stand against the FCC’s decision, in terms of internet access for the poorest:
+As strong advocates for and guardians of the right for people to seek and receive information from all points of view without restriction, New York City libraries cannot possibly support such a measure.
+Shifting from the organizational to the individual level, there are a also group of academics who could also provide leadership and guidance.  I’m thinking of specialists with public roles, like Zephyr Teachout (Fordham University), Tressie Cottom (Virginia Commonwealth University), and Roy Gutterman (Syracuse University).  There are also academics like Timothy Chester (University of Georgia) who are skeptical of net neutrality concerns, and they can keep the rest of us honest and our arguments well honed.  We should also keep in mind public intellectuals working outside the academy, like data scientist and critic Cathy O’Neil.  There are others.
+Lobbying Congress Apparently Congress has a period of time to review and even undo the FCC’s decision.  However, the Republicans, the political party that empowered Ajit Pai to end net neutrality, have majorities in both houses of the federal legislature, so success is unlikely.  Assuming the Democrats uniformly support the previous policy, could educators focus our energies on several key senators and representatives, in order to crack those majorities?  Or should educators instead focus on generating general outrage, the way popular howls of dismay helped block the Republican health care reform drive?
+Getting political Educators could start staking out more public positions in favor of net neutrality.  We could join or organize protests, marches, demonstrations.  How many educators joined in the Verizon protests a few weeks back?
+Getting even more political At the present time net neutrality is almost perfectly a partisan issue.  Educators could throw in their lot with the Democratic party (more than we already do), openly linking up with those elected officials, and more strongly oppose Republicans.
+Court cases Academics could help with legal challenges, of which there may well be several.  Law school and pre-law faculty could file briefs and publish assessments, or offer advice to activists and sympathetic legislators.
+Getting technical: surveying the surveillors Educators with the right skillsets and resources could keep an eagle eye on ISPs to alert the rest of us when they misbehave (throttling traffic, censoring content, setting up extortionate price plans, etc).  We could show people how to use tools like this one to monitor their own network experiences, or join projects like this.
+Furthermore, the politics of this decision – a mix of technology, government, plutocracy – will likely be studied by academics for years to come.  Departments like American studies, economics, political science, media studies, and, of course, computer science will offer analyses and curricula.
+Getting more technical: DIYnets One classic response to a disliked technology is the creation of an alternative technology.  People unhappy with local ISPs can create their own networks.  My little Vermont town did this a decade ago.  It’s heroically hard work with numerous fatal problems, but in some situations people can boot up their own.
+Should educators support this?  We have the intellectual firepower all over the place, from computer scientists to IT departments and business faculty specializing in entrepreneurship.
+Working with non-educational groups There are organizations beyond the education world that are active and could serve as allies.  The ACLU, Open Media, Free Press, EFF, Fight for the Future Demand Progress are some.
+Collaborating with corporations Some major technology businesses like Google, Netflix, and Twitter oppose the FCC’s decision.
+We’re disappointed in the decision to gut #NetNeutrality protections that ushered in an unprecedented era of innovation, creativity & civic engagement. This is the beginning of a longer legal battle. Netflix stands w/ innovators, large & small, to oppose this misguided FCC order.
+— Netflix US (@netflix) December 14, 2017
+The @FCC's vote to gut #NetNeutrality rules is a body blow to innovation and free expression. We will continue our fight to defend the open Internet and reverse this misguided decision. https://t.co/TXTQWDiBNC
+— Twitter Public Policy (@Policy) December 14, 2017
+Can educators work with these firms?  Perhaps not, if we oppose them politically (for a variety of reasons) or deem their opposition ineffective or insincere.
+We could also decide to do nothing.
+That sounds appalling, but there are really several reasons and ways that could play out.
+So which shall it be?  Will American education accept the end of net neutrality, or take the field to restore it?
+I’m going to keep asking this question for a while.
+(thanks to the kind people who interacted with my furious tweetstorm on Thursday; thanks as well to Paul Baldridge)
+Great column! To your questions: “How should the education world respond to the demise of net neutrality?  What are our possible strategies?” I suggest for college/university faculty & IT:
+Get your Academic Senate tech committees to take this up as new business worthy of a Senate resolution, as it can affect research, teaching, and learning. Copy local media and ISPs on the final resolution (which could be as early as January but is likely to be February, that’s how it works). This is one thing that higher-ed colleagues can do immediately, on campus, even if they’re otherwise disengaged (i.e. even if they’d never even see this post or believe they can have a voice).
+Good thought.  It honors faculty governance.
+I’d add another name to bring in to the converation – Harold Feld from Public Knolwedge who also regularly blogs over at http://www.wetmachine.com/
+Thank you so much for this resource (now in my feed reader)
+Another legal expert?  Excellent.
+I disagree with Net Neutrality being a partisan issue except in the specific, limited context of members of Congress. The major of Republican voters, including extreme right are for net neutrality, against its repeal. Likewise, Republican administrators and faculty are likely to support net neutrality.
+I’ll share this with Education Bloggers Network too — mostly K-12 and lately less active lately, but with members spread across BATs and other K-12 advocacy groups.
+Quite true.  I was just thinking of federal elected officials.
+And thank you.
+Reblogged this on As the Adjunctiverse Turns.
+Pingback: Net Neutrality Matters to Museums
+I piece I think you are forgetting is educational institutions (mostly post-sec) as co-owners/members of large state/regional networking consortia, and the role these have to play as ‘ISPs’ to campuses, and indeed the role campuses play as ISPs, and all of the ways they interrelate to commercial entities. If you are part of an edu, ask who provides the campus internet, which consortia are we a part of, who governs them, how do influence that? They typically want to try to stay apolitical, just focus on big pipes for researchers, to which i call BS> It’s ALL political.
+Great point about regional and state consortia, nessman.
+Pingback: On the solstice, dark thoughts for 2018 | Bryan Alexander
+Pingback: Netzneutralität in den USA passé – KB-Blog
+Pingback: CANTLON’S CORNER: WOLF PACK START POST-HOLIDAY THREE-IN-THREE IN PROVIDENCE | HOWLINGS
+Your email address will not be published. Required fields are marked *
+Comment 
+
+
+Notify me of followup comments via e-mail
+
+Name * 
+Email * 
+Website 
+ Notify me of follow-up comments by email.
+ Notify me of new posts by email.
+ 
+
+
+Many call themselves “futurists” — Bryan actually knows how to do it.
+–Howard Rheingold
+Is @BryanAlexander a wizard because he wrote about the possibility of a pandemic in 2018? He says he has a beard like one.
+–NPR’s 1A
+Gotta love @BryanAlexander‘s ability to catalyze a conversation without leaning on hyperbole or triggers.
+-Mark David Milliron
+This is so well-structured and thoughtful that it almost made me forget I was terrified while reading it.
+–Kyle Erlenbeck
+When ⁦@BryanAlexander  is futuring about you, you’d better start futuring yer own dang self!
+–Stephanie Doscher
+[F]uturist and higher-ed guru Bryan Alexander…
+–Gabriel Paquette
+Enter your email address to follow this blog and receive notifications of new posts by email.
+
+
+							Email Address                        
+
+
+
+
+
+
+
+
+	                        Subscribe                        

@@ -1,0 +1,126 @@
+##LINK: https://www.cnet.com/news/at-t-net-rules-must-allow-paid-prioritization/
+##KEYWORDS: paid prioritization
+##TITLE: AT&T: Net rules must allow 'paid prioritization' - CNET
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ 
+AT&T said Tuesday that any Net neutrality plan restricting its ability to engage in "paid prioritization" of network traffic would be harmful and contrary to the fundamental principles of the Internet.
+ 
+ 
+Telecommunications providers need the ability to set different prices for different forms of Internet service, AT&T said, adding that it already has "hundreds" of customers who have paid extra for higher-priority services.
+ 
+ 
+"Our view is that if the Federal Communications Commission is going to be making policy decisions on this front, it should base them on the facts, as opposed to dogma," an AT&T representative told CNET on Tuesday. In a  blog post , AT&T vice president Hank Hultquist argued that the  Internet Engineering Task Force's specifications  specifically permit paid prioritization.
+ 
+ 
+The flap over paid prioritization started a few weeks ago when Free Press, a pro-regulatory advocacy group, sent letters ( No. 1  and  No. 2 ) to the FCC dubbing the concept "discriminatory" and claiming it will "only benefit the few content giants that have deep enough pockets to pay for favorable treatment."
+ 
+ 
+In a telephone interview on Tuesday, Free Press research director Derek Turner said that allowing paid prioritization would undercut the entire concept of Net neutrality, which had its previous legal foundation swept away earlier this year when a federal appeals court  shot down  the FCC's attempt to punish Comcast for temporarily throttling BitTorrent transfers.
+ 
+ 
+Since that ruling, liberal interest groups have been  lobbying  FCC chairman Julius Genachowski for a new set of regulations, while a majority of members of the U.S. Congress has opposed the idea. Google and Verizon responded by  announcing  their own  proposal , which includes a "presumption" that paid prioritization on wired networks is illegal.
+ 
+ 
+"A ban on paid prioritization is the DNA of the open Internet," Turner said. He called AT&T's arguments a "straw man," saying that: "What AT&T is describing is a practice that we have no problem with, which is that an end user can buy a T1 and set priority flags, and AT&T respects those priority flags."
+ 
+ 
+ Prioritization 'expected' But the designers of the protocols that make up the modern Internet had something a bit more ambitious in mind. In the late 1990s, the  Internet Engineering Task Force  revised those standards to allow network operators to assign up to 64 different traffic "classes," meaning priority levels.
+ 
+ 
+Free Press "wants to force consumers to be charged higher rates to pay for the construction of more broadband infrastructure than would be needed if networks could be better managed," says  Berin Szoka , a senior fellow at the  Progress and Freedom Foundation , which has been critical of new broadband regulations.
+ 
+ 
+A July 1999 IETF specification ( RFC 2638 ) discusses paid prioritization by saying: "It is expected that premium traffic would be allocated a small percentage of the total network capacity, but that it would be priced much higher." Another specification ( RFC 2475 ) published half a year earlier says that setting different priorities for packets will "accommodate heterogeneous application requirements and user expectations" and "permit differentiated pricing of Internet service."
+ 
+ 
+Today that concept of "differentiated services" is referred to as DiffServ. It's part of quality-of-service technologies that companies like AT&T offer, usually to business customers, that rely on DiffServ packet headers to group different types of classes of service together. Real-time voice communication may be ranked the highest, followed by financial transactions, then e-mail, and finally bulk file-transfer protocols that aren't as sensitive to brief slowdowns.
+ 
+ 
+It's true that DiffServ markings are typically used inside corporate networks to support applications like VoIP. But a video-conferencing site that has connectivity through AT&T could presumably use DiffServ to prioritize its packets over, say, online shopping and BitTorrent transfers--and keep that priority all the way to an AT&T home customer.
+ 
+ 
+Which is precisely the argument that AT&T is making. In a strongly-worded letter ( PDF ) sent Monday to the FCC, AT&T says that the protocol specification "in no way limits the use of DiffServ to packets marked by 'end users,' as opposed to content providers or network operators." 
+ 
+ 
+"The (FCC) should view with healthy skepticism the opinions it receives on technical Internet matters from an advocacy group with no demonstrable expertise or operational experience in those matters," AT&T's letter says. "Paid prioritization over Internet access is not, as Free Press maintains, some lurking future menace that would pervert the intent of the IETF. To the contrary, it was fully contemplated by the IETF." 
+ 
+ 
+Free Press' Turner disagrees. "DiffServ was not designed to be a tool to allow the network provider to drive application-level discrimination," he says. He says that his organization will send a letter to the FCC by Wednesday explaining its position.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ Comments 
+ 
+ 
+ 
+   
+ 
+ 
+ AT&T 
+ BitTorrent 
+ FCC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Notification on 
+ Notification off 
+ 
+ 
+ Tech Industry 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

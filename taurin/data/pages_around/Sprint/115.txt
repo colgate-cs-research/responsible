@@ -1,0 +1,327 @@
+##LINK: https://www.theverge.com/2017/12/15/16768088/internet-providers-plans-without-net-neutrality-comcast-att-verizon
+##KEYWORDS: paid prioritization
+##TITLE: ISPs won’t promise to treat all traffic equally after net neutrality - The Verge
+##METHOD: article 1
+
+
+
+ 
+ 
+ 
+ 
+ Filed under: 
+ 
+ 
+ 
+ Policy 
+ 
+ 
+ 
+ 
+ US & World 
+ 
+ 
+ 
+ 
+ Net Neutrality 
+ 
+ 
+ 
+ 
+ 
+ ISPs won’t promise to treat all traffic equally after net neutrality 
+ 
+ 
+ 
+ 
+    New,
+   
+ 
+ 
+        61
+       
+ comments 
+ 
+ 
+ 
+ 
+ Lots of talk, little promise 
+ 
+ 
+    
+      By
+       
+ Jacob Kastrenakes @jake_k 
+ 
+ 
+ 
+          Dec 15, 2017, 11:38am EST
+         
+ 
+ 
+          Illustration by  William Joel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share this story 
+ 
+ 
+ 
+ 
+ Share this on Facebook 
+ 
+ 
+ 
+ 
+ 
+ Share this on Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ All sharing options for: 
+ ISPs won’t promise to treat all traffic equally after net neutrality 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Linkedin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reddit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pocket 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flipboard 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The FCC voted to  put an end to net neutrality , giving internet providers free rein to deliver service at their own discretion. There’s really only one condition here: internet providers will have to disclose their policies regarding “network management practices, performance, and commercial terms.” So if ISPs want to block websites, throttle your connection, or charge certain websites more, they’ll have to admit it. 
+ We’re still too far out to know exactly what disclosures all the big ISPs are going to make — the rules (or lack thereof) don’t actually go into effect for another few months — but many internet providers have been making statements throughout the year about their stance on net neutrality, which ought to give some idea of where they’ll land. 
+ We reached out to 10 big or notable ISPs to see what their stances are on three core tenets of net neutrality: no blocking, no throttling, and no paid prioritization. Not all of them answered, and the answers we did get are complicated. 
+ Internet providers have been forced to behave — and they use that as proof nothing will change 
+ Many ISPs say they support some or all of these core rules, but there’s a big caveat there: for six of the past seven years, there have been net neutrality rules in place at the FCC. That means all of the companies we checked with have had to abide by the no blocking, no throttling, and no paid prioritization rules. It means that they can say, and be mostly correct in saying, that they’ve long followed those rules. But it is, on some level, because they’ve had to. 
+ What actually matters is which policies ISPs say they’ll keep in the future, and few are making commitments about that. In fact, all of the companies we contacted (with the exception of Google) have supported the FCC’s plan to remove the current net neutrality rules. And one has to ask: if ISPs really plan to voluntarily follow those rules in the future, then why did they want to see them overturned? It’s clear that there must be some restrictions that we’ll ultimately see ISPs start to break. 
+ In particular, none of the ISPs we contacted will make a commitment — or even a comment — on paid fast lanes and prioritization. And this is really where we expect to see problems: ISPs likely won’t go out and block large swaths of the web, but they may start to give subtle advantages to their own content and the content of their partners, slowly shaping who wins and loses online. 
+ With that in mind, here’s what we know about some of the biggest internet providers’ plans for a world without net neutrality 
+ Comcast 
+ Comcast has  an extremely brief page  on its website dedicated to net neutrality, where the company makes three statements. The only important one is this: “We do not block, slow down, or discriminate against lawful content.” It’s a present-tense statement — not a promise — and has to be true because the current FCC rules require it. 
+ In an email to  The Verge , Comcast’s government communications SVP, Sena Fitzmaurice, said that the company’s business practices have “enshrined” these stances around lawful content. I asked if these commitments were guaranteed into the future, but didn’t receive a response. 
+ Notably, Comcast doesn’t say much about paid prioritization either. It actually used to, but Comcast removed a line from its open internet site  back in April  saying that it doesn’t prioritize internet traffic or create paid fast lanes, suggesting it isn’t willing to make that part of its platform. The company has repeatedly reiterated that it does not offer paid fast lanes and currently has “ no plans to do so ,” but it hasn’t said that it never will. 
+ Comcast also doesn’t have a public stance on zero-rating, something that’ll be increasingly important as the company puts data caps on its subscribers. Those data caps are high enough right now that it’s doubtful many subscribers will hit them, but that’s likely to change in the future as 4K video eats up more and more bandwidth. 
+ Takeaway:  Comcast says it currently doesn’t block, throttle content, or offer paid fast lanes, but hasn’t committed to not doing so in the future. 
+ Disclosure: Comcast is an investor in Vox Media,  The Verge ’s parent company. 
+ AT&T 
+ AT&T actually makes some fairly specific commitments on net neutrality principles. On its network management page, the company says it “does not favor certain websites or internet applications” by blocking or throttling, except for security purposes. 
+ More importantly, AT&T’s SVP of external and legislative affairs, Bob Quinn, wrote in  a blog post  that these policies are here to stay. “[These commitments] represent a guarantee to our customers that we will provide service in an open and transparent way,” Quinn wrote. “They have been, and will continue to be, enforceable commitments. We will not remove that language and we will continue to update any changes we make to our network management practices.” 
+ So that’s actually pretty good as far as ISP commitments go. But it does leave out two things: 
+ The first is zero-rating. AT&T actually explicitly says elsewhere that it thinks zero-rating is a good thing. The company’s EVP of regulatory and state external affairs, Joan Marsh, calls it “unambiguously beneficial to consumers.” AT&T already runs a zero-rating program, called Sponsored Data, and it’s obviously not going to stop. 
+ The other question is around paid prioritization. Does AT&T’s no throttling commitment mean it won’t create fast and slow lanes? Probably not. While paid fast lanes effectively throttle whoever doesn't pay, ISPs draw a distinction between the two practices. Which means that, like Comcast, paid prioritization remain a possibility, even if it’s not something AT&T is doing today. We’ve reached out on this point for clarification but haven’t heard back. 
+ Takeaway:  AT&T has committed to not blocking or throttling websites in the future. However, its stance around fast lanes is unclear. 
+ Verizon 
+ Like Comcast, Verizon has a website dedicated to explaining its stance on net neutrality principles. Unlike Comcast, it’s quite wordy — though it doesn’t actually say all that much. 
+ Verizon seems to say it’s committed to not blocking legal content, though it does so in a roundabout way, writing that customers “can access and use the legal content, applications, and services of your choice, regardless of their source.” Verizon spokesperson Rich Young says that even after the rules are lifted, “our internet customers will continue to be able to go where they want and do what they want online.” 
+ As for throttling, zero-rating, and paid prioritization, Verizon doesn’t have an answer. Verizon already offers zero-rated services (it runs a program with the obnoxious name “FreeBee Data 360,” which Verizon’s own Go90 service takes advantage of), so that one’s answered. That practice is likely to continue, if not expand to cover other Verizon content. 
+ When it comes to throttling and paid prioritization, Verizon’s net neutrality page actually seems to hint that fast lanes could happen. Verizon says it plans to “innovate and create new services” and that when it does so, it’ll “disclose to you the characteristics, capabilities, and terms of our various service offerings.” We’ve reached out to Verizon for clarification. 
+ Takeaway:  Verizon indicates that, at least in the immediate future, it will not block legal content. As for throttling and fast lanes, the company has no stance, and even seems to be excited to use the absence of rules to its advantage. 
+ T-Mobile 
+ T-Mobile is extremely vague on its commitments and declined to elaborate on them in emails to  The Verge . The company’s existing network management page says that it “does not block lawful traffic based on content or subject,” which, again, is a legal requirement at this point in time. T-Mobile also published  a statement  yesterday saying, “we always have and will support an open internet,” though it doesn’t define what that means. 
+ That’s really all we have. And T-Mobile is well-known for providing zero-rated services, which can advantage some apps over others. Binge On, for instance, lets customers stream some video services for free, but not others. While it covers a wide range of services, it doesn’t cover everything, meaning that some apps and sites necessarily have an advantage. 
+ Takeaway:  T-Mobile makes no commitments to not throttle content or offer paid fast lanes and is unclear on its commitment to not blocking sites and services. It’s already involved in programs that advantage some services over others. 
+ Sprint 
+ Sprint is fairly vague in its stance as well. Its website says that Sprint “does not block sites based on content or subject, unless the internet address hosts unlawful content or is blocked as part of an opted-in customer service.” So that generally seems to be a stance against blocking lawful content, with an exception for, say, parental controls. Though, again, this is legally required right now. 
+ Aside from that, Sprint doesn’t comment on throttling, zero-rating, or paid prioritization. And in an email to  The Verge , a Sprint spokesperson seemed to indicate that the company would take advantage of these changes, saying the absence of net neutrality rules “appears to allow Sprint to manage our network and differentiate our products.” That differentiation, presumably, being through services that couldn’t be offered before because they violated net neutrality. 
+ When asked to clarify, a spokesperson said, “It would be a big leap to hypothesize that means limited or zero-rated plans.” 
+ Takeaway:  Sprint makes no commitments on net neutrality, but suggests it doesn’t have plans to offer a service that would block sites.  
+ Charter (Spectrum) 
+ Charter, which recently bought Time Warner Cable and became the United States’ second largest cable provider, says it has “ no plans ” to change its current practices. That’s not a commitment, but it is a sign that some basic policies should continue. 
+ In an email to  The Verge , a Charter spokesperson pointed to  a recent statement  saying that the company has “a longstanding commitment to an open internet.” Charter also says it doesn’t “block, throttle, or interfere with the lawful activities of our customers” or impose data caps or charge customers based on data usage. Those final items aren’t legal requirements, and the lack of data caps does mean that Charter can’t offer zero-rated services. 
+ The company doesn’t say anything about paid prioritization, however. And Charter didn’t respond to a follow-up question on whether these are permanent positions. 
+ Takeaway:  Charter doesn’t make any guarantees, but the company indicates that it’s currently committed to not blocking or throttling customers. 
+ Cox 
+ Cox says that the FCC’s vote won’t change its commitments to net neutrality, which include not blocking or throttling customers. “Cox has always been committed to providing an open Internet experience for our customers, and reversing the classification of Internet services will not change our commitment,” a spokesperson said in an email to  The Verge . 
+ The company declined to elaborate beyond that comment. So Cox doesn’t have any stance on paid prioritization or zero-rating, which the company can implement because it employs data caps. 
+ Takeaway:  Cox says it won’t block or throttle content, even without net neutrality. It won’t make commitments on zero-rating or paid fast lanes. 
+ Altice USA (Optimum and Suddenlink) 
+ Altice, the parent company of Optimum and Suddenlink (as well as a number of foreign ISPs and internet companies), has next to no details available on its website. But in a comment emailed to  The Verge , an Altice USA spokesperson said the company does “not block, throttle, or unfairly discriminate against lawful content and [is] committed to ongoing transparency with our customers on those policies.” 
+ The statement seems to be saying that, while Altice doesn’t currently do these things, it’ll keep customers updated if its blocking and throttling policies change. That said, Altice also says it’s “committed to delivering ... a superior broadband experience” and that “an open internet is critical” to providing that. It’s kind of roundabout, but it seems to indicate a general, if not all that specific, plan to stick to these policies. 
+ Altice doesn’t mention anything about zero-rating or paid prioritization, though. And while Optimum doesn’t employ data caps, Suddenlink does, which could allow Altice to consider zero-rated services. 
+ Takeaway:  Altice doesn’t currently block or throttle and suggests it will keep those policies, though without an explicit commitment. The company doesn’t comment on prioritizing one service over another. 
+ Google Fi and Google Fiber 
+ You’d think Google’s two ISPs would be among the more progressive, but they’re actually among the quietest of the group. Neither Fi nor Fiber has a particularly detailed explanation on its website, and after multiple requests for comment, we only received one brief statement from a Google Fiber spokesperson, saying “The net neutrality order doesn't change anything at Google Fiber — we don't put any limitations on how you access or use the internet aside from the terms of service.” This does not say much. 
+ On their websites, both Fi and Fiber indicate that they don’t block legal content. Fi writes that it is “committed to providing an excellent user experience that supports any lawful product, service, or application.” Fiber says it “does not prevent or impede the use of any other product or service” so long as it doesn’t violate the company’s terms of service. Fiber goes slightly further than Fi, also adding that it “does not favor or inhibit any applications or classes of applications,” aside from some basic network management. 
+ While Google’s two internet providers don’t make clear net neutrality commitments, Google is the only company on this list not opposed to net neutrality (although it didn’t feel all that strongly about Title II). On  a website  earlier this year, the company wrote that allowing companies to block, throttle, and prioritize content would “threaten the innovation that makes the internet awesome.” 
+ But none of those are commitments. And we were unable to even get a statement clarifying the existing positions at Google Fi. 
+ Takeaway:  Google doesn’t make any promises regarding throttling and paid prioritization. However, it is the only company to state that it believes paid prioritization would be harmful. 
+ 
+ 
+ 
+ 
+ 
+ 
+    In This Stream
+   
+ Net neutrality: the fight to keep the internet free 
+ 
+ 
+ Democrats push new bill to write net neutrality into law, but can it pass? 
+ 
+ 
+ ISPs won’t promise to treat all traffic equally after net neutrality 
+ 
+ 
+ Net neutrality is dead — what happens next? 
+ 
+ 
+ 
+    View all  126  stories
+   
+ 
+ 
+ 
+ 
+    Next Up In
+    
+         Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Sign up for the
+        
+          newsletter
+        
+       
+      Verge Deals
+     
+ Subscribe to get the best Verge-approved tech deals of the week. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thanks for signing up! 
+ Check your inbox for a welcome email. 
+ 
+ 
+ 
+ 
+ Email  (required) 
+ 
+ 
+ 
+ 
+ 
+ 
+        By signing up, you agree to our  Privacy Notice  and European users agree to the data transfer policy.
+        
+       
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Loading comments... 
+ 
+ 
+ 
+ 
+ 
+ 

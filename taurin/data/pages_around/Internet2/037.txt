@@ -1,0 +1,44 @@
+##LINK: https://www.inthefieldstories.net/closing-in-on-the-genetics-behind-psychiatric-diseases/
+##KEYWORDS: open Internet
+##TITLE: Closing in on the genetics behind psychiatric diseases | In The Field
+##METHOD: paragraphs
+
+
+AARNet (Australia)
+, 
+CSC (Finland)
+, 
+DeIC (Denmark)
+, 
+Internet2 (EE. UU.)
+, 
+
+
+Genomics
+, 
+Health & Medicine
+, 
+Neuroscience
+, 
+
+Crunching large datasets helps researchers pinpoint the genetic roots of autism, schizophrenia and other psychiatric illnesses. The findings inspire development of better medicine and earlier diagnosis.
+In itself it is not new knowledge, that genetic causes lie behind psychiatric illnesses. However, the specifics – which genes are related to which diseases – is the focus of the international iPSYCH project led by scientists at Aarhus University, Denmark.
+“This is the world’s largest project on the genetics behind psychiatric diseases. For some diseases, we estimate that up to 80 % of the cause lie in the genes,” says Jakob Grove, Associate Professor at the Institute for Biomedicine and Bioinformatics, Aarhus University.
+As an example, genetics is seen to play a large role in schizophrenia, he notes:
+“The drugs in use today for treating the disease were originally developed back in the 1950’s. Given that these products are not ideal – not all patients respond, and the level of side-effects is too high to ignore – it is quite disappointing that better alternatives have not been found. We hope to contribute to breaking this deadlock. We have been able to point to possible new drug targets for treatment of schizophrenia, and several companies have expressed their interest.”
+Earlier diagnosis
+Actual drug discovery is a matter for the pharmaceutical industry. Due to the high safety standards in drug development, the road from identifying a target molecule to having an actual drug will normally take a decade or more.
+Jakob Grove emphasizes, that drug development is not the main focus in iPSYCH: “In the case of schizophrenia, I think it is fair to say that a more specific and efficient medical treatment would be generally welcomed by patients and doctors alike due to the severity of the disease. However, for some other diseases, medicine it not necessarily the right way forward. An example here could be autism. But in any case, obtaining a clearer understanding of the origins of a disease is desirable. First and foremost, we hope this will contribute to earlier diagnosis, and thereby to people living better lives.”
+Partners in USA, Australia, Iceland
+The project involves genetic and health record data for more than 130,000 Danes – some with mental health issues, others without. While this may sound like a large sample size, it is actually only a part of the data.
+“This type of research requires really large samples, and therefore we have international collaborations in all sub-projects of iPSYCH,” Jakob Grove explains.
+Among the international partners are Broad Institute, MIT, Harvard, Johns Hopkins, University of California (all in USA), Queensland Brain Institute (Australia), and deCode Genetics (Iceland).
+Collaboration between the many partners is enabled by the national research and education networks (NRENs) in each country.
+Data anonymization and encryption
+When the iPSYCH project was initiated in 2012, the Genome Denmark supercomputer operated by Aarhus University in western Denmark was the obvious choice for computing. Later, the national supercomputer Computerome at the Technical University of Denmark (DTU) in eastern Denmark was established. As the project had evolved with many national and international partners, it was decided to also include the power of the Computerome, which is a collaboration between DTU, University of Copenhagen and Danish NREN DeiC.
+“The project benefits from the access to the two supercomputers, and collaboration between researchers working at either computer cluster is only possible through secure connection between them,” says Jakob Grove.
+All data in the project are anonymized – or pseudo-anonymized to use the correct technical term. As health data are sensitive, the connection between the two supercomputers is run separately from the open internet, adding an extra level of protection. Furthermore, traffic is protected by encryption via the SSH (Secure Shell) protocol.
+For more information please contact our contributor(s):
+Are you a R&E network with a story to tell? We want to hear it!
+Submit now
+© Copyright 2021 AARNET | Privacy Policy

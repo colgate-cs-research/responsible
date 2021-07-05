@@ -1,0 +1,40 @@
+##LINK: https://www.mobileuk.org/news/nhs-covid-19-app-launches-across-england-and-wales-with-mobile-industry-support
+##KEYWORDS: zero-rating
+##TITLE: NHS COVID-19 App Launches Across England And Wales with mobile industry support
+##METHOD: paragraphs
+
+Mobile UKÂ News
+September 24, 2020
+People across England and Wales are being urged to download the NHS COVID-19 app to help stop the spread of coronavirus and protect themselves and their loved ones as case numbers rise.
+The app launches today, and after positive trials and rigorous testing is effective in reducing transmission when used alongside traditional contact tracing.
+It will be available to those aged 16 and over in multiple languages. It forms a central part of the NHS Test and Trace service in England and the NHS Wales Test, Trace, Protect programme - identifying contacts of those who have tested positive for coronavirus.
+Today the UKâs major mobile network operators, including Vodafone, Three, EE and O2, Sky and Virgin, have confirmed that all in-app activity will not come out of customersâ data allowance.
+The app works by logging the amount of time you spend near other app users, and the distance between you, so it can alert you if someone you have been close to later tests positive for COVID-19 â even if you donât know each other.Â 
+The app willÂ  advise you to self-isolate if you have been in close contact with a confirmed case. It will also enable you to check symptoms, book a free test if needed and get your test results.Â 
+Health and Social Care Secretary Matt Hancock said:
+From today [Thursday 24 September] businesses are required by law to display NHS QR code posters which are compatible with the app so customers with the app can use it to check-in to venues. So far more than 90,000 businesses have already downloaded QR codes. Venues in Wales that are legally required to collect and keep a record of visitors will still need to do so.
+The NHS Test and Trace team behind the app has worked closely with major tech companies, including Google and Apple, scientists within the Alan Turing Institute and Oxford University, Zuhlke Engineering, medical experts, privacy groups, at-risk communities and teams in countries across the world using similar apps â such as Germany, to develop an app that is safe, simple and secure.Â 
+The app has been through successful trials in the Isle of Wight, Newham and among NHS Volunteer Responders and lessons learned have informed the final version that is launching today.
+Dido Harding, Executive Chair of the NHS Test and Trace Programme,said:
+The app has been designed with user privacy in mind, so it tracks the virus, not people and uses the latest in data security technology to protect privacy. The system generates a random ID for an individualâs device, which can be exchanged between devices via Bluetooth These unique random IDs regenerate frequently to add an extra layer of security and preserve anonymity.Â 
+The app does not hold personal information such as your name, address or date of birth, and only requires the first half of your postcode to ensure local outbreaks can be managed.Â 
+Simon Thompson, Managing Director of the NHS COVID-19 App, said:
+Hamish MacLeod, Director at Mobile UK, said:
+Vodafone CEO Nick Jeffrey said:
+Three CEO Robert Finnegan said:
+Marc Allera, CEO of BTâs Consumer Division, said:
+Mark Evans, CEO of Telefonica UK, said:
+Notes to editor
+For more information on the NHS COVID-19 app, visit https://covid19.nhs.uk/
+When someone reports symptoms through the app, it will detect any other app users that the person has been in close contact with over the past few days, including unknown contacts such as someone they may have sat next to on public transport. The app will be able to anonymously alert these contacts and provide advice, including how to get a test if they have symptoms.
+The mobile industry has committed to supporting the new app with the major operators Vodafone, Three, EE and O2 (including giffgaff and Tesco Mobile ), Sky and Virgin, 'zero-rating' data charges for all in-app activity. This means customers will not be charged for data when using the in-app functions, or if they are directed out of the app to information on nhs.uk websites.Â  If a customer is directed to other web pages outside of the app, this may use data from their allowance.
+Those who may not have access to the app, or the ability to use a smartphone should continue to use traditional contact tracing services provided by NHS Test and Trace or, NHS Wales Test, Trace, Protect.
+For more information on how businesses can prepare for NHS COVID-19 app please see: https://www.gov.uk/government/news/businesses-urged-to-prepare-for-nhs-covid-19-app
+â
+About Building Mobile Britain
+Building Mobile Britain is a campaign created by Mobile UK seeking to work with national and local government, as well as interested industry groups to overcome the challenges we face with expanding the existing mobile networks, while also developing innovative services for customers.
+See here for further information - or #BuildingMobileBritain
+Media Contacts
+Gareth ElliottHead of Policy and CommunicationsTel: 07887 911 076Email: press@mobileuk.org
+< View all news items
+Mobile UK 21C | Registered Office: 1 Carnegie Road, Newbury, Berkshire RG14 5DJ | Registered in England & Wales No. 09998063 | Email: info@mobileuk.orgPrivacy &Â Cookies Policy | Â© Copyright Mobile UKÂ | Site byÂ Clare Richardson Design

@@ -1,0 +1,48 @@
+##LINK: https://www.digitcom.ca/consumer-groups-urge-fcc-to-investigate-zero-rating/
+##KEYWORDS: zero-rating
+##TITLE: Consumer Groups Urge FCC to Investigate Zero-Rating - Digitcom
+##METHOD: article 1
+
+
+
+ 
+ 
+ Having recently won a  landmark victory  in upholding the Federal Communications Commission’s authority over establishing and enforcing Net Neutrality regulations, it really wouldn’t surprise me if FCC chairman Tom Wheeler was hesitant to continue pushing his luck, particularly when it comes to investigating the popular zero-rating trend. 
+ But  consumer groups continue to urge the Commission to bring the current regulations to bear  on this controversial practice,  given that it masks all of the evils Net Neutrality was designed to combat , but in an seemingly consumer-friendly package. 
+ The argument is, of course, that despite the fact that zero-rating offers certain streaming video services at no data cost, that these sorts of practices offer broadband providers a great deal of power of subscribers’ online activity, allowing them to direct users towards certain favoured services, giving carriers leave to throttle or otherwise manage data streams, and ostensibly allowing them to block (or at least render completely irrelevant) services unwilling to participate. So will an investigation finally begin? 
+ 
+ 
+ 
+ 
+ Carrier 
+ Program 
+ Exemption from Data Cap 
+ 
+ 
+ T-Mobile 
+ Binge On 
+ 
+ Video Streams offered by around 100 companies not counted towards consumer cap 
+ 
+ 
+ 
+ AT&T 
+ Sponsored Data 
+ Data use to sponsoring organizations is not counted towards consumer cap. 
+ 
+ 
+ Verizon 
+ Go90 
+ Video streams offered by Verizon’s own GO90 is not counted towards consumer cap 
+ 
+ 
+ 
+ As the table shows , with the exception of Sprint all of the top nationwide carriers offer some sort of zero-rating program, with T-Mobile leading the way with its ever-expanding Binge On service, while AT&T and Verizon offer similar, yet distinctly more in-house, services to exempt certain content from data caps. 
+ While on the face of it zero-rating seems like an amazing pro-consumer service, where subscribers get access to data gobbling video streams without it counting against their monthly allotments, consumer advocacy groups including Fight the Future and Free Press reportedly have delivered 100,000 letters to the FCC, written by consumers criticizing data caps and such exemptions. 
+ “They distort competition, thwart innovation, threaten free speech, and restrict consumer choice,”  advocates said about zero-rating services earlier this year. 
+ For its part, the FCC is not convinced. “We’re collecting information,  as I’ve been telling you for months,  we’re in ongoing discovery mode to try and have an understanding of just what is the spectrum that we’re dealing with here so that we can deal with these issues on a case by case basis,”  Wheeler said,  on a day when protesters had delivered petitions on the issue. 
+ As one of the issues that has been near and dear to my heart since I began writing here at  thetelecomblog  (and so perhaps it’s appropriate it serves as my last post), I have to say I’m interested to see where this goes. In fact, given the deviously clever nature of zero-rating—that it masks clear Net Neutrality violations in a pro-consumer service—I would argue that this might serve as the greatest test the FCC will ever face in establishing and preserving a free and open Internet. 
+ If the Commission has the stones to tackle something people like, but which is ultimately not in the public’s best interest, I think we’ll be well on our way towards true net neutrality. Unfortunately if history has shown us anything, what we’re in for is months of heel dragging followed by the inevitable knuckling under.  Where’s John Oliver when you need him? 
+ 
+ 
+ 

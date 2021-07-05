@@ -1,0 +1,30 @@
+##LINK: https://technical-news.net/deutsche-telekom-new-spotify-rules-not-in-the-interests-of-net-neutrality1613688235
+##KEYWORDS: net neutrality
+##TITLE: Deutsche Telekom: New Spotify rules not in the interests of net neutrality | Technical News | IT topics
+##METHOD: article 12
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Deutsche Telekom: New Spotify rules not in the interests of net neutrality 
+ 
+ network policy 
+ 
+ 
+  The fact that Deutsche Telekom   in the future   also wants to throttle Spotify's data traffic when the mobile phone users have used up the included volume is due to the EU regulation on   net neutrality   according to the group. But with this justification, the users would be “sold stupid”, criticizes the consumer center Saxony.     At the end of March, Telekom announced in a blog post: Even if the mobile phone users had the “music streaming” option have booked, as of April 28, Spotify's data traffic will also be throttled to a maximum of 64 kbit/s when the included volume is exhausted. This is about the technical equal treatment of data traffic, as it is required in the opinion of Telekom in the regulation.     However, there is still an exception. Because the Spotify data is still not counted towards the consumption of the data volume before the throttling. 'From our point of view, this is a permissible tariff differentiation and corresponds to the wishes of our customers,' says an update to the blog post.     Criticism: Spotify exception contradicts net neutrality     It is an argument that, in the opinion of consumer advocates, does not apply. 'If Telekom claims that changing its Spotify model would meet the new net neutrality requirement, the user is more likely to be fooled,' explains Dr. Katja Henschler from the consumer center Saxony. From an equal treatment can onlybe spoken when the Spotify streaming also affects the data volume. 'Since the included volume remains undiminished by the use of Spotify and only prevents Spotify from being throttled anyway, this has very little to do with net neutrality,' says Henschler.     Concrete specifications for zero Ratings won't come until summer     Agreements like the one from Telekom and Spotify are criticized by consumer advocates and network activists anyway. The central point of criticism of these so-called zero ratings is: If providers give large Internet providers an advantage in terms of data consumption, smaller or new services are disadvantaged because they only have more difficult access to the market.     Just like thatZero ratings will be regulated in Europe in the future, but is currently   still unclear  .   the EU regulation   will come into force on April 30th, but the corresponding requirements are only vaguely worded. So it now depends on the European regulators. They want to convert the EU regulation into a uniform directive by the summer. And then it will show whether Telekom's Spotify exception is actually legal in its current form.            
+ 
+ Read Also 
+ 
+ keyboard 
+ internet 
+ smart home 
+ auto 
+ mainboard 
+ 
+   
+ 
